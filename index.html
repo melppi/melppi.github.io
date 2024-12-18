@@ -119,7 +119,11 @@
     <script>
         $(document).ready(function () {
             $('#data-table').DataTable({
-                ajax: 'data/pae_summary.json',
+        //        ajax: 'data/pae_summary.json',
+                ajax: {
+                    url: 'data/pae_summary.json',
+                    dataSrc: '' // Adjust to 'results' if your JSON is nested
+                },
                 columns: [
                     { data: 'Protein1', title: 'Protein1' },
                     { data: 'Symbol1', title: 'Symbol1' },
