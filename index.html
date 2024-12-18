@@ -115,11 +115,11 @@
         </tbody>
     </table>
 
-    <!-- Custom JavaScript -->
+    <!--JavaScript to read the table -->
     <script>
         $(document).ready(function () {
-            // Fetch and parse the CSV file
-            Papa.parse('data/pae_summary.csv', {
+            // Fetchand parse the CSV file
+            Papa.parse('data/pae_summary.json', {
                 download: true,
                 header: true, // Assumes the first row contains column names
                 skipEmptyLines: true,
