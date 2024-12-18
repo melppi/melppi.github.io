@@ -118,48 +118,34 @@
     <!--JavaScript to read the table -->
     <script>
         $(document).ready(function () {
-            // Fetchand parse the CSV file
-            Papa.parse('data/pae_summary.json', {
-                download: true,
-                header: true, // Assumes the first row contains column names
-                skipEmptyLines: true,
-                complete: function (results) {
-                    console.log(results.data[27710]);
-                    console.log(results.data);
-                    // Initialize DataTable with parsed data
-                    $('#data-table').DataTable({
-                        data: results.data, // Parsed CSV data
-                        columns: [
-                            { data: 'Protein1', title: 'Protein1' },
-                            { data: 'Symbol1', title: 'Symbol1' },
-                            { data: 'Protein2', title: 'Protein2' },
-                            { data: 'Symbol2', title: 'Symbol2' },
-                            { data: 'iptm', title: 'IPTM' },
-                            { data: 'pae', title: 'PAE' },
-                            { data: 'pdockq', title: 'PdockQ' },
-                            { data: 'ppi', title: 'PPI' },
-                            {
-                                data: 'pair',
-                                title: 'Details',
-                                render: function (data, type, row) {
-                                    return `<a href="details.html?id=${row.pair}">View Details</a>`;
-                                
-                                }
-                            }
-                        ],
-                        pageLength: 25,
-                        lengthMenu: [10, 25, 50, 100],
-                        language: {
-                            paginate: {
-                                previous: "Previous",
-                                next: "Next"
-                            }
+            $('#data-table').DataTable({
+                ajax: 'data/pae_summary.json',
+                columns: [
+                    { data: 'Protein1', title: 'Protein1' },
+                    { data: 'Symbol1', title: 'Symbol1' },
+                    { data: 'Protein2', title: 'Protein2' },
+                    { data: 'Symbol2', title: 'Symbol2' },
+                    { data: 'iptm', title: 'IPTM' },
+                    { data: 'pae', title: 'PAE' },
+                    { data: 'pdockq', title: 'PdockQ' },
+                    { data: 'ppi', title: 'PPI' },
+                    {
+                        data: 'pair',
+                        title: 'Details',
+                        render: function (data, type, row) {
+                            return `<a href="details.html?id=${row.pair}">View Details</a>`;
+                        
                         }
-                    });
-                },
-                error: function (error) {
-                    console.error('PapaParse error:', error.message);
-                },
+                    }
+                ],
+                pageLength: 25,
+                lengthMenu: [10, 25, 50, 100],
+                language: {
+                    paginate: {
+                        previous: "Previous",
+                        next: "Next"
+                    }
+                }
             });
         });
     </script>
