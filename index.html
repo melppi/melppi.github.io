@@ -122,7 +122,10 @@
             Papa.parse('data/pae_summary.csv', {
                 download: true,
                 header: true, // Assumes the first row contains column names
+                skipEmptyLines: true,
                 complete: function (results) {
+                    console.log(results.data[27710]);
+                    console.log(results.data);
                     // Initialize DataTable with parsed data
                     $('#data-table').DataTable({
                         data: results.data, // Parsed CSV data
@@ -153,7 +156,10 @@
                             }
                         }
                     });
-                }
+                },
+                error: function (error) {
+                    console.error('PapaParse error:', error.message);
+                },
             });
         });
     </script>
