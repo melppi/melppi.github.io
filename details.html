@@ -11,6 +11,7 @@
       type="text/css"
       href="https://cdn.jsdelivr.net/npm/pdbe-molstar@3.2.0/build/pdbe-molstar-light.css"         
     /> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js"></script>
     <script
       type="text/javascript"
       src="https://cdn.jsdelivr.net/npm/pdbe-molstar@3.2.0/build/pdbe-molstar-plugin.js"
@@ -186,7 +187,7 @@
                 viewerInstance.render(viewerContainer, options);
 
                 //fetch(`http://localhost:6060/data/json/${id}.json`)
-                fetch(`./data/json/${id}.json.gz`)
+                fetch(`data/json/${id}.json.gz`)
                     .then(response => {
                         if (!response.ok) {
                             throw new Error(`HTTP error! status: ${response.status}`);
