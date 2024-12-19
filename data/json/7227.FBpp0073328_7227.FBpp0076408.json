@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 29.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0073328",
+    "proB": "FBpp0076408",
+    "geneA": "Ran",
+    "geneB": "msk",
+    "annotationA": "GTP-binding nuclear protein Ran; GTPase involved in nucleocytoplasmic transport, participating both to the import and the export from the nucleus of proteins and RNAs. Switches between a cytoplasmic GDP- and a nuclear GTP-bound state by nucleotide exchange and GTP hydrolysis. Nuclear import receptors such as importin beta bind their substrates only in the absence of GTP-bound Ran and release them upon direct interaction with GTP-bound Ran while export receptors behave in the opposite way. Thereby, RAN controls cargo loading and release by transport receptors in the proper compartment a [...] ",
+    "annotationB": "D-Importin 7/RanBP7; Ran GTPase binding; protein binding; U4 snRNA binding; protein transmembrane transporter activity; U2 snRNA binding; U1 snRNA binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

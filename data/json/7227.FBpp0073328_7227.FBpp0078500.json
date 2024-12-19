@@ -1,0 +1,398 @@
+{
+    "pae": 1.6,
+    "iptm": 83.2,
+    "pdockq": 0.692,
+    "proA": "FBpp0073328",
+    "proB": "FBpp0078500",
+    "geneA": "Ran",
+    "geneB": "Karybeta3",
+    "annotationA": "GTP-binding nuclear protein Ran; GTPase involved in nucleocytoplasmic transport, participating both to the import and the export from the nucleus of proteins and RNAs. Switches between a cytoplasmic GDP- and a nuclear GTP-bound state by nucleotide exchange and GTP hydrolysis. Nuclear import receptors such as importin beta bind their substrates only in the absence of GTP-bound Ran and release them upon direct interaction with GTP-bound Ran while export receptors behave in the opposite way. Thereby, RAN controls cargo loading and release by transport receptors in the proper compartment a [...] ",
+    "annotationB": "Karyopherin beta 3, isoform A; Protein transmembrane transporter activity. It is involved in the biological process described with: protein import into nucleus",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 12,
+            "end_residue_number": 12,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 19,
+            "end_residue_number": 20,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 43,
+            "end_residue_number": 48,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 62,
+            "end_residue_number": 64,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 70,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 114,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 123,
+            "end_residue_number": 132,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 137,
+            "end_residue_number": 148,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 152,
+            "end_residue_number": 159,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 163,
+            "end_residue_number": 163,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 167,
+            "end_residue_number": 167,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 199,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 15,
+            "end_residue_number": 31,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 54,
+            "end_residue_number": 65,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 69,
+            "end_residue_number": 69,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 100,
+            "end_residue_number": 108,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 150,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 232,
+            "end_residue_number": 245,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 272,
+            "end_residue_number": 281,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 285,
+            "end_residue_number": 285,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 328,
+            "end_residue_number": 346,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 465,
+            "end_residue_number": 465,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 552,
+            "end_residue_number": 557,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 598,
+            "end_residue_number": 604,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 640,
+            "end_residue_number": 644,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 670,
+            "end_residue_number": 680,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 716,
+            "end_residue_number": 718,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "12-12",
+        "19-20",
+        "43-48",
+        "62-64",
+        "70-82",
+        "91-114",
+        "123-132",
+        "137-148",
+        "152-159",
+        "163-163",
+        "167-167",
+        "199-199"
+    ],
+    "interfaceB": [
+        "15-31",
+        "54-65",
+        "69-69",
+        "100-108",
+        "150-150",
+        "232-245",
+        "272-281",
+        "285-285",
+        "328-346",
+        "465-465",
+        "552-557",
+        "598-604",
+        "640-644",
+        "670-680",
+        "716-718"
+    ]
+}

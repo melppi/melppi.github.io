@@ -1,0 +1,160 @@
+{
+    "pae": 9.0,
+    "iptm": 44.9,
+    "pdockq": 0.196,
+    "proA": "FBpp0079171",
+    "proB": "FBpp0082880",
+    "geneA": "Spn28Dc",
+    "geneB": "CG5863",
+    "annotationA": "Serine protease inhibitor 28Dc; Serine protease inhibitor which is required for pupal viability and plays an essential role in regulating the melanization reaction. Inhibits spontaneous melanization and appears to be involved in the melanization immune response to physical wounding in larvae and adults. Acts by negatively regulating the Hayan-phenoloxidase (PPO1) cascade in the hemolymph and possibly the trachea. May function by controlling the initial release of the activated form of PPO1, phenoloxidase (PO) and thus maintains PO availability for processes such as wound response and p [...] ",
+    "annotationB": "CG5863; Aspartic-type endopeptidase activity. It is involved in the biological process described with: proteolysis; Belongs to the peptidase A1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 20,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 332,
+            "end_residue_number": 332,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 394,
+            "end_residue_number": 394,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 499,
+            "end_residue_number": 500,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 144,
+            "end_residue_number": 146,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 270,
+            "end_residue_number": 276,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 286,
+            "end_residue_number": 286,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 293,
+            "end_residue_number": 314,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 323,
+            "end_residue_number": 325,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 362,
+            "end_residue_number": 364,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "20-41",
+        "332-332",
+        "394-394",
+        "499-500"
+    ],
+    "interfaceB": [
+        "144-146",
+        "270-276",
+        "286-286",
+        "293-314",
+        "323-325",
+        "362-364"
+    ]
+}

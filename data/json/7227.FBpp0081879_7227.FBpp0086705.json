@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 12.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0081879",
+    "proB": "FBpp0086705",
+    "geneA": "RpL24-like",
+    "geneB": "Tango7",
+    "annotationA": "Probable ribosome biogenesis protein RLP24; Involved in the biogenesis of the 60S ribosomal subunit. Ensures the docking of NOG1 to pre-60S particles (By similarity)",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit M; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation (Potential)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

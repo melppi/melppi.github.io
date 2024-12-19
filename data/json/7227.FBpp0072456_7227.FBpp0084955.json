@@ -1,0 +1,16 @@
+{
+    "pae": 17.4,
+    "iptm": 26.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0072456",
+    "proB": "FBpp0084955",
+    "geneA": "Rev1",
+    "geneB": "spn-A",
+    "annotationA": "DNA repair protein REV1; Deoxycytidyl transferase involved in DNA repair. Transfers a dCMP residue from dCTP to the 3'-end of a DNA primer in a template-dependent reaction. May assist in the first step in the bypass of abasic lesions by the insertion of a nucleotide opposite the lesion. Required for normal induction of mutations by physical and chemical agents",
+    "annotationB": "DNA repair protein Rad51 homolog; Spindle A forms a filament on single-stranded DNA, does a homology search of double-stranded DNA, and catalyzes strand exchange, swapping the single-strand DNA in and displacing the partner of the complementary strand",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

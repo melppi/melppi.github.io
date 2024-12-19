@@ -1,0 +1,146 @@
+{
+    "pae": 4.5,
+    "iptm": 54.7,
+    "pdockq": 0.455,
+    "proA": "FBpp0305289",
+    "proB": "FBpp0305723",
+    "geneA": "NHP2",
+    "geneB": "CG17652",
+    "annotationA": "H/ACA ribonucleoprotein complex subunit 2-like protein; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "annotationB": "Uncharacterized protein, isoform A; It is involved in the biological process described with: phagocytosis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 27,
+            "end_residue_number": 28,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 32,
+            "end_residue_number": 42,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 107,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 114,
+            "end_residue_number": 114,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 160,
+            "end_residue_number": 160,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 4,
+            "end_residue_number": 19,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 146,
+            "end_residue_number": 147,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 152,
+            "end_residue_number": 170,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 174,
+            "end_residue_number": 174,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "27-28",
+        "32-42",
+        "91-107",
+        "114-114",
+        "160-160"
+    ],
+    "interfaceB": [
+        "4-19",
+        "146-147",
+        "152-170",
+        "174-174"
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "pae": 14.8,
+    "iptm": 28.5,
+    "pdockq": 0.401,
+    "proA": "FBpp0078847",
+    "proB": "FBpp0297500",
+    "geneA": "ND-51",
+    "geneB": "ND-15",
+    "annotationA": "NADH dehydrogenase (ubiquinone) 51 kDa subunit is a flavoprotein and iron-sulfur-containing oxidoreductase that catalyzes the oxidation of NADH to NAD. It is a component of the mitochondrial electron transport complex I, which is part of the oxidative phosphorylation pathway. It may have a role in regulating aggression behavior",
+    "annotationB": "NADH dehydrogenase (Ubiquinone) 15 kDa subunit, isoform A; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 101,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 113,
+            "end_residue_number": 116,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 131,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 222,
+            "end_residue_number": 225,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 241,
+            "end_residue_number": 245,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 259,
+            "end_residue_number": 259,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 289,
+            "end_residue_number": 289,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 338,
+            "end_residue_number": 340,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 354,
+            "end_residue_number": 366,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 432,
+            "end_residue_number": 444,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 448,
+            "end_residue_number": 448,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 16,
+            "end_residue_number": 26,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 31,
+            "end_residue_number": 35,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 57,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "101-109",
+        "113-116",
+        "131-131",
+        "222-225",
+        "241-245",
+        "259-259",
+        "289-289",
+        "338-340",
+        "354-366",
+        "432-444",
+        "448-448"
+    ],
+    "interfaceB": [
+        "16-26",
+        "31-35",
+        "57-63"
+    ]
+}

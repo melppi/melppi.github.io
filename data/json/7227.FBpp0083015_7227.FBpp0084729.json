@@ -1,0 +1,188 @@
+{
+    "pae": 1.9,
+    "iptm": 74.8,
+    "pdockq": 0.614,
+    "proA": "FBpp0083015",
+    "proB": "FBpp0084729",
+    "geneA": "CG18600",
+    "geneB": "CG11837",
+    "annotationA": "LD14127p; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription, DNA-templated",
+    "annotationB": "Probable dimethyladenosine transferase; Specifically dimethylates two adjacent adenosines in the loop of a conserved hairpin near the 3'-end of 18S rRNA in the 40S particle",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 26,
+            "end_residue_number": 29,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 56,
+            "end_residue_number": 58,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 135,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 106,
+            "end_residue_number": 111,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 125,
+            "end_residue_number": 138,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 159,
+            "end_residue_number": 159,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 167,
+            "end_residue_number": 167,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 171,
+            "end_residue_number": 177,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 205,
+            "end_residue_number": 221,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 255,
+            "end_residue_number": 255,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 287,
+            "end_residue_number": 300,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 304,
+            "end_residue_number": 306,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "26-29",
+        "56-58",
+        "91-135"
+    ],
+    "interfaceB": [
+        "106-111",
+        "125-138",
+        "159-159",
+        "167-167",
+        "171-177",
+        "205-221",
+        "255-255",
+        "287-300",
+        "304-306"
+    ]
+}

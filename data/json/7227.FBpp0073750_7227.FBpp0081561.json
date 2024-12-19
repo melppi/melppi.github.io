@@ -1,0 +1,104 @@
+{
+    "pae": 8.2,
+    "iptm": 38.0,
+    "pdockq": 0.259,
+    "proA": "FBpp0073750",
+    "proB": "FBpp0081561",
+    "geneA": "nmdyn-D6",
+    "geneB": "nmdyn-D7",
+    "annotationA": "ATP binding; nucleoside diphosphate kinase activity. It is involved in the biological process described with: nucleoside diphosphate phosphorylation; CTP biosynthetic process; UTP biosynthetic process; GTP biosynthetic process",
+    "annotationB": "FI21821p1; ATP binding; nucleoside diphosphate kinase activity. It is involved in the biological process described with: nucleoside diphosphate phosphorylation; CTP biosynthetic process; UTP biosynthetic process; GTP biosynthetic process; Belongs to the NDK family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 54,
+            "end_residue_number": 60,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 92,
+            "end_residue_number": 94,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 109,
+            "end_residue_number": 114,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 287,
+            "end_residue_number": 299,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 374,
+            "end_residue_number": 381,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 385,
+            "end_residue_number": 385,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "54-60",
+        "92-94",
+        "109-114"
+    ],
+    "interfaceB": [
+        "287-299",
+        "374-381",
+        "385-385"
+    ]
+}

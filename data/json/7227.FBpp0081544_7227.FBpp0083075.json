@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 13.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0081544",
+    "proB": "FBpp0083075",
+    "geneA": "RnpS1",
+    "geneB": "CstF-64",
+    "annotationA": "RNA-binding protein S1; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",
+    "annotationB": "Cleavage stimulation factor 64 kilodalton subunit; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: mRNA cleavage; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

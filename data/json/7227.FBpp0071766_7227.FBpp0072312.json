@@ -1,0 +1,76 @@
+{
+    "pae": 5.1,
+    "iptm": 58.4,
+    "pdockq": 0.392,
+    "proA": "FBpp0071766",
+    "proB": "FBpp0072312",
+    "geneA": "RpS16",
+    "geneB": "RpL19",
+    "annotationA": "40S ribosomal protein S16; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the universal ribosomal protein uS9 family",
+    "annotationB": "60S ribosomal protein L19; Structural constituent of ribosome. It is involved in the biological process described with: centrosome duplication; mitotic spindle elongation; translation; Belongs to the eukaryotic ribosomal protein eL19 family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 47,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 109,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 113,
+            "end_residue_number": 117,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 141,
+            "end_residue_number": 166,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "47-63",
+        "109-109",
+        "113-117"
+    ],
+    "interfaceB": [
+        "141-166"
+    ]
+}

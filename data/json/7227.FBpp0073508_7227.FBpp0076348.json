@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 17.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0073508",
+    "proB": "FBpp0076348",
+    "geneA": "CG2540",
+    "geneB": "GstO3",
+    "annotationA": "Gamma-glutamylcyclotransferase; Catalyzes the cleavage of glutathione into 5-oxo-L- proline and a Cys-Gly dipeptide. Acts specifically on glutathione, but not on other gamma-glutamyl peptides",
+    "annotationB": "Glutathione S-transferase omega class; Transferase activity, transferring sulfur-containing groups; glutathione dehydrogenase (ascorbate) activity; glutathione transferase activity. It is involved in the biological process described with: glutathione metabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

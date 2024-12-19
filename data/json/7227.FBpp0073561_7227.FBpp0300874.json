@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 14.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0073561",
+    "proB": "FBpp0300874",
+    "geneA": "REG",
+    "geneB": "Roc1a",
+    "annotationA": "Proteasome regulator dREG; Endopeptidase activator activity; endopeptidase inhibitor activity. It is involved in the biological process described with: mRNA splicing, via spliceosome; regulation of proteasomal protein catabolic process; regulation of G1/S transition of mitotic cell cycle",
+    "annotationB": "Regulator of cullins 1a (Roc1a) is a C2H2 type zinc finger protein and component of several Cullin-Ring E3 ubiquitin ligase complexes. Roc1a binds directly to the Cullin subunit within the CRL complex and functions to recruit ubiquitin-charged E2 proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

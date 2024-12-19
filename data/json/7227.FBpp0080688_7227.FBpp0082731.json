@@ -1,0 +1,132 @@
+{
+    "pae": 1.4,
+    "iptm": 81.6,
+    "pdockq": 0.375,
+    "proA": "FBpp0080688",
+    "proB": "FBpp0082731",
+    "geneA": "Acn",
+    "geneB": "Bin1",
+    "annotationA": "Acinus, isoform A; Protein binding; nucleotide binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; regulation of autophagy; apoptotic process; protein targeting to lysosome",
+    "annotationB": "Histone deacetylase complex subunit SAP18; Involved in the tethering of the SIN3 complex to core histone proteins. Interacts with bicoid (bcd) to repress transcription of bicoid target genes in the anterior tip of the embryo; a process known as retraction. Interacts with Trl and binds to Polycomb response elements at the bithorax complex. May contribute to the regulation of other homeotic gene expressions",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 322,
+            "end_residue_number": 325,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 329,
+            "end_residue_number": 329,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 655,
+            "end_residue_number": 663,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 668,
+            "end_residue_number": 673,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 19,
+            "end_residue_number": 29,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 52,
+            "end_residue_number": 58,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 69,
+            "end_residue_number": 69,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 73,
+            "end_residue_number": 73,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "322-325",
+        "329-329",
+        "655-663",
+        "668-673"
+    ],
+    "interfaceB": [
+        "19-29",
+        "52-58",
+        "69-69",
+        "73-73"
+    ]
+}

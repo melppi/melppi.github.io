@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 21.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070802",
+    "proB": "FBpp0081580",
+    "geneA": "MAPk-Ak2",
+    "geneB": "Scm",
+    "annotationA": "MAP kinase-activated protein kinase 2; Its physiological substrate seems to be the small heat shock protein (HSP27/HSP25)",
+    "annotationB": "Polycomb protein Scm; Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility; Belongs to the SCM family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

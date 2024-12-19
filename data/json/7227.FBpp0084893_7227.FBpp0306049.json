@@ -1,0 +1,16 @@
+{
+    "pae": 26.0,
+    "iptm": 12.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0084893",
+    "proB": "FBpp0306049",
+    "geneA": "dgt1",
+    "geneB": "MRG15",
+    "annotationA": "Dim gamma-tubulin 1, isoform A; It is involved in the biological process described with: mitotic G2 DNA damage checkpoint; neurogenesis",
+    "annotationB": "NuA4 complex subunit EAF3 homolog; Part of the Tip60 chromatin-remodeling complex which is involved in DNA repair. Upon induction of DNA double-strand breaks, this complex acetylates phosphorylated H2AV in nucleosomes and exchanges it with unmodified H2AV",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

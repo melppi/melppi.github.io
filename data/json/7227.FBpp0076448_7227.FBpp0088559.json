@@ -1,0 +1,118 @@
+{
+    "pae": 2.1,
+    "iptm": 47.7,
+    "pdockq": 0.356,
+    "proA": "FBpp0076448",
+    "proB": "FBpp0088559",
+    "geneA": "ERR",
+    "geneB": "Sdic1",
+    "annotationA": "Estrogen-related receptor directly induces a transcriptional switch in mid-embryogenesis, up-regulating the genes that act in biosynthetic pathways associated with aerobic glycolysis. This nuclear receptor establishes the metabolic state that supports growth during larval stages",
+    "annotationB": "Sperm-specific dynein intermediate chain 1, isoform A; Microtubule motor activity. It is involved in the biological process described with: microtubule-based movement",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 243,
+            "end_residue_number": 244,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 314,
+            "end_residue_number": 322,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 326,
+            "end_residue_number": 326,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 331,
+            "end_residue_number": 339,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 485,
+            "end_residue_number": 492,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 20,
+            "end_residue_number": 21,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "243-244",
+        "314-322",
+        "326-326",
+        "331-339",
+        "485-492"
+    ],
+    "interfaceB": [
+        "1-16",
+        "20-21"
+    ]
+}

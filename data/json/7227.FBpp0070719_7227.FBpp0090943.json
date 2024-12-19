@@ -1,0 +1,146 @@
+{
+    "pae": 5.2,
+    "iptm": 47.0,
+    "pdockq": 0.306,
+    "proA": "FBpp0070719",
+    "proB": "FBpp0090943",
+    "geneA": "Sas10",
+    "geneB": "U3-55K",
+    "annotationA": "Something about silencing protein 10; Essential for gene silencing: has a role in the structure of silenced chromatin. May be involved in gene regulation during development. Binds RNA; Belongs to the SAS10 family",
+    "annotationB": "U3 small nuclear riboprotein factor 55K; mRNA binding; U3 snoRNA binding. It is involved in the biological process described with: rRNA processing; neurogenesis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 95,
+            "end_residue_number": 108,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 216,
+            "end_residue_number": 222,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 282,
+            "end_residue_number": 289,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 296,
+            "end_residue_number": 301,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 3,
+            "end_residue_number": 7,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 309,
+            "end_residue_number": 311,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 324,
+            "end_residue_number": 336,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 347,
+            "end_residue_number": 351,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 366,
+            "end_residue_number": 371,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "95-108",
+        "216-222",
+        "282-289",
+        "296-301"
+    ],
+    "interfaceB": [
+        "3-7",
+        "309-311",
+        "324-336",
+        "347-351",
+        "366-371"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 19.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0077899",
+    "proB": "FBpp0079648",
+    "geneA": "S(faf)240",
+    "geneB": "RnrL",
+    "annotationA": "DNA primase large subunit; DNA primase is the polymerase that synthesizes small RNA primers for the Okazaki fragments made during discontinuous DNA replication. Plays a role in the fat facets (faf)-dependent cell- communications pathway; Belongs to the eukaryotic-type primase large subunit family",
+    "annotationB": "Ribonucleoside-diphosphate reductase large subunit; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,76 @@
+{
+    "pae": 2.7,
+    "iptm": 61.7,
+    "pdockq": 0.24,
+    "proA": "FBpp0087115",
+    "proB": "FBpp0300652",
+    "geneA": "RpS11",
+    "geneB": "RpL15",
+    "annotationA": "40S ribosomal protein S11; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; neurogenesis; Belongs to the universal ribosomal protein uS17 family",
+    "annotationB": "60S ribosomal protein L15; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eL15 family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 67,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 87,
+            "end_residue_number": 92,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 100,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 195,
+            "end_residue_number": 204,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "67-70",
+        "87-92",
+        "100-106"
+    ],
+    "interfaceB": [
+        "195-204"
+    ]
+}

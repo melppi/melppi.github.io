@@ -1,0 +1,160 @@
+{
+    "pae": 8.5,
+    "iptm": 31.9,
+    "pdockq": 0.122,
+    "proA": "FBpp0080441",
+    "proB": "FBpp0080860",
+    "geneA": "grp",
+    "geneB": "lok",
+    "annotationA": "Serine/threonine-protein kinase grp; Serine/threonine-protein kinase which is required for checkpoint-mediated cell cycle arrest and activation of DNA repair in response to the presence of DNA damage or unreplicated DNA. May also negatively regulate cell cycle progression during unperturbed cell cycles. May phosphorylate the CDC25 phosphatase stg, which promotes its degradation. This results in increased inhibitory tyrosine phosphorylation of Cdk1-cyclin complexes and consequent inhibition of cell cycle progression",
+    "annotationB": "Ovarian-specific serine/threonine-protein kinase Lok; May have a role in germline establishment; Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CDS1 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 18,
+            "end_residue_number": 22,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 39,
+            "end_residue_number": 50,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 82,
+            "end_residue_number": 88,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 94,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 330,
+            "end_residue_number": 332,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 241,
+            "end_residue_number": 241,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 257,
+            "end_residue_number": 257,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 264,
+            "end_residue_number": 267,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 307,
+            "end_residue_number": 307,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 332,
+            "end_residue_number": 343,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "18-22",
+        "39-50",
+        "82-88",
+        "94-97",
+        "330-332"
+    ],
+    "interfaceB": [
+        "241-241",
+        "257-257",
+        "264-267",
+        "307-307",
+        "332-343"
+    ]
+}

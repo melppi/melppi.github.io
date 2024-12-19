@@ -1,0 +1,16 @@
+{
+    "pae": 23.6,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081807",
+    "proB": "FBpp0305507",
+    "geneA": "Adk3",
+    "geneB": "dnc",
+    "annotationA": "GTP:AMP phosphotransferase, mitochondrial; Involved in maintaining the homeostasis of cellular nucleotides by catalyzing the interconversion of nucleoside phosphates. Has GTP:AMP phosphotransferase and ITP:AMP phosphotransferase activities",
+    "annotationB": "cAMP-specific 3',5'-cyclic phosphodiesterase, isoform I; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes (By similarity). Vital for female fertility. Required for learning/memory; Belongs to the cyclic nucleotide phosphodiesterase family. PDE4 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

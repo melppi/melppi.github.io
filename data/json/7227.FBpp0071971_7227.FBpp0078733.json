@@ -1,0 +1,76 @@
+{
+    "pae": 13.7,
+    "iptm": 28.8,
+    "pdockq": 0.035,
+    "proA": "FBpp0071971",
+    "proB": "FBpp0078733",
+    "geneA": "Dcp-1",
+    "geneB": "Lam",
+    "annotationA": "Caspase-1; Involved in the activation cascade of caspases responsible for apoptosis execution (By similarity). Proteolytically cleaves poly(ADP-ribose) polymerase (PARP). Loss of zygotic DCP-1 function causes larval lethality and melanotic tumors",
+    "annotationB": "Lamin Dm0; Lamins are components of the nuclear lamina, a fibrous layer on the nucleoplasmic side of the inner nuclear membrane, which is thought to provide a framework for the nuclear envelope and may also interact with chromatin. May have a role in the localization of the LEM domain proteins Ote, bocks and MAN1 to the nuclear membrane. In spermatocytes, plays a role in maintaining type-A lamin LamC nuclear localization; regulates meiotic cytokinesis by maintaining the structure of the spindle envelope, and by contributing to the formation of the contractile ring and central spindle",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 97,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 201,
+            "end_residue_number": 201,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 243,
+            "end_residue_number": 246,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 620,
+            "end_residue_number": 622,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "97-97",
+        "201-201",
+        "243-246"
+    ],
+    "interfaceB": [
+        "620-622"
+    ]
+}

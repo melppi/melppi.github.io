@@ -1,0 +1,146 @@
+{
+    "pae": 1.8,
+    "iptm": 69.6,
+    "pdockq": 0.539,
+    "proA": "FBpp0082984",
+    "proB": "FBpp0087045",
+    "geneA": "Non3",
+    "geneB": "CG8545",
+    "annotationA": "Ribosome production factor 2 homolog; Required for normal assembly of the mitotic spindle. May be involved in both centrosome-dependent and centrosome- independent spindle assembly programs",
+    "annotationB": "LD11307p; RNA binding; S-adenosylmethionine-dependent methyltransferase activity. It is involved in the biological process described with: rRNA processing; Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB/NOP family",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 71,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 96,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 111,
+            "end_residue_number": 114,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 119,
+            "end_residue_number": 121,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 152,
+            "end_residue_number": 154,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 191,
+            "end_residue_number": 191,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 224,
+            "end_residue_number": 235,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 697,
+            "end_residue_number": 699,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 707,
+            "end_residue_number": 729,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "71-78",
+        "96-99",
+        "111-114",
+        "119-121",
+        "152-154",
+        "191-191",
+        "224-235"
+    ],
+    "interfaceB": [
+        "697-699",
+        "707-729"
+    ]
+}

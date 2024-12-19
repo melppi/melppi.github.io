@@ -1,0 +1,104 @@
+{
+    "pae": 12.0,
+    "iptm": 23.2,
+    "pdockq": 0.197,
+    "proA": "FBpp0086701",
+    "proB": "FBpp0111290",
+    "geneA": "RpS23",
+    "geneB": "RpS28-like",
+    "annotationA": "40S ribosomal protein S23; Structural constituent of ribosome. It is involved in the biological process described with: centrosome organization; translation; centrosome duplication",
+    "annotationB": "Ribosomal protein S28-like; Structural constituent of ribosome. It is involved in the biological process described with: translation; cytoplasmic translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 59,
+            "end_residue_number": 68,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 84,
+            "end_residue_number": 89,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 114,
+            "end_residue_number": 114,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 8,
+            "end_residue_number": 8,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 23,
+            "end_residue_number": 24,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 42,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "59-68",
+        "84-89",
+        "114-114"
+    ],
+    "interfaceB": [
+        "8-8",
+        "23-24",
+        "42-55"
+    ]
+}

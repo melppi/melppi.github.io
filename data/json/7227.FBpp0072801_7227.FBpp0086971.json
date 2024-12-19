@@ -1,0 +1,16 @@
+{
+    "pae": 24.0,
+    "iptm": 10.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0072801",
+    "proB": "FBpp0086971",
+    "geneA": "RpL8",
+    "geneB": "Nacalpha",
+    "annotationA": "60S ribosomal protein L8; Structural constituent of ribosome. It is involved in the biological process described with: regulation of cell size; insulin receptor signaling pathway; mitotic spindle elongation; translation; compound eye development; centrosome duplication; mitotic spindle organization",
+    "annotationB": "Nascent polypeptide-associated complex subunit alpha; May promote appropriate targeting of ribosome-nascent polypeptide complexes (By similarity). Required for correct localization of the osk/oskar protein to the posterior pole during embryonic development. The osk protein directs the recruitment of molecules responsible for posterior body patterning and germline formation in the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

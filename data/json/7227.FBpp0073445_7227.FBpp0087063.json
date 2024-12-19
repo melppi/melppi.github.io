@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 20.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073445",
+    "proB": "FBpp0087063",
+    "geneA": "Hsc70-3",
+    "geneB": "Nup54",
+    "annotationA": "Heat shock 70 kDa protein cognate 3; Probably plays a role in facilitating the assembly of multimeric protein complexes inside the ER",
+    "annotationB": "Probable nucleoporin Nup54; Probable component of the nuclear pore complex, a complex required for the trafficking across the nuclear membrane (By similarity). May have a role in the organization of the inner nuclear membrane proteins at the nuclear envelope together with Nup154; Belongs to the NUP54 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

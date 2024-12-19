@@ -1,0 +1,104 @@
+{
+    "pae": 12.2,
+    "iptm": 17.9,
+    "pdockq": 0.311,
+    "proA": "FBpp0071405",
+    "proB": "FBpp0086388",
+    "geneA": "CG15306",
+    "geneB": "CG10734",
+    "annotationA": "Uncharacterized protein, isoform A; Microtubule binding. It is involved in the biological process described with: positive regulation of JAK-STAT cascade",
+    "annotationB": "annotation not available",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 211,
+            "end_residue_number": 223,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 228,
+            "end_residue_number": 274,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 278,
+            "end_residue_number": 293,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 298,
+            "end_residue_number": 298,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 302,
+            "end_residue_number": 302,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 8,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "211-223",
+        "228-274",
+        "278-293",
+        "298-298",
+        "302-302"
+    ],
+    "interfaceB": [
+        "1-8"
+    ]
+}

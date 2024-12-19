@@ -1,0 +1,62 @@
+{
+    "pae": 11.2,
+    "iptm": 31.6,
+    "pdockq": 0.058,
+    "proA": "FBpp0078662",
+    "proB": "FBpp0086012",
+    "geneA": "ND-13A",
+    "geneB": "ND-51L1",
+    "annotationA": "NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial; Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone",
+    "annotationB": "NADH dehydrogenase (Ubiquinone) 51 kDa subunit-like 1; NADH dehydrogenase (ubiquinone) activity; 4 iron, 4 sulfur cluster binding; FMN binding; NAD binding. It is involved in the biological process described with: oxidation-reduction process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 95,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 112,
+            "end_residue_number": 113,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 606,
+            "end_residue_number": 610,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "95-99",
+        "112-113"
+    ],
+    "interfaceB": [
+        "606-610"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 16.2,
+    "iptm": 18.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070242",
+    "proB": "FBpp0112403",
+    "geneA": "eIF4E-7",
+    "geneB": "eIF-4B",
+    "annotationA": "Protein binding; RNA 7-methylguanosine cap binding; eukaryotic initiation factor 4G binding; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation",
+    "annotationB": "mRNA binding; translation initiation factor activity; nucleotide binding. It is involved in the biological process described with: translational initiation; positive regulation of JAK-STAT cascade; cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

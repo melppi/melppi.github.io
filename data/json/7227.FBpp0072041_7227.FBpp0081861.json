@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 23.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0072041",
+    "proB": "FBpp0081861",
+    "geneA": "DNA-ligI",
+    "geneB": "Irbp",
+    "annotationA": "DNA ligase 1; DNA ligase that seals nicks in double-stranded DNA during DNA replication, DNA recombination and DNA repair",
+    "annotationB": "ATP-dependent DNA helicase 2 subunit 1; Single-stranded DNA-dependent ATP-dependent helicase. Involved in non-homologous end joining (NHEJ) DNA double strand break repair (By similarity). Sequence-specific DNA-binding protein that has a high affinity for a 31 bp sequence in the Yp1 gene. Site-specific DNA binding to 31 bp P element inverted repeats",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 28.2,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073502",
+    "proB": "FBpp0084786",
+    "geneA": "Rab40",
+    "geneB": "Cul5",
+    "annotationA": "Rab40, isoform B; GTPase activity; GTP binding. It is involved in the biological process described with: vesicle-mediated transport; regulation of cell shape; Rab protein signal transduction; protein transport",
+    "annotationB": "FI20194p1; Cullin 5 (Cul5) is expressed in both neuronal and non-neuronal cells (such as in fusion sites of embryonic trachea). Reduction of Cul5 protein in neuronal cells results in an increase in number of synaptic boutons in the larval neuromuscular junction",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

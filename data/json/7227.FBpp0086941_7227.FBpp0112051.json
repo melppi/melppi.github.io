@@ -1,0 +1,16 @@
+{
+    "pae": 21.3,
+    "iptm": 18.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0086941",
+    "proB": "FBpp0112051",
+    "geneA": "Amph",
+    "geneB": "Cip4",
+    "annotationA": "Amphiphysin, isoform A; Phospholipid binding. It is involved in the biological process described with: exocytosis; protein localization; rhabdomere development; synaptic vesicle endocytosis; endocytosis; neurotransmitter secretion; rhabdomere membrane biogenesis; regulation of muscle contraction",
+    "annotationB": "Cdc42-interacting protein 4, isoform B; Phospholipid binding; protein binding; Rho GTPase binding; GTPase activating protein binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

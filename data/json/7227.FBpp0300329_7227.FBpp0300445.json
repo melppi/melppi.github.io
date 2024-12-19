@@ -1,0 +1,16 @@
+{
+    "pae": 23.0,
+    "iptm": 18.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0300329",
+    "proB": "FBpp0300445",
+    "geneA": "Adar",
+    "geneB": "Fmr1",
+    "annotationA": "Double-stranded RNA-specific editase Adar; Has A-to-I RNA editing activity on extended dsRNA: edits RNA-binding protein Rnp4F. A-to-I editing of pre-mRNAs acts predominantly through nervous system targets to affect adult nervous system integrity, function and behavior. Essential for adaptation to environmental stresses, such as oxygen deprivation, and for the prevention of premature neuronal degeneration, through the editing of ion channels as targets",
+    "annotationB": "Synaptic functional regulator FMR1; Polyribosome-associated RNA-binding protein that plays a role in neuronal development and synaptic plasticity through the regulation of protein synthesis of mRNAs. Plays a role as a negative translational regulator of specific mRNAs. Represses translation of the microtubule-associated protein futsch mRNA to regulate microtubule-dependent synaptic growth and function. May also be involved in microRNA (miRNA)-mediated translational suppression. Required for stability of the central pair of microtubules in the spermatid axoneme. Regulates photoreceptor  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

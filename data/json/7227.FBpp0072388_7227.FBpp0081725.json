@@ -1,0 +1,90 @@
+{
+    "pae": 13.0,
+    "iptm": 42.7,
+    "pdockq": 0.031,
+    "proA": "FBpp0072388",
+    "proB": "FBpp0081725",
+    "geneA": "CG16940",
+    "geneB": "Rrp46",
+    "annotationA": "Uncharacterized protein, isoform C; Exoribonuclease II activity; Belongs to the RNR ribonuclease family",
+    "annotationB": "FI06805p; 3'-5'-exoribonuclease activity. It is involved in the biological process described with: regulation of gene expression; mRNA processing",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 178,
+            "end_residue_number": 178,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 182,
+            "end_residue_number": 186,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 32,
+            "end_residue_number": 34,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 41,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 109,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "178-178",
+        "182-186"
+    ],
+    "interfaceB": [
+        "32-34",
+        "41-41",
+        "109-109"
+    ]
+}

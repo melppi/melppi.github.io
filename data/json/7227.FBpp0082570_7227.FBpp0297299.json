@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 21.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0082570",
+    "proB": "FBpp0297299",
+    "geneA": "Trs33",
+    "geneB": "Gdi",
+    "annotationA": "TRAPP subunit 33; It is involved in the biological process described with: vesicle-mediated transport; ER to Golgi vesicle-mediated transport",
+    "annotationB": "Rab GDP dissociation inhibitor; Regulates the GDP/GTP exchange reaction of most RAB proteins by inhibiting the dissociation of GDP from them, and the subsequent binding of GTP",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

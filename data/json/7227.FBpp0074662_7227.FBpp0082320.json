@@ -1,0 +1,16 @@
+{
+    "pae": 21.5,
+    "iptm": 19.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0074662",
+    "proB": "FBpp0082320",
+    "geneA": "Rpn1",
+    "geneB": "sqd",
+    "annotationA": "26S proteasome regulatory complex subunit p97; Enzyme regulator activity; endopeptidase activity. It is involved in the biological process described with: proteolysis; cell proliferation; mitotic spindle elongation; proteasome-mediated ubiquitin-dependent protein catabolic process; regulation of protein catabolic process; mitotic spindle organization",
+    "annotationB": "RNA-binding protein squid; This protein is a component of ribonucleosomes. Could be needed to organize a concentration gradient of a dorsalizing morphogen (Dm) originating in the germinal vesicle. At least one of the isoforms is essential in somatic tissues",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

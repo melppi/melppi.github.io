@@ -1,0 +1,48 @@
+{
+    "pae": 5.6,
+    "iptm": 30.0,
+    "pdockq": 0.102,
+    "proA": "FBpp0079542",
+    "proB": "FBpp0300652",
+    "geneA": "eEF1delta",
+    "geneB": "RpL15",
+    "annotationA": "Probable elongation factor 1-delta; EF-1-beta and EF-1-delta stimulate the exchange of GDP bound to EF-1-alpha to GTP",
+    "annotationB": "60S ribosomal protein L15; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eL15 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 5,
+            "end_residue_number": 24,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 198,
+            "end_residue_number": 204,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "5-24"
+    ],
+    "interfaceB": [
+        "198-204"
+    ]
+}

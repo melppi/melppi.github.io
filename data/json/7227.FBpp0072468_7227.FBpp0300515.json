@@ -1,0 +1,160 @@
+{
+    "pae": 3.6,
+    "iptm": 30.3,
+    "pdockq": 0.499,
+    "proA": "FBpp0072468",
+    "proB": "FBpp0300515",
+    "geneA": "Cdc5",
+    "geneB": "B52",
+    "annotationA": "Cell division cycle 5, isoform A; DNA binding; chromatin binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; centrosome duplication",
+    "annotationB": "Serine-arginine protein 55; Essential for development. May have a critical role in splicing or in controlling alternative splice site use of at least some pre-mRNA in vivo. Not required for all splicing. May play a general role in the condensation or decondensation of chromatin",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 12,
+            "end_residue_number": 20,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 49,
+            "end_residue_number": 49,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 53,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 59,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 135,
+            "end_residue_number": 144,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 114,
+            "end_residue_number": 117,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 127,
+            "end_residue_number": 141,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 148,
+            "end_residue_number": 157,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 181,
+            "end_residue_number": 184,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "12-20",
+        "49-49",
+        "53-54",
+        "59-63",
+        "91-102",
+        "135-144"
+    ],
+    "interfaceB": [
+        "114-117",
+        "127-141",
+        "148-157",
+        "181-184"
+    ]
+}

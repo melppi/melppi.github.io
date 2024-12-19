@@ -1,0 +1,76 @@
+{
+    "pae": 14.6,
+    "iptm": 23.4,
+    "pdockq": 0.052,
+    "proA": "FBpp0070333",
+    "proB": "FBpp0070812",
+    "geneA": "CG4406",
+    "geneB": "CG3160",
+    "annotationA": "Putative GPI-anchor transamidase; Mediates GPI anchoring in the endoplasmic reticulum, by replacing a protein's C-terminal GPI attachment signal peptide with a pre-assembled GPI. During this transamidation reaction, the GPI transamidase forms a carbonyl intermediate with the substrate protein (By similarity)",
+    "annotationB": "GPI inositol-deacylase; Involved in inositol deacylation of GPI-anchored proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 322,
+            "end_residue_number": 329,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 379,
+            "end_residue_number": 390,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 485,
+            "end_residue_number": 486,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 611,
+            "end_residue_number": 611,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "322-329"
+    ],
+    "interfaceB": [
+        "379-390",
+        "485-486",
+        "611-611"
+    ]
+}

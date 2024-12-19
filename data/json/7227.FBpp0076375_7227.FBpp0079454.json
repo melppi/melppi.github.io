@@ -1,0 +1,48 @@
+{
+    "pae": 18.9,
+    "iptm": 22.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0076375",
+    "proB": "FBpp0079454",
+    "geneA": "CG6638",
+    "geneB": "Mtpalpha",
+    "annotationA": "RE62833p; Flavin adenine dinucleotide binding; isovaleryl-CoA dehydrogenase activity. It is involved in the biological process described with: oxidation-reduction process; leucine catabolic process",
+    "annotationB": "Mitochondrial trifunctional protein alpha subunit, isoform A; enoyl-CoA hydratase activity; long-chain-3-hydroxyacyl-CoA dehydrogenase activity; coenzyme binding. It is involved in the biological process described with: determination of adult lifespan; response to starvation; fatty acid beta-oxidation; wound healing",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 4,
+            "end_residue_number": 4,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 217,
+            "end_residue_number": 217,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "4-4"
+    ],
+    "interfaceB": [
+        "217-217"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.3,
+    "iptm": 21.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0072059",
+    "proB": "FBpp0078759",
+    "geneA": "Fmo-1",
+    "geneB": "CG7277",
+    "annotationA": "Flavin-containing monooxygenase; NADP binding; flavin adenine dinucleotide binding; N,N-dimethylaniline monooxygenase activity; monooxygenase activity. It is involved in the biological process described with: oxidation-reduction process",
+    "annotationB": "Ubiquinone biosynthesis monooxygenase COQ6, mitochondrial; FAD-dependent monooxygenase required for the C5-ring hydroxylation during ubiquinone biosynthesis. Catalyzes the hydroxylation of 3-polyprenyl-4-hydroxybenzoic acid to 3- polyprenyl-4,5-dihydroxybenzoic acid. The electrons required for the hydroxylation reaction may be funneled indirectly from NADPH via a ferredoxin/ferredoxin reductase system to COQ6",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

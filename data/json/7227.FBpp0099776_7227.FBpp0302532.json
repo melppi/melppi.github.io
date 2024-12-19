@@ -1,0 +1,16 @@
+{
+    "pae": 4.6,
+    "iptm": 34.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0099776",
+    "proB": "FBpp0302532",
+    "geneA": "Ada2b",
+    "geneB": "Ada2a",
+    "annotationA": "Transcriptional adapter 2B; Required for the function of some acidic activation domains, which activate transcription from a distant site. Binds double-stranded DNA. Binds dinucleosomes, probably at the linker region between neighboring nucleosomes. Plays a role in chromatin remodeling",
+    "annotationB": "Transcriptional adapter 2A; GCN5-independent Rpb4 complexes are highly enriched in decondensed chromosome puffs so may play a role in RNA polymerase II-dependent transcription",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

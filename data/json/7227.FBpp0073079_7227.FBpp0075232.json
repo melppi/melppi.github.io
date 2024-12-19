@@ -1,0 +1,118 @@
+{
+    "pae": 13.4,
+    "iptm": 14.8,
+    "pdockq": 0.069,
+    "proA": "FBpp0073079",
+    "proB": "FBpp0075232",
+    "geneA": "Cpr64Ad",
+    "geneB": "CG13049",
+    "annotationA": "Cuticular protein 64Ad; Structural constituent of chitin-based larval cuticle; structural constituent of chitin-based cuticle. It is involved in the biological process described with: chitin-based cuticle development",
+    "annotationB": "RE26528p; It is involved in the biological process described with: Golgi organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 147,
+            "end_residue_number": 147,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 151,
+            "end_residue_number": 151,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 162,
+            "end_residue_number": 166,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 173,
+            "end_residue_number": 179,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 184,
+            "end_residue_number": 191,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 205,
+            "end_residue_number": 205,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 145,
+            "end_residue_number": 156,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "147-147",
+        "151-151",
+        "162-166",
+        "173-179",
+        "184-191",
+        "205-205"
+    ],
+    "interfaceB": [
+        "145-156"
+    ]
+}

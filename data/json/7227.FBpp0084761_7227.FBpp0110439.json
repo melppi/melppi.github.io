@@ -1,0 +1,16 @@
+{
+    "pae": 16.7,
+    "iptm": 16.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0084761",
+    "proB": "FBpp0110439",
+    "geneA": "Ef1gamma",
+    "geneB": "mRpS5",
+    "annotationA": "Elongation factor 1-gamma; Ef1gamma associates with other EF1 subunits (alpha/beta/delta). It binds tubulin and Doa protein kinase, which in turns phosphorylates Ef1gamma. Ef1gamma regulates organelle movement along microtubules",
+    "annotationB": "Mitochondrial ribosomal protein S5, isoform A; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uS5 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

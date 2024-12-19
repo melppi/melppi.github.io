@@ -1,0 +1,146 @@
+{
+    "pae": 14.2,
+    "iptm": 25.6,
+    "pdockq": 0.09,
+    "proA": "FBpp0074229",
+    "proB": "FBpp0302921",
+    "geneA": "par-6",
+    "geneB": "aPKC",
+    "annotationA": "Par-6, isoform A; Protein binding",
+    "annotationB": "Atypical protein kinase C; Serine/threonine protein kinase which is required for apico-basal cell polarity in the germ line as well as in epithelial and neural precursor cells, for epithelial planar cell polarity and for cell proliferation. During oocyte development, required for the posterior translocation of oocyte specification factors and for the posterior establishment of the microtubule organizing center within the presumptive oocyte. Phosphorylates l(2)gl which restricts l(2)gl activity to the oocyte posterior and regulates posterior enrichment of par-1, leading to establishment [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 141,
+            "end_residue_number": 148,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 483,
+            "end_residue_number": 483,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 626,
+            "end_residue_number": 626,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 701,
+            "end_residue_number": 707,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 740,
+            "end_residue_number": 744,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 778,
+            "end_residue_number": 781,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 811,
+            "end_residue_number": 811,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 827,
+            "end_residue_number": 827,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 915,
+            "end_residue_number": 918,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "141-148"
+    ],
+    "interfaceB": [
+        "483-483",
+        "626-626",
+        "701-707",
+        "740-744",
+        "778-781",
+        "811-811",
+        "827-827",
+        "915-918"
+    ]
+}

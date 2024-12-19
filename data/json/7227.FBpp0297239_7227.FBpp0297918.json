@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0297239",
+    "proB": "FBpp0297918",
+    "geneA": "Pp2A-29B",
+    "geneB": "Mob4",
+    "annotationA": "Serine/threonine-protein phosphatase PP2A 65 kDa regulatory subunit; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit",
+    "annotationB": "MOB kinase activator-like 4; Protein kinase binding. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; spindle assembly involved in mitosis; positive regulation of ERK1 and ERK2 cascade; negative regulation of synaptic growth at neuromuscular junction; axon cargo transport; microtubule cytoskeleton organization; neuron projection morphogenesis; Belongs to the MOB1/phocein family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

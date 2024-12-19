@@ -1,0 +1,146 @@
+{
+    "pae": 13.0,
+    "iptm": 22.3,
+    "pdockq": 0.095,
+    "proA": "FBpp0083255",
+    "proB": "FBpp0297069",
+    "geneA": "Hs6st",
+    "geneB": "dally",
+    "annotationA": "Heparan sulfate 6-O-sulfotransferase (Hs6st) is a heparan sulfate modifying enzyme, which transfers a sulfate group to the 6-O position of glucosamine residues of heparan sulfate. Loss of Hs6st eliminates 6-O sulfation, but increases 6-O sulfation performed by Hs2st. Simultaneous elimination of Hs6st and Hs2st disrupts FGF, Wg and Dpp signaling pathways",
+    "annotationB": "Division abnormally delayed (Dally) is a core protein of heparan sulfate proteoglycans of the glypican family. It acts as a co-receptor for growth factors and morphogens, such as FGFs, dpp, wg, hh and upd1, and affects signaling and distribution of these ligands. Dally's roles include wing development and germline stem cell maintenance",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 156,
+            "end_residue_number": 156,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 160,
+            "end_residue_number": 160,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 181,
+            "end_residue_number": 184,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 200,
+            "end_residue_number": 201,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 205,
+            "end_residue_number": 205,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 210,
+            "end_residue_number": 210,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 254,
+            "end_residue_number": 262,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 286,
+            "end_residue_number": 289,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 558,
+            "end_residue_number": 565,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "156-156",
+        "160-160",
+        "181-184",
+        "200-201",
+        "205-205",
+        "210-210",
+        "254-262",
+        "286-289"
+    ],
+    "interfaceB": [
+        "558-565"
+    ]
+}

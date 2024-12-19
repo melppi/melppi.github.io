@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 25.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0082353",
+    "proB": "FBpp0304268",
+    "geneA": "RpII140",
+    "geneB": "Rpb5",
+    "annotationA": "DNA-directed RNA polymerase II subunit RPB2; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Second largest component of RNA polymerase II which synthesizes mRNA precursors and many functional non-coding RNAs. Proposed to contribute to the polymerase catalytic activity and forms the polymerase active center together with the largest subunit. Pol II is the central component of the basal RNA polymerase II transcription machinery. It is composed of mobile elements that move relative to each other. RPB2 is  [...] ",
+    "annotationB": "Rpb5, isoform A; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

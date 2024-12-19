@@ -1,0 +1,90 @@
+{
+    "pae": 6.5,
+    "iptm": 48.6,
+    "pdockq": 0.118,
+    "proA": "FBpp0303832",
+    "proB": "FBpp0304503",
+    "geneA": "mRpL23",
+    "geneB": "mRpS7",
+    "annotationA": "39S ribosomal protein L23, mitochondrial; Structural constituent of ribosome; nucleotide binding. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uL23 family",
+    "annotationB": "28S ribosomal protein S7, mitochondrial; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uS7 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 4,
+            "end_residue_number": 4,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 17,
+            "end_residue_number": 20,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 90,
+            "end_residue_number": 101,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 105,
+            "end_residue_number": 105,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 118,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "4-4",
+        "17-20"
+    ],
+    "interfaceB": [
+        "90-101",
+        "105-105",
+        "118-118"
+    ]
+}

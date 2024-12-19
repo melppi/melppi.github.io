@@ -1,0 +1,16 @@
+{
+    "pae": 16.8,
+    "iptm": 13.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0081156",
+    "proB": "FBpp0293269",
+    "geneA": "Ref1",
+    "geneB": "SF2",
+    "annotationA": "RNA and export factor binding protein 1; mRNA binding; nucleotide binding; nucleic acid binding; transcription coactivator activity. It is involved in the biological process described with: mRNA splicing, via spliceosome",
+    "annotationB": "SR family splicing factor SF2; mRNA binding; protein binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; mRNA splice site selection; mitotic G2 DNA damage checkpoint; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

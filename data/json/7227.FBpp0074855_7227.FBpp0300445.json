@@ -1,0 +1,104 @@
+{
+    "pae": 5.7,
+    "iptm": 25.1,
+    "pdockq": 0.209,
+    "proA": "FBpp0074855",
+    "proB": "FBpp0300445",
+    "geneA": "Nufip",
+    "geneB": "Fmr1",
+    "annotationA": "Nufip is an adaptor protein for the assembly of RiboNucleo-Particles (RNPs) such as the small nuclear RNP U4 (snRNP U4; part of the spliceosome) and the mRNPs encoding seleno-proteins. Nufip is necessary for the biogenesis of the small nucleolar RNPs (snoRNPs)",
+    "annotationB": "Synaptic functional regulator FMR1; Polyribosome-associated RNA-binding protein that plays a role in neuronal development and synaptic plasticity through the regulation of protein synthesis of mRNAs. Plays a role as a negative translational regulator of specific mRNAs. Represses translation of the microtubule-associated protein futsch mRNA to regulate microtubule-dependent synaptic growth and function. May also be involved in microRNA (miRNA)-mediated translational suppression. Required for stability of the central pair of microtubules in the spermatid axoneme. Regulates photoreceptor  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 31,
+            "end_residue_number": 31,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 57,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 117,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 146,
+            "end_residue_number": 155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 161,
+            "end_residue_number": 161,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "31-31",
+        "35-55"
+    ],
+    "interfaceB": [
+        "57-63",
+        "117-131",
+        "146-155",
+        "161-161"
+    ]
+}

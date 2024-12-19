@@ -1,0 +1,16 @@
+{
+    "pae": 23.8,
+    "iptm": 24.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070455",
+    "proB": "FBpp0086066",
+    "geneA": "per",
+    "geneB": "Prosalpha5",
+    "annotationA": "Period circadian protein; Essential for biological clock functions. Determines the period length of circadian and ultradian rhythms; an increase in PER dosage leads to shortened circadian rhythms and a decrease leads to lengthened circadian rhythms. Essential for the circadian rhythmicity of locomotor activity, eclosion behavior, and for the rhythmic component of the male courtship song that originates in the thoracic nervous system. The biological cycle depends on the rhythmic formation and nuclear localization of the TIM-PER complex. Light induces the degradation of TIM, which promot [...] ",
+    "annotationB": "Proteasome subunit alpha type-5; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity; Belongs to the peptidase T1A family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

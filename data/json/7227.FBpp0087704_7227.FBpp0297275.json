@@ -1,0 +1,146 @@
+{
+    "pae": 3.3,
+    "iptm": 47.4,
+    "pdockq": 0.646,
+    "proA": "FBpp0087704",
+    "proB": "FBpp0297275",
+    "geneA": "shrb",
+    "geneB": "l(2)gd1",
+    "annotationA": "GH13992p; Shrub encodes Vps32/Snf7, a filament-forming subunit of the ESCRT-III complex involved in inward membrane budding. The Shrub gene product regulates multiple cellular processes involving ESCRTs activity including multivesicular body biogenesis, cytokinesis, membrane repair and regulation of membrane associated signaling",
+    "annotationB": "Coiled-coil and C2 domain-containing protein 1-like; Negative regulator of the Notch signaling pathway, acting to restrict the activity of Notch to the dorsoventral (D/V) boundary of the wing imaginal disk. Also causes negative regulation of Notch during vein, eye, and bristle development. Acts by targeting Notch for endosomal degradation or recycling; Belongs to the CC2D1 family",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 25,
+            "end_residue_number": 42,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 46,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 58,
+            "end_residue_number": 92,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 151,
+            "end_residue_number": 151,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 67,
+            "end_residue_number": 108,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 371,
+            "end_residue_number": 375,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 386,
+            "end_residue_number": 397,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 415,
+            "end_residue_number": 420,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 531,
+            "end_residue_number": 534,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "25-42",
+        "46-54",
+        "58-92",
+        "151-151"
+    ],
+    "interfaceB": [
+        "67-108",
+        "371-375",
+        "386-397",
+        "415-420",
+        "531-534"
+    ]
+}

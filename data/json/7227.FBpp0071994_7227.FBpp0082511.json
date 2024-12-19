@@ -1,0 +1,174 @@
+{
+    "pae": 4.5,
+    "iptm": 61.7,
+    "pdockq": 0.506,
+    "proA": "FBpp0071994",
+    "proB": "FBpp0082511",
+    "geneA": "l(2)dtl",
+    "geneB": "Caf1",
+    "annotationA": "Protein lethal(2)denticleless; Substrate-specific adapter of a DCX (DDB1-CUL4-X-box) E3 ubiquitin-protein ligase complex required for cell cycle control. The DCX(DTL) complex, also named CRL4(CDT2) complex, mediates the polyubiquitination and subsequent degradation of E2f during S phase. E2f degradation is necessary to ensure proper development. Substrates require their interaction with PCNA for their polyubiquitination: substrates interact with PCNA via their PIP- box, leading to recruit the DCX(DTL) complex; Belongs to the WD repeat cdt2 family",
+    "annotationB": "Probable histone-binding protein Caf1; Core histone-binding subunit that may target chromatin assembly factors, chromatin remodeling factors and histone deacetylases to their histone substrates in a manner that is regulated by nucleosomal DNA. Component of several complexes which regulate chromatin metabolism. These include the chromatin assembly factor 1 (CAF-1) complex, which is required for chromatin assembly following DNA replication and DNA repair; the nucleosome remodeling and deacetylase complex (the NuRD complex), which promotes transcriptional repression by histone deacetylati [...] ",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 586,
+            "end_residue_number": 600,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 604,
+            "end_residue_number": 606,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 610,
+            "end_residue_number": 610,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 622,
+            "end_residue_number": 629,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 240,
+            "end_residue_number": 246,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 258,
+            "end_residue_number": 262,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 270,
+            "end_residue_number": 271,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 286,
+            "end_residue_number": 292,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 304,
+            "end_residue_number": 315,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 329,
+            "end_residue_number": 335,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 351,
+            "end_residue_number": 356,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "586-600",
+        "604-606",
+        "610-610",
+        "622-629"
+    ],
+    "interfaceB": [
+        "240-246",
+        "258-262",
+        "270-271",
+        "286-292",
+        "304-315",
+        "329-335",
+        "351-356"
+    ]
+}

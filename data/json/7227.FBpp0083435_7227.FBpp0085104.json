@@ -1,0 +1,174 @@
+{
+    "pae": 8.1,
+    "iptm": 46.7,
+    "pdockq": 0.431,
+    "proA": "FBpp0083435",
+    "proB": "FBpp0085104",
+    "geneA": "Bdbt",
+    "geneB": "dco",
+    "annotationA": "Bride of doubletime (Bdbt) binds to a nuclear localization signal in dco and is necessary for normal circadian dco activity on per. Bdbt also accumulates in cytosolic foci in photoreceptors during the middle of the night",
+    "annotationB": "Discs overgrown protein kinase; Involved in circadian rhythms, viability and molecular oscillations of the clock genes period (per) and timeless (tim). Dbt reduces the stability and thus the accumulation of monomeric per proteins, probably through phosphorylation. No evident circadian oscillation is detected in head. Together with CkIalpha, regulates processing of ci by phosphorylating it which promotes its binding to slmb, the F-box recognition component of the SCF(slmb) E3 ubiquitin-protein ligase; Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein k [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 11,
+            "end_residue_number": 14,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 51,
+            "end_residue_number": 51,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 78,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 100,
+            "end_residue_number": 108,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 139,
+            "end_residue_number": 157,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 162,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 190,
+            "end_residue_number": 202,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 223,
+            "end_residue_number": 232,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 258,
+            "end_residue_number": 258,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 361,
+            "end_residue_number": 369,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 381,
+            "end_residue_number": 390,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "11-14",
+        "51-51",
+        "78-82",
+        "100-108",
+        "139-157",
+        "162-162",
+        "190-202",
+        "223-232",
+        "258-258"
+    ],
+    "interfaceB": [
+        "361-369",
+        "381-390"
+    ]
+}

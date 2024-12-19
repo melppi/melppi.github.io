@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 18.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0079468",
+    "proB": "FBpp0293662",
+    "geneA": "FKBP59",
+    "geneB": "inaD",
+    "annotationA": "FK506-binding protein 59; May have a role in phototransduction; inhibits or prevents Ca(2+) induced stimulation of the trpl ion channel",
+    "annotationB": "Inactivation-no-after-potential D protein; Involved in the negative feedback regulation of the light-activated signaling cascade in photoreceptors through a calcium-mediated process. Interacts with tetrapeptide ligand located in C-terminal sequence of 3 key components of the visual cascade, tethering them and forming a macromolecular signaling phototransduction complex",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

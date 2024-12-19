@@ -1,0 +1,48 @@
+{
+    "pae": 17.7,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070654",
+    "proB": "FBpp0088995",
+    "geneA": "rap",
+    "geneB": "CG32318",
+    "annotationA": "Retina aberrant in pattern (Rap) binds to the Anaphase-Promoting Complex/Cyclosome (APC/C) ubiquitin ligase to stimulate its activity during G1 phase",
+    "annotationB": "RT07324p; ATP binding; microtubule binding; microtubule motor activity. It is involved in the biological process described with: microtubule-based movement; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 36,
+            "end_residue_number": 36,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 64,
+            "end_residue_number": 64,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "36-36"
+    ],
+    "interfaceB": [
+        "64-64"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.5,
+    "iptm": 18.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0084549",
+    "proB": "FBpp0305215",
+    "geneA": "pll",
+    "geneB": "Myd88",
+    "annotationA": "Serine/threonine-protein kinase pelle; Plays an essential role in the Tl receptor signaling pathway that establishes embryonic dorsoventral polarity; the signal directs import of dl into ventral and ventrolateral nuclei, thereby establishing dorsoventral polarity. Tub recruits pll to the plasma membrane and protein-protein interaction activates pll; Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. Pelle subfamily",
+    "annotationB": "Myd88 is an adaptor protein functioning downstream of Tl and upstream of tub in the Toll pathway, a signaling cascade which plays a key role in various developmental and immune processes, notably embryonic dorsoventral patterning and regulation of antimicrobial peptides",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

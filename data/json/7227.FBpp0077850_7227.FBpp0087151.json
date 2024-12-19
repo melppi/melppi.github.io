@@ -1,0 +1,118 @@
+{
+    "pae": 12.5,
+    "iptm": 28.6,
+    "pdockq": 0.088,
+    "proA": "FBpp0077850",
+    "proB": "FBpp0087151",
+    "geneA": "Psn",
+    "geneB": "rho-7",
+    "annotationA": "Presenilin homolog; Probable catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptor. Required for S3 cleavage of Notch, which releases activated Notch protein from the cell membrane. Involved in the patterning of the optic lobes; Belongs to the peptidase A22A family",
+    "annotationB": "Rhomboid-7, isoform A; Rhomboid-7 (Rho-7) is an intramembrane serine protease of the rhomboid family present in the inner membrane of mitochondria. It regulates mitochondrial fusion during spermatogenesis and muscle development. Rho-7 genetically interacts with fog, Opa1 and Pink1, which is also a substrate of Rho-7",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 127,
+            "end_residue_number": 127,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 133,
+            "end_residue_number": 137,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 194,
+            "end_residue_number": 194,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 198,
+            "end_residue_number": 202,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 262,
+            "end_residue_number": 262,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 206,
+            "end_residue_number": 206,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 276,
+            "end_residue_number": 284,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "127-127",
+        "133-137",
+        "194-194",
+        "198-202",
+        "262-262"
+    ],
+    "interfaceB": [
+        "206-206",
+        "276-284"
+    ]
+}

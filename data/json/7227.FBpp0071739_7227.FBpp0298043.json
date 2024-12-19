@@ -1,0 +1,146 @@
+{
+    "pae": 0.9,
+    "iptm": 60.5,
+    "pdockq": 0.716,
+    "proA": "FBpp0071739",
+    "proB": "FBpp0298043",
+    "geneA": "qkr58E-2",
+    "geneB": "qkr58E-3",
+    "annotationA": "Quaking related 58E-2, isoform A; mRNA binding; RNA binding",
+    "annotationB": "Quaking related 58E-3, isoform B; mRNA binding; RNA binding. It is involved in the biological process described with: regulation of alternative mRNA splicing, via spliceosome; apoptotic process",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 75,
+            "end_residue_number": 108,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 112,
+            "end_residue_number": 137,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 143,
+            "end_residue_number": 143,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 196,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 208,
+            "end_residue_number": 228,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 27,
+            "end_residue_number": 59,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 63,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 149,
+            "end_residue_number": 153,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 161,
+            "end_residue_number": 181,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "75-108",
+        "112-137",
+        "143-143",
+        "196-199",
+        "208-228"
+    ],
+    "interfaceB": [
+        "27-59",
+        "63-91",
+        "149-153",
+        "161-181"
+    ]
+}

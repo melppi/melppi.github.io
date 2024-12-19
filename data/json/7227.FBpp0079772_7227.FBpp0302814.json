@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 18.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0079772",
+    "proB": "FBpp0302814",
+    "geneA": "porin",
+    "geneB": "Miro",
+    "annotationA": "Voltage-dependent anion-selective channel; Porin is a beta-barrel channel protein localized in the outer membrane of mitochondria that conducts translocation of various ions and metabolites between cytoplasm and mitochondria. It plays roles in mitochondria dynamics and mitophagy, and is ubiquitinated by park and Mul1 E3 ligases",
+    "annotationB": "Mitochondrial Rho GTPase; Mitochondrial GTPase involved in mitochondrial trafficking. Milt and Miro form an essential protein complex that links Khc to mitochondria for light chain-independent, anterograde transport of mitochondria. Required for axonal transport to synapses within nerve terminals. Required presynaptically but not postsynaptically at neuromuscular junctions (NMJs)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

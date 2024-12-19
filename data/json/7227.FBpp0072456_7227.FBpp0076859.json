@@ -1,0 +1,16 @@
+{
+    "pae": 17.3,
+    "iptm": 36.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0072456",
+    "proB": "FBpp0076859",
+    "geneA": "Rev1",
+    "geneB": "Uev1A",
+    "annotationA": "DNA repair protein REV1; Deoxycytidyl transferase involved in DNA repair. Transfers a dCMP residue from dCTP to the 3'-end of a DNA primer in a template-dependent reaction. May assist in the first step in the bypass of abasic lesions by the insertion of a nucleotide opposite the lesion. Required for normal induction of mutations by physical and chemical agents",
+    "annotationB": "Ubiquitin-conjugating enzyme variant 1A (Uev1A) is a conserved protein that contributes to ubiquitin protein ligase activity, but not catalytically, since it lacks the conserved cysteine residue essential for protein ubiquitination. Uev1A regulates genomic integrity, IMD pathway-mediated innate immunity, JNK-pathway mediated cell death and tumor invasion",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

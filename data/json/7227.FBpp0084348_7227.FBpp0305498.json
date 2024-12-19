@@ -1,0 +1,146 @@
+{
+    "pae": 1.7,
+    "iptm": 69.3,
+    "pdockq": 0.4,
+    "proA": "FBpp0084348",
+    "proB": "FBpp0305498",
+    "geneA": "Sld5",
+    "geneB": "Psf3",
+    "annotationA": "DNA replication complex GINS protein SLD5; The GINS complex plays an essential role in the initiation of DNA replication",
+    "annotationB": "Psf3, isoform A; 3'-5' DNA helicase activity. It is involved in the biological process described with: lateral inhibition; neurogenesis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 50,
+            "end_residue_number": 53,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 99,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 103,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 110,
+            "end_residue_number": 115,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 148,
+            "end_residue_number": 148,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 152,
+            "end_residue_number": 152,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 164,
+            "end_residue_number": 180,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 11,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 61,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "50-53",
+        "99-99",
+        "103-103",
+        "110-115",
+        "148-148",
+        "152-152",
+        "164-180"
+    ],
+    "interfaceB": [
+        "1-11",
+        "60-61"
+    ]
+}

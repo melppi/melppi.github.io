@@ -1,0 +1,16 @@
+{
+    "pae": 14.7,
+    "iptm": 21.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0080256",
+    "proB": "FBpp0301175",
+    "geneA": "NC2beta",
+    "geneB": "Atac3",
+    "annotationA": "Protein Dr1; Bifunctional basic transcription factor. Activates transcription of DPE (Downstream Promoter Element) containing promoters while repressing transcription of promoters which contain TATA elements; Belongs to the NC2 beta/DR1 family",
+    "annotationB": "Ada2a-containing complex component 3, isoform D; Sequence-specific DNA binding transcription factor activity; histone acetyltransferase activity. It is involved in the biological process described with: chromatin remodeling; histone acetylation; regulation of transcription, DNA-templated",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

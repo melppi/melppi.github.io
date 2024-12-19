@@ -1,0 +1,16 @@
+{
+    "pae": 18.4,
+    "iptm": 20.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072723",
+    "proB": "FBpp0305206",
+    "geneA": "SCOT",
+    "geneB": "CG13377",
+    "annotationA": "Succinyl-CoA:3-ketoacid-coenzyme A transferase, mitochondrial; Key enzyme for ketone body catabolism. Transfers the CoA moiety from succinate to acetoacetate. Formation of the enzyme-CoA intermediate proceeds via an unstable anhydride species formed between the carboxylate groups of the enzyme and substrate (By similarity); Belongs to the 3-oxoacid CoA-transferase family",
+    "annotationB": "Uncharacterized protein, isoform A; 3-hydroxybutyrate dehydrogenase activity. It is involved in the biological process described with: olfactory behavior; inter-male aggressive behavior; mushroom body development; metabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

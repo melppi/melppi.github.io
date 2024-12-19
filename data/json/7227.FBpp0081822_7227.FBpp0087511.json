@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 12.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081822",
+    "proB": "FBpp0087511",
+    "geneA": "RpL3",
+    "geneB": "RpLP0-like",
+    "annotationA": "60S ribosomal protein L3; The L3 protein is a component of the large subunit of cytoplasmic ribosomes",
+    "annotationB": "Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

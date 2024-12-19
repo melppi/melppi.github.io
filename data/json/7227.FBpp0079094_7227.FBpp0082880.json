@@ -1,0 +1,76 @@
+{
+    "pae": 15.0,
+    "iptm": 19.2,
+    "pdockq": 0.032,
+    "proA": "FBpp0079094",
+    "proB": "FBpp0082880",
+    "geneA": "Spn28B",
+    "geneB": "CG5863",
+    "annotationA": "Serpin 28B, isoform A; Serine-type endopeptidase inhibitor activity. It is involved in the biological process described with: multicellular organism reproduction; negative regulation of endopeptidase activity; negative regulation of proteolysis; regulation of proteolysis; Belongs to the serpin family",
+    "annotationB": "CG5863; Aspartic-type endopeptidase activity. It is involved in the biological process described with: proteolysis; Belongs to the peptidase A1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 335,
+            "end_residue_number": 338,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 99,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 142,
+            "end_residue_number": 145,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 260,
+            "end_residue_number": 260,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "335-338"
+    ],
+    "interfaceB": [
+        "99-102",
+        "142-145",
+        "260-260"
+    ]
+}

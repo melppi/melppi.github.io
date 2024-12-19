@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 20.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0079443",
+    "proB": "FBpp0099583",
+    "geneA": "hoip",
+    "geneB": "Nop60B",
+    "annotationA": "NHP2-like protein 1 homolog; Binds to the 5'-stem-loop of U4 snRNA and may play a role in the late stage of spliceosome assembly. The protein undergoes a conformational change upon RNA-binding (By similarity)",
+    "annotationB": "H/ACA ribonucleoprotein complex subunit 4; Plays a central role in ribosomal RNA processing. Probable catalytic subunit of H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex, which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine ('psi') residues may serve to stabilize the conformation of rRNAs. Required for maintenance of the germline stem cell lineage during spermatogenesis; Belongs to the pseudouridine synthase TruB family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

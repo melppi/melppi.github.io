@@ -1,0 +1,16 @@
+{
+    "pae": 24.0,
+    "iptm": 15.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0074729",
+    "proB": "FBpp0087940",
+    "geneA": "Oat",
+    "geneB": "Odc2",
+    "annotationA": "Ornithine aminotransferase, mitochondrial; Ornithine-oxo-acid transaminase activity; pyridoxal phosphate binding. It is involved in the biological process described with: ornithine metabolic process; neurogenesis",
+    "annotationB": "Ornithine decarboxylase 2; Catalyzes the first and rate-limiting step of polyamine biosynthesis that converts ornithine into putrescine, which is the precursor for the polyamines, spermidine and spermine. Polyamines are essential for cell proliferation and are implicated in cellular processes, ranging from DNA replication to apoptosis; Belongs to the Orn/Lys/Arg decarboxylase class-II family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

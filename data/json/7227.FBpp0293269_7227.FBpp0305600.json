@@ -1,0 +1,132 @@
+{
+    "pae": 12.9,
+    "iptm": 28.7,
+    "pdockq": 0.17,
+    "proA": "FBpp0293269",
+    "proB": "FBpp0305600",
+    "geneA": "SF2",
+    "geneB": "U2af38",
+    "annotationA": "SR family splicing factor SF2; mRNA binding; protein binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; mRNA splice site selection; mitotic G2 DNA damage checkpoint; neurogenesis",
+    "annotationB": "Splicing factor U2af 38 kDa subunit; Necessary for the splicing of pre-mRNA. Binds to the polypyrimidine tract of introns early during spliceosome assembly (By similarity); Belongs to the splicing factor SR family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 12,
+            "end_residue_number": 13,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 43,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 69,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 129,
+            "end_residue_number": 130,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 28,
+            "end_residue_number": 28,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 153,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 172,
+            "end_residue_number": 172,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 181,
+            "end_residue_number": 181,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "12-13",
+        "43-46",
+        "69-77",
+        "129-130"
+    ],
+    "interfaceB": [
+        "28-28",
+        "153-162",
+        "172-172",
+        "181-181"
+    ]
+}

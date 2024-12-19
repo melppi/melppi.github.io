@@ -1,0 +1,62 @@
+{
+    "pae": 8.2,
+    "iptm": 26.7,
+    "pdockq": 0.387,
+    "proA": "FBpp0075762",
+    "proB": "FBpp0077218",
+    "geneA": "Klp68D",
+    "geneB": "Che-13",
+    "annotationA": "Kinesin-like protein at 68D (Klp68D) is the kinesin-2beta motor subunit of the heterotrimeric kinesin-2. Klp68D associates with Klp64D and Kap3. Klp68D plays an essential role in the sensory cilia assembly, microtubule organization in dendrites, and axonal transport",
+    "annotationB": "Intraflagellar transport protein 57 homolog; Required for the formation of cilia",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 522,
+            "end_residue_number": 595,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 603,
+            "end_residue_number": 606,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 314,
+            "end_residue_number": 387,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "522-595",
+        "603-606"
+    ],
+    "interfaceB": [
+        "314-387"
+    ]
+}

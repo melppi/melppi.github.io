@@ -1,0 +1,188 @@
+{
+    "pae": 3.4,
+    "iptm": 65.5,
+    "pdockq": 0.325,
+    "proA": "FBpp0076203",
+    "proB": "FBpp0079907",
+    "geneA": "phol",
+    "geneB": "esc",
+    "annotationA": "Pleiohomeotic like (Phol) is a zinc-finger protein that is 80% identical in the zinc-finger region to pho.  Like pho, Phol plays a role in Polycomb group protein recruitment to Polycomb Response Elements, but it has additional roles, most likely as a transcriptional activator",
+    "annotationB": "Polycomb protein esc; Polycomb group (PcG) protein. While PcG proteins are generally required to maintain the transcriptionally repressive state of homeotic genes throughout development, this protein is specifically required during the first 6 hours of embryogenesis to establish the repressed state. Component of the Esc/E(z) complex, which methylates 'Lys-9' and 'Lys-27' residues of histone H3, leading to transcriptional repression of the affected target gene. The Esc/E(z) complex is necessary but not sufficient for the repression of homeotic target genes, suggesting that the recruitme [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 34,
+            "end_residue_number": 34,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 640,
+            "end_residue_number": 640,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 645,
+            "end_residue_number": 653,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 657,
+            "end_residue_number": 668,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 66,
+            "end_residue_number": 73,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 99,
+            "end_residue_number": 104,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 112,
+            "end_residue_number": 121,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 127,
+            "end_residue_number": 127,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 153,
+            "end_residue_number": 155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 160,
+            "end_residue_number": 167,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 296,
+            "end_residue_number": 296,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 388,
+            "end_residue_number": 388,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "34-34",
+        "640-640",
+        "645-653",
+        "657-668"
+    ],
+    "interfaceB": [
+        "66-73",
+        "99-104",
+        "112-121",
+        "127-127",
+        "153-155",
+        "160-167",
+        "296-296",
+        "388-388"
+    ]
+}

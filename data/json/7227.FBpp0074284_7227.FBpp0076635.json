@@ -1,0 +1,62 @@
+{
+    "pae": 3.4,
+    "iptm": 36.4,
+    "pdockq": 0.222,
+    "proA": "FBpp0074284",
+    "proB": "FBpp0076635",
+    "geneA": "dik",
+    "geneB": "msl-3",
+    "annotationA": "Transcriptional adaptor 3, isoform A; Histone acetyltransferase activity; chromatin binding. It is involved in the biological process described with: histone H3-K14 acetylation; chromatin remodeling; histone H3 acetylation; histone H3-K9 acetylation; histone H4-K12 acetylation; positive regulation of histone acetylation; histone H3-S10 phosphorylation; histone acetylation; histone H4 acetylation; chromatin-mediated maintenance of transcription",
+    "annotationB": "Male-specific lethal 3 is a chromodomain protein, reported to interact with H3K36me3, H4K20me1 and DNA. It is a member of the Male-Specific-Lethal dosage compensation complex, which increases male X chromosome transcription approximately two-fold. Homozygous mutant males die as larvae, while females are viable",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 267,
+            "end_residue_number": 291,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 258,
+            "end_residue_number": 266,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 397,
+            "end_residue_number": 397,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "267-291"
+    ],
+    "interfaceB": [
+        "258-266",
+        "397-397"
+    ]
+}

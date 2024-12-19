@@ -1,0 +1,16 @@
+{
+    "pae": 15.6,
+    "iptm": 28.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0075701",
+    "proB": "FBpp0288698",
+    "geneA": "Gcn5",
+    "geneB": "not",
+    "annotationA": "H3 histone acetyltransferase activity; H4 histone acetyltransferase activity; histone acetyltransferase activity; chromatin binding. It is involved in the biological process described with: muscle organ development; chromatin remodeling; histone H3 acetylation; histone acetylation; axon target recognition; histone H4 acetylation; regulation of transcription, DNA-templated; dendrite morphogenesis",
+    "annotationB": "Ubiquitin carboxyl-terminal hydrolase nonstop; Histone deubiquitinating component of the transcription regulatory histone acetylation (HAT) complex SAGA. Catalyzes the deubiquitination of histone H2B, thereby acting as a coactivator in a large subset of genes. Required to counteract heterochromatin silencing. Controls the development of neuronal connectivity in visual system by being required for accurate axon targeting in the optic lobe. Required for expression of ecdysone-induced genes such as br/broad; Belongs to the peptidase C19 family. UBP8 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.3,
+    "iptm": 15.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0088268",
+    "proB": "FBpp0305835",
+    "geneA": "pho",
+    "geneB": "Rad23",
+    "annotationA": "Polycomb protein PHO; Polycomb group (PcG) protein that binds to the 5'- CNGCCATNNNNG-3' sequence found in the regulatory regions of many genes. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility. Probably targets the Esc/E(z) complex to DNA. Necessary but no [...] ",
+    "annotationB": "DNA repair protein Rad23; Damaged DNA binding. It is involved in the biological process described with: nucleotide-excision repair; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

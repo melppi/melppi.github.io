@@ -1,0 +1,76 @@
+{
+    "pae": 12.0,
+    "iptm": 21.8,
+    "pdockq": 0.16,
+    "proA": "FBpp0073293",
+    "proB": "FBpp0303964",
+    "geneA": "CG18292",
+    "geneB": "simj",
+    "annotationA": "annotation not available",
+    "annotationB": "Simjang, isoform E; Protein binding. It is involved in the biological process described with: negative regulation of transcription, DNA-templated; habituation; positive regulation of synaptic growth at neuromuscular junction; cardiac cell fate specification; negative regulation of transcription from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 229,
+            "end_residue_number": 247,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 254,
+            "end_residue_number": 261,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 458,
+            "end_residue_number": 459,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 465,
+            "end_residue_number": 480,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "229-247",
+        "254-261"
+    ],
+    "interfaceB": [
+        "458-459",
+        "465-480"
+    ]
+}

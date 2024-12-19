@@ -1,0 +1,174 @@
+{
+    "pae": 4.0,
+    "iptm": 75.6,
+    "pdockq": 0.454,
+    "proA": "FBpp0072158",
+    "proB": "FBpp0074516",
+    "geneA": "snama",
+    "geneB": "Ssu72",
+    "annotationA": "Something that sticks like glue, isoform A; Ubiquitin-protein transferase activity; zinc ion binding; nucleic acid binding. It is involved in the biological process described with: cell proliferation involved in compound eye morphogenesis; protein ubiquitination involved in ubiquitin-dependent protein catabolic process; apoptotic process; neurogenesis",
+    "annotationB": "Ssu72 CTD phosphatase (Ssu72) is an RNA polymerase II C-terminal domain (CTD) phosphatase. Ssu72 CTD phosphatase activity is important for RNAPII transcription and termination and for gene looping. Ssu72 may also be involved in the regulation of sister chromatid cohesion",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 135,
+            "end_residue_number": 143,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 148,
+            "end_residue_number": 155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 162,
+            "end_residue_number": 164,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 175,
+            "end_residue_number": 188,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 18,
+            "end_residue_number": 18,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 41,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 76,
+            "end_residue_number": 85,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 113,
+            "end_residue_number": 125,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 143,
+            "end_residue_number": 148,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 174,
+            "end_residue_number": 181,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 187,
+            "end_residue_number": 194,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "135-143",
+        "148-155",
+        "162-164",
+        "175-188"
+    ],
+    "interfaceB": [
+        "18-18",
+        "41-54",
+        "76-85",
+        "113-125",
+        "143-148",
+        "174-181",
+        "187-194"
+    ]
+}

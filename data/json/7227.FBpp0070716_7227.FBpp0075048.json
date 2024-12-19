@@ -1,0 +1,62 @@
+{
+    "pae": 13.3,
+    "iptm": 31.3,
+    "pdockq": 0.067,
+    "proA": "FBpp0070716",
+    "proB": "FBpp0075048",
+    "geneA": "snf",
+    "geneB": "scaf6",
+    "annotationA": "U1 small nuclear ribonucleoprotein A; Binds stem loop II of U1 snRNA. It is the first snRNP to interact with pre-mRNA. This interaction is required for the subsequent binding of U2 snRNP and the U4/U6/U5 tri-snRNP (By similarity). Plays a role in regulating sex-lethal splicing; Belongs to the RRM U1 A/B'' family",
+    "annotationB": "SR-related CTD associated factor 6, isoform A; mRNA binding. It is involved in the biological process described with: mRNA splicing, via spliceosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 24,
+            "end_residue_number": 33,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 75,
+            "end_residue_number": 75,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 715,
+            "end_residue_number": 723,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "24-33",
+        "75-75"
+    ],
+    "interfaceB": [
+        "715-723"
+    ]
+}

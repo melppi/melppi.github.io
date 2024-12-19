@@ -1,0 +1,16 @@
+{
+    "pae": 16.7,
+    "iptm": 21.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0099583",
+    "proB": "FBpp0288680",
+    "geneA": "Nop60B",
+    "geneB": "Rrp1",
+    "annotationA": "H/ACA ribonucleoprotein complex subunit 4; Plays a central role in ribosomal RNA processing. Probable catalytic subunit of H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex, which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine ('psi') residues may serve to stabilize the conformation of rRNAs. Required for maintenance of the germline stem cell lineage during spermatogenesis; Belongs to the pseudouridine synthase TruB family",
+    "annotationB": "Recombination repair protein 1; Could promote homologous recombination at sites of DNA damage. Has apurinic endonuclease and double-stranded DNA 3'- exonuclease activities and carries out single-stranded DNA renaturation in a Mg(2+)-dependent manner. Activity is more efficient in purine-rich regions of dsDNA than in pyrimidine-rich regions; Belongs to the DNA repair enzymes AP/ExoA family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

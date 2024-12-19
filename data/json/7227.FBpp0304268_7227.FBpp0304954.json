@@ -1,0 +1,16 @@
+{
+    "pae": 16.1,
+    "iptm": 17.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0304268",
+    "proB": "FBpp0304954",
+    "geneA": "Rpb5",
+    "geneB": "l(3)01239",
+    "annotationA": "Rpb5, isoform A; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "annotationB": "Probable prefoldin subunit 2; Binds specifically to cytosolic chaperonin (c-CPN) and transfers target proteins to it. Binds to nascent polypeptide chain and promotes folding in an environment in which there are many competing pathways for nonnative proteins (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

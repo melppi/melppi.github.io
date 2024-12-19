@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 16.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0078473",
+    "proB": "FBpp0087122",
+    "geneA": "CG12161",
+    "geneB": "Oda",
+    "annotationA": "Proteasome beta2 subunit-related 2; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "Ornithine decarboxylase (ODC) antizyme protein that negatively regulates ODC activity and intracellular polyamine biosynthesis and uptake in response to increased intracellular polyamine levels. Binds to ODC monomers, inhibiting the assembly of the functional ODC homodimer, and targets the monomers for ubiquitin- independent proteolytic destruction by the 26S proteasome (By similarity). Required for cellular differentiation in neuronal and myogenic lineages during embryonic development . ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

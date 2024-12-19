@@ -1,0 +1,160 @@
+{
+    "pae": 6.4,
+    "iptm": 41.0,
+    "pdockq": 0.523,
+    "proA": "FBpp0078688",
+    "proB": "FBpp0078731",
+    "geneA": "Scox",
+    "geneB": "CG31648",
+    "annotationA": "Copper chaperone activity; cytochrome-c oxidase activity. It is involved in the biological process described with: flight; copper ion transport; oogenesis; oocyte construction; instar larval development; locomotion involved in locomotory behavior; cytochrome complex assembly; respiratory chain complex IV assembly; cellular copper ion homeostasis",
+    "annotationB": "RE57459p; Copper ion binding. It is involved in the biological process described with: respiratory chain complex IV assembly",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 75,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 110,
+            "end_residue_number": 117,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 179,
+            "end_residue_number": 193,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 201,
+            "end_residue_number": 207,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 217,
+            "end_residue_number": 225,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 233,
+            "end_residue_number": 233,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 111,
+            "end_residue_number": 129,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 158,
+            "end_residue_number": 169,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 207,
+            "end_residue_number": 207,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 214,
+            "end_residue_number": 233,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "75-80",
+        "110-117",
+        "179-193",
+        "201-207",
+        "217-225",
+        "233-233"
+    ],
+    "interfaceB": [
+        "111-129",
+        "158-169",
+        "207-207",
+        "214-233"
+    ]
+}

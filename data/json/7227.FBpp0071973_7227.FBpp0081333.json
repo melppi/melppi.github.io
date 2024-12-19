@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 19.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0071973",
+    "proB": "FBpp0081333",
+    "geneA": "Pi3K59F",
+    "geneB": "Atg13",
+    "annotationA": "Phosphotidylinositol 3 kinase 59F, also known as Vacuolar protein sorting 34, is a lipid kinase that is required for formation of Phosphatidylinositol 3-phosphate. It functions in a core protein complex that includes Atg6 and Vps15 and is involved in the control of vesicle trafficking, including autophagy, endocytosis and phagocytosis; Belongs to the PI3/PI4-kinase family",
+    "annotationB": "Autophagy-related protein 13 homolog; Autophagy factor required for autophagosome formation. Target of the TOR kinase signaling pathway that regulates autophagy through the control of the phosphorylation status of Atg13 and Atg1. The Atg1-Atg13 complex functions at multiple levels to mediate and adjust nutrient-dependent autophagic signaling. Involved in the autophagic degradation of dBruce which controls DNA fragmentation in nurse cells",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

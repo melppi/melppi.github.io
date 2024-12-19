@@ -1,0 +1,16 @@
+{
+    "pae": 22.4,
+    "iptm": 12.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0078664",
+    "proB": "FBpp0082477",
+    "geneA": "Rpn11",
+    "geneB": "eff",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "annotationB": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Mediates the selective degradation of short-lived and abnormal proteins. Required for proper telomere behavior during cell divisions and possibly for ubiquitination of proteins involved in postmeiotic stages of spermatogenesis. Deletion mutations are lethal in homozygotes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

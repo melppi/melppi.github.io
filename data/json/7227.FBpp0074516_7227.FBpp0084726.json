@@ -1,0 +1,48 @@
+{
+    "pae": 17.3,
+    "iptm": 27.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0074516",
+    "proB": "FBpp0084726",
+    "geneA": "Ssu72",
+    "geneB": "Cpsf100",
+    "annotationA": "Ssu72 CTD phosphatase (Ssu72) is an RNA polymerase II C-terminal domain (CTD) phosphatase. Ssu72 CTD phosphatase activity is important for RNAPII transcription and termination and for gene looping. Ssu72 may also be involved in the regulation of sister chromatid cohesion",
+    "annotationB": "Probable cleavage and polyadenylation specificity factor subunit 2; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Required for the cotranscriptional processing of 3'-ends of polyadenylated and histone pre-mRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 80,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 460,
+            "end_residue_number": 460,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "80-80"
+    ],
+    "interfaceB": [
+        "460-460"
+    ]
+}

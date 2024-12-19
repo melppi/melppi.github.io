@@ -1,0 +1,48 @@
+{
+    "pae": 4.5,
+    "iptm": 49.8,
+    "pdockq": 0.121,
+    "proA": "FBpp0074887",
+    "proB": "FBpp0077099",
+    "geneA": "mRpS26",
+    "geneB": "mRpS2",
+    "annotationA": "Probable 28S ribosomal protein S26, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the mitochondrion-specific ribosomal protein mS26 family",
+    "annotationB": "Mitochondrial ribosomal protein S2; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 110,
+            "end_residue_number": 121,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 88,
+            "end_residue_number": 90,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "110-121"
+    ],
+    "interfaceB": [
+        "88-90"
+    ]
+}

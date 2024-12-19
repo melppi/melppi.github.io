@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 18.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0073606",
+    "proB": "FBpp0083163",
+    "geneA": "Tim9a",
+    "geneB": "CG11779",
+    "annotationA": "Mitochondrial import inner membrane translocase subunit Tim9; Mitochondrial intermembrane chaperone that participates in the import and insertion of multi-pass transmembrane proteins into the mitochondrial inner membrane. May also be required for the transfer of beta-barrel precursors from the TOM complex to the sorting and assembly machinery (SAM complex) of the outer membrane. Acts as a chaperone-like protein that protects the hydrophobic precursors from aggregation and guide them through the mitochondrial intermembrane space (By similarity); Belongs to the small Tim family",
+    "annotationB": "Mitochondrial import inner membrane translocase subunit TIM44; Essential component of the PAM complex, a complex required for the translocation of transit peptide-containing proteins from the inner membrane into the mitochondrial matrix in an ATP-dependent manner",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

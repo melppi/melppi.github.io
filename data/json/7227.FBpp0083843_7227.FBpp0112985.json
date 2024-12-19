@@ -1,0 +1,16 @@
+{
+    "pae": 26.1,
+    "iptm": 12.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0083843",
+    "proB": "FBpp0112985",
+    "geneA": "Rpt5",
+    "geneB": "Rpn13",
+    "annotationA": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "annotationB": "Proteasomal ubiquitin receptor ADRM1 homolog; May function as a proteasomal ubiquitin receptor. May promote the deubiquitinating activity associated with the 26S proteasome (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

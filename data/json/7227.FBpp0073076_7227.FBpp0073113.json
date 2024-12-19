@@ -1,0 +1,48 @@
+{
+    "pae": 15.4,
+    "iptm": 19.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073076",
+    "proB": "FBpp0073113",
+    "geneA": "tipE",
+    "geneB": "Teh3",
+    "annotationA": "Protein tipE; Enhances para sodium channel function. Required during pupal development to rescue adult paralysis and also protects adult flies against heat-induced lethality",
+    "annotationB": "TipE-like protein 3; Sodium channel regulator activity. It is involved in the biological process described with: regulation of sodium ion transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 136,
+            "end_residue_number": 136,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 292,
+            "end_residue_number": 292,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "136-136"
+    ],
+    "interfaceB": [
+        "292-292"
+    ]
+}

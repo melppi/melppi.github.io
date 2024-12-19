@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 20.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073344",
+    "proB": "FBpp0088988",
+    "geneA": "Gs2",
+    "geneB": "Gdh",
+    "annotationA": "Glutamine synthetase 2 cytoplasmic; Glutamate-ammonia ligase activity. It is involved in the biological process described with: glutamate catabolic process; synapse assembly; neurotransmitter receptor metabolic process; glutamine biosynthetic process",
+    "annotationB": "Glutamate dehydrogenase, mitochondrial; Glutamate dehydrogenase (NAD+) activity; identical protein binding; glutamate dehydrogenase [NAD(P)+] activity. It is involved in the biological process described with: aerobic respiration; glutamate catabolic process to 2-oxoglutarate; glutamate metabolic process; NADH oxidation; Belongs to the Glu/Leu/Phe/Val dehydrogenases family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

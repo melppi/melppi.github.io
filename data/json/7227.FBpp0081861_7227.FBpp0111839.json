@@ -1,0 +1,146 @@
+{
+    "pae": 17.0,
+    "iptm": 16.7,
+    "pdockq": 0.076,
+    "proA": "FBpp0081861",
+    "proB": "FBpp0111839",
+    "geneA": "Irbp",
+    "geneB": "CG6171",
+    "annotationA": "ATP-dependent DNA helicase 2 subunit 1; Single-stranded DNA-dependent ATP-dependent helicase. Involved in non-homologous end joining (NHEJ) DNA double strand break repair (By similarity). Sequence-specific DNA-binding protein that has a high affinity for a 31 bp sequence in the Yp1 gene. Site-specific DNA binding to 31 bp P element inverted repeats",
+    "annotationB": "Aprataxin and PNK-like factor; Displays apurinic-apyrimidinic (AP) endonuclease and 3'- 5' exonuclease activities in vitro",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 257,
+            "end_residue_number": 257,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 276,
+            "end_residue_number": 280,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 349,
+            "end_residue_number": 349,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 372,
+            "end_residue_number": 377,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 413,
+            "end_residue_number": 414,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 418,
+            "end_residue_number": 420,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 451,
+            "end_residue_number": 451,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 457,
+            "end_residue_number": 457,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 213,
+            "end_residue_number": 225,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "257-257",
+        "276-280",
+        "349-349",
+        "372-377",
+        "413-414",
+        "418-420",
+        "451-451",
+        "457-457"
+    ],
+    "interfaceB": [
+        "213-225"
+    ]
+}

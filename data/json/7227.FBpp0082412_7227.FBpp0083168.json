@@ -1,0 +1,104 @@
+{
+    "pae": 12.1,
+    "iptm": 16.4,
+    "pdockq": 0.179,
+    "proA": "FBpp0082412",
+    "proB": "FBpp0083168",
+    "geneA": "mRpL11",
+    "geneB": "mRpL55",
+    "annotationA": "39S ribosomal protein L11, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uL11 family",
+    "annotationB": "Mitochondrial ribosomal protein L55 is involved in mitochondrial biogenesis and cell division; Belongs to the mitochondrion-specific ribosomal protein mL55 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 27,
+            "end_residue_number": 30,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 67,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 90,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 103,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 184,
+            "end_residue_number": 195,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 82,
+            "end_residue_number": 95,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "27-30",
+        "67-70",
+        "90-96",
+        "103-106",
+        "184-195"
+    ],
+    "interfaceB": [
+        "82-95"
+    ]
+}

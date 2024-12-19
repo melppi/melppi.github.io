@@ -1,0 +1,16 @@
+{
+    "pae": 23.4,
+    "iptm": 17.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0080389",
+    "proB": "FBpp0085155",
+    "geneA": "Syx5",
+    "geneB": "gammaCOP",
+    "annotationA": "Syntaxin-5; Syntaxin 5 is a type II transmembrane protein in the Q-SNARE family that forms hetero tetramers required for membrane function in the early secretory pathway (ER and Golgi). It has been involved in cytokinesis during spermatogenesis",
+    "annotationB": "Coatomer subunit gamma; The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins. Required for limiting lipid storage in lipid droplets. Involved in the expansion of luminal extracellular matrices and apical membrane during tubulogenesis. Required [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

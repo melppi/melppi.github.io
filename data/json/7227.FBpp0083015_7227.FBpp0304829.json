@@ -1,0 +1,146 @@
+{
+    "pae": 6.7,
+    "iptm": 49.0,
+    "pdockq": 0.159,
+    "proA": "FBpp0083015",
+    "proB": "FBpp0304829",
+    "geneA": "CG18600",
+    "geneB": "l(2)37Cg",
+    "annotationA": "LD14127p; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription, DNA-templated",
+    "annotationB": "Probable DNA-directed RNA polymerases I and III subunit RPAC2; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common core component of RNA polymerases I and III which synthesize ribosomal RNA precursors and small RNAs, such as 5S rRNA and tRNAs, respectively (By similarity); Belongs to the archaeal RpoL/eukaryotic RPB11/RPC19 RNA polymerase subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 131,
+            "end_residue_number": 157,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 306,
+            "end_residue_number": 306,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 310,
+            "end_residue_number": 310,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 344,
+            "end_residue_number": 344,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 348,
+            "end_residue_number": 348,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 13,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 29,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 69,
+            "end_residue_number": 69,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 79,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "131-157",
+        "306-306",
+        "310-310",
+        "344-344",
+        "348-348"
+    ],
+    "interfaceB": [
+        "13-15",
+        "29-44",
+        "69-69",
+        "79-103"
+    ]
+}

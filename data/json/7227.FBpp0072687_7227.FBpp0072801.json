@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 12.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0072687",
+    "proB": "FBpp0072801",
+    "geneA": "RpL23A",
+    "geneB": "RpL8",
+    "annotationA": "Ribosomal protein L23A; Structural constituent of ribosome; nucleotide binding. It is involved in the biological process described with: translation; centrosome duplication; Belongs to the universal ribosomal protein uL23 family",
+    "annotationB": "60S ribosomal protein L8; Structural constituent of ribosome. It is involved in the biological process described with: regulation of cell size; insulin receptor signaling pathway; mitotic spindle elongation; translation; compound eye development; centrosome duplication; mitotic spindle organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

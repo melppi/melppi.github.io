@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 21.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073267",
+    "proB": "FBpp0293269",
+    "geneA": "sbr",
+    "geneB": "SF2",
+    "annotationA": "Nuclear RNA export factor 1; Mediates the export of the majority of mRNAs from the nucleus to the cytoplasm",
+    "annotationB": "SR family splicing factor SF2; mRNA binding; protein binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; mRNA splice site selection; mitotic G2 DNA damage checkpoint; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

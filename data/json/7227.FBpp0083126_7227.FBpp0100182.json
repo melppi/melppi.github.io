@@ -1,0 +1,48 @@
+{
+    "pae": 14.1,
+    "iptm": 25.6,
+    "pdockq": 0.028,
+    "proA": "FBpp0083126",
+    "proB": "FBpp0100182",
+    "geneA": "NP15.6",
+    "geneB": "mt:ND5",
+    "annotationA": "Uncharacterized protein NP15.6; It is involved in the biological process described with: respiratory electron transport chain",
+    "annotationB": "Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 95,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 34,
+            "end_residue_number": 37,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "95-96"
+    ],
+    "interfaceB": [
+        "34-37"
+    ]
+}

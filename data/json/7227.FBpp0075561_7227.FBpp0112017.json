@@ -1,0 +1,90 @@
+{
+    "pae": 3.6,
+    "iptm": 23.1,
+    "pdockq": 0.109,
+    "proA": "FBpp0075561",
+    "proB": "FBpp0112017",
+    "geneA": "Abp1",
+    "geneB": "Vrp1",
+    "annotationA": "Drebrin-like protein; Actin-binding adapter protein. Binds to F-actin but is not involved in actin polymerization, capping or bundling. Does not bind G-actin (By similarity). Does not seem to be involved in actin-based lamella protrusion during cell migration",
+    "annotationB": "Verprolin 1, isoform G; Verprolin 1 (Vrp1) is the sole Drosophila homolog of the conserved Verprolin/WASp-Interacting-Protein family of actin regulators. Vrp1 facilitates myoblast fusion in somatic muscles by recruiting the branched-actin polymerization machinery to sites of myoblast-myotube attachment and fusion",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 481,
+            "end_residue_number": 483,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 487,
+            "end_residue_number": 490,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 506,
+            "end_residue_number": 509,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 521,
+            "end_residue_number": 526,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 657,
+            "end_residue_number": 666,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "481-483",
+        "487-490",
+        "506-509",
+        "521-526"
+    ],
+    "interfaceB": [
+        "657-666"
+    ]
+}

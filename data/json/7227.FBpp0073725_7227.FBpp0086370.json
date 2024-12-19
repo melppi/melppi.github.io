@@ -1,0 +1,48 @@
+{
+    "pae": 13.0,
+    "iptm": 41.8,
+    "pdockq": 0.024,
+    "proA": "FBpp0073725",
+    "proB": "FBpp0086370",
+    "geneA": "CG1461",
+    "geneB": "Got1",
+    "annotationA": "CG1461, isoform A; Pyridoxal phosphate binding; L-tyrosine:2-oxoglutarate aminotransferase activity. It is involved in the biological process described with: aromatic amino acid family metabolic process; biosynthetic process",
+    "annotationB": "Glutamate oxaloacetate transaminase 1, isoform B; L-aspartate:2-oxoglutarate aminotransferase activity; pyridoxal phosphate binding. It is involved in the biological process described with: aspartate metabolic process; imaginal disc-derived wing morphogenesis; glutamate biosynthetic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 138,
+            "end_residue_number": 138,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 73,
+            "end_residue_number": 73,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "138-138"
+    ],
+    "interfaceB": [
+        "73-73"
+    ]
+}

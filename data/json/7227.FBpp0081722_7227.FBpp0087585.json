@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081722",
+    "proB": "FBpp0087585",
+    "geneA": "Timp",
+    "geneB": "Mmp2",
+    "annotationA": "Tissue inhibitor of metalloproteinase; Metalloproteinase inhibitor that acts on both matrix metalloproteinases Mmp1 and Mmp2 in vitro. Complexes with metalloproteinases and irreversibly inactivates them by binding to their catalytic zinc cofactor (By similarity). Required for wing maturation which is the final step in morphogenesis of the adult fly. Involved in the negative regulation of developmental tissue invasion for imaginal disk eversion during metamorphosis by inhibiting Mmp-mediated basement membrane (BM) degradation. Required for oogenesis and for the long-term maintainance of [...] ",
+    "annotationB": "Matrix metalloproteinase-2; Has metalloproteinase activity. Required for larval tissue histolysis during metamorphosis and is involved in pupal head eversion and fusion of the wing imaginal tissue. Required for growth of the dorsal air sac primordium and development of the dorsal air sacs. Promotes embryonic motor axon fasciculation. Cleaves and activates frac to promote motor axon bundling during outgrowth. Promotes the reshaping of adult sensory neuron dendrites from a radial to lattice-like shape which occurs after eclosion by degrading the basement membrane on which the dendrites g [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

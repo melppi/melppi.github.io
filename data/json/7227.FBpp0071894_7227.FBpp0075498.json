@@ -1,0 +1,104 @@
+{
+    "pae": 11.7,
+    "iptm": 33.1,
+    "pdockq": 0.075,
+    "proA": "FBpp0071894",
+    "proB": "FBpp0075498",
+    "geneA": "l(2)06496",
+    "geneB": "Gl",
+    "annotationA": "Dynactin 3, p24 subunit, isoform A; It is involved in the biological process described with: regulation of hemocyte proliferation; microtubule-based movement",
+    "annotationB": "Dynactin 1, p150 subunit (DCTN1-p150) is the p150 subunit of the dynactin complex. Dynactin is thought to act as a dynein receptor that modulates binding of dynein to cellular cargoes and enhances the processivity of dynein movement. DCTN1-p150 roles include oocyte polarity, mitotic cell division, embryonic development, neuronal transport and neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 111,
+            "end_residue_number": 144,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 148,
+            "end_residue_number": 151,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 155,
+            "end_residue_number": 155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1126,
+            "end_residue_number": 1126,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1130,
+            "end_residue_number": 1133,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1137,
+            "end_residue_number": 1165,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "111-144",
+        "148-151",
+        "155-155"
+    ],
+    "interfaceB": [
+        "1126-1126",
+        "1130-1133",
+        "1137-1165"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 16.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0082647",
+    "proB": "FBpp0303867",
+    "geneA": "rec",
+    "geneB": "Psf2",
+    "annotationA": "DNA replication licensing factor REC; Recombination-defective interacts with other Mini-Chromosome Maintenance (MCM)-related proteins (mei-217 and mei-218) to make meiotic crossovers",
+    "annotationB": "Probable DNA replication complex GINS protein PSF2; The GINS complex plays an essential role in the initiation of DNA replication; Belongs to the GINS2/PSF2 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

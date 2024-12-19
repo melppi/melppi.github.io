@@ -1,0 +1,16 @@
+{
+    "pae": 25.9,
+    "iptm": 15.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0080010",
+    "proB": "FBpp0080495",
+    "geneA": "Vha68-1",
+    "geneB": "VhaSFD",
+    "annotationA": "V-type proton ATPase catalytic subunit A isoform 1; Catalytic subunit of the peripheral V1 complex of vacuolar ATPase. V-ATPase vacuolar ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells",
+    "annotationB": "V-type proton ATPase subunit H; Subunit of the peripheral V1 complex of vacuolar ATPase. Subunit H activates the ATPase activity of the enzyme and couples ATPase activity to proton flow. Vacuolar ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells, thus providing most of the energy required for transport processes in the vacuolar system (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

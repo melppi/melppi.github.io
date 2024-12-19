@@ -1,0 +1,16 @@
+{
+    "pae": 23.9,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0077974",
+    "proB": "FBpp0079773",
+    "geneA": "park",
+    "geneB": "Porin2",
+    "annotationA": "E3 ubiquitin-protein ligase parkin; Functions within a multiprotein E3 ubiquitin ligase complex, catalyzing the covalent attachment of ubiquitin moieties onto substrate proteins; Belongs to the RBR family. Parkin subfamily",
+    "annotationB": "Voltage-dependent anion-selective channel protein 2; Cation channel activity; porin activity; voltage-gated anion channel activity. It is involved in the biological process described with: ion transport; regulation of anion transport; transmembrane transport; mitochondrial transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

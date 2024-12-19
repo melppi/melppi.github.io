@@ -1,0 +1,118 @@
+{
+    "pae": 3.2,
+    "iptm": 39.2,
+    "pdockq": 0.384,
+    "proA": "FBpp0074970",
+    "proB": "FBpp0304887",
+    "geneA": "Edc3",
+    "geneB": "tral",
+    "annotationA": "Enhancer of mRNA-decapping protein 3; In the process of mRNA degradation, may play a role in mRNA decapping",
+    "annotationB": "Trailer hitch, isoform H; Protein binding. It is involved in the biological process described with: oocyte dorsal/ventral axis specification; ER to Golgi vesicle-mediated transport; actin cytoskeleton organization; microtubule cytoskeleton organization",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 463,
+            "end_residue_number": 477,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 549,
+            "end_residue_number": 551,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 574,
+            "end_residue_number": 577,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 593,
+            "end_residue_number": 594,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 27,
+            "end_residue_number": 33,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 39,
+            "end_residue_number": 39,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "463-477",
+        "549-551",
+        "574-577",
+        "593-594"
+    ],
+    "interfaceB": [
+        "27-33",
+        "39-39",
+        "60-70"
+    ]
+}

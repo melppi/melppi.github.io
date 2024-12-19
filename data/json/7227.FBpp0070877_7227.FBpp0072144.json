@@ -1,0 +1,16 @@
+{
+    "pae": 21.0,
+    "iptm": 15.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0070877",
+    "proB": "FBpp0072144",
+    "geneA": "RpL7A",
+    "geneB": "eIF6",
+    "annotationA": "60S ribosomal protein L7a; Structural constituent of ribosome. It is involved in the biological process described with: ribosome biogenesis; mitotic spindle elongation; centrosome organization; translation; centrosome duplication; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL8 family",
+    "annotationB": "Eukaryotic translation initiation factor 6; Binds to the 60S ribosomal subunit and prevents its association with the 40S ribosomal subunit to form the 80S initiation complex in the cytoplasm. May also be involved in ribosome biogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

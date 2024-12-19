@@ -1,0 +1,62 @@
+{
+    "pae": 14.9,
+    "iptm": 22.2,
+    "pdockq": 0.028,
+    "proA": "FBpp0081822",
+    "proB": "FBpp0085193",
+    "geneA": "RpL3",
+    "geneB": "F2",
+    "annotationA": "60S ribosomal protein L3; The L3 protein is a component of the large subunit of cytoplasmic ribosomes",
+    "annotationB": "Elongation factor 1-alpha 2; This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 240,
+            "end_residue_number": 241,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 252,
+            "end_residue_number": 253,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 69,
+            "end_residue_number": 71,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "240-241",
+        "252-253"
+    ],
+    "interfaceB": [
+        "69-71"
+    ]
+}

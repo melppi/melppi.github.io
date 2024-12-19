@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0073561",
+    "proB": "FBpp0075382",
+    "geneA": "REG",
+    "geneB": "Prosbeta2",
+    "annotationA": "Proteasome regulator dREG; Endopeptidase activator activity; endopeptidase inhibitor activity. It is involved in the biological process described with: mRNA splicing, via spliceosome; regulation of proteasomal protein catabolic process; regulation of G1/S transition of mitotic cell cycle",
+    "annotationB": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

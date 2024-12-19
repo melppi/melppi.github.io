@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 19.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0075663",
+    "proB": "FBpp0076457",
+    "geneA": "CG32110",
+    "geneB": "Uba2",
+    "annotationA": "Uncharacterized protein; SUMO-specific protease activity; peptidase activity. It is involved in the biological process described with: proteolysis; protein desumoylation",
+    "annotationB": "Ubiquitin activating enzyme 2 is one of two subunits (along with Aos1) of the heterodimeric SUMO activating enzyme. It contains the catalytic cysteine residue that first becomes adenylated using ATP and that then forms a thioester linkage to the C-terminal end of SUMO",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

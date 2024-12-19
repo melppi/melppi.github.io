@@ -1,0 +1,62 @@
+{
+    "pae": 15.2,
+    "iptm": 18.6,
+    "pdockq": 0.037,
+    "proA": "FBpp0074818",
+    "proB": "FBpp0300874",
+    "geneA": "CG32202",
+    "geneB": "Roc1a",
+    "annotationA": "annotation not available",
+    "annotationB": "Regulator of cullins 1a (Roc1a) is a C2H2 type zinc finger protein and component of several Cullin-Ring E3 ubiquitin ligase complexes. Roc1a binds directly to the Cullin subunit within the CRL complex and functions to recruit ubiquitin-charged E2 proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 20,
+            "end_residue_number": 20,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 24,
+            "end_residue_number": 34,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 61,
+            "end_residue_number": 68,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "20-20",
+        "24-34"
+    ],
+    "interfaceB": [
+        "61-68"
+    ]
+}

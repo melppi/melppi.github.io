@@ -1,0 +1,16 @@
+{
+    "pae": 24.8,
+    "iptm": 15.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0079769",
+    "proB": "FBpp0085954",
+    "geneA": "aurB",
+    "geneB": "Nup75",
+    "annotationA": "Aurora B (AurB) is a serine-threonine kinase and member of the chromosomal passenger complex. AurB plays multiple roles in mitosis including the correction of erroneous chromosome-spindle interactions, chromosome condensation, kinetochore assembly, spindle assembly checkpoint and cytokinesis; Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Aurora subfamily",
+    "annotationB": "Nuclear pore complex protein Nup75; Component of the nuclear pore complex (NPC) that seems to be required for NPC assembly and maintenance (By similarity). Required for nuclear import of phosphorylated Mad via importin msk. Has no role in classical nuclear localization signal (cNLS)-dependent nuclear import via importin-beta. Facilitates the interaction between Nup93 and sec13 with msk",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

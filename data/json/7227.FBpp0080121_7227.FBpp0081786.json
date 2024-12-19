@@ -1,0 +1,48 @@
+{
+    "pae": 7.1,
+    "iptm": 31.6,
+    "pdockq": 0.091,
+    "proA": "FBpp0080121",
+    "proB": "FBpp0081786",
+    "geneA": "RpII33",
+    "geneB": "TfIIFbeta",
+    "annotationA": "RNA polymerase II 33kD subunit; DNA binding; protein dimerization activity; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; cellular response to heat",
+    "annotationB": "General transcription factor IIF subunit 2; TFIIF is a general transcription initiation factor that binds to RNA polymerase II and helps to recruit it to the initiation complex in collaboration with TFIIB. It promotes transcription elongation. This subunit shows ATP-dependent DNA- helicase activity (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 199,
+            "end_residue_number": 205,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 154,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "199-205"
+    ],
+    "interfaceB": [
+        "154-162"
+    ]
+}

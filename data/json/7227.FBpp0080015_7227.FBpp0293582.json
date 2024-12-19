@@ -1,0 +1,90 @@
+{
+    "pae": 8.3,
+    "iptm": 43.1,
+    "pdockq": 0.102,
+    "proA": "FBpp0080015",
+    "proB": "FBpp0293582",
+    "geneA": "Sir2",
+    "geneB": "HdacX",
+    "annotationA": "NAD-dependent histone deacetylase Sir2; NAD-dependent histone deacetylase involved in heterochromatic silencing. Mildly suppresses the heterochromatin- mediated silencing phenomenon known as position-effect variegation (PEV). Required for epigenetic silencing of the polycomb group proteins. Has histone H4 deacetylase activity in vitro. Required maternally for establishing proper segmentation of the embryo. Involved in sex determination. May be involved in the regulation of life span",
+    "annotationB": "Histone deacetylase activity. It is involved in the biological process described with: histone deacetylation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 643,
+            "end_residue_number": 660,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 17,
+            "end_residue_number": 21,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 178,
+            "end_residue_number": 191,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 209,
+            "end_residue_number": 215,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 237,
+            "end_residue_number": 237,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "643-660"
+    ],
+    "interfaceB": [
+        "17-21",
+        "178-191",
+        "209-215",
+        "237-237"
+    ]
+}

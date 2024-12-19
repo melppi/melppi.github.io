@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 22.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0087004",
+    "proB": "FBpp0088121",
+    "geneA": "Ak6",
+    "geneB": "Ady43A",
+    "annotationA": "Adenylate kinase isoenzyme 6 homolog; Broad-specificity nucleoside monophosphate (NMP) kinase that catalyzes the reversible transfer of the terminal phosphate group between nucleoside triphosphates and monophosphates. AMP is the best phosphate acceptor, and CMP is also a good substrate. All nucleoside triphosphates ATP, TTP, CTP, GTP, and UTP are accepted as phosphate donors. ATP is the best phosphate donor. May have a role in nuclear energy homeostasis; Belongs to the adenylate kinase family. AK6 subfamily",
+    "annotationB": "GM02629p; Adenosine kinase activity; phosphotransferase activity, alcohol group as acceptor",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

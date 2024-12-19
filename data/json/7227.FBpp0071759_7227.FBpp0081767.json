@@ -1,0 +1,202 @@
+{
+    "pae": 13.0,
+    "iptm": 30.4,
+    "pdockq": 0.364,
+    "proA": "FBpp0071759",
+    "proB": "FBpp0081767",
+    "geneA": "T3dh",
+    "geneB": "Fdh",
+    "annotationA": "Probable hydroxyacid-oxoacid transhydrogenase, mitochondrial; Catalyzes the cofactor-independent reversible oxidation of gamma-hydroxybutyrate (GHB) to succinic semialdehyde (SSA) coupled to reduction of 2-ketoglutarate (2-KG) to D-2- hydroxyglutarate (D-2-HG). L-3-hydroxybutyrate (L-3-OHB) is also a substrate for HOT when using 2-KG as hydrogen acceptor, resulting in the formation of D-2-HG (By similarity); Belongs to the iron-containing alcohol dehydrogenase family. Hydroxyacid-oxoacid transhydrogenase subfamily",
+    "annotationB": "Alcohol dehydrogenase class-3; Class-III ADH is remarkably ineffective in oxidizing ethanol, but it readily catalyzes the oxidation of long-chain primary alcohols and the oxidation of S-(hydroxymethyl) glutathione; Belongs to the zinc-containing alcohol dehydrogenase family. Class-III subfamily",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 17,
+            "end_residue_number": 26,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 61,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 70,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 96,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 113,
+            "end_residue_number": 113,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 118,
+            "end_residue_number": 122,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 143,
+            "end_residue_number": 145,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 177,
+            "end_residue_number": 177,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 181,
+            "end_residue_number": 181,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 272,
+            "end_residue_number": 276,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 297,
+            "end_residue_number": 301,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 322,
+            "end_residue_number": 324,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 368,
+            "end_residue_number": 368,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "17-26"
+    ],
+    "interfaceB": [
+        "48-61",
+        "70-70",
+        "96-97",
+        "113-113",
+        "118-122",
+        "143-145",
+        "177-177",
+        "181-181",
+        "272-276",
+        "297-301",
+        "322-324",
+        "368-368"
+    ]
+}

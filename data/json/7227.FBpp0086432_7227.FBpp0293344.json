@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 20.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0086432",
+    "proB": "FBpp0293344",
+    "geneA": "Diap2",
+    "geneB": "ird5",
+    "annotationA": "Death-associated inhibitor of apoptosis 2; Required for activation of NF-kappaB transcription factors in the immune deficiency (Imd) signaling cascade which is essential for innate immune responses upon infection by Gram- negative bacteria. Promotes cytoplasmic cleavage of Rel and its translocation to the nucleus where it drives expression of antimicrobial peptides. Binds, polyubiquitinates and activates Dredd which is required for Rel-mediated induction of antimicrobial peptides. Anti-apoptotic protein which binds, ubiquitinates and inactivates the effector caspase Drice. Suppresses r [...] ",
+    "annotationB": "Inhibitor of nuclear factor kappa-B kinase subunit beta; Required for the activation of the NF-kappa-B factor Relish (Rel) by acting as an essential signaling component in transmitting the lipopolysaccharide (LPS) signal leading to cact degradation, which is required for direct activation of Rel. Phosphorylates inhibitors of NF-kappa-B (cact) thus leading to the dissociation of the inhibitor/NF-kappa-B complex and ultimately the degradation of the NF-kappa-B inhibitor. Essential for antibacterial immune response",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

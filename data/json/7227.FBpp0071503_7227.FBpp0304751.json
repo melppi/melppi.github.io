@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0071503",
+    "proB": "FBpp0304751",
+    "geneA": "Xpd",
+    "geneB": "TfIIS",
+    "annotationA": "Xeroderma pigmentosum D is a DNA helicase that is a subunit of the basal transcription and DNA repair factor TFIIH",
+    "annotationB": "Transcription elongation factor S-II; Necessary for efficient RNA polymerase II transcription elongation past template-encoded arresting sites. The arresting sites in DNA have the property of trapping a certain fraction of elongating RNA polymerases that pass through, resulting in locked ternary complexes. Cleavage of the nascent transcript by S-II allows the resumption of elongation from the new 3'-terminus",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

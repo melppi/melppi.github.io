@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 25.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0079648",
+    "proB": "FBpp0081807",
+    "geneA": "RnrL",
+    "geneB": "Adk3",
+    "annotationA": "Ribonucleoside-diphosphate reductase large subunit; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides",
+    "annotationB": "GTP:AMP phosphotransferase, mitochondrial; Involved in maintaining the homeostasis of cellular nucleotides by catalyzing the interconversion of nucleoside phosphates. Has GTP:AMP phosphotransferase and ITP:AMP phosphotransferase activities",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

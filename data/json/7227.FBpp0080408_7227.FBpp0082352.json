@@ -1,0 +1,48 @@
+{
+    "pae": 16.1,
+    "iptm": 27.2,
+    "pdockq": 0.024,
+    "proA": "FBpp0080408",
+    "proB": "FBpp0082352",
+    "geneA": "CG5869",
+    "geneB": "twf",
+    "annotationA": "Glia-maturation factor (GMF) belongs to the ADF-H domain family of proteins, which promote dissambly of actin networks. GMF specifically binds to and promotes disassembly of Arp2/3-nucleated lamellipodial actin networks. GMF plays a role in promoting protrusion dynamics during cell migration",
+    "annotationB": "Twinfilin (Twf) is a ubiquitously expressed actin monomer binding protein that is structurally related to tsr and inhibits actin filament assembly. Twf is highly conserved and is present in all eukaryotes except plants. Its roles include bristle and neuronal development; Belongs to the actin-binding proteins ADF family. Twinfilin subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 47,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 274,
+            "end_residue_number": 274,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "47-47"
+    ],
+    "interfaceB": [
+        "274-274"
+    ]
+}

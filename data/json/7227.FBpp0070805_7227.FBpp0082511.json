@@ -1,0 +1,48 @@
+{
+    "pae": 17.4,
+    "iptm": 18.2,
+    "pdockq": 0.024,
+    "proA": "FBpp0070805",
+    "proB": "FBpp0082511",
+    "geneA": "lin-52",
+    "geneB": "Caf1",
+    "annotationA": "Myb-MuvB complex subunit Lin-52; It is involved in the biological process described with: compound eye development; cell cycle; negative regulation of transcription from RNA polymerase II promoter",
+    "annotationB": "Probable histone-binding protein Caf1; Core histone-binding subunit that may target chromatin assembly factors, chromatin remodeling factors and histone deacetylases to their histone substrates in a manner that is regulated by nucleosomal DNA. Component of several complexes which regulate chromatin metabolism. These include the chromatin assembly factor 1 (CAF-1) complex, which is required for chromatin assembly following DNA replication and DNA repair; the nucleosome remodeling and deacetylase complex (the NuRD complex), which promotes transcriptional repression by histone deacetylati [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 138,
+            "end_residue_number": 139,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 35,
+            "end_residue_number": 35,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "138-139"
+    ],
+    "interfaceB": [
+        "35-35"
+    ]
+}

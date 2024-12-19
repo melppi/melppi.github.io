@@ -1,0 +1,160 @@
+{
+    "pae": 2.0,
+    "iptm": 35.7,
+    "pdockq": 0.408,
+    "proA": "FBpp0073058",
+    "proB": "FBpp0077259",
+    "geneA": "Rcd5",
+    "geneB": "msl-2",
+    "annotationA": "Reduction in Cnn dots 5 (Rcd5) belongs to the family of forkhead-associated domain proteins. As part of the Non-Specific Lethal complex, it regulates transcription of housekeeping genes by facilitating recruitment of RNA polymerase II to promoters. During mitosis it plays a key role in chromosomal-dependent microtubule assembly, centriole duplication and pericentriolar material maturation",
+    "annotationB": "E3 ubiquitin-protein ligase msl-2; The Msl proteins are essential for elevating transcription of the single X chromosome in the male (X chromosome dosage compensation). Msl-2 is required for translation and/or stability of msl-1 in males. In complex with msl-1, acts as an E3 ubiquitin ligase that promotes ubiquitination of histone H2B; Belongs to the MSL2 family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 440,
+            "end_residue_number": 444,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 513,
+            "end_residue_number": 516,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 529,
+            "end_residue_number": 531,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 540,
+            "end_residue_number": 546,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 558,
+            "end_residue_number": 575,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 49,
+            "end_residue_number": 52,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 65,
+            "end_residue_number": 71,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 87,
+            "end_residue_number": 88,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 92,
+            "end_residue_number": 92,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 152,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "440-444",
+        "513-516",
+        "529-531",
+        "540-546",
+        "558-575"
+    ],
+    "interfaceB": [
+        "49-52",
+        "65-71",
+        "87-88",
+        "92-92",
+        "152-162"
+    ]
+}

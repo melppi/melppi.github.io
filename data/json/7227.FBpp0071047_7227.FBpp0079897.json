@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 20.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0071047",
+    "proB": "FBpp0079897",
+    "geneA": "CG1444",
+    "geneB": "CG6746",
+    "annotationA": "RH59310p; Steroid dehydrogenase activity. It is involved in the biological process described with: metabolic process; Belongs to the short-chain dehydrogenases/reductases (SDR) family",
+    "annotationB": "Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase; Catalyzes the third of the four reactions of the long- chain fatty acids elongation cycle. This endoplasmic reticulum- bound enzymatic process, allows the addition of two carbons to the chain of long- and very long-chain fatty acids/VLCFAs per cycle. This enzyme catalyzes the dehydration of the 3-hydroxyacyl-CoA intermediate into trans-2,3-enoyl-CoA, within each cycle of fatty acid elongation. Thereby, it participates to the production of VLCFAs of different chain lengths that are involved in multiple biological processes as precursor [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

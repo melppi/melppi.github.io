@@ -1,0 +1,16 @@
+{
+    "pae": 18.5,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0072560",
+    "proB": "FBpp0079454",
+    "geneA": "CG9149",
+    "geneB": "Mtpalpha",
+    "annotationA": "CG9149; acetyl-CoA C-acyltransferase activity. It is involved in the biological process described with: fatty acid beta-oxidation; Belongs to the thiolase family",
+    "annotationB": "Mitochondrial trifunctional protein alpha subunit, isoform A; enoyl-CoA hydratase activity; long-chain-3-hydroxyacyl-CoA dehydrogenase activity; coenzyme binding. It is involved in the biological process described with: determination of adult lifespan; response to starvation; fatty acid beta-oxidation; wound healing",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

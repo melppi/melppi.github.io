@@ -1,0 +1,16 @@
+{
+    "pae": 18.9,
+    "iptm": 22.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070873",
+    "proB": "FBpp0077159",
+    "geneA": "Marf",
+    "geneB": "RpL40",
+    "annotationA": "Transmembrane GTPase Marf; Essential transmembrane GTPase, which mediates mitochondrial fusion. Fusion of mitochondria occurs in many cell types and constitutes an important step in mitochondria morphology, which is balanced between fusion and fission (By similarity); Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family. Mitofusin subfamily",
+    "annotationB": "Ubiquitin-60S ribosomal protein L40; Ubiquitin: exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involve [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

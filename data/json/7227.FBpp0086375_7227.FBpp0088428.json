@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 17.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0086375",
+    "proB": "FBpp0088428",
+    "geneA": "Lis-1",
+    "geneB": "sw",
+    "annotationA": "Lissencephaly-1 homolog; Positively regulates the activity of the minus-end directed microtubule motor protein dynein. May enhance dynein- mediated microtubule sliding by targeting dynein to the microtubule plus end. Required for several dynein- and microtubule-dependent processes such as nuclear migration during cell division, mitotic spindle formation and the removal of mitotic checkpoint proteins from kinetochores at the metaphase to anaphase transition. Required for several aspects of neurogenesis including neuroblast proliferation, neuronal cell differentiation, dendritic growth,  [...] ",
+    "annotationB": "Cytoplasmic dynein 1 intermediate chain; Acts as one of several non-catalytic accessory components of the cytoplasmic dynein 1 complex that are thought to be involved in linking dynein to cargos and to adapter proteins that regulate dynein function. Cytoplasmic dynein 1 acts as a motor for the intracellular retrograde motility of vesicles and organelles along microtubules. The intermediate chains mediate the help dynein bind to dynactin 150 kDa component (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

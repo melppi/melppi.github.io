@@ -1,0 +1,16 @@
+{
+    "pae": 21.7,
+    "iptm": 14.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078996",
+    "proB": "FBpp0298005",
+    "geneA": "x16",
+    "geneB": "U2af50",
+    "annotationA": "X16 splicing factor, isoform A; mRNA binding; protein binding; RNA binding; zinc ion binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: nervous system development; RNA splicing; mRNA splicing, via spliceosome; mRNA splice site selection",
+    "annotationB": "Splicing factor U2AF 50 kDa subunit; Necessary for the splicing of pre-mRNA. Binds to the polypyrimidine tract of introns early during spliceosome assembly (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

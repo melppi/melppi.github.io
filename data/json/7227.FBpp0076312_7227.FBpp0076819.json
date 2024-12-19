@@ -1,0 +1,90 @@
+{
+    "pae": 12.1,
+    "iptm": 46.5,
+    "pdockq": 0.079,
+    "proA": "FBpp0076312",
+    "proB": "FBpp0076819",
+    "geneA": "Mcm7",
+    "geneB": "mad2",
+    "annotationA": "DNA replication licensing factor Mcm7; Acts as component of the Mcm2-7 complex (Mcm complex) which is the putative replicative helicase essential for 'once per cell cycle' DNA replication initiation and elongation in eukaryotic cells. The active ATPase sites in the Mcm2-7 ring are formed through the interaction surfaces of two neighboring subunits such that a critical structure of a conserved arginine finger motif is provided in trans relative to the ATP-binding site of the Walker A box of the adjacent subunit. The six ATPase active sites, however, are likely to contribute differential [...] ",
+    "annotationB": "RE72064p; Mad2 is a conserved component of the spindle checkpoint. During mitosis, it is recruited to unattached kinetochores, where it binds Mad1 and fzy, promoting the assembly of the mitotic checkpoint complex. During interphase, Mad2 is intranuclear, bound to Mad1, and associated primarily with the nuclear pore complex",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 663,
+            "end_residue_number": 663,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 667,
+            "end_residue_number": 667,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 702,
+            "end_residue_number": 707,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 134,
+            "end_residue_number": 146,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 186,
+            "end_residue_number": 188,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "663-663",
+        "667-667",
+        "702-707"
+    ],
+    "interfaceB": [
+        "134-146",
+        "186-188"
+    ]
+}

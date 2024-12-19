@@ -1,0 +1,146 @@
+{
+    "pae": 7.7,
+    "iptm": 46.1,
+    "pdockq": 0.174,
+    "proA": "FBpp0073725",
+    "proB": "FBpp0112333",
+    "geneA": "CG1461",
+    "geneB": "CG32068",
+    "annotationA": "CG1461, isoform A; Pyridoxal phosphate binding; L-tyrosine:2-oxoglutarate aminotransferase activity. It is involved in the biological process described with: aromatic amino acid family metabolic process; biosynthetic process",
+    "annotationB": "Acireductone dioxygenase 1 belongs to the cupin domain superfamily. It is an enzyme in the methionine salvage pathway (MTA cycle) and is required for fecundity",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 496,
+            "end_residue_number": 501,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 68,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 80,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 95,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 106,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 120,
+            "end_residue_number": 120,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 134,
+            "end_residue_number": 138,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 144,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 155,
+            "end_residue_number": 160,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "496-501"
+    ],
+    "interfaceB": [
+        "68-70",
+        "80-91",
+        "95-99",
+        "106-106",
+        "120-120",
+        "134-138",
+        "144-150",
+        "155-160"
+    ]
+}

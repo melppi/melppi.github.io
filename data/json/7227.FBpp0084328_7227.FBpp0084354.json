@@ -1,0 +1,118 @@
+{
+    "pae": 11.7,
+    "iptm": 14.2,
+    "pdockq": 0.064,
+    "proA": "FBpp0084328",
+    "proB": "FBpp0084354",
+    "geneA": "E(spl)mdelta-HLH",
+    "geneB": "E(spl)m2-BFM",
+    "annotationA": "Enhancer of split mdelta protein; Transcriptional repressor of genes that require a bHLH protein for their transcription. May serve as a transcriptional regulator of the Achaete-scute complex (AS-C) genes. Contributes to the neural-epidermal lineage decision during early neurogenesis. Part of the Notch signaling pathway",
+    "annotationB": "Enhancer of split M2 protein; Part of the Notch signaling pathway",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 38,
+            "end_residue_number": 49,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 61,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 94,
+            "end_residue_number": 108,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 119,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 33,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 178,
+            "end_residue_number": 180,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 188,
+            "end_residue_number": 190,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "38-49",
+        "61-72",
+        "94-108",
+        "119-131"
+    ],
+    "interfaceB": [
+        "33-41",
+        "178-180",
+        "188-190"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0078664",
+    "proB": "FBpp0078693",
+    "geneA": "Rpn11",
+    "geneB": "jet",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "annotationB": "Jetlag, isoform A; Jetlag is an F-box protein that is a component of an SCF E3 ubiquitin ligase complex. It targets tim for degradation upon light exposure, and is essential for photic entrainment of the circadian clock",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 15.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0079313",
+    "proB": "FBpp0081435",
+    "geneA": "grk",
+    "geneB": "osk",
+    "annotationA": "Protein gurken; Critical for defining the anterior-posterior and dorsal- ventral axes of the egg. May signal directly to dorsal follicle cells through the receptor torpedo (top). During oogenesis this signaling pathway instructs follicle cells to follow a dorsal pathway of development rather than the default ventral pathway",
+    "annotationB": "Maternal effect protein oskar; Organizes the germ plasm and directs localization of the posterior determinant nanos. Oskar protein is required to keep nos RNA and staufen protein at the posterior pole",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

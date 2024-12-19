@@ -1,0 +1,104 @@
+{
+    "pae": 10.0,
+    "iptm": 47.0,
+    "pdockq": 0.226,
+    "proA": "FBpp0071254",
+    "proB": "FBpp0084726",
+    "geneA": "CG16892",
+    "geneB": "Cpsf100",
+    "annotationA": "Uncharacterized protein, isoform A; It is involved in the biological process described with: nucleocytoplasmic transport",
+    "annotationB": "Probable cleavage and polyadenylation specificity factor subunit 2; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Required for the cotranscriptional processing of 3'-ends of polyadenylated and histone pre-mRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 177,
+            "end_residue_number": 179,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 211,
+            "end_residue_number": 220,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 95,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 116,
+            "end_residue_number": 124,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 271,
+            "end_residue_number": 275,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 312,
+            "end_residue_number": 316,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "177-179",
+        "211-220"
+    ],
+    "interfaceB": [
+        "95-103",
+        "116-124",
+        "271-275",
+        "312-316"
+    ]
+}

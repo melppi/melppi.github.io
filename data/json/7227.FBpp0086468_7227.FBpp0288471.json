@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 19.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0086468",
+    "proB": "FBpp0288471",
+    "geneA": "Vha36-1",
+    "geneB": "Vha44",
+    "annotationA": "V-type proton ATPase subunit D 1; Subunit of the peripheral V1 complex of vacuolar ATPase. V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells, thus providing most of the energy required for transport processes in the vacuolar system (By similarity)",
+    "annotationB": "V-type proton ATPase subunit C; Subunit of the peripheral V1 complex of vacuolar ATPase. Subunit C is necessary for the assembly of the catalytic sector of the enzyme and is likely to have a specific function in its catalytic activity. V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.9,
+    "iptm": 13.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0076374",
+    "proB": "FBpp0080121",
+    "geneA": "Nelf-E",
+    "geneB": "RpII33",
+    "annotationA": "Negative elongation factor E; Essential component of the NELF complex, a complex that negatively regulates the elongation of transcription by RNA polymerase II by RNA polymerase II. The NELF complex, which acts via an association with the DSIF complex, causes transcriptional pausing; Belongs to the RRM NELF-E family",
+    "annotationB": "RNA polymerase II 33kD subunit; DNA binding; protein dimerization activity; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; cellular response to heat",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

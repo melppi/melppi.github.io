@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 15.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0077676",
+    "proB": "FBpp0087861",
+    "geneA": "Clp",
+    "geneB": "Nup50",
+    "annotationA": "Cleavage and polyadenylation specificity factor subunit 4; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Has endonuclease activity. Binds RNA polymers with a preference for G- and/or C-rich clusters. Binds single-stranded DNA non-specifically",
+    "annotationB": "Nuclear pore complex protein Nup50; Component of the nuclear pore complex that has a direct role in nuclear protein import (By similarity). Actively displaces NLSs from importin-alpha, and facilitates disassembly of the importin-alpha:beta-cargo complex and importin recycling (By similarity). Binds to transcriptionally active chromatin sites when located in the nucleoplasm and is involved in transcriptional activation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

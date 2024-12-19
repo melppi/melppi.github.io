@@ -1,0 +1,104 @@
+{
+    "pae": 10.8,
+    "iptm": 38.7,
+    "pdockq": 0.318,
+    "proA": "FBpp0071210",
+    "proB": "FBpp0072312",
+    "geneA": "e(r)",
+    "geneB": "RpL19",
+    "annotationA": "Protein enhancer of rudimentary; Acts as an enhancer of the rudimentary gene. Has a role in pyrimidine biosynthesis and the cell cycle",
+    "annotationB": "60S ribosomal protein L19; Structural constituent of ribosome. It is involved in the biological process described with: centrosome duplication; mitotic spindle elongation; translation; Belongs to the eukaryotic ribosomal protein eL19 family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 3,
+            "end_residue_number": 7,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 18,
+            "end_residue_number": 23,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 70,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 77,
+            "end_residue_number": 79,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 104,
+            "end_residue_number": 114,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 135,
+            "end_residue_number": 146,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "3-7",
+        "18-23",
+        "70-72",
+        "77-79"
+    ],
+    "interfaceB": [
+        "104-114",
+        "135-146"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 25.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0073358",
+    "proB": "FBpp0082798",
+    "geneA": "PGRP-SA",
+    "geneB": "modSP",
+    "annotationA": "Peptidoglycan-recognition protein SA; Peptidoglycan-recognition protein that plays a key role in innate immunity by binding to peptidoglycans (PGN) of Gram- positive bacteria and activating the Toll pathway upstream of spz activating enzyme SPE. Has no activity against Gram-negative bacteria and fungi. Shows some partial redundancy with PRPGP-SD in Gram-positive bacteria recognition. May act by forming a complex with GNBP1 that activates the proteolytic cleavage of Spatzle and the subsequent activation of Toll pathway. Binds to diaminopimelic acid-type tetrapeptide PGN (DAP-type PGN) a [...] ",
+    "annotationB": "Modular serine protease; Serine protease that plays a key role in innate immunity by activating the Toll pathway in response to infection with Gram- positive bacteria and fungi. During Gram-positive infection, acts downstream of PGRP-SA and upstream of Grass and Spz, and therefore appears to function in a pathway that links detection of Gram-positive lysine-type peptidoglycans to Toll activation. Functions in a separate pathway to the psh-mediated activation of the Toll pathway; Belongs to the peptidase S1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

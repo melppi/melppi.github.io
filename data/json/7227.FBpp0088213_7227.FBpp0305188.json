@@ -1,0 +1,76 @@
+{
+    "pae": 14.3,
+    "iptm": 26.3,
+    "pdockq": 0.047,
+    "proA": "FBpp0088213",
+    "proB": "FBpp0305188",
+    "geneA": "CG2316",
+    "geneB": "Pex12",
+    "annotationA": "CG2316, isoform A; ATPase activity, coupled to transmembrane movement of substances; ATP binding; transporter activity. It is involved in the biological process described with: transmembrane transport",
+    "annotationB": "Peroxisome assembly protein 12; Required for protein import into peroxisomes. Involved in peroxisome biogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 23,
+            "end_residue_number": 37,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 41,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 187,
+            "end_residue_number": 195,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 203,
+            "end_residue_number": 207,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "23-37",
+        "41-41"
+    ],
+    "interfaceB": [
+        "187-195",
+        "203-207"
+    ]
+}

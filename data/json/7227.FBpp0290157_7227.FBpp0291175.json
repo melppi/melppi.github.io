@@ -1,0 +1,48 @@
+{
+    "pae": 15.6,
+    "iptm": 26.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0290157",
+    "proB": "FBpp0291175",
+    "geneA": "yuri",
+    "geneB": "Acam",
+    "annotationA": "Yuri gagarin, isoform C; Yuri gagarin",
+    "annotationB": "Calmodulin-related protein 97A; May be involved in calcium-mediated signal transduction",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 866,
+            "end_residue_number": 866,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 88,
+            "end_residue_number": 88,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "866-866"
+    ],
+    "interfaceB": [
+        "88-88"
+    ]
+}

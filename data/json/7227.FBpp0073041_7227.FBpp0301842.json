@@ -1,0 +1,188 @@
+{
+    "pae": 1.2,
+    "iptm": 63.8,
+    "pdockq": 0.687,
+    "proA": "FBpp0073041",
+    "proB": "FBpp0301842",
+    "geneA": "ntc",
+    "geneB": "PI31",
+    "annotationA": "Protein nutcracker; Functions together with PI31 to control non-apoptotic caspase activation during sperm individualization. Positively regulates PI31 stability",
+    "annotationB": "Proteasome inhibitor PI31 subunit; Plays an important role in the control of proteasome function. Inhibits the hydrolysis of protein and peptide substrates by the 20S proteasome. Enhances 26S proteasome function by promoting its assembly through the interaction with the assembly chaperones PSMD9 and PMSD5. Functions together with ntc to control non-apoptotic caspase activation during sperm individualization. In testis, is required for proper protein degradation and germline cell cycle progression",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 67,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 127,
+            "end_residue_number": 141,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 151,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 184,
+            "end_residue_number": 212,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 249,
+            "end_residue_number": 249,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 55,
+            "end_residue_number": 57,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 75,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 91,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 111,
+            "end_residue_number": 119,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 140,
+            "end_residue_number": 140,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 144,
+            "end_residue_number": 148,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 266,
+            "end_residue_number": 270,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "67-67",
+        "127-141",
+        "151-162",
+        "184-212",
+        "249-249"
+    ],
+    "interfaceB": [
+        "55-57",
+        "75-78",
+        "91-106",
+        "111-119",
+        "140-140",
+        "144-148",
+        "266-270"
+    ]
+}

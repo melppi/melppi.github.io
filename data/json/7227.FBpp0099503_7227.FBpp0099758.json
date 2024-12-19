@@ -1,0 +1,16 @@
+{
+    "pae": 24.7,
+    "iptm": 14.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0099503",
+    "proB": "FBpp0099758",
+    "geneA": "MtSSB",
+    "geneB": "PolG",
+    "annotationA": "Single-stranded DNA-binding protein, mitochondrial; This protein binds preferentially and cooperatively to pyrimidine rich ss-DNA. Required for mitochondrial DNA replication",
+    "annotationB": "DNA-directed DNA polymerase activity. It is involved in the biological process described with: mitochondrial genome maintenance; mitochondrion organization; mitochondrial DNA replication; DNA-dependent DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

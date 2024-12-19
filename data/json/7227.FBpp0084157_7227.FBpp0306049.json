@@ -1,0 +1,16 @@
+{
+    "pae": 16.6,
+    "iptm": 15.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0084157",
+    "proB": "FBpp0306049",
+    "geneA": "Mocs2",
+    "geneB": "MRG15",
+    "annotationA": "Molybdopterin synthase catalytic subunit; Catalytic subunit of the molybdopterin synthase complex, a complex that catalyzes the conversion of precursor Z into molybdopterin. Acts by mediating the incorporation of 2 sulfur atoms from thiocarboxylated MOCS2A into precursor Z to generate a dithiolene group; Belongs to the MoaE family. MOCS2B subfamily",
+    "annotationB": "NuA4 complex subunit EAF3 homolog; Part of the Tip60 chromatin-remodeling complex which is involved in DNA repair. Upon induction of DNA double-strand breaks, this complex acetylates phosphorylated H2AV in nucleosomes and exchanges it with unmodified H2AV",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

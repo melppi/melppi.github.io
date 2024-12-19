@@ -1,0 +1,48 @@
+{
+    "pae": 15.4,
+    "iptm": 26.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0072781",
+    "proB": "FBpp0083025",
+    "geneA": "ecd",
+    "geneB": "CG12320",
+    "annotationA": "Ecdysoneless (Ecd) physically interacts with several components of the U5 snRPN pre-mRNA splicing complex. Its loss result in intron retention within spok, accounting for ecdysone deficiency of ecd[1] mutants; Belongs to the ECD family",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 274,
+            "end_residue_number": 274,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 173,
+            "end_residue_number": 173,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "274-274"
+    ],
+    "interfaceB": [
+        "173-173"
+    ]
+}

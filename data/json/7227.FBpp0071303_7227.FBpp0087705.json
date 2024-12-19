@@ -1,0 +1,216 @@
+{
+    "pae": 14.9,
+    "iptm": 22.6,
+    "pdockq": 0.262,
+    "proA": "FBpp0071303",
+    "proB": "FBpp0087705",
+    "geneA": "Lst8",
+    "geneB": "alc",
+    "annotationA": "Protein LST8 homolog; Subunit of TORC1 and TORC2, which regulate cell growth and survival in response to nutrient and hormonal signals. Essential for TORC2-mediated regulation of cell growth and phosphorylation of Akt1. However it is not required for TORC1-mediated functions such as TORC1-dependent regulation of cell growth, autophagy and phosphorylation of S6K; Belongs to the WD repeat LST8 family",
+    "annotationB": "Alicorn, isoform A; AMP-activated protein kinase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; maintenance of apical/basal cell polarity; neuron cellular homeostasis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 14,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 37,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 56,
+            "end_residue_number": 57,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 82,
+            "end_residue_number": 85,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 100,
+            "end_residue_number": 100,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 126,
+            "end_residue_number": 128,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 167,
+            "end_residue_number": 169,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 185,
+            "end_residue_number": 185,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 216,
+            "end_residue_number": 218,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 234,
+            "end_residue_number": 234,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 256,
+            "end_residue_number": 260,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 276,
+            "end_residue_number": 276,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 298,
+            "end_residue_number": 302,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 12,
+            "end_residue_number": 27,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "14-16",
+        "37-41",
+        "56-57",
+        "82-85",
+        "100-100",
+        "126-128",
+        "167-169",
+        "185-185",
+        "216-218",
+        "234-234",
+        "256-260",
+        "276-276",
+        "298-302"
+    ],
+    "interfaceB": [
+        "12-27"
+    ]
+}

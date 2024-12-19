@@ -1,0 +1,90 @@
+{
+    "pae": 12.3,
+    "iptm": 22.3,
+    "pdockq": 0.129,
+    "proA": "FBpp0074564",
+    "proB": "FBpp0077909",
+    "geneA": "Pmp70",
+    "geneB": "Pex14",
+    "annotationA": "Peroxisomal membrane protein 70 kDa, isoform A; ATPase activity, coupled to transmembrane movement of substances; ATP binding; transporter activity. It is involved in the biological process described with: transmembrane transport; peroxisome organization",
+    "annotationB": "Peroxin 14; It is involved in the biological process described with: protein targeting to peroxisome; protein import into peroxisome matrix, docking; peroxisome organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 102,
+            "end_residue_number": 120,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 354,
+            "end_residue_number": 373,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 140,
+            "end_residue_number": 140,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 144,
+            "end_residue_number": 144,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 200,
+            "end_residue_number": 219,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "102-120",
+        "354-373"
+    ],
+    "interfaceB": [
+        "140-140",
+        "144-144",
+        "200-219"
+    ]
+}

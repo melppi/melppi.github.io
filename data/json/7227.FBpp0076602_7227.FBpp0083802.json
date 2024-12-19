@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 11.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0076602",
+    "proB": "FBpp0083802",
+    "geneA": "RpL18",
+    "geneB": "RpS3",
+    "annotationA": "60S ribosomal protein L18; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization",
+    "annotationB": "Ribosomal protein S3 (RpS3) is a component of the small subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles. RpS3 also contains a DNA lyase activity and functions in DNA repair",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,118 @@
+{
+    "pae": 15.4,
+    "iptm": 20.7,
+    "pdockq": 0.107,
+    "proA": "FBpp0078157",
+    "proB": "FBpp0084241",
+    "geneA": "CG11437",
+    "geneB": "CG10425",
+    "annotationA": "RE35159p; Phosphatidate phosphatase activity. It is involved in the biological process described with: dephosphorylation",
+    "annotationB": "LD07939p; Oxidoreductase activity. It is involved in the biological process described with: metabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 24,
+            "end_residue_number": 24,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 29,
+            "end_residue_number": 29,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 60,
+            "end_residue_number": 68,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 117,
+            "end_residue_number": 117,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 121,
+            "end_residue_number": 122,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 129,
+            "end_residue_number": 129,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 5,
+            "end_residue_number": 10,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "24-24",
+        "29-29",
+        "60-68",
+        "117-117",
+        "121-122",
+        "129-129"
+    ],
+    "interfaceB": [
+        "5-10"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 20.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0079536",
+    "proB": "FBpp0081879",
+    "geneA": "RpL7",
+    "geneB": "RpL24-like",
+    "annotationA": "60S ribosomal protein L7; Binds to G-rich structures in 28S rRNA and in mRNAs. Plays a regulatory role in the translation apparatus; inhibits cell-free translation of mRNAs (By similarity)",
+    "annotationB": "Probable ribosome biogenesis protein RLP24; Involved in the biogenesis of the 60S ribosomal subunit. Ensures the docking of NOG1 to pre-60S particles (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,216 @@
+{
+    "pae": 1.8,
+    "iptm": 85.3,
+    "pdockq": 0.627,
+    "proA": "FBpp0070363",
+    "proB": "FBpp0081600",
+    "geneA": "csw",
+    "geneB": "Ras85D",
+    "annotationA": "Tyrosine-protein phosphatase corkscrew; Required in all receptor tyrosine kinase signaling pathways. Functions downstream of the receptor tyrosine kinase torso, acting in concert with D-Raf via tailless. Also functions downstream of Egfr (epidermal growth factor receptor) and btl (fibroblast growth factor receptor). The SH2 domain suggests that csw effects its role by mediating heteromeric protein interactions. Maternally required for normal determination of cell fates at the termini of the embryo. Required for cell fate specification of the ventral ectoderm, in the developing embryoni [...] ",
+    "annotationB": "Ras-like protein 1; Ras proteins bind GDP/GTP and possess intrinsic GTPase activity (By similarity). Plays a role in eye development by regulating cell growth, survival of postmitotic ommatidial cells and differentiation of photoreceptor cells. During larval development, mediates Ptth/tor signaling leading to the production of ecdysone, a hormone required for the initiation of metamorphosis",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 328,
+            "end_residue_number": 344,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 348,
+            "end_residue_number": 348,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 353,
+            "end_residue_number": 353,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 357,
+            "end_residue_number": 362,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 584,
+            "end_residue_number": 586,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 646,
+            "end_residue_number": 646,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 684,
+            "end_residue_number": 687,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 722,
+            "end_residue_number": 722,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 726,
+            "end_residue_number": 734,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 3,
+            "end_residue_number": 7,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 31,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 54,
+            "end_residue_number": 56,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 61,
+            "end_residue_number": 75,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 102,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "328-344",
+        "348-348",
+        "353-353",
+        "357-362",
+        "584-586",
+        "646-646",
+        "684-687",
+        "722-722",
+        "726-734"
+    ],
+    "interfaceB": [
+        "3-7",
+        "31-41",
+        "54-56",
+        "61-75",
+        "102-102"
+    ]
+}

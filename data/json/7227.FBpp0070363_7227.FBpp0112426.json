@@ -1,0 +1,118 @@
+{
+    "pae": 11.0,
+    "iptm": 39.5,
+    "pdockq": 0.123,
+    "proA": "FBpp0070363",
+    "proB": "FBpp0112426",
+    "geneA": "csw",
+    "geneB": "rl",
+    "annotationA": "Tyrosine-protein phosphatase corkscrew; Required in all receptor tyrosine kinase signaling pathways. Functions downstream of the receptor tyrosine kinase torso, acting in concert with D-Raf via tailless. Also functions downstream of Egfr (epidermal growth factor receptor) and btl (fibroblast growth factor receptor). The SH2 domain suggests that csw effects its role by mediating heteromeric protein interactions. Maternally required for normal determination of cell fates at the termini of the embryo. Required for cell fate specification of the ventral ectoderm, in the developing embryoni [...] ",
+    "annotationB": "Mitogen-activated protein kinase ERK-A; Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway to regulate poliferation, differentiation and effect cell fate decisions in various tissues. Required downstream of phl/Raf in the sev/sevenless, tor/torso, and EGF receptor homolog Egfr signal transduction pathways. Required for embryonic epithelial tissue repair. During larval development, mediates Ptth/tor signaling leading to the production of ecdysone, a hormone required for the initiation of metamorphosis; Belongs to the protein kinase [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 920,
+            "end_residue_number": 930,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 122,
+            "end_residue_number": 123,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 128,
+            "end_residue_number": 128,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 132,
+            "end_residue_number": 142,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 170,
+            "end_residue_number": 175,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 328,
+            "end_residue_number": 329,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 334,
+            "end_residue_number": 334,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "920-930"
+    ],
+    "interfaceB": [
+        "122-123",
+        "128-128",
+        "132-142",
+        "170-175",
+        "328-329",
+        "334-334"
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "pae": 4.1,
+    "iptm": 73.1,
+    "pdockq": 0.431,
+    "proA": "FBpp0072674",
+    "proB": "FBpp0074660",
+    "geneA": "CG2021",
+    "geneB": "Prp3",
+    "annotationA": "GEO12071p1; It is involved in the biological process described with: mRNA splicing, via spliceosome",
+    "annotationB": "Precursor RNA processing 3, isoform A; It is involved in the biological process described with: regulation of chromatin silencing; mRNA splicing, via spliceosome",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 3,
+            "end_residue_number": 8,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 12,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 27,
+            "end_residue_number": 32,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 45,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 68,
+            "end_residue_number": 86,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 229,
+            "end_residue_number": 236,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 335,
+            "end_residue_number": 349,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "3-8",
+        "12-15",
+        "27-32",
+        "45-45",
+        "68-86"
+    ],
+    "interfaceB": [
+        "229-236",
+        "335-349"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072249",
+    "proB": "FBpp0074516",
+    "geneA": "Fcp1",
+    "geneB": "Ssu72",
+    "annotationA": "TFIIF-interacting CTD phosphatase, isoform A; CTD phosphatase activity. It is involved in the biological process described with: neurogenesis",
+    "annotationB": "Ssu72 CTD phosphatase (Ssu72) is an RNA polymerase II C-terminal domain (CTD) phosphatase. Ssu72 CTD phosphatase activity is important for RNAPII transcription and termination and for gene looping. Ssu72 may also be involved in the regulation of sister chromatid cohesion",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

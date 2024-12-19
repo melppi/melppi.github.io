@@ -1,0 +1,132 @@
+{
+    "pae": 5.4,
+    "iptm": 28.1,
+    "pdockq": 0.073,
+    "proA": "FBpp0076971",
+    "proB": "FBpp0085176",
+    "geneA": "run",
+    "geneB": "Med",
+    "annotationA": "Segmentation protein Runt; Plays a pivotal role in regulating the expression of other pair-rule genes such as eve, ftz, and h",
+    "annotationB": "Mothers against decapentaplegic homolog; Medea (Med) belongs to the highly conserved Smad family. Med can bind its siblings Mad or Smox to facilitate signal transduction for dpp or Activin ligands in the TGF-beta family. Med-complexes function as transcriptional regulators. Many developmental roles include dorsal-ventral patterning, patterning and proliferation of the wing disc and gene expression in the mushroom body of the larval brain",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 234,
+            "end_residue_number": 240,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 438,
+            "end_residue_number": 441,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 78,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 101,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 145,
+            "end_residue_number": 145,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 152,
+            "end_residue_number": 153,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 726,
+            "end_residue_number": 726,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 732,
+            "end_residue_number": 733,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "234-240",
+        "438-441"
+    ],
+    "interfaceB": [
+        "78-81",
+        "101-103",
+        "145-145",
+        "152-153",
+        "726-726",
+        "732-733"
+    ]
+}

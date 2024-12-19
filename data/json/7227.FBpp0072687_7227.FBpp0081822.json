@@ -1,0 +1,104 @@
+{
+    "pae": 7.7,
+    "iptm": 44.1,
+    "pdockq": 0.151,
+    "proA": "FBpp0072687",
+    "proB": "FBpp0081822",
+    "geneA": "RpL23A",
+    "geneB": "RpL3",
+    "annotationA": "Ribosomal protein L23A; Structural constituent of ribosome; nucleotide binding. It is involved in the biological process described with: translation; centrosome duplication; Belongs to the universal ribosomal protein uL23 family",
+    "annotationB": "60S ribosomal protein L3; The L3 protein is a component of the large subunit of cytoplasmic ribosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 235,
+            "end_residue_number": 241,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 264,
+            "end_residue_number": 265,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 103,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 136,
+            "end_residue_number": 136,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 141,
+            "end_residue_number": 152,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 156,
+            "end_residue_number": 156,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "235-241",
+        "264-265"
+    ],
+    "interfaceB": [
+        "103-103",
+        "136-136",
+        "141-152",
+        "156-156"
+    ]
+}

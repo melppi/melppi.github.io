@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 17.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0075713",
+    "proB": "FBpp0088945",
+    "geneA": "ArfGAP1",
+    "geneB": "AP-2alpha",
+    "annotationA": "ADP-ribosylation factor GTPase activating protein 1, isoform A; Zinc ion binding; ARF GTPase activator activity; GTP binding. It is involved in the biological process described with: regulation of ARF GTPase activity; regulation of ARF protein signal transduction",
+    "annotationB": "AP-2 complex subunit alpha; Adaptins are components of the adapter complexes which link clathrin to receptors in coated vesicles. Clathrin-associated protein complexes are believed to interact with the cytoplasmic tails of membrane proteins, leading to their selection and concentration. AP-2alpha is a subunit of the plasma membrane adapter",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

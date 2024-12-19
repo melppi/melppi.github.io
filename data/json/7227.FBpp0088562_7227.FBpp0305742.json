@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0088562",
+    "proB": "FBpp0305742",
+    "geneA": "tra2",
+    "geneB": "l(3)72Dn",
+    "annotationA": "Transformer-2 sex-determining protein; Required for female sex determination in somatic cells and for spermatogenesis in male germ cells. Positive regulator of female-specific splicing and/or polyadenylation of doublesex (dsx) pre-mRNA. Splicing requires an enhancer complex, dsxRE (dsx repeat element: which contains six copies of a 13-nucleotide repeat and a purine-rich enhancer (PRE)). DsxRE is formed through cooperative interactions between tra, tra2 and the sr proteins, and these interactions require both the repeat sequences and PRE. PRE is required for specific binding of tra2 to  [...] ",
+    "annotationB": "Lethal (3) 72Dn, isoform B; It is involved in the biological process described with: neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

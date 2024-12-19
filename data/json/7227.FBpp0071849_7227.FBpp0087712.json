@@ -1,0 +1,16 @@
+{
+    "pae": 24.4,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0071849",
+    "proB": "FBpp0087712",
+    "geneA": "CG17807",
+    "geneB": "CG8078",
+    "annotationA": "Uncharacterized protein; Methyltransferase activity; oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors. It is involved in the biological process described with: oxidation-reduction process",
+    "annotationB": "Cytoplasmic tRNA 2-thiolation protein 1; Plays a central role in 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of tRNA(Lys), tRNA(Glu) and tRNA(Gln). Directly binds tRNAs and probably acts by catalyzing adenylation of tRNAs, an intermediate required for 2-thiolation. It is unclear whether it acts as a sulfurtransferase that transfers sulfur from thiocarboxylated URM1 onto the uridine of tRNAs at wobble position",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

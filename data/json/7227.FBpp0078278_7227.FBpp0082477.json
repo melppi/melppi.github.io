@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 17.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0078278",
+    "proB": "FBpp0082477",
+    "geneA": "Rpn5",
+    "geneB": "eff",
+    "annotationA": "Regulatory particle non-ATPase 5; Endopeptidase activity. It is involved in the biological process described with: proteolysis; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Mediates the selective degradation of short-lived and abnormal proteins. Required for proper telomere behavior during cell divisions and possibly for ubiquitination of proteins involved in postmeiotic stages of spermatogenesis. Deletion mutations are lethal in homozygotes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

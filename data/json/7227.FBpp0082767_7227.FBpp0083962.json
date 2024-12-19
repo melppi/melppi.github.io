@@ -1,0 +1,104 @@
+{
+    "pae": 1.3,
+    "iptm": 70.7,
+    "pdockq": 0.593,
+    "proA": "FBpp0082767",
+    "proB": "FBpp0083962",
+    "geneA": "mRpS33",
+    "geneB": "mRpS24",
+    "annotationA": "Mitochondrial ribosomal protein S33; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "annotationB": "28S ribosomal protein S24, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uS3 family",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 54,
+            "end_residue_number": 73,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 78,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 77,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 87,
+            "end_residue_number": 98,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 130,
+            "end_residue_number": 134,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 138,
+            "end_residue_number": 144,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "54-73",
+        "78-82"
+    ],
+    "interfaceB": [
+        "77-83",
+        "87-98",
+        "130-134",
+        "138-144"
+    ]
+}

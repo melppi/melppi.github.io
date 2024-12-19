@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0074756",
+    "proB": "FBpp0078990",
+    "geneA": "rept",
+    "geneB": "Atac1",
+    "annotationA": "RuvB-like helicase 2; Acts as a transcriptional coactivator in Wg signaling caused by altered arm signaling. Pont and rept interfere antagonistically with nuclear arm signaling function, and are required to enhance or reduce arm activity, respectively. Also an essential cofactor for the normal function of Myc; required for cellular proliferation and growth",
+    "annotationB": "Ada2a-containing complex component 1; DNA binding; histone acetyltransferase activity; chromatin binding. It is involved in the biological process described with: chromatin remodeling; histone H3 acetylation; histone acetylation; histone H4 acetylation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

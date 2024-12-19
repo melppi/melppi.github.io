@@ -1,0 +1,104 @@
+{
+    "pae": 14.1,
+    "iptm": 26.3,
+    "pdockq": 0.042,
+    "proA": "FBpp0073058",
+    "proB": "FBpp0078992",
+    "geneA": "Rcd5",
+    "geneB": "Gas41",
+    "annotationA": "Reduction in Cnn dots 5 (Rcd5) belongs to the family of forkhead-associated domain proteins. As part of the Non-Specific Lethal complex, it regulates transcription of housekeeping genes by facilitating recruitment of RNA polymerase II to promoters. During mitosis it plays a key role in chromosomal-dependent microtubule assembly, centriole duplication and pericentriolar material maturation",
+    "annotationB": "LD16161p; It is involved in the biological process described with: regulation of transcription, DNA-templated; transcription initiation from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 406,
+            "end_residue_number": 406,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 411,
+            "end_residue_number": 411,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 439,
+            "end_residue_number": 446,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 63,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 106,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 198,
+            "end_residue_number": 208,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "406-406",
+        "411-411",
+        "439-446"
+    ],
+    "interfaceB": [
+        "63-63",
+        "106-106",
+        "198-208"
+    ]
+}

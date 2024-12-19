@@ -1,0 +1,48 @@
+{
+    "pae": 12.6,
+    "iptm": 17.0,
+    "pdockq": 0.033,
+    "proA": "FBpp0078053",
+    "proB": "FBpp0084787",
+    "geneA": "barc",
+    "geneB": "Slu7",
+    "annotationA": "Barricade, isoform A; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: neuron differentiation; neurogenesis",
+    "annotationB": "Pre-mRNA-splicing factor Slu7; Participates in the second catalytic step of pre-mRNA splicing, when the free hydroxyl group of exon I attacks the 3'- splice site to generate spliced mRNA and the excised lariat intron",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 203,
+            "end_residue_number": 211,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 335,
+            "end_residue_number": 347,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "203-211"
+    ],
+    "interfaceB": [
+        "335-347"
+    ]
+}

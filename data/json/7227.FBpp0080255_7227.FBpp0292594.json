@@ -1,0 +1,16 @@
+{
+    "pae": 20.6,
+    "iptm": 18.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0080255",
+    "proB": "FBpp0292594",
+    "geneA": "dyn-p25",
+    "geneB": "l(2)35Bc",
+    "annotationA": "Dynactin 5, p25 subunit; It is involved in the biological process described with: spermatogenesis; positive regulation of retrograde axon cargo transport; microtubule-based movement",
+    "annotationB": "Probable tRNA(His) guanylyltransferase; Adds a GMP to the 5'-end of tRNA(His) after transcription and RNase P cleavage",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

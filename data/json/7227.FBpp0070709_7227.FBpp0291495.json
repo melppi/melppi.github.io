@@ -1,0 +1,16 @@
+{
+    "pae": 22.6,
+    "iptm": 13.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070709",
+    "proB": "FBpp0291495",
+    "geneA": "Rpn13R",
+    "geneB": "Rpn3",
+    "annotationA": "Regulatory particle non-ATPase 13-related; Ubiquitin binding. It is involved in the biological process described with: ubiquitin-dependent protein catabolic process",
+    "annotationB": "Probable 26S proteasome non-ATPase regulatory subunit 3; Acts as a regulatory subunit of the 26 proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

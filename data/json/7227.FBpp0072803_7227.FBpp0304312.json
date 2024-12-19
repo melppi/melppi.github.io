@@ -1,0 +1,132 @@
+{
+    "pae": 9.5,
+    "iptm": 25.2,
+    "pdockq": 0.159,
+    "proA": "FBpp0072803",
+    "proB": "FBpp0304312",
+    "geneA": "dos",
+    "geneB": "CG13398",
+    "annotationA": "Protein daughter of sevenless; Essential component for signaling from various receptor tyrosine kinases such as Sevenless, TORSO and DER. Required for photoreceptor cell and wing development",
+    "annotationB": "Uncharacterized protein, isoform A; Insulin receptor binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 40,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 58,
+            "end_residue_number": 61,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 111,
+            "end_residue_number": 113,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 25,
+            "end_residue_number": 30,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 67,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 71,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 89,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 390,
+            "end_residue_number": 395,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "35-40",
+        "58-61",
+        "111-113"
+    ],
+    "interfaceB": [
+        "25-30",
+        "67-67",
+        "71-78",
+        "89-91",
+        "390-395"
+    ]
+}

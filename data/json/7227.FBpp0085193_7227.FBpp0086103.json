@@ -1,0 +1,90 @@
+{
+    "pae": 11.5,
+    "iptm": 38.3,
+    "pdockq": 0.057,
+    "proA": "FBpp0085193",
+    "proB": "FBpp0086103",
+    "geneA": "F2",
+    "geneB": "RpL18A",
+    "annotationA": "Elongation factor 1-alpha 2; This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis",
+    "annotationB": "60S ribosomal protein L18a; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL20 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 21,
+            "end_residue_number": 21,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 74,
+            "end_residue_number": 74,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 93,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 431,
+            "end_residue_number": 431,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 85,
+            "end_residue_number": 90,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "21-21",
+        "74-74",
+        "93-97",
+        "431-431"
+    ],
+    "interfaceB": [
+        "85-90"
+    ]
+}

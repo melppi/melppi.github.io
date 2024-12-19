@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 16.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0083860",
+    "proB": "FBpp0087122",
+    "geneA": "Rpn9",
+    "geneB": "Oda",
+    "annotationA": "26S proteasome regulatory complex subunit p39A; Endopeptidase activity. It is involved in the biological process described with: proteolysis; proteasome-mediated ubiquitin-dependent protein catabolic process; regulation of exit from mitosis",
+    "annotationB": "Ornithine decarboxylase (ODC) antizyme protein that negatively regulates ODC activity and intracellular polyamine biosynthesis and uptake in response to increased intracellular polyamine levels. Binds to ODC monomers, inhibiting the assembly of the functional ODC homodimer, and targets the monomers for ubiquitin- independent proteolytic destruction by the 26S proteasome (By similarity). Required for cellular differentiation in neuronal and myogenic lineages during embryonic development . ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

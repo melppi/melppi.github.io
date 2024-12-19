@@ -1,0 +1,216 @@
+{
+    "pae": 2.0,
+    "iptm": 34.9,
+    "pdockq": 0.502,
+    "proA": "FBpp0079312",
+    "proB": "FBpp0085546",
+    "geneA": "D12",
+    "geneB": "DMAP1",
+    "annotationA": "D12; Histone acetyltransferase activity. It is involved in the biological process described with: chromatin remodeling; histone acetylation; regulation of transcription, DNA-templated",
+    "annotationB": "DNA methyltransferase 1-associated protein 1; Involved in transcription repression and activation (By similarity). Required for larvae and pupal development, and for normal innate immune responses. Involved in modulating the activation of the immune deficiency pathway (Imd), acting either downstream of, or at the level of, the NF-kappa-B factor Rel. Possibly functions with akirin to regulate Rel, and its interaction with the Brahma complex protein Bap55 suggests that it may regulate the IMD pathway at the level of chromatin remodeling",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 84,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 109,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 113,
+            "end_residue_number": 116,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 142,
+            "end_residue_number": 149,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 696,
+            "end_residue_number": 706,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 710,
+            "end_residue_number": 710,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 732,
+            "end_residue_number": 737,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 741,
+            "end_residue_number": 741,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 750,
+            "end_residue_number": 753,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 926,
+            "end_residue_number": 926,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 13,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 310,
+            "end_residue_number": 318,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 358,
+            "end_residue_number": 384,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 418,
+            "end_residue_number": 423,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "84-103",
+        "109-109",
+        "113-116",
+        "142-149",
+        "696-706",
+        "710-710",
+        "732-737",
+        "741-741",
+        "750-753",
+        "926-926"
+    ],
+    "interfaceB": [
+        "1-13",
+        "310-318",
+        "358-384",
+        "418-423"
+    ]
+}

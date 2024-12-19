@@ -1,0 +1,76 @@
+{
+    "pae": 9.9,
+    "iptm": 23.7,
+    "pdockq": 0.07,
+    "proA": "FBpp0072200",
+    "proB": "FBpp0291001",
+    "geneA": "CG3483",
+    "geneB": "skap",
+    "annotationA": "CG3483 protein; Magnesium ion binding; NAD binding; isocitrate dehydrogenase (NAD+) activity. It is involved in the biological process described with: oxidation-reduction process",
+    "annotationB": "Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial; ATP-specific succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of ATP and thus represents the only step of substrate-level phosphorylation in the TCA. The beta subunit provides nucleotide specificity of the enzyme and binds the substrate succinate, while the binding sites for coenzyme A and phosphate are found in the alpha subunit",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 183,
+            "end_residue_number": 189,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 195,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 147,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 249,
+            "end_residue_number": 250,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "183-189",
+        "195-199"
+    ],
+    "interfaceB": [
+        "147-150",
+        "249-250"
+    ]
+}

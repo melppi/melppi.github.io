@@ -1,0 +1,16 @@
+{
+    "pae": 15.7,
+    "iptm": 28.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0078896",
+    "proB": "FBpp0080395",
+    "geneA": "Sec61alpha",
+    "geneB": "CaBP1",
+    "annotationA": "Sec61 alpha subunit is a subunit of the the translocon, a protein-conducting channel that mediates the co-translational transport of nascent polypeptides into the endoplasmic reticulum. Sec61 alpha is a subunit of the Sec61 heterotrimer that forms the core of translocon channel",
+    "annotationB": "Protein disulfide-isomerase A6 homolog; Calcium-binding protein 1 (CaBP1) resides in the lumen of the endoplasmic reticulum. CaBP1 seems to be relocated outside cells during apoptosis and involved in the phagocytosis of apoptotic cells",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

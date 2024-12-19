@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 21.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070873",
+    "proB": "FBpp0087151",
+    "geneA": "Marf",
+    "geneB": "rho-7",
+    "annotationA": "Transmembrane GTPase Marf; Essential transmembrane GTPase, which mediates mitochondrial fusion. Fusion of mitochondria occurs in many cell types and constitutes an important step in mitochondria morphology, which is balanced between fusion and fission (By similarity); Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family. Mitofusin subfamily",
+    "annotationB": "Rhomboid-7, isoform A; Rhomboid-7 (Rho-7) is an intramembrane serine protease of the rhomboid family present in the inner membrane of mitochondria. It regulates mitochondrial fusion during spermatogenesis and muscle development. Rho-7 genetically interacts with fog, Opa1 and Pink1, which is also a substrate of Rho-7",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,90 @@
+{
+    "pae": 3.5,
+    "iptm": 43.6,
+    "pdockq": 0.321,
+    "proA": "FBpp0074104",
+    "proB": "FBpp0087491",
+    "geneA": "mRpL22",
+    "geneB": "mRpL42",
+    "annotationA": "39S ribosomal protein L22, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uL22 family",
+    "annotationB": "Mitochondrial ribosomal protein L42, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 208,
+            "end_residue_number": 208,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 212,
+            "end_residue_number": 233,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 75,
+            "end_residue_number": 100,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 104,
+            "end_residue_number": 112,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 118,
+            "end_residue_number": 124,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "208-208",
+        "212-233"
+    ],
+    "interfaceB": [
+        "75-100",
+        "104-112",
+        "118-124"
+    ]
+}

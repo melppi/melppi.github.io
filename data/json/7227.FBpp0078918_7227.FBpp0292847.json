@@ -1,0 +1,48 @@
+{
+    "pae": 11.6,
+    "iptm": 16.2,
+    "pdockq": 0.087,
+    "proA": "FBpp0078918",
+    "proB": "FBpp0292847",
+    "geneA": "COX5B",
+    "geneB": "ATPsynE",
+    "annotationA": "Cytochrome-c oxidase activity. It is involved in the biological process described with: mitochondrial electron transport, cytochrome c to oxygen",
+    "annotationB": "ATP synthase, subunit E, isoform A; Hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 93,
+            "end_residue_number": 107,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 26,
+            "end_residue_number": 38,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "93-107"
+    ],
+    "interfaceB": [
+        "26-38"
+    ]
+}

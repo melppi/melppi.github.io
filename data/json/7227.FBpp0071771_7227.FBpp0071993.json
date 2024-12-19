@@ -1,0 +1,76 @@
+{
+    "pae": 4.4,
+    "iptm": 45.9,
+    "pdockq": 0.138,
+    "proA": "FBpp0071771",
+    "proB": "FBpp0071993",
+    "geneA": "bonsai",
+    "geneB": "mRpL43",
+    "annotationA": "28S ribosomal protein S15, mitochondrial; Essential for gut mitochondrial activity. Might be involved in tissue specific growth factor production; Belongs to the universal ribosomal protein uS15 family",
+    "annotationB": "Mitochondrial ribosomal protein L43; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 102,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 154,
+            "end_residue_number": 160,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 38,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 93,
+            "end_residue_number": 93,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "102-102",
+        "154-160"
+    ],
+    "interfaceB": [
+        "38-46",
+        "93-93"
+    ]
+}

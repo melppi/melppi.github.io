@@ -1,0 +1,104 @@
+{
+    "pae": 7.5,
+    "iptm": 38.4,
+    "pdockq": 0.077,
+    "proA": "FBpp0087063",
+    "proB": "FBpp0087936",
+    "geneA": "Nup54",
+    "geneB": "Nup44A",
+    "annotationA": "Probable nucleoporin Nup54; Probable component of the nuclear pore complex, a complex required for the trafficking across the nuclear membrane (By similarity). May have a role in the organization of the inner nuclear membrane proteins at the nuclear envelope together with Nup154; Belongs to the NUP54 family",
+    "annotationB": "Nucleoporin at 44A, isoform A; Structural constituent of nuclear pore. It is involved in the biological process described with: oogenesis; regulation of mitotic cell cycle; regulation of meiotic cell cycle; Belongs to the WD repeat SEC13 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 554,
+            "end_residue_number": 564,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 176,
+            "end_residue_number": 176,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 230,
+            "end_residue_number": 234,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 250,
+            "end_residue_number": 250,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 283,
+            "end_residue_number": 284,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 301,
+            "end_residue_number": 305,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "554-564"
+    ],
+    "interfaceB": [
+        "176-176",
+        "230-234",
+        "250-250",
+        "283-284",
+        "301-305"
+    ]
+}

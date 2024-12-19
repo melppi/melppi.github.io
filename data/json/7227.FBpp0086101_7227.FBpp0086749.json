@@ -1,0 +1,118 @@
+{
+    "pae": 1.6,
+    "iptm": 47.9,
+    "pdockq": 0.569,
+    "proA": "FBpp0086101",
+    "proB": "FBpp0086749",
+    "geneA": "cyp33",
+    "geneB": "fand",
+    "annotationA": "Peptidyl-prolyl cis-trans isomerase E; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides. Combines RNA-binding and PPIase activities (By similarity); Belongs to the cyclophilin-type PPIase family. PPIase E subfamily",
+    "annotationB": "FI18620p1; It is involved in the biological process described with: phagocytosis; RNA splicing; regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 25,
+            "end_residue_number": 31,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 55,
+            "end_residue_number": 71,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 76,
+            "end_residue_number": 76,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 32,
+            "end_residue_number": 37,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 64,
+            "end_residue_number": 68,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 104,
+            "end_residue_number": 112,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 139,
+            "end_residue_number": 145,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "25-31",
+        "55-71",
+        "76-76"
+    ],
+    "interfaceB": [
+        "32-37",
+        "64-68",
+        "104-112",
+        "139-145"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 19.0,
+    "iptm": 24.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0079677",
+    "proB": "FBpp0084955",
+    "geneA": "chico",
+    "geneB": "spn-A",
+    "annotationA": "Insulin receptor substrate 1; Activates phosphatidylinositol 3-kinase when bound to the regulatory p85 subunit (By similarity). May mediate the control of various cellular processes by insulin-like peptides. When phosphorylated by the insulin receptor binds specifically to various cellular proteins containing SH2 domains. Involved in control of cell proliferation, cell size, and body and organ growth throughout development. Also has a role in a signaling pathway controlling the physiological response required to endure periods of low nutrient conditions. Insulin/insulin-like growth fac [...] ",
+    "annotationB": "DNA repair protein Rad51 homolog; Spindle A forms a filament on single-stranded DNA, does a homology search of double-stranded DNA, and catalyzes strand exchange, swapping the single-strand DNA in and displacing the partner of the complementary strand",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.3,
+    "iptm": 16.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0073010",
+    "proB": "FBpp0084735",
+    "geneA": "Scsalpha",
+    "geneB": "CG11876",
+    "annotationA": "Succinate--CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial; Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and specificity for either ATP or GTP is provided by different beta subunits",
+    "annotationB": "Pyruvate dehydrogenase E1 component subunit beta; The pyruvate dehydrogenase complex catalyzes the overall conversion of pyruvate to acetyl-CoA and CO2",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

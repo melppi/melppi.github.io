@@ -1,0 +1,48 @@
+{
+    "pae": 15.8,
+    "iptm": 32.0,
+    "pdockq": 0.025,
+    "proA": "FBpp0071844",
+    "proB": "FBpp0087164",
+    "geneA": "CG2852",
+    "geneB": "ERp60",
+    "annotationA": "Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides",
+    "annotationB": "Protein disulfide isomerase activity. It is involved in the biological process described with: protein folding; cell redox homeostasis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 85,
+            "end_residue_number": 86,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 393,
+            "end_residue_number": 393,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "85-86"
+    ],
+    "interfaceB": [
+        "393-393"
+    ]
+}

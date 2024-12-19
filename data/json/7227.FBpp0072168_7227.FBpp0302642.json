@@ -1,0 +1,16 @@
+{
+    "pae": 24.4,
+    "iptm": 14.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0072168",
+    "proB": "FBpp0302642",
+    "geneA": "cN-IIIB",
+    "geneB": "AdSS",
+    "annotationA": "7-methylguanosine phosphate-specific 5'-nucleotidase; Specifically hydrolyzes 7-methylguanosine monophosphate (m(7)GMP) to 7-methylguanosine and inorganic phosphate. Also able to mediate hydrolysis of diphosphate (m(7)GDP) to 7-methylguanosine and 2 inorganic phosphate with lower activity. The specific activity for m(7)GMP may protect cells against undesired salvage of m(7)GMP and its incorporation into nucleic acids. Also has weak activity for CMP. UMP and purine nucleotides are poor substrates; Belongs to the pyrimidine 5'-nucleotidase family",
+    "annotationB": "Adenylosuccinate synthetase; Plays an important role in the de novo pathway and in the salvage pathway of purine nucleotide biosynthesis. Catalyzes the first committed step in the biosynthesis of AMP from IMP (By similarity). Plays a role in the regulation of adult life span",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

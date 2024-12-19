@@ -1,0 +1,48 @@
+{
+    "pae": 12.5,
+    "iptm": 19.1,
+    "pdockq": 0.064,
+    "proA": "FBpp0084303",
+    "proB": "FBpp0086975",
+    "geneA": "CLS",
+    "geneB": "Taz",
+    "annotationA": "Probable cardiolipin synthase (CMP-forming); Catalyzes the synthesis of cardiolipin (CL) (diphosphatidylglycerol) by specifically transferring a phosphatidyl group from CDP-diacylglycerol to phosphatidylglycerol (PG). CL is a key phospholipid in mitochondrial membranes and plays important roles in maintaining the functional integrity and dynamics of mitochondria under both optimal and stress conditions",
+    "annotationB": "Tafazzin (Taz) is a mitochondrial phospholipid-lysophospholipid transacylase that exchange acyl groups between cardiolipin molecules and other phospholipids. Taz plays a critical role in maintaining a normal cardiolipin composition required for optimal mitochondrial function",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 214,
+            "end_residue_number": 219,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 142,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "214-219"
+    ],
+    "interfaceB": [
+        "142-150"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 16.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0077945",
+    "proB": "FBpp0081347",
+    "geneA": "CG10585",
+    "geneB": "Coq2",
+    "annotationA": "Uncharacterized protein, isoform A; Trans-hexaprenyltranstransferase activity; Belongs to the FPP/GGPP synthase family",
+    "annotationB": "4-hydroxybenzoate polyprenyltransferase, mitochondrial; Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of coenzyme Q (CoQ) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate; Belongs to the UbiA prenyltransferase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

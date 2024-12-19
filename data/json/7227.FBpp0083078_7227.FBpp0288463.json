@@ -1,0 +1,76 @@
+{
+    "pae": 13.8,
+    "iptm": 19.0,
+    "pdockq": 0.026,
+    "proA": "FBpp0083078",
+    "proB": "FBpp0288463",
+    "geneA": "CG31229",
+    "geneB": "CG7394",
+    "annotationA": "Mitochondrial import inner membrane translocase subunit Tim22; Essential core component of the TIM22 complex, a complex that mediates the import and insertion of multi-pass transmembrane proteins into the mitochondrial inner membrane. In the TIM22 complex, it constitutes the voltage-activated and signal-gated channel. Forms a twin-pore translocase that uses the membrane potential as external driving force in 2 voltage-dependent steps (By similarity)",
+    "annotationB": "Mitochondrial import inner membrane translocase subunit TIM14; Probable component of the PAM complex, a complex required for the translocation of transit peptide-containing proteins from the inner membrane into the mitochondrial matrix in an ATP-dependent manner. May act as a co-chaperone that stimulate the ATP-dependent activity (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 184,
+            "end_residue_number": 187,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 191,
+            "end_residue_number": 191,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 18,
+            "end_residue_number": 18,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 22,
+            "end_residue_number": 22,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "184-187",
+        "191-191"
+    ],
+    "interfaceB": [
+        "18-18",
+        "22-22"
+    ]
+}

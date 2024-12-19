@@ -1,0 +1,48 @@
+{
+    "pae": 2.9,
+    "iptm": 23.2,
+    "pdockq": 0.41,
+    "proA": "FBpp0087229",
+    "proB": "FBpp0305254",
+    "geneA": "CG13204",
+    "geneB": "CG3919",
+    "annotationA": "Uncharacterized protein, isoform A; CG13204 is predicted to be a transcriptional regulator. CG13204 overexpression can partially rescue hng1 loss of function, suggesting either epistasis or an overlaping function between hng1 and CG13204",
+    "annotationB": "CG3919, isoform C; DNA binding",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 477,
+            "end_residue_number": 520,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 224,
+            "end_residue_number": 268,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "477-520"
+    ],
+    "interfaceB": [
+        "224-268"
+    ]
+}

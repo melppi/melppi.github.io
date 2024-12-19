@@ -1,0 +1,16 @@
+{
+    "pae": 23.4,
+    "iptm": 19.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0078896",
+    "proB": "FBpp0111818",
+    "geneA": "Sec61alpha",
+    "geneB": "TER94",
+    "annotationA": "Sec61 alpha subunit is a subunit of the the translocon, a protein-conducting channel that mediates the co-translational transport of nascent polypeptides into the endoplasmic reticulum. Sec61 alpha is a subunit of the Sec61 heterotrimer that forms the core of translocon channel",
+    "annotationB": "Transitional endoplasmic reticulum ATPase TER94; Necessary for the fragmentation of Golgi stacks during mitosis and for their reassembly after mitosis. Involved in the formation of the transitional endoplasmic reticulum (tER). The transfer of membranes from the endoplasmic reticulum to the Golgi apparatus occurs via 50-70 nm transition vesicles which derive from part-rough, part-smooth transitional elements of the endoplasmic reticulum (tER). Vesicle budding from the tER is an ATP-dependent process. Involved in the ubiquitin-proteasome system. Important for oskar mRNA localization and/ [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 16.2,
+    "iptm": 23.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073007",
+    "proB": "FBpp0082713",
+    "geneA": "IntS10",
+    "geneB": "asun",
+    "annotationA": "Integrator complex subunit 10; Component of the Integrator complex, a complex involved in the transcription of small nuclear RNAs (snRNA) and their 3'- box-dependent processing. May be involved in the 3'-end processing of the spliceosomal snRNAs U1, U2, U4 and U5 but is probably not essential for 3'-end processing of the snRNA U7",
+    "annotationB": "Protein asunder; Component of the Integrator complex, a complex involved in the transcription of small nuclear RNAs (snRNA) and their 3'- box-dependent processing. Involved in the 3'-end processing of the U7 snRNA, and also the spliceosomal snRNAs U1 and U5. Plays a role as a regulator of spermatogenesis. Crucial regulator of the mitotic cell cycle and development. Required for the correct dynein-dynactin perinuclear localization important for nucleus-centrosome coupling that occur upon meiotic progression of primary spermatocytes. Plays a role in sperm motility and fertility. May have [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

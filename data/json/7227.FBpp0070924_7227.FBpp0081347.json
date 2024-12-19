@@ -1,0 +1,62 @@
+{
+    "pae": 13.5,
+    "iptm": 21.2,
+    "pdockq": 0.031,
+    "proA": "FBpp0070924",
+    "proB": "FBpp0081347",
+    "geneA": "COQ7",
+    "geneB": "Coq2",
+    "annotationA": "5-demethoxyubiquinone hydroxylase, mitochondrial; Catalyzes the hydroxylation of 2-polyprenyl-3-methyl-6- methoxy-1,4-benzoquinol (DMQH2) during ubiquinone biosynthesis. Has also a structural role in the COQ enzyme complex, stabilizing other COQ polypeptides. Involved in lifespan determination in a ubiquinone-independent manner",
+    "annotationB": "4-hydroxybenzoate polyprenyltransferase, mitochondrial; Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of coenzyme Q (CoQ) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate; Belongs to the UbiA prenyltransferase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 124,
+            "end_residue_number": 124,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 128,
+            "end_residue_number": 128,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 196,
+            "end_residue_number": 200,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "124-124",
+        "128-128"
+    ],
+    "interfaceB": [
+        "196-200"
+    ]
+}

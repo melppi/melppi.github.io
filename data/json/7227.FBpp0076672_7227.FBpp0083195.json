@@ -1,0 +1,16 @@
+{
+    "pae": 22.9,
+    "iptm": 12.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0076672",
+    "proB": "FBpp0083195",
+    "geneA": "eIF4E-4",
+    "geneB": "Nup58",
+    "annotationA": "GH23527p; Protein binding; RNA 7-methylguanosine cap binding; eukaryotic initiation factor 4G binding; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation",
+    "annotationB": "Probable nucleoporin Nup58; Probable component of the nuclear pore complex, a complex required for the trafficking across the nuclear membrane",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

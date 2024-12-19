@@ -1,0 +1,16 @@
+{
+    "pae": 21.3,
+    "iptm": 25.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0078810",
+    "proB": "FBpp0303775",
+    "geneA": "ifc",
+    "geneB": "CDase",
+    "annotationA": "Sphingolipid delta-4 desaturase activity; stearoyl-CoA 9-desaturase activity. It is involved in the biological process described with: spermatogenesis; sphingolipid biosynthetic process; spindle assembly involved in male meiosis",
+    "annotationB": "Neutral ceramidase; Hydrolyzes the sphingolipid ceramide into sphingosine and free fatty acid at an optimal pH of 6.5-7.5. Acts as a key regulator of sphingolipid signaling metabolites by generating sphingosine at the cell surface. Regulates synaptic vesicle exocytosis and trafficking by controlling presynaptic terminal sphingolipid composition; Belongs to the neutral ceramidase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

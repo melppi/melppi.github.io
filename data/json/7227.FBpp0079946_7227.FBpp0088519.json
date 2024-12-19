@@ -1,0 +1,104 @@
+{
+    "pae": 9.3,
+    "iptm": 38.1,
+    "pdockq": 0.162,
+    "proA": "FBpp0079946",
+    "proB": "FBpp0088519",
+    "geneA": "CG6712",
+    "geneB": "CG5033",
+    "annotationA": "Probable ribosome production factor 1; May be required for ribosome biogenesis",
+    "annotationB": "Ribosome biogenesis protein BOP1 homolog; Required for maturation of ribosomal RNAs and formation of the large ribosomal subunit",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 188,
+            "end_residue_number": 191,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 200,
+            "end_residue_number": 204,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 215,
+            "end_residue_number": 221,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 225,
+            "end_residue_number": 229,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 233,
+            "end_residue_number": 233,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 36,
+            "end_residue_number": 43,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "188-191",
+        "200-204",
+        "215-221",
+        "225-229",
+        "233-233"
+    ],
+    "interfaceB": [
+        "36-43"
+    ]
+}

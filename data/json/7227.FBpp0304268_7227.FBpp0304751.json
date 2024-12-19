@@ -1,0 +1,16 @@
+{
+    "pae": 17.8,
+    "iptm": 23.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0304268",
+    "proB": "FBpp0304751",
+    "geneA": "Rpb5",
+    "geneB": "TfIIS",
+    "annotationA": "Rpb5, isoform A; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "annotationB": "Transcription elongation factor S-II; Necessary for efficient RNA polymerase II transcription elongation past template-encoded arresting sites. The arresting sites in DNA have the property of trapping a certain fraction of elongating RNA polymerases that pass through, resulting in locked ternary complexes. Cleavage of the nascent transcript by S-II allows the resumption of elongation from the new 3'-terminus",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

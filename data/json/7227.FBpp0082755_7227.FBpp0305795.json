@@ -1,0 +1,160 @@
+{
+    "pae": 1.8,
+    "iptm": 66.6,
+    "pdockq": 0.359,
+    "proA": "FBpp0082755",
+    "proB": "FBpp0305795",
+    "geneA": "Decay",
+    "geneB": "Diap1",
+    "annotationA": "Death executioner caspase related to Apopain/Yama is one of the seven members of the caspase family of cysteine proteases. It has substrate specificity similar to the effector caspases Drice and Cp1; Belongs to the peptidase C14A family",
+    "annotationB": "Death-associated inhibitor of apoptosis 1; Anti-apoptotic protein which functions as a caspase regulator, using its E3 ubiquitin-protein ligase activity to smother caspase activity. Binds, ubiquitinates and inactivates initiator caspase Dronc, and effector caspases Drice and Dcp-1. Acts as a Nedd8-E3 ubiquitin-protein ligase for Drice. Suppresses apoptosis by targeting the apoptosome for ubiquitination and inactivation. Plays an important role in cell motility. Overexpression suppresses rpr and hid-dependent cell death in the eye. Interaction of Diap1 with Dronc is required to suppress [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 69,
+            "end_residue_number": 73,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 129,
+            "end_residue_number": 129,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 171,
+            "end_residue_number": 171,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 176,
+            "end_residue_number": 176,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 224,
+            "end_residue_number": 234,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 238,
+            "end_residue_number": 241,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 269,
+            "end_residue_number": 269,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 273,
+            "end_residue_number": 285,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 105,
+            "end_residue_number": 114,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 131,
+            "end_residue_number": 144,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "69-73",
+        "129-129",
+        "171-171",
+        "176-176",
+        "224-234",
+        "238-241",
+        "269-269",
+        "273-285"
+    ],
+    "interfaceB": [
+        "105-114",
+        "131-144"
+    ]
+}

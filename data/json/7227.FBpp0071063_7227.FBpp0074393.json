@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 18.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0071063",
+    "proB": "FBpp0074393",
+    "geneA": "Gclc",
+    "geneB": "Ggt-1",
+    "annotationA": "Protein binding; glutamate-cysteine ligase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; glutathione metabolic process; glutathione biosynthetic process; Belongs to the glutamate--cysteine ligase type 3 family",
+    "annotationB": "Gamma-glutamyl transpeptidase (Ggt-1) transfers the gamma-glutamyl moiety from donors to substrates, e.g. transfer to water generates glutamate. Ggt-1 roles include glutathione metabolism, reproduction and light avoidance",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,104 @@
+{
+    "pae": 15.1,
+    "iptm": 19.0,
+    "pdockq": 0.073,
+    "proA": "FBpp0083921",
+    "proB": "FBpp0099486",
+    "geneA": "CG5991",
+    "geneB": "sPLA2",
+    "annotationA": "Phosphatidylserine decarboxylase proenzyme, mitochondrial; Catalyzes the formation of phosphatidylethanolamine (PtdEtn) from phosphatidylserine (PtdSer). Plays a central role in phospholipid metabolism and in the interorganelle trafficking of phosphatidylserine; Belongs to the phosphatidylserine decarboxylase family. PSD-B subfamily. Eukaryotic type I sub-subfamily",
+    "annotationB": "Secretory phospholipase A2, isoform A; Calcium-dependent phospholipase A2 activity; phospholipase A2 activity; calcium ion binding. It is involved in the biological process described with: phospholipid metabolic process; lipid catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 100,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 52,
+            "end_residue_number": 53,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 76,
+            "end_residue_number": 76,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 96,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 107,
+            "end_residue_number": 107,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 124,
+            "end_residue_number": 133,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "100-109"
+    ],
+    "interfaceB": [
+        "52-53",
+        "76-76",
+        "96-102",
+        "107-107",
+        "124-133"
+    ]
+}

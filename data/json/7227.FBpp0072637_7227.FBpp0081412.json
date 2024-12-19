@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0072637",
+    "proB": "FBpp0081412",
+    "geneA": "ABCB7",
+    "geneB": "CG9836",
+    "annotationA": "ATP binding cassette subfamily B member 7 (ABCB7) is a transporter that likely dimerizes to form a functional transporter. ABCB7 may act in the mitochondria to transport substrates necessary for the maturation of ICS proteins, which are involved in iron homeostasis",
+    "annotationB": "Iron-sulfur cluster assembly enzyme; Scaffold protein for the de novo synthesis of iron- sulfur (Fe-S) clusters within mitochondria, which is required for maturation of both mitochondrial and cytoplasmic [2Fe-2S] and [4Fe-4S] proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

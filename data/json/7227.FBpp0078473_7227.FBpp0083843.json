@@ -1,0 +1,16 @@
+{
+    "pae": 25.7,
+    "iptm": 13.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078473",
+    "proB": "FBpp0083843",
+    "geneA": "CG12161",
+    "geneB": "Rpt5",
+    "annotationA": "Proteasome beta2 subunit-related 2; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

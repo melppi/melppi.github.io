@@ -1,0 +1,16 @@
+{
+    "pae": 15.9,
+    "iptm": 21.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0079752",
+    "proB": "FBpp0084761",
+    "geneA": "RpL9",
+    "geneB": "Ef1gamma",
+    "annotationA": "60S ribosomal protein L9; Structural constituent of ribosome; rRNA binding. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization; Belongs to the universal ribosomal protein uL6 family",
+    "annotationB": "Elongation factor 1-gamma; Ef1gamma associates with other EF1 subunits (alpha/beta/delta). It binds tubulin and Doa protein kinase, which in turns phosphorylates Ef1gamma. Ef1gamma regulates organelle movement along microtubules",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

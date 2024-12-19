@@ -1,0 +1,132 @@
+{
+    "pae": 12.7,
+    "iptm": 30.5,
+    "pdockq": 0.098,
+    "proA": "FBpp0112333",
+    "proB": "FBpp0304097",
+    "geneA": "CG32068",
+    "geneB": "CG11134",
+    "annotationA": "Acireductone dioxygenase 1 belongs to the cupin domain superfamily. It is an enzyme in the methionine salvage pathway (MTA cycle) and is required for fecundity",
+    "annotationB": "Probable methylthioribulose-1-phosphate dehydratase; Catalyzes the dehydration of methylthioribulose-1- phosphate (MTRu-1-P) into 2,3-diketo-5-methylthiopentyl-1- phosphate (DK-MTP-1-P)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 66,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 81,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 95,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 148,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 155,
+            "end_residue_number": 157,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 89,
+            "end_residue_number": 89,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 159,
+            "end_residue_number": 163,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "66-70",
+        "81-81",
+        "91-91",
+        "95-97",
+        "148-150",
+        "155-157"
+    ],
+    "interfaceB": [
+        "89-89",
+        "159-163"
+    ]
+}

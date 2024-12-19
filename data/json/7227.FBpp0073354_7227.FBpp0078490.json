@@ -1,0 +1,16 @@
+{
+    "pae": 23.4,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0073354",
+    "proB": "FBpp0078490",
+    "geneA": "CG1749",
+    "geneB": "Ubc6",
+    "annotationA": "Ubiquitin-like modifier-activating enzyme 5; E1-like enzyme which activates UFM1",
+    "annotationB": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Required for postreplication repair of UV-damaged DNA. Involved in the negative regulation of the Ras/MAPK signaling pathway in the wing by acting with the putative E3 ligases poe, Kcmf1 and Ufd4 to mediate the ubiquitination and proteasomal degradation of rl/MAPK; Belongs to the ubiquitin-conjugating enzyme family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

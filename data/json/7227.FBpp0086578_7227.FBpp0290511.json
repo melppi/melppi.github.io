@@ -1,0 +1,48 @@
+{
+    "pae": 9.3,
+    "iptm": 36.6,
+    "pdockq": 0.068,
+    "proA": "FBpp0086578",
+    "proB": "FBpp0290511",
+    "geneA": "Ercc1",
+    "geneB": "slx1",
+    "annotationA": "Nucleotide excision repair protein ERCC1; Ercc1 is the non-catalytic partner of the mei-9 nuclease that cuts structures formed during DNA repair. The mei-9-Ercc1 heterodimer interacts with mus312 to make meiotic crossovers. Ercc1 functions include repair of UV-induced DNA damage, repair of base adducts, a backup pathway for mismatch repair and meiotic recombination",
+    "annotationB": "Structure-specific endonuclease subunit SLX1 homolog; Catalytic subunit of a heterodimeric structure-specific endonuclease that resolves DNA secondary structures generated during DNA repair and recombination. Has endonuclease activity towards branched DNA substrates, introducing single-strand cuts in duplex DNA close to junctions with ss-DNA; Belongs to the SLX1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 146,
+            "end_residue_number": 153,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 236,
+            "end_residue_number": 239,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "146-153"
+    ],
+    "interfaceB": [
+        "236-239"
+    ]
+}

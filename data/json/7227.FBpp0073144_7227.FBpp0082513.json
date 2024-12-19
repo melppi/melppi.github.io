@@ -1,0 +1,48 @@
+{
+    "pae": 16.4,
+    "iptm": 11.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073144",
+    "proB": "FBpp0082513",
+    "geneA": "mRpS6",
+    "geneB": "mRpS10",
+    "annotationA": "Probable 28S ribosomal protein S6, mitochondrial; Structural constituent of ribosome; rRNA binding. It is involved in the biological process described with: translation; Belongs to the bacterial ribosomal protein bS6 family",
+    "annotationB": "28S ribosomal protein S10, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 7,
+            "end_residue_number": 7,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 118,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "7-7"
+    ],
+    "interfaceB": [
+        "118-118"
+    ]
+}

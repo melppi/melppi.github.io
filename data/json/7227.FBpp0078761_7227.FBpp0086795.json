@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 8.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0078761",
+    "proB": "FBpp0086795",
+    "geneA": "CG7382",
+    "geneB": "Roe1",
+    "annotationA": "GM05057p; It is involved in the biological process described with: protein import into mitochondrial matrix",
+    "annotationB": "GrpE protein homolog, mitochondrial; Essential component of the PAM complex, a complex required for the translocation of transit peptide-containing proteins from the inner membrane into the mitochondrial matrix in an ATP-dependent manner. Seems to control the nucleotide-dependent binding of mitochondrial HSP70 to substrate proteins (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

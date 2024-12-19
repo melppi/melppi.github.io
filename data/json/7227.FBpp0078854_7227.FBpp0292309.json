@@ -1,0 +1,16 @@
+{
+    "pae": 24.9,
+    "iptm": 16.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0078854",
+    "proB": "FBpp0292309",
+    "geneA": "mtm",
+    "geneB": "Sac1",
+    "annotationA": "Myotubularin, isoform A; Phosphatidylinositol-3-phosphatase activity; protein binding; protein tyrosine/serine/threonine phosphatase activity; protein tyrosine phosphatase activity. It is involved in the biological process described with: dephosphorylation; protein dephosphorylation; cortical actin cytoskeleton organization; endocytic recycling; mitotic cell cycle; cell projection assembly; chromosome segregation; response to wounding; Belongs to the protein-tyrosine phosphatase family. Non-receptor class myotubularin subfamily",
+    "annotationB": "Phosphatidylinositide phosphatase SAC1; Phosphoinositide phosphatase that hydrolyzes PtdIns(3)P and PtdIns(4)P. Has low activity towards PtdIns(3,5)P2 (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

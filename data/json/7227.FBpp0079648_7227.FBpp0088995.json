@@ -1,0 +1,16 @@
+{
+    "pae": 16.0,
+    "iptm": 29.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0079648",
+    "proB": "FBpp0088995",
+    "geneA": "RnrL",
+    "geneB": "CG32318",
+    "annotationA": "Ribonucleoside-diphosphate reductase large subunit; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides",
+    "annotationB": "RT07324p; ATP binding; microtubule binding; microtubule motor activity. It is involved in the biological process described with: microtubule-based movement; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

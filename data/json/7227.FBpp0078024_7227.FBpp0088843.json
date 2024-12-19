@@ -1,0 +1,16 @@
+{
+    "pae": 14.4,
+    "iptm": 22.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0078024",
+    "proB": "FBpp0088843",
+    "geneA": "Rpn10",
+    "geneB": "Pten",
+    "annotationA": "Regulatory particle non-ATPase 10 (Rpn10) is one of the polyubiquitin receptor subunits of the 26S proteasome. Rpn10 recognizes and binds the polyubiquitin moiety of proteins intended for proteasomal degradation or the ubiquitin-like domain of extraproteasomal ubiquitin receptors",
+    "annotationB": "Phosphatase and tensin homolog, isoform B; Pten",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

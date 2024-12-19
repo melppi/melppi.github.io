@@ -1,0 +1,16 @@
+{
+    "pae": 24.0,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073538",
+    "proB": "FBpp0082816",
+    "geneA": "ade5",
+    "geneB": "AdSL",
+    "annotationA": "Multifunctional protein ADE2; Ade5 is an essential enzyme in the pathway for de novo synthesis of the purine nucleotide inosine monophosphate (IMP). IMP is the precursor for purine nucleotides required for nucleic acids, energy transfer, cell signaling, and coenzymes; In the N-terminal section; belongs to the SAICAR synthetase family",
+    "annotationB": "N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity. It is involved in the biological process described with: purine ribonucleotide biosynthetic process; purine nucleotide metabolic process; Belongs to the lyase 1 family. Adenylosuccinate lyase subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

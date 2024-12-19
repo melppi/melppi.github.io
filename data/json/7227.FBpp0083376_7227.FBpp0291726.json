@@ -1,0 +1,146 @@
+{
+    "pae": 3.5,
+    "iptm": 57.9,
+    "pdockq": 0.51,
+    "proA": "FBpp0083376",
+    "proB": "FBpp0291726",
+    "geneA": "RpS30",
+    "geneB": "RpL37A",
+    "annotationA": "40S ribosomal protein S30; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eS30 family",
+    "annotationB": "60S ribosomal protein L37a; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL43 family",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 6,
+            "end_residue_number": 12,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 33,
+            "end_residue_number": 35,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 39,
+            "end_residue_number": 48,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 60,
+            "end_residue_number": 60,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 64,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 28,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 51,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 62,
+            "end_residue_number": 65,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 70,
+            "end_residue_number": 88,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "6-12",
+        "33-35",
+        "39-48",
+        "60-60",
+        "64-82"
+    ],
+    "interfaceB": [
+        "28-41",
+        "51-54",
+        "62-65",
+        "70-88"
+    ]
+}

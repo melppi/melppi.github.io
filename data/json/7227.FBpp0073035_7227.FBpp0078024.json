@@ -1,0 +1,16 @@
+{
+    "pae": 19.0,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073035",
+    "proB": "FBpp0078024",
+    "geneA": "Ubi-p63E",
+    "geneB": "Rpn10",
+    "annotationA": "Polyubiquitin; Ubiquitin exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involved in protein degradatio [...] ",
+    "annotationB": "Regulatory particle non-ATPase 10 (Rpn10) is one of the polyubiquitin receptor subunits of the 26S proteasome. Rpn10 recognizes and binds the polyubiquitin moiety of proteins intended for proteasomal degradation or the ubiquitin-like domain of extraproteasomal ubiquitin receptors",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 14.3,
+    "iptm": 27.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0076244",
+    "proB": "FBpp0076872",
+    "geneA": "Srp68",
+    "geneB": "Srp54k",
+    "annotationA": "Signal recognition particle subunit SRP68; Signal-recognition-particle assembly has a crucial role in targeting secretory proteins to the rough endoplasmic reticulum membrane. Srp68 binds the 7S RNA, Srp72 binds to this complex subsequently. This ribonucleoprotein complex might interact directly with the docking protein in the ER membrane and possibly participate in the elongation arrest function (By similarity)",
+    "annotationB": "Signal recognition particle 54 kDa protein; Binds to the signal sequence of presecretory protein when they emerge from the ribosomes and transfers them to TRAM (translocating chain-associating membrane protein); Belongs to the GTP-binding SRP family. SRP54 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

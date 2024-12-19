@@ -1,0 +1,146 @@
+{
+    "pae": 3.3,
+    "iptm": 50.4,
+    "pdockq": 0.659,
+    "proA": "FBpp0080608",
+    "proB": "FBpp0084133",
+    "geneA": "CG31787",
+    "geneB": "bai",
+    "annotationA": "Uncharacterized protein; Receptor binding; transporter activity. It is involved in the biological process described with: transport; Golgi vesicle transport",
+    "annotationB": "Transmembrane emp24 domain-containing protein bai; Eca and bai are essential, though not redundant, for dorsoventral patterning of the embryo. Specifically required during early embryogenesis for the activity of maternal tkv, while the zygotic tkv is not affected; Belongs to the EMP24/GP25L family",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 27,
+            "end_residue_number": 34,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 39,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 51,
+            "end_residue_number": 51,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 120,
+            "end_residue_number": 120,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 150,
+            "end_residue_number": 221,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 18,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 87,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 111,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 132,
+            "end_residue_number": 202,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "27-34",
+        "39-46",
+        "51-51",
+        "120-120",
+        "150-221"
+    ],
+    "interfaceB": [
+        "18-41",
+        "87-91",
+        "111-118",
+        "132-202"
+    ]
+}

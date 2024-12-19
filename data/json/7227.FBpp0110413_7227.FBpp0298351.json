@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 19.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0110413",
+    "proB": "FBpp0298351",
+    "geneA": "Gprk1",
+    "geneB": "Arr1",
+    "annotationA": "G protein-coupled receptor kinase 1; Specifically phosphorylates the activated forms of G protein-coupled receptors",
+    "annotationB": "Phosrestin-2; Regulates photoreceptor cell deactivation. Arr1 and Arr2 proteins are mediators of rhodopsin inactivation and are essential for the termination of the phototransduction cascade",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

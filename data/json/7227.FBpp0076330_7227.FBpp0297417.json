@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 19.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0076330",
+    "proB": "FBpp0297417",
+    "geneA": "Pri50",
+    "geneB": "Orc4",
+    "annotationA": "DNA primase small subunit; DNA primase is the polymerase that synthesizes small RNA primers for the Okazaki fragments made during discontinuous DNA replication; Belongs to the eukaryotic-type primase small subunit family",
+    "annotationB": "Origin recognition complex subunit 4; Component of the origin recognition complex (ORC) that binds origins of replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

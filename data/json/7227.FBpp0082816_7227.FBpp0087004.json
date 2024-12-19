@@ -1,0 +1,16 @@
+{
+    "pae": 20.9,
+    "iptm": 18.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0082816",
+    "proB": "FBpp0087004",
+    "geneA": "AdSL",
+    "geneB": "Ak6",
+    "annotationA": "N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity. It is involved in the biological process described with: purine ribonucleotide biosynthetic process; purine nucleotide metabolic process; Belongs to the lyase 1 family. Adenylosuccinate lyase subfamily",
+    "annotationB": "Adenylate kinase isoenzyme 6 homolog; Broad-specificity nucleoside monophosphate (NMP) kinase that catalyzes the reversible transfer of the terminal phosphate group between nucleoside triphosphates and monophosphates. AMP is the best phosphate acceptor, and CMP is also a good substrate. All nucleoside triphosphates ATP, TTP, CTP, GTP, and UTP are accepted as phosphate donors. ATP is the best phosphate donor. May have a role in nuclear energy homeostasis; Belongs to the adenylate kinase family. AK6 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 27.0,
+    "iptm": 13.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0074284",
+    "proB": "FBpp0074756",
+    "geneA": "dik",
+    "geneB": "rept",
+    "annotationA": "Transcriptional adaptor 3, isoform A; Histone acetyltransferase activity; chromatin binding. It is involved in the biological process described with: histone H3-K14 acetylation; chromatin remodeling; histone H3 acetylation; histone H3-K9 acetylation; histone H4-K12 acetylation; positive regulation of histone acetylation; histone H3-S10 phosphorylation; histone acetylation; histone H4 acetylation; chromatin-mediated maintenance of transcription",
+    "annotationB": "RuvB-like helicase 2; Acts as a transcriptional coactivator in Wg signaling caused by altered arm signaling. Pont and rept interfere antagonistically with nuclear arm signaling function, and are required to enhance or reduce arm activity, respectively. Also an essential cofactor for the normal function of Myc; required for cellular proliferation and growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

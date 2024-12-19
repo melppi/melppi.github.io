@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 24.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070363",
+    "proB": "FBpp0071248",
+    "geneA": "csw",
+    "geneB": "Dsor1",
+    "annotationA": "Tyrosine-protein phosphatase corkscrew; Required in all receptor tyrosine kinase signaling pathways. Functions downstream of the receptor tyrosine kinase torso, acting in concert with D-Raf via tailless. Also functions downstream of Egfr (epidermal growth factor receptor) and btl (fibroblast growth factor receptor). The SH2 domain suggests that csw effects its role by mediating heteromeric protein interactions. Maternally required for normal determination of cell fates at the termini of the embryo. Required for cell fate specification of the ventral ectoderm, in the developing embryoni [...] ",
+    "annotationB": "Dual specificity mitogen-activated protein kinase kinase dSOR1; Required downstream of Raf in the sevenless (sev), torso (tor), and Drosophila EGF receptor homolog (DER) signal transduction pathways. Involved in both positive regulation (at the posterior terminus) and negative regulation (at the anterior domain) of tll, as in other terminal class gene products, maybe via the ERK-A kinase",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

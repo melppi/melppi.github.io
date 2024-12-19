@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 13.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070242",
+    "proB": "FBpp0086294",
+    "geneA": "eIF4E-7",
+    "geneB": "Nup62",
+    "annotationA": "Protein binding; RNA 7-methylguanosine cap binding; eukaryotic initiation factor 4G binding; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation",
+    "annotationB": "Nuclear pore glycoprotein p62; Essential component of the nuclear pore complex (By similarity). The N-terminal is probably involved in nucleocytoplasmic transport (By similarity). The C-terminal is involved in protein-protein interaction probably via coiled-coil formation, promotes its association with centrosomes and may function in anchorage of Nup62 to the pore complex (By similarity). Binds to transcriptionally active genes. Negatively regulates chromatin attachment to the nuclear envelope, probably by preventing chromatin tethering by Nup154",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

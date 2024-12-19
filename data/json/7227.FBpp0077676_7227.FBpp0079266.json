@@ -1,0 +1,16 @@
+{
+    "pae": 18.1,
+    "iptm": 20.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0077676",
+    "proB": "FBpp0079266",
+    "geneA": "Clp",
+    "geneB": "Wdr82",
+    "annotationA": "Cleavage and polyadenylation specificity factor subunit 4; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Has endonuclease activity. Binds RNA polymers with a preference for G- and/or C-rich clusters. Binds single-stranded DNA non-specifically",
+    "annotationB": "WD repeat-containing protein 82; Component of the SET1 complex that specifically di- and trimethylates 'Lys-4' of histone H3",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,132 @@
+{
+    "pae": 15.5,
+    "iptm": 23.7,
+    "pdockq": 0.102,
+    "proA": "FBpp0087897",
+    "proB": "FBpp0087935",
+    "geneA": "Cul4",
+    "geneB": "CSN4",
+    "annotationA": "Cullin 4 is the molecular scaffold for the CRL4 E3 ubiquitin ligase complex, which catalyzes the ubiquitylation and subsequent destruction of proteins that function in cell growth and proliferation as well as transcription, replication and repair of the genome; Belongs to the cullin family",
+    "annotationB": "COP9 signalosome complex subunit 4; Component of the COP9 signalosome complex (CSN), a complex involved in various cellular and developmental processes. The CSN complex is an essential regulator of the ubiquitin (Ubl) conjugation pathway by mediating the deneddylation of the cullin subunits of the SCF-type E3 ligase complexes, leading to decrease the Ubl ligase activity of SCF. The CSN complex plays an essential role in oogenesis and embryogenesis and is required for proper photoreceptor R cell differentiation and promote lamina glial cell migration or axon targeting. It also promotes  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 7,
+            "end_residue_number": 22,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 115,
+            "end_residue_number": 115,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 119,
+            "end_residue_number": 127,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 150,
+            "end_residue_number": 160,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 164,
+            "end_residue_number": 164,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 189,
+            "end_residue_number": 189,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 193,
+            "end_residue_number": 193,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 225,
+            "end_residue_number": 225,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "7-22"
+    ],
+    "interfaceB": [
+        "115-115",
+        "119-127",
+        "150-160",
+        "164-164",
+        "189-189",
+        "193-193",
+        "225-225"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.4,
+    "iptm": 16.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0074841",
+    "proB": "FBpp0080733",
+    "geneA": "CSN1b",
+    "geneB": "Nedd8",
+    "annotationA": "COP9 signalosome complex subunit 1b; Essential component of the COP9 signalosome complex (CSN), a complex involved in various cellular and developmental processes. The CSN complex is an essential regulator of the ubiquitin (Ubl) conjugation pathway by mediating the deneddylation of the cullin subunits of the SCF-type E3 ligase complexes, leading to decrease the Ubl ligase activity of SCF. The CSN complex plays an essential role in oogenesis and embryogenesis and is required for proper photoreceptor R cell differentiation and promote lamina glial cell migration or axon targeting. It als [...] ",
+    "annotationB": "NEDD8; Ubiquitin-like protein which plays an important role in cell cycle control, embryogenesis and neurogenesis. Covalent attachment to its substrates requires prior activation by the E1 complex Uba3-Ula1 and linkage to the E2 enzyme Ubc12. Attachment of Nedd8 to cullins activates their associated E3 ubiquitin ligase activity, and thus promotes polyubiquitination and proteasomal degradation of cyclins and other regulatory proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

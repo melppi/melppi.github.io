@@ -1,0 +1,62 @@
+{
+    "pae": 17.9,
+    "iptm": 29.9,
+    "pdockq": 0.026,
+    "proA": "FBpp0271767",
+    "proB": "FBpp0301562",
+    "geneA": "CG4836",
+    "geneB": "CG17377",
+    "annotationA": "CG4836, isoform E; L-iditol 2-dehydrogenase activity; zinc ion binding. It is involved in the biological process described with: oxidation-reduction process",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 1146,
+            "end_residue_number": 1151,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 143,
+            "end_residue_number": 143,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 166,
+            "end_residue_number": 168,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "1146-1151"
+    ],
+    "interfaceB": [
+        "143-143",
+        "166-168"
+    ]
+}

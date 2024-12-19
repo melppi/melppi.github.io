@@ -1,0 +1,90 @@
+{
+    "pae": 9.8,
+    "iptm": 30.9,
+    "pdockq": 0.125,
+    "proA": "FBpp0081355",
+    "proB": "FBpp0087709",
+    "geneA": "CG9630",
+    "geneB": "Mys45A",
+    "annotationA": "Probable ATP-dependent RNA helicase DDX55 homolog; Probable ATP-binding RNA helicase",
+    "annotationB": "Protein SDA1 homolog; Required for 60S pre-ribosomal subunits export to the cytoplasm",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 528,
+            "end_residue_number": 538,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 371,
+            "end_residue_number": 371,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 375,
+            "end_residue_number": 379,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 383,
+            "end_residue_number": 385,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 410,
+            "end_residue_number": 419,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "528-538"
+    ],
+    "interfaceB": [
+        "371-371",
+        "375-379",
+        "383-385",
+        "410-419"
+    ]
+}

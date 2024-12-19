@@ -1,0 +1,132 @@
+{
+    "pae": 5.0,
+    "iptm": 35.0,
+    "pdockq": 0.191,
+    "proA": "FBpp0073963",
+    "proB": "FBpp0077130",
+    "geneA": "sun",
+    "geneB": "ND-B8",
+    "annotationA": "Protein stunted; Activates the G-protein coupled receptor mth in vitro, leading to increased intracellular calcium ion levels",
+    "annotationB": "NADH dehydrogenase (Ubiquinone) B8 subunit; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 4,
+            "end_residue_number": 5,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 10,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 36,
+            "end_residue_number": 53,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 16,
+            "end_residue_number": 24,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 33,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 52,
+            "end_residue_number": 60,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 65,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 73,
+            "end_residue_number": 73,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "4-5",
+        "10-16",
+        "36-53"
+    ],
+    "interfaceB": [
+        "16-24",
+        "33-44",
+        "52-60",
+        "65-67",
+        "73-73"
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "pae": 7.0,
+    "iptm": 44.3,
+    "pdockq": 0.091,
+    "proA": "FBpp0076371",
+    "proB": "FBpp0077899",
+    "geneA": "Cdc6",
+    "geneB": "S(faf)240",
+    "annotationA": "Cell division control protein; Cdc6 is an essential component of the pre-Replication complex (preRC) together with the origin recognition complex, dup and MCM2-7 proteins. The preRC is present at all chromosomal origins of replication and is required for the initiation of DNA replication. Cdc6 also functions in the co-ordination of DNA replication with mitosis, and may contribute to apoptosis and transcription",
+    "annotationB": "DNA primase large subunit; DNA primase is the polymerase that synthesizes small RNA primers for the Okazaki fragments made during discontinuous DNA replication. Plays a role in the fat facets (faf)-dependent cell- communications pathway; Belongs to the eukaryotic-type primase large subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 256,
+            "end_residue_number": 256,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 327,
+            "end_residue_number": 333,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 380,
+            "end_residue_number": 380,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 540,
+            "end_residue_number": 540,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 17,
+            "end_residue_number": 17,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 102,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 254,
+            "end_residue_number": 257,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "256-256",
+        "327-333",
+        "380-380",
+        "540-540"
+    ],
+    "interfaceB": [
+        "17-17",
+        "102-102",
+        "254-257"
+    ]
+}

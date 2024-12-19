@@ -1,0 +1,118 @@
+{
+    "pae": 9.4,
+    "iptm": 32.4,
+    "pdockq": 0.118,
+    "proA": "FBpp0077235",
+    "proB": "FBpp0080763",
+    "geneA": "CG16712",
+    "geneB": "fon",
+    "annotationA": "Immune induced molecule 33 belongs to a class of small secreted peptides released in the hemolymph upon systemic microbial infection",
+    "annotationB": "Fondue, isoform B; Fondue is a protein produced by the fat body that is involved in the clotting reaction",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 34,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 60,
+            "end_residue_number": 69,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 282,
+            "end_residue_number": 284,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 518,
+            "end_residue_number": 522,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 540,
+            "end_residue_number": 544,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 559,
+            "end_residue_number": 563,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 572,
+            "end_residue_number": 576,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "34-45",
+        "60-69"
+    ],
+    "interfaceB": [
+        "282-284",
+        "518-522",
+        "540-544",
+        "559-563",
+        "572-576"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 24.5,
+    "iptm": 13.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070087",
+    "proB": "FBpp0072135",
+    "geneA": "CG17896",
+    "geneB": "Thiolase",
+    "annotationA": "Probable methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial; Plays a role in valine and pyrimidine metabolism. Binds fatty acyl-CoA (By similarity); Belongs to the aldehyde dehydrogenase family",
+    "annotationB": "GH13256p; acetyl-CoA C-acyltransferase activity; long-chain-3-hydroxyacyl-CoA dehydrogenase activity. It is involved in the biological process described with: determination of adult lifespan; fatty acid beta-oxidation; Belongs to the thiolase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

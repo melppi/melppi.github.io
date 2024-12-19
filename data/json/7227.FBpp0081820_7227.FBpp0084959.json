@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 12.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0081820",
+    "proB": "FBpp0084959",
+    "geneA": "Tctp",
+    "geneB": "RpL32",
+    "annotationA": "Translationally controlled tumor protein (Tctp) belongs to the TCTP family. It interacts with the GTPase Rheb to regulate organ growth. Tctp is required for DNA damage response and genome stability",
+    "annotationB": "60S ribosomal protein L32; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle organization; mitotic spindle elongation; translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,146 @@
+{
+    "pae": 12.1,
+    "iptm": 26.7,
+    "pdockq": 0.147,
+    "proA": "FBpp0071248",
+    "proB": "FBpp0085236",
+    "geneA": "Dsor1",
+    "geneB": "krz",
+    "annotationA": "Dual specificity mitogen-activated protein kinase kinase dSOR1; Required downstream of Raf in the sevenless (sev), torso (tor), and Drosophila EGF receptor homolog (DER) signal transduction pathways. Involved in both positive regulation (at the posterior terminus) and negative regulation (at the anterior domain) of tll, as in other terminal class gene products, maybe via the ERK-A kinase",
+    "annotationB": "Kurtz, isoform A; Kurtz (Krz) is a beta-arrestin (non-visual arrestin) involved in the desensitization and endocytic internalization of G protein coupled receptors, thus downregulating their activity. Krz also controls other signaling pathways, including Notch, receptor tyrosine kinase, Hedgehog, and Toll. It is required maternally for normal embryonic patterning and zygotically for larval viability",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 96,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 116,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 207,
+            "end_residue_number": 214,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 226,
+            "end_residue_number": 244,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 249,
+            "end_residue_number": 259,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 313,
+            "end_residue_number": 317,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 102,
+            "end_residue_number": 117,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 169,
+            "end_residue_number": 169,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 178,
+            "end_residue_number": 180,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "96-99",
+        "116-118",
+        "207-214",
+        "226-244",
+        "249-259",
+        "313-317"
+    ],
+    "interfaceB": [
+        "102-117",
+        "169-169",
+        "178-180"
+    ]
+}

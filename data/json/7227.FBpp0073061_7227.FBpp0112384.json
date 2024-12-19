@@ -1,0 +1,16 @@
+{
+    "pae": 16.3,
+    "iptm": 20.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073061",
+    "proB": "FBpp0112384",
+    "geneA": "dib",
+    "geneB": "nvd",
+    "annotationA": "Disembodied (Dib) is a cytochrome P450 involved in ecdysteroid biosynthesis. It shows a mitochondrial localization and catalyzes the addition of a hydroxyl group to the 22 carbon of the cholesterol side chain. Dib mutants fail to undergo head involution, dorsal closure and to secrete cuticle",
+    "annotationB": "Rieske-domain protein Neverland; Neverland (Nvd) is an evolutionarily conserved oxygenase-like protein that is  required for the biosynthesis pathway of ecdysone. Nvd converts cholesterol to 7-dehydrocholesterol",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 4.2,
+    "iptm": 44.9,
+    "pdockq": 0.039,
+    "proA": "FBpp0071771",
+    "proB": "FBpp0290840",
+    "geneA": "bonsai",
+    "geneB": "mRpS35",
+    "annotationA": "28S ribosomal protein S15, mitochondrial; Essential for gut mitochondrial activity. Might be involved in tissue specific growth factor production; Belongs to the universal ribosomal protein uS15 family",
+    "annotationB": "Mitochondrial ribosomal protein S35; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 102,
+            "end_residue_number": 105,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 249,
+            "end_residue_number": 254,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "102-105"
+    ],
+    "interfaceB": [
+        "249-254"
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "pae": 4.2,
+    "iptm": 58.7,
+    "pdockq": 0.368,
+    "proA": "FBpp0078847",
+    "proB": "FBpp0082645",
+    "geneA": "ND-51",
+    "geneB": "ND-23",
+    "annotationA": "NADH dehydrogenase (ubiquinone) 51 kDa subunit is a flavoprotein and iron-sulfur-containing oxidoreductase that catalyzes the oxidation of NADH to NAD. It is a component of the mitochondrial electron transport complex I, which is part of the oxidative phosphorylation pathway. It may have a role in regulating aggression behavior",
+    "annotationB": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity; 4 iron, 4 sulfur cluster binding. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 240,
+            "end_residue_number": 243,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 396,
+            "end_residue_number": 401,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 433,
+            "end_residue_number": 433,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 437,
+            "end_residue_number": 439,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 120,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 145,
+            "end_residue_number": 145,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 162,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "240-243",
+        "396-401",
+        "433-433",
+        "437-439"
+    ],
+    "interfaceB": [
+        "120-131",
+        "145-145",
+        "162-162"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 2.4,
+    "iptm": 47.5,
+    "pdockq": 0.24,
+    "proA": "FBpp0070349",
+    "proB": "FBpp0074104",
+    "geneA": "CG14817",
+    "geneB": "mRpL22",
+    "annotationA": "annotation not available",
+    "annotationB": "39S ribosomal protein L22, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uL22 family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 40,
+            "end_residue_number": 53,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 213,
+            "end_residue_number": 227,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "40-53"
+    ],
+    "interfaceB": [
+        "213-227"
+    ]
+}

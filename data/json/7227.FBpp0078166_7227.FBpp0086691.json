@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0078166",
+    "proB": "FBpp0086691",
+    "geneA": "Trxr-2",
+    "geneB": "SelD",
+    "annotationA": "Thioredoxin reductase 2, mitochondrial; Thioredoxin system is a major player in glutathione metabolism, due to the demonstrated absence of a glutathione reductase. Functionally interacts with the Sod/Cat reactive oxidation species (ROS) defense system and thereby has a role in preadult development and life span. Lack of a glutathione reductase suggests antioxidant defense in Drosophila, and probably in related insects, differs fundamentally from that in other organisms; Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family",
+    "annotationB": "Selenide, water dikinase is a selenophosphate synthetase (SPS) that catalyzes the synthesis of selenophosphate from selenide, ATP, and water, producing AMP and inorganic phosphate as products. SPS are well conserved proteins involved in selenium metabolism; Belongs to the selenophosphate synthase 1 family. Class II subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

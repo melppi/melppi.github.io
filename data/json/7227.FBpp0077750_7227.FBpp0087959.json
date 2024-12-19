@@ -1,0 +1,90 @@
+{
+    "pae": 16.7,
+    "iptm": 18.0,
+    "pdockq": 0.046,
+    "proA": "FBpp0077750",
+    "proB": "FBpp0087959",
+    "geneA": "CG13690",
+    "geneB": "rnh1",
+    "annotationA": "Ribonuclease H2 subunit A; Catalytic subunit of RNase HII, an endonuclease that specifically degrades the RNA of RNA:DNA hybrids. Participates in DNA replication, possibly by mediating the removal of lagging- strand Okazaki fragment RNA primers during DNA replication. Mediates the excision of single ribonucleotides from DNA:RNA duplexes (By similarity)",
+    "annotationB": "Ribonuclease H1; Endonuclease that specifically degrades the RNA of RNA- DNA hybrids",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 77,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 159,
+            "end_residue_number": 163,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 188,
+            "end_residue_number": 191,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 195,
+            "end_residue_number": 195,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 102,
+            "end_residue_number": 105,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "77-80",
+        "159-163",
+        "188-191",
+        "195-195"
+    ],
+    "interfaceB": [
+        "102-105"
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "pae": 2.5,
+    "iptm": 42.8,
+    "pdockq": 0.261,
+    "proA": "FBpp0292847",
+    "proB": "FBpp0297136",
+    "geneA": "ATPsynE",
+    "geneB": "ATPsynG",
+    "annotationA": "ATP synthase, subunit E, isoform A; Hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "annotationB": "Hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 2,
+            "end_residue_number": 38,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 42,
+            "end_residue_number": 42,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 25,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 29,
+            "end_residue_number": 37,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 41,
+            "end_residue_number": 52,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 71,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "2-38",
+        "42-42"
+    ],
+    "interfaceB": [
+        "25-25",
+        "29-37",
+        "41-52",
+        "71-97"
+    ]
+}

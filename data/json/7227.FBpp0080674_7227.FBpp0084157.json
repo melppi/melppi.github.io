@@ -1,0 +1,62 @@
+{
+    "pae": 5.6,
+    "iptm": 21.9,
+    "pdockq": 0.057,
+    "proA": "FBpp0080674",
+    "proB": "FBpp0084157",
+    "geneA": "msl-1",
+    "geneB": "Mocs2",
+    "annotationA": "Protein male-specific lethal-1; The Msl proteins are essential for elevating transcription of the single X chromosome in the male (X chromosome dosage compensation). Msl-1 is a pioneer protein. Mle, msl-1 and msl-3 are colocalized on the X chromosome. Each of the MSL proteins requires all the other MSLs for wild-type X-chromosome binding. In complex with msl-2, promotes ubiquitination of histone H2B",
+    "annotationB": "Molybdopterin synthase catalytic subunit; Catalytic subunit of the molybdopterin synthase complex, a complex that catalyzes the conversion of precursor Z into molybdopterin. Acts by mediating the incorporation of 2 sulfur atoms from thiocarboxylated MOCS2A into precursor Z to generate a dithiolene group; Belongs to the MoaE family. MOCS2B subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 866,
+            "end_residue_number": 890,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 896,
+            "end_residue_number": 896,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 221,
+            "end_residue_number": 245,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "866-890",
+        "896-896"
+    ],
+    "interfaceB": [
+        "221-245"
+    ]
+}

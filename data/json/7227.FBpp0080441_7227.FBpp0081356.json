@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0080441",
+    "proB": "FBpp0081356",
+    "geneA": "grp",
+    "geneB": "RpA-70",
+    "annotationA": "Serine/threonine-protein kinase grp; Serine/threonine-protein kinase which is required for checkpoint-mediated cell cycle arrest and activation of DNA repair in response to the presence of DNA damage or unreplicated DNA. May also negatively regulate cell cycle progression during unperturbed cell cycles. May phosphorylate the CDC25 phosphatase stg, which promotes its degradation. This results in increased inhibitory tyrosine phosphorylation of Cdk1-cyclin complexes and consequent inhibition of cell cycle progression",
+    "annotationB": "Replication protein A 70 kDa DNA-binding subunit; As part of the heterotrimeric replication protein A complex (RPA/RP-A), binds and stabilizes single-stranded DNA intermediates, that form during DNA replication or upon DNA stress. It prevents their reannealing and in parallel, recruits and activates different proteins and complexes involved in DNA metabolism. Thereby, it plays an essential role both in DNA replication and the cellular response to DNA damage",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

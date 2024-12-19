@@ -1,0 +1,132 @@
+{
+    "pae": 3.0,
+    "iptm": 70.5,
+    "pdockq": 0.402,
+    "proA": "FBpp0078949",
+    "proB": "FBpp0086107",
+    "geneA": "cort",
+    "geneB": "APC10",
+    "annotationA": "Protein cortex; Female meiosis-specific activator of the anaphase promoting complex/cyclosome (APC/C). Required for the completion of meiosis in oocytes. Activates the ubiquitin ligase activity and substrate specificity of APC/C and triggers the sequential degradation of mitotic cyclins in meiosis. Promotes the ubiquitination and degradation of CycA early in meiosis I and the degradation of CycB and CycB3 after egg activation. Promotes degradation of mtrm at the oocyte-to-embryo transition; Belongs to the WD repeat CORT family",
+    "annotationB": "Anaphase-promoting complex subunit 10; Component of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated ubiquitin ligase that controls progression through mitosis and the G1 phase of the cell cycle",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 152,
+            "end_residue_number": 155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 180,
+            "end_residue_number": 183,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 187,
+            "end_residue_number": 196,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 231,
+            "end_residue_number": 235,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 79,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 106,
+            "end_residue_number": 116,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 133,
+            "end_residue_number": 143,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 171,
+            "end_residue_number": 174,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "152-155",
+        "180-183",
+        "187-196",
+        "231-235"
+    ],
+    "interfaceB": [
+        "79-81",
+        "106-116",
+        "133-143",
+        "171-174"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 19.5,
+    "iptm": 21.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0072151",
+    "proB": "FBpp0082511",
+    "geneA": "Ssrp",
+    "geneB": "Caf1",
+    "annotationA": "FACT complex subunit Ssrp1; Component of the FACT complex, a general chromatin factor that acts to reorganize nucleosomes. The FACT complex is involved in multiple processes that require DNA as a template such as mRNA elongation, DNA replication and DNA repair. During transcription elongation the FACT complex acts as a histone chaperone that both destabilizes and restores nucleosomal structure. It facilitates the passage of RNA polymerase II and transcription by promoting the dissociation of one histone H2A-H2B dimer from the nucleosome, then subsequently promotes the reestablishment o [...] ",
+    "annotationB": "Probable histone-binding protein Caf1; Core histone-binding subunit that may target chromatin assembly factors, chromatin remodeling factors and histone deacetylases to their histone substrates in a manner that is regulated by nucleosomal DNA. Component of several complexes which regulate chromatin metabolism. These include the chromatin assembly factor 1 (CAF-1) complex, which is required for chromatin assembly following DNA replication and DNA repair; the nucleosome remodeling and deacetylase complex (the NuRD complex), which promotes transcriptional repression by histone deacetylati [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 14.7,
+    "iptm": 23.2,
+    "pdockq": 0.024,
+    "proA": "FBpp0082412",
+    "proB": "FBpp0290840",
+    "geneA": "mRpL11",
+    "geneB": "mRpS35",
+    "annotationA": "39S ribosomal protein L11, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uL11 family",
+    "annotationB": "Mitochondrial ribosomal protein S35; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 46,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 173,
+            "end_residue_number": 174,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "46-46"
+    ],
+    "interfaceB": [
+        "173-174"
+    ]
+}

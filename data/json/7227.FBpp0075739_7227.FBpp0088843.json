@@ -1,0 +1,16 @@
+{
+    "pae": 22.8,
+    "iptm": 20.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0075739",
+    "proB": "FBpp0088843",
+    "geneA": "CG10426",
+    "geneB": "Pten",
+    "annotationA": "Inositol polyphosphate 5-phosphatase E; Converts phosphatidylinositol 3,4,5-trisphosphate (PtdIns 3,4,5-P3) to PtdIns-P2, and phosphatidylinositol 4,5- bisphosphate (PtdIns 4,5-P2) to phosphatidylinositol 4-phosphate (PI-4-P). By controlling the phosphoinositide composition of the cilia membrane of auditory receptor neurons, regulates the cilia localization of ktub and consequently the transient receptor potential channels iav and nompC; Belongs to the inositol 1,4,5-trisphosphate 5- phosphatase type IV family",
+    "annotationB": "Phosphatase and tensin homolog, isoform B; Pten",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

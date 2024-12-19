@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 17.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0074693",
+    "proB": "FBpp0293948",
+    "geneA": "cyc",
+    "geneB": "Rpt4",
+    "annotationA": "Protein cycle; Putative transcription factor involved in the generation of biological rhythms. Activates cycling transcription of Period (PER) and Timeless (TIM) by binding to the E-box (5'-CACGTG-3') present in their promoters",
+    "annotationB": "Regulatory particle triple-A ATPase 4 (Rpt4) is the 19S proteasomal ATPase, which is a component of the 26S proteosome complex. Rpt4 localizes to the nucleolus and participates in regulating rRNA transcription. Rpt4 physically interacts with the BHD tumor suppressor",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

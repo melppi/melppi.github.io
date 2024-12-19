@@ -1,0 +1,16 @@
+{
+    "pae": 24.8,
+    "iptm": 18.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0080167",
+    "proB": "FBpp0290496",
+    "geneA": "bgm",
+    "geneB": "whd",
+    "annotationA": "Very long-chain-fatty-acid--CoA ligase bubblegum; Mediates activation of very-long-chain fatty acids. Probably also able to mediate activation of long-chain fatty acids for both synthesis of cellular lipids, and degradation via beta- oxidation",
+    "annotationB": "Carnitine O-palmitoyltransferase activity. It is involved in the biological process described with: response to oxidative stress; response to starvation; response to metal ion",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

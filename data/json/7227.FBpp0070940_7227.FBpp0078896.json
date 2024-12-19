@@ -1,0 +1,16 @@
+{
+    "pae": 16.0,
+    "iptm": 26.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070940",
+    "proB": "FBpp0078896",
+    "geneA": "RpL17",
+    "geneB": "Sec61alpha",
+    "annotationA": "60S ribosomal protein L17; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization; Belongs to the universal ribosomal protein uL22 family",
+    "annotationB": "Sec61 alpha subunit is a subunit of the the translocon, a protein-conducting channel that mediates the co-translational transport of nascent polypeptides into the endoplasmic reticulum. Sec61 alpha is a subunit of the Sec61 heterotrimer that forms the core of translocon channel",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

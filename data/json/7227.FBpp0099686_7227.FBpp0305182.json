@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0099686",
+    "proB": "FBpp0305182",
+    "geneA": "RpS8",
+    "geneB": "EF2",
+    "annotationA": "40S ribosomal protein S8; Structural constituent of ribosome. It is involved in the biological process described with: translational elongation; translation; neurogenesis; maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); Belongs to the eukaryotic ribosomal protein eS8 family",
+    "annotationB": "Elongation factor 2; Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity); Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. EF-G/E [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

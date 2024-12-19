@@ -1,0 +1,76 @@
+{
+    "pae": 14.1,
+    "iptm": 14.1,
+    "pdockq": 0.025,
+    "proA": "FBpp0079008",
+    "proB": "FBpp0079835",
+    "geneA": "CG17376",
+    "geneB": "CG14926",
+    "annotationA": "Uncharacterized protein, isoform B; Iron-sulfur cluster binding",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 26,
+            "end_residue_number": 27,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 49,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 37,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 72,
+            "end_residue_number": 76,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "26-27",
+        "49-55"
+    ],
+    "interfaceB": [
+        "37-41",
+        "72-76"
+    ]
+}

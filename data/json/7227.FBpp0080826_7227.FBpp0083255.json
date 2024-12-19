@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 13.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0080826",
+    "proB": "FBpp0083255",
+    "geneA": "Hs2st",
+    "geneB": "Hs6st",
+    "annotationA": "Heparan sulfate 2-O-sulfotransferase activity. It is involved in the biological process described with: open tracheal system development; signal transduction",
+    "annotationB": "Heparan sulfate 6-O-sulfotransferase (Hs6st) is a heparan sulfate modifying enzyme, which transfers a sulfate group to the 6-O position of glucosamine residues of heparan sulfate. Loss of Hs6st eliminates 6-O sulfation, but increases 6-O sulfation performed by Hs2st. Simultaneous elimination of Hs6st and Hs2st disrupts FGF, Wg and Dpp signaling pathways",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

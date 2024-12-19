@@ -1,0 +1,118 @@
+{
+    "pae": 15.9,
+    "iptm": 39.2,
+    "pdockq": 0.041,
+    "proA": "FBpp0076932",
+    "proB": "FBpp0271877",
+    "geneA": "Npc1b",
+    "geneB": "Npc2e",
+    "annotationA": "Niemann-Pick type protein homolog 1B; Important for cholesterol absorption at the midgut epithelium. Acts only in the early steps of sterol absorption, prior to Npc1a-dependent intracellular sterol trafficking",
+    "annotationB": "Niemann-Pick type C-2e; Peptidoglycan binding; lipoteichoic acid binding; sterol binding; lipopolysaccharide binding; lipid antigen binding. It is involved in the biological process described with: peptidoglycan recognition protein signaling pathway; sterol transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 469,
+            "end_residue_number": 469,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 487,
+            "end_residue_number": 487,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 498,
+            "end_residue_number": 501,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 988,
+            "end_residue_number": 989,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 74,
+            "end_residue_number": 76,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 122,
+            "end_residue_number": 124,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 147,
+            "end_residue_number": 147,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "469-469",
+        "487-487",
+        "498-501",
+        "988-989"
+    ],
+    "interfaceB": [
+        "74-76",
+        "122-124",
+        "147-147"
+    ]
+}

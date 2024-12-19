@@ -1,0 +1,62 @@
+{
+    "pae": 5.9,
+    "iptm": 26.8,
+    "pdockq": 0.098,
+    "proA": "FBpp0074660",
+    "proB": "FBpp0077353",
+    "geneA": "Prp3",
+    "geneB": "CG3605",
+    "annotationA": "Precursor RNA processing 3, isoform A; It is involved in the biological process described with: regulation of chromatin silencing; mRNA splicing, via spliceosome",
+    "annotationB": "CG3605, isoform A; It is involved in the biological process described with: mRNA splicing, via spliceosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 307,
+            "end_residue_number": 311,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 330,
+            "end_residue_number": 344,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 637,
+            "end_residue_number": 659,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "307-311",
+        "330-344"
+    ],
+    "interfaceB": [
+        "637-659"
+    ]
+}

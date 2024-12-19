@@ -1,0 +1,48 @@
+{
+    "pae": 14.4,
+    "iptm": 14.7,
+    "pdockq": 0.024,
+    "proA": "FBpp0080859",
+    "proB": "FBpp0081962",
+    "geneA": "sNPF",
+    "geneB": "Tk",
+    "annotationA": "Short neuropeptide F precursor binds to sNPF-R and activates ERK-Dilps signaling or the PKA-CREB pathway. Its roles include the regulation of cell and organism growth, carbohydrate metabolism, lifespan, feeding behavior, locomotion, circadian rhythm, and sleep",
+    "annotationB": "Tachykinins; Tachykinins are active peptides which excite neurons, evoke behavioral responses, are potent vasodilators and secretagogues, and contract (directly or indirectly) many smooth muscles. Stimulates gut muscle contractions. Required for the response to the male sex pheromone CH503 which is transferred from males to females during mating and inhibits courtship behavior by other males. The Gr68a gustatory receptor is required for detection of the pheromone and Gr68a-expressing neurons in the male foreleg relay signals to the suboesophageal zone (SEZ) which leads to courtship sup [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 105,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 105,
+            "end_residue_number": 107,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "105-109"
+    ],
+    "interfaceB": [
+        "105-107"
+    ]
+}

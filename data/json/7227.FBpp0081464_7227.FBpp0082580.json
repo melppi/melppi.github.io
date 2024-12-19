@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 21.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0081464",
+    "proB": "FBpp0082580",
+    "geneA": "Ibf2",
+    "geneB": "Cp190",
+    "annotationA": "Insulator binding factor 2; Sequence-specific DNA binding; protein binding; protein heterodimerization activity; chromatin insulator sequence binding. It is involved in the biological process described with: regulation of gene expression; positive regulation of chromatin silencing",
+    "annotationB": "Centrosome-associated zinc finger protein CP190; Component of the gypsy chromatin insulator complex which is required for the function of the gypsy chromatin insulator and other endogenous chromatin insulators. Chromatin insulators are regulatory elements which establish independent domains of transcriptional activity within eukaryotic genomes. Insulators have two defining properties; they can block the communication between an enhancer and a promoter when placed between them and can also buffer transgenes from position effect variegation (PEV). Insulators are proposed to structure the [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

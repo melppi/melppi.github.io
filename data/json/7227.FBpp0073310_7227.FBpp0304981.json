@@ -1,0 +1,16 @@
+{
+    "pae": 17.0,
+    "iptm": 19.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0073310",
+    "proB": "FBpp0304981",
+    "geneA": "dsh",
+    "geneB": "fz2",
+    "annotationA": "Segment polarity protein dishevelled; Required to establish coherent arrays of polarized cells and segments in embryos. Plays a role in wingless (wg) signaling, possibly through the reception of the wg signal by target cells and subsequent redistribution of arm protein in response to that signal in embryos. This signal seems to be required to establish planar cell polarity and identity",
+    "annotationB": "Frizzled-2; Receptor for Wnt proteins. Most of frizzled receptors are coupled to the beta-catenin canonical signaling pathway, which leads to the activation of disheveled proteins, inhibition of GSK- 3 kinase, nuclear accumulation of beta-catenin and activation of Wnt target genes. A second signaling pathway involving PKC and calcium fluxes has been seen for some family members, but it is not yet clear if it represents a distinct pathway or if it can be integrated in the canonical pathway, as PKC seems to be required for Wnt-mediated inactivation of GSK-3 kinase. Both pathways seem to  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

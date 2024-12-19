@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 26.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0079565",
+    "proB": "FBpp0080361",
+    "geneA": "me31B",
+    "geneB": "BicC",
+    "annotationA": "Putative ATP-dependent RNA helicase me31b; Unwinds RNA in an ATP-dependent fashion (Potential). Involved in germ cell formation",
+    "annotationB": "Protein bicaudal C; RNA-binding protein that is involved in oogenesis. Required for correct targeting of the migrating anterior follicle cells and the establishment of anterior-posterior polarity in the oocyte. May act as translational repressor of oskar during oogenesis. Function seems to be sensitive to small changes in expression",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 15.0,
+    "iptm": 12.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0289343",
+    "proB": "FBpp0289676",
+    "geneA": "Cp7Fa",
+    "geneB": "Cp38",
+    "annotationA": "Chorion protein a at 7F",
+    "annotationB": "Chorion protein S38; Structural constituent of chorion. It is involved in the biological process described with: eggshell chorion assembly",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 196,
+            "end_residue_number": 196,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 162,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "196-196"
+    ],
+    "interfaceB": [
+        "162-162"
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "pae": 9.9,
+    "iptm": 32.6,
+    "pdockq": 0.439,
+    "proA": "FBpp0075684",
+    "proB": "FBpp0303126",
+    "geneA": "SmD1",
+    "geneB": "Gem2",
+    "annotationA": "Small ribonucleoprotein particle protein SmD1 (SmD1) is an RNA binding protein that forms a heterodimeric sub-complex with SmD2. They function as part of the heteroheptameric ring complex Sm core, which is involved in the formation of spliceosomal small nuclear RNPs (U1, U2, U4 and U5), which together catalyze pre-mRNA splicing",
+    "annotationB": "Protein Gemin2; The SMN complex plays an essential role in spliceosomal snRNP assembly in the cytoplasm, is required for pre-mRNA splicing in the nucleus and acts as a chaperone that discriminates target and non-target RNAs of Sm proteins",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 14,
+            "end_residue_number": 26,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 42,
+            "end_residue_number": 49,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 55,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 44,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 58,
+            "end_residue_number": 58,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 65,
+            "end_residue_number": 75,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 194,
+            "end_residue_number": 194,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 198,
+            "end_residue_number": 201,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 205,
+            "end_residue_number": 205,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 237,
+            "end_residue_number": 244,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "14-26",
+        "42-49",
+        "55-72"
+    ],
+    "interfaceB": [
+        "44-54",
+        "58-58",
+        "65-75",
+        "194-194",
+        "198-201",
+        "205-205",
+        "237-244"
+    ]
+}

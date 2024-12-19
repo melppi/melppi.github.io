@@ -1,0 +1,16 @@
+{
+    "pae": 15.8,
+    "iptm": 21.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073354",
+    "proB": "FBpp0075690",
+    "geneA": "CG1749",
+    "geneB": "vih",
+    "annotationA": "Ubiquitin-like modifier-activating enzyme 5; E1-like enzyme which activates UFM1",
+    "annotationB": "Ubiquitin-conjugating enzyme E2 C; Catalyzes the covalent attachment of ubiquitin to other proteins. Acts as an essential factor of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated ubiquitin ligase that controls progression through mitosis. Acts by initiating polyubiquitin chains on APC/C substrates, leading to the degradation of APC/C substrates by the proteasome and promoting mitotic exit; Belongs to the ubiquitin-conjugating enzyme family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 16.9,
+    "iptm": 27.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0076520",
+    "proB": "FBpp0300203",
+    "geneA": "CG12262",
+    "geneB": "CG2118",
+    "annotationA": "Probable medium-chain specific acyl-CoA dehydrogenase, mitochondrial; This enzyme is specific for acyl chain lengths of 4 to 16; Belongs to the acyl-CoA dehydrogenase family",
+    "annotationB": "CG2118, isoform A; CG2118 encodes the biotin-attachment subunit of the 3-methylcrotonyl-CoA carboxylase. It catalyzes the conversion of 3-methylcrotonyl-CoA to 3-methylglutaconyl-CoA, a critical step for leucine and isovaleric acid catabolism",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 16.9,
+    "iptm": 26.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0074610",
+    "proB": "FBpp0082879",
+    "geneA": "Spn77Ba",
+    "geneB": "CG5860",
+    "annotationA": "Serine protease inhibitor 77Ba; Serine protease inhibitor which plays an essential role in regulating the tracheal melanization immune response to bacterial and fungal infection. Acts by negatively regulating a protease cascade involving Mp1 and Sp7, that functions in the activation of the Hayan-phenoloxidase (PPO1) cascade; Belongs to the serpin family",
+    "annotationB": "CG5860; Aspartic-type endopeptidase activity. It is involved in the biological process described with: proteolysis; Belongs to the peptidase A1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 35,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 262,
+            "end_residue_number": 262,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "35-35"
+    ],
+    "interfaceB": [
+        "262-262"
+    ]
+}

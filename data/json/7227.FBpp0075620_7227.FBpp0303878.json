@@ -1,0 +1,104 @@
+{
+    "pae": 7.1,
+    "iptm": 34.0,
+    "pdockq": 0.634,
+    "proA": "FBpp0075620",
+    "proB": "FBpp0303878",
+    "geneA": "Syx13",
+    "geneB": "nSyb",
+    "annotationA": "Syntaxin 13, isoform A; SNAP receptor activity; protein binding; SNARE binding. It is involved in the biological process described with: mitotic nuclear division; mitotic cytokinesis; meiosis I cytokinesis; male meiosis; vesicle-mediated transport; female meiotic division; synaptic vesicle docking involved in exocytosis; intracellular protein transport; vesicle fusion; neurotransmitter secretion; Belongs to the syntaxin family",
+    "annotationB": "Neuronal synaptobrevin, isoform J; SNAP receptor activity; protein binding; SNARE binding. It is involved in the biological process described with: vesicle-mediated transport; synaptic vesicle docking involved in exocytosis; vesicle fusion; neurotransmitter secretion",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 118,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 122,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 194,
+            "end_residue_number": 278,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 282,
+            "end_residue_number": 282,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 35,
+            "end_residue_number": 112,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 116,
+            "end_residue_number": 126,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "118-118",
+        "122-150",
+        "194-278",
+        "282-282"
+    ],
+    "interfaceB": [
+        "35-112",
+        "116-126"
+    ]
+}

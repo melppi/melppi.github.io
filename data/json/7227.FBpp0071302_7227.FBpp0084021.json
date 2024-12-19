@@ -1,0 +1,16 @@
+{
+    "pae": 21.7,
+    "iptm": 20.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071302",
+    "proB": "FBpp0084021",
+    "geneA": "Aats-lys",
+    "geneB": "CG5706",
+    "annotationA": "ATP binding; lysine-tRNA ligase activity; nucleic acid binding. It is involved in the biological process described with: lysyl-tRNA aminoacylation",
+    "annotationB": "Phenylalanyl-tRNA synthetase, beta-subunit is a cytoplasmic aminoacyl-tRNA synthetase that catalyzes the ligation of Phenylalanine to its cognate tRNAPhe. Together with the alpha-subunit it forms a tetrameric enzyme complex. This subunit plays a role in recognition and binding of tRNAPhe and it provides the editing site that hydrolyzes wrongfully activated or ligated compounds",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

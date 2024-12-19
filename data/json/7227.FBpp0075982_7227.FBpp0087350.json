@@ -1,0 +1,174 @@
+{
+    "pae": 3.7,
+    "iptm": 43.5,
+    "pdockq": 0.444,
+    "proA": "FBpp0075982",
+    "proB": "FBpp0087350",
+    "geneA": "hay",
+    "geneB": "Mat1",
+    "annotationA": "DNA excision repair protein haywire; Probably an ATP-dependent DNA helicase involved in excision repair of DNA. May have a DNA unwinding function",
+    "annotationB": "CDK7/cyclin H assembly factor MAT1; RNA polymerase II carboxy-terminal domain kinase activity; zinc ion binding; core RNA polymerase binding transcription factor activity; cyclin-dependent protein serine/threonine kinase activity. It is involved in the biological process described with: cell cycle; transcription initiation from RNA polymerase II promoter",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 192,
+            "end_residue_number": 200,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 205,
+            "end_residue_number": 219,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 281,
+            "end_residue_number": 287,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 413,
+            "end_residue_number": 416,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 436,
+            "end_residue_number": 442,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 790,
+            "end_residue_number": 792,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 2,
+            "end_residue_number": 4,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 12,
+            "end_residue_number": 17,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 147,
+            "end_residue_number": 151,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 169,
+            "end_residue_number": 198,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 209,
+            "end_residue_number": 209,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "192-200",
+        "205-219",
+        "281-287",
+        "413-416",
+        "436-442",
+        "790-792"
+    ],
+    "interfaceB": [
+        "2-4",
+        "12-17",
+        "147-151",
+        "169-198",
+        "209-209"
+    ]
+}

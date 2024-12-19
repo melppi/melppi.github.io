@@ -1,0 +1,118 @@
+{
+    "pae": 7.2,
+    "iptm": 35.5,
+    "pdockq": 0.378,
+    "proA": "FBpp0079237",
+    "proB": "FBpp0113052",
+    "geneA": "Btk29A",
+    "geneB": "Dredd",
+    "annotationA": "Tyrosine-protein kinase Btk29A; Btk family kinase at 29A is a Non-Receptor Tyrosine kinase. Its diverse roles include cellularization, morphogenesis, patterning and germ cell proliferation; Belongs to the protein kinase superfamily. Tyr protein kinase family. TEC subfamily",
+    "annotationB": "Caspase-8; Effector of the programmed cell death (PCD) activators rpr, grim and hid. May play an apoptotic role in the germline as well as soma. Fadd interacts with Dredd to promote cleavage of Dredd and is necessary and sufficient for enhancing Dredd-induced apoptosis. Plays a role in the innate immune response. Required for resistance to Gram-negative bacterial infection. Diap2-mediated ubiquitination of Dredd is critical for processing of imd and rel and the subsequent expression of antimicrobial genes such as Dpt; Belongs to the peptidase C14A family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 98,
+            "end_residue_number": 98,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 154,
+            "end_residue_number": 157,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 187,
+            "end_residue_number": 193,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 211,
+            "end_residue_number": 227,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 231,
+            "end_residue_number": 231,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 8,
+            "end_residue_number": 26,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 91,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "98-98",
+        "154-157",
+        "187-193",
+        "211-227",
+        "231-231"
+    ],
+    "interfaceB": [
+        "8-26",
+        "91-103"
+    ]
+}

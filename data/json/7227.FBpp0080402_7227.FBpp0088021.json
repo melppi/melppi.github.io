@@ -1,0 +1,16 @@
+{
+    "pae": 24.5,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0080402",
+    "proB": "FBpp0088021",
+    "geneA": "cact",
+    "geneB": "Rpt1",
+    "annotationA": "NF-kappa-B inhibitor cactus; Involved in the formation of the dorsoventral pattern. It inhibits nuclear translocation of the dorsal morphogen in the dorsal region of the embryo. Acts as a negative regulator of the NF-kappa-B (rel) signaling pathway. Cact is degraded by ird5, this is essential for NF-kappa-B (rel) activation",
+    "annotationB": "26S proteasome regulatory complex subunit p48B; Regulatory particle triple-A ATPase 1 is an AAA-type ATPase protein that forms part of the heterohexameric ATPase ring of the regulatory complex of the 26S proteasome",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

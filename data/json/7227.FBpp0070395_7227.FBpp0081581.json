@@ -1,0 +1,48 @@
+{
+    "pae": 17.4,
+    "iptm": 22.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0070395",
+    "proB": "FBpp0081581",
+    "geneA": "CG2918",
+    "geneB": "Crc",
+    "annotationA": "CG2918, isoform A; It is involved in the biological process described with: multicellular organism reproduction; protein folding; Belongs to the heat shock protein 70 family",
+    "annotationB": "Calreticulin; Molecular calcium-binding chaperone promoting folding, oligomeric assembly and quality control in the ER via the calreticulin/calnexin cycle. This lectin may interact transiently with almost all of the monoglucosylated glycoproteins that are synthesized in the ER (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 465,
+            "end_residue_number": 465,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 387,
+            "end_residue_number": 387,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "465-465"
+    ],
+    "interfaceB": [
+        "387-387"
+    ]
+}

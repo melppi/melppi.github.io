@@ -1,0 +1,16 @@
+{
+    "pae": 24.4,
+    "iptm": 14.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0075038",
+    "proB": "FBpp0078358",
+    "geneA": "beg",
+    "geneB": "CG12170",
+    "annotationA": "Probable malonyl-CoA-acyl carrier protein transacylase, mitochondrial; Catalyzes the transfer of a malonyl moiety from malonyl- CoA to the free thiol group of the phosphopantetheine arm of the ACP protein. This suggests the existence of the biosynthesis of fatty acids in mitochondria (By similarity)",
+    "annotationB": "3-oxoacyl-[acyl-carrier-protein] synthase activity. It is involved in the biological process described with: fatty acid biosynthetic process; Belongs to the beta-ketoacyl-ACP synthases family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

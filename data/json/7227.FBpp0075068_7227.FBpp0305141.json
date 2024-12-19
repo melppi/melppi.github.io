@@ -1,0 +1,90 @@
+{
+    "pae": 5.9,
+    "iptm": 37.4,
+    "pdockq": 0.249,
+    "proA": "FBpp0075068",
+    "proB": "FBpp0305141",
+    "geneA": "Rpn12",
+    "geneB": "Rpn8",
+    "annotationA": "26S proteasome regulatory complex subunit p30; Endopeptidase activity. It is involved in the biological process described with: proteolysis; cell proliferation; mitotic spindle elongation; cellular process; proteasome-mediated ubiquitin-dependent protein catabolic process; ubiquitin-dependent protein catabolic process; mitotic spindle organization; neurogenesis",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 7; Acts as a regulatory subunit of the 26S proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 241,
+            "end_residue_number": 245,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 249,
+            "end_residue_number": 264,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 186,
+            "end_residue_number": 197,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 243,
+            "end_residue_number": 256,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 260,
+            "end_residue_number": 274,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "241-245",
+        "249-264"
+    ],
+    "interfaceB": [
+        "186-197",
+        "243-256",
+        "260-274"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073346",
+    "proB": "FBpp0086197",
+    "geneA": "Sk1",
+    "geneB": "Pkc53E",
+    "annotationA": "Sphingosine kinase 1(Sk1) catalyzes the phosphorylation of sphingosine to sphingosine 1-phosphate, a bioactive lipid mediator. Sk1 regulates cell proliferation, differentiation, endolysosomal trafficking and muscle cell repair",
+    "annotationB": "Protein kinase C, brain isozyme; PKC is activated by diacylglycerol which in turn phosphorylates a range of cellular proteins (By similarity). PKC also serves as the receptor for phorbol esters, a class of tumor promoters (By similarity). Acts in a hh-signaling pathway which regulates the Duox-dependent gut immune response to bacterial uracil; required for the activation of Cad99C and consequently Cad99C-dependent endosome formation, which is essential for the Duox-dependent production of reactive oxygen species (ROS) in response to intestinal bacterial infection",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

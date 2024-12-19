@@ -1,0 +1,48 @@
+{
+    "pae": 17.8,
+    "iptm": 27.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0071173",
+    "proB": "FBpp0086505",
+    "geneA": "CG12659",
+    "geneB": "mus210",
+    "annotationA": "annotation not available",
+    "annotationB": "DNA repair protein complementing XP-C cells homolog; Involved in DNA excision repair. May play a part in DNA damage recognition and/or in altering chromatin structure to allow access by damage-processing enzymes (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 53,
+            "end_residue_number": 53,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1288,
+            "end_residue_number": 1288,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "53-53"
+    ],
+    "interfaceB": [
+        "1288-1288"
+    ]
+}

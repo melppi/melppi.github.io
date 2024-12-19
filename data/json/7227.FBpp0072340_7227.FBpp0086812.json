@@ -1,0 +1,132 @@
+{
+    "pae": 5.4,
+    "iptm": 59.9,
+    "pdockq": 0.463,
+    "proA": "FBpp0072340",
+    "proB": "FBpp0086812",
+    "geneA": "Eps-15",
+    "geneB": "Drk",
+    "annotationA": "Epidermal growth factor receptor pathway substrate clone 15, isoform A; Calcium ion binding. It is involved in the biological process described with: regulation of synaptic growth at neuromuscular junction; receptor-mediated endocytosis; negative regulation of Notch signaling pathway; vesicle-mediated transport; synaptic vesicle endocytosis; neurotransmitter secretion",
+    "annotationB": "Protein enhancer of sevenless 2B; Required for proper signaling by sevenless. May act to stimulate the ability of Sos to catalyze Ras1 activation by linking sevenless and Sos in a signaling complex; Belongs to the GRB2/sem-5/DRK family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 767,
+            "end_residue_number": 787,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 7,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 33,
+            "end_residue_number": 36,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 47,
+            "end_residue_number": 52,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 160,
+            "end_residue_number": 170,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 175,
+            "end_residue_number": 175,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 186,
+            "end_residue_number": 189,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 200,
+            "end_residue_number": 205,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "767-787"
+    ],
+    "interfaceB": [
+        "7-16",
+        "33-36",
+        "47-52",
+        "160-170",
+        "175-175",
+        "186-189",
+        "200-205"
+    ]
+}

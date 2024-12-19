@@ -1,0 +1,48 @@
+{
+    "pae": 8.2,
+    "iptm": 20.7,
+    "pdockq": 0.116,
+    "proA": "FBpp0074984",
+    "proB": "FBpp0291442",
+    "geneA": "UQCR-Q",
+    "geneB": "CG40472",
+    "annotationA": "Ubiquinone binding; ubiquinol-cytochrome-c reductase activity. It is involved in the biological process described with: mitochondrial electron transport, ubiquinol to cytochrome c",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 48,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 38,
+            "end_residue_number": 71,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "48-77"
+    ],
+    "interfaceB": [
+        "38-71"
+    ]
+}

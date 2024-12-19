@@ -1,0 +1,160 @@
+{
+    "pae": 5.2,
+    "iptm": 34.2,
+    "pdockq": 0.604,
+    "proA": "FBpp0087493",
+    "proB": "FBpp0304599",
+    "geneA": "egr",
+    "geneB": "CG10176",
+    "annotationA": "Protein eiger; Cytokine which acts as a ligand for wgn. Also acts as a ligand for grnd. Induces apoptosis by triggering JNK signaling. Required for JNK-dependent non-autonomous apoptosis through release from apoptotic cells and activation of apoptosis in neighboring cells. Required for JNK-independent damage-induced apoptosis in the embryonic central nervous system through regulation of the pro-apoptotic gene hid. Involved in the innate immune response to extracellular pathogens. Plays a role in the melanization immune response through its involvement in the rupture of crystal cells an [...] ",
+    "annotationB": "Protein grindelwald; Acts as a receptor for egr. Plays a role in activation of JNK signaling and is required for egr-induced apoptosis. May also play an egr-independent role in cell proliferation",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 39,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 289,
+            "end_residue_number": 289,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 295,
+            "end_residue_number": 298,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 340,
+            "end_residue_number": 346,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 358,
+            "end_residue_number": 370,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 393,
+            "end_residue_number": 397,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 59,
+            "end_residue_number": 59,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 65,
+            "end_residue_number": 75,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 90,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "39-72",
+        "289-289",
+        "295-298",
+        "340-346",
+        "358-370",
+        "393-397"
+    ],
+    "interfaceB": [
+        "48-55",
+        "59-59",
+        "65-75",
+        "90-118"
+    ]
+}

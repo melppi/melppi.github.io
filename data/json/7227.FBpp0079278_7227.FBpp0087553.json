@@ -1,0 +1,160 @@
+{
+    "pae": 12.3,
+    "iptm": 31.0,
+    "pdockq": 0.382,
+    "proA": "FBpp0079278",
+    "proB": "FBpp0087553",
+    "geneA": "emb",
+    "geneB": "dap",
+    "annotationA": "Exportin-1; Receptor for the leucine-rich nuclear export signal (NES). Binds cooperatively to the NES on its target protein and to the small GTPase Ran in its active GTP-bound form. Required for the function or maintenance of certain tissues such as brain and gut. Involved in the export of dl from the nucleus to the cytoplasm; Belongs to the exportin family",
+    "annotationB": "RE12958p; Dacapo (Dap) is a Cyclin-dependent kinase inhibitor in the CIP/KIP family. It binds to CycE-Cdk2 complexes and thereby inhibits their protein kinase activity. Upregulation of Dap is required after the last mitosis for arresting cells in G1/G0 before terminal differentiation in many post-mitotic cell types",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 101,
+            "end_residue_number": 101,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 108,
+            "end_residue_number": 108,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 150,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 160,
+            "end_residue_number": 160,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 509,
+            "end_residue_number": 521,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 525,
+            "end_residue_number": 537,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 546,
+            "end_residue_number": 546,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 552,
+            "end_residue_number": 572,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 57,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 228,
+            "end_residue_number": 239,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "101-101",
+        "108-108",
+        "150-150",
+        "160-160",
+        "509-521",
+        "525-537",
+        "546-546",
+        "552-572"
+    ],
+    "interfaceB": [
+        "57-63",
+        "228-239"
+    ]
+}

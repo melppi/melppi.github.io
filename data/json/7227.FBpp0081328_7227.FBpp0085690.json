@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 19.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0081328",
+    "proB": "FBpp0085690",
+    "geneA": "Arl2",
+    "geneB": "TBCB",
+    "annotationA": "ADP-ribosylation factor-like protein 2; GTP-binding protein involved in protein trafficking; may modulate vesicle budding and uncoating within the Golgi apparatus",
+    "annotationB": "Tubulin-binding cofactor B (TBCB) is one of the cofactors required for the assembly of functional alpha/beta-Tubulin dimers needed for microtubule assembly. TBCB is essential for microtubule-associated transport and cell polarity, but not for cell division",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

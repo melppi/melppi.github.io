@@ -1,0 +1,104 @@
+{
+    "pae": 8.1,
+    "iptm": 51.6,
+    "pdockq": 0.273,
+    "proA": "FBpp0072598",
+    "proB": "FBpp0074480",
+    "geneA": "CG32319",
+    "geneB": "Nat1",
+    "annotationA": "Uncharacterized protein; N-acetyltransferase activity. It is involved in the biological process described with: protein acetylation",
+    "annotationB": "N(Alpha)-acetyltransferase 15/16, isoform A; Peptide alpha-N-acetyltransferase activity. It is involved in the biological process described with: neurogenesis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 60,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 71,
+            "end_residue_number": 71,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 77,
+            "end_residue_number": 84,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 88,
+            "end_residue_number": 88,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 406,
+            "end_residue_number": 412,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 436,
+            "end_residue_number": 443,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "60-67",
+        "71-71",
+        "77-84",
+        "88-88"
+    ],
+    "interfaceB": [
+        "406-412",
+        "436-443"
+    ]
+}

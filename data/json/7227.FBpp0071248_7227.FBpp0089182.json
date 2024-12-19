@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 20.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0071248",
+    "proB": "FBpp0089182",
+    "geneA": "Dsor1",
+    "geneB": "Gbeta13F",
+    "annotationA": "Dual specificity mitogen-activated protein kinase kinase dSOR1; Required downstream of Raf in the sevenless (sev), torso (tor), and Drosophila EGF receptor homolog (DER) signal transduction pathways. Involved in both positive regulation (at the posterior terminus) and negative regulation (at the anterior domain) of tll, as in other terminal class gene products, maybe via the ERK-A kinase",
+    "annotationB": "Guanine nucleotide-binding protein subunit beta-1; Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein- effector interaction",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

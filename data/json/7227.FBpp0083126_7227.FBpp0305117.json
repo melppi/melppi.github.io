@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 9.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0083126",
+    "proB": "FBpp0305117",
+    "geneA": "NP15.6",
+    "geneB": "ATPsyndelta",
+    "annotationA": "Uncharacterized protein NP15.6; It is involved in the biological process described with: respiratory electron transport chain",
+    "annotationB": "ATP synthase, delta subunit, isoform A; Proton-transporting ATP synthase activity, rotational mechanism; proton-transporting ATPase activity, rotational mechanism; hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

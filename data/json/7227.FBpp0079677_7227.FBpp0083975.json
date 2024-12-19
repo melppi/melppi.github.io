@@ -1,0 +1,160 @@
+{
+    "pae": 3.0,
+    "iptm": 33.1,
+    "pdockq": 0.508,
+    "proA": "FBpp0079677",
+    "proB": "FBpp0083975",
+    "geneA": "chico",
+    "geneB": "Atg6",
+    "annotationA": "Insulin receptor substrate 1; Activates phosphatidylinositol 3-kinase when bound to the regulatory p85 subunit (By similarity). May mediate the control of various cellular processes by insulin-like peptides. When phosphorylated by the insulin receptor binds specifically to various cellular proteins containing SH2 domains. Involved in control of cell proliferation, cell size, and body and organ growth throughout development. Also has a role in a signaling pathway controlling the physiological response required to endure periods of low nutrient conditions. Insulin/insulin-like growth fac [...] ",
+    "annotationB": "Beclin-1-like protein; Autophagy-related 6 is a component of the Vps34 complex that is required for the formation of PI3P, and functions in vesicle trafficking including autophagy and endocytosis",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 132,
+            "end_residue_number": 138,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 151,
+            "end_residue_number": 152,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 178,
+            "end_residue_number": 190,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 194,
+            "end_residue_number": 209,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 222,
+            "end_residue_number": 222,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 226,
+            "end_residue_number": 236,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 4,
+            "end_residue_number": 19,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 77,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 91,
+            "end_residue_number": 110,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "132-138",
+        "151-152",
+        "178-190",
+        "194-209",
+        "222-222",
+        "226-236"
+    ],
+    "interfaceB": [
+        "4-19",
+        "60-70",
+        "77-77",
+        "91-110"
+    ]
+}

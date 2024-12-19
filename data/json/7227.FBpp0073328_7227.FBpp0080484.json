@@ -1,0 +1,146 @@
+{
+    "pae": 2.5,
+    "iptm": 81.7,
+    "pdockq": 0.571,
+    "proA": "FBpp0073328",
+    "proB": "FBpp0080484",
+    "geneA": "Ran",
+    "geneB": "Cas",
+    "annotationA": "GTP-binding nuclear protein Ran; GTPase involved in nucleocytoplasmic transport, participating both to the import and the export from the nucleus of proteins and RNAs. Switches between a cytoplasmic GDP- and a nuclear GTP-bound state by nucleotide exchange and GTP hydrolysis. Nuclear import receptors such as importin beta bind their substrates only in the absence of GTP-bound Ran and release them upon direct interaction with GTP-bound Ran while export receptors behave in the opposite way. Thereby, RAN controls cargo loading and release by transport receptors in the proper compartment a [...] ",
+    "annotationB": "Exportin-2; Export receptor for importin alpha. Mediates importin- alpha re-export from the nucleus to the cytoplasm after import substrates have been released into the nucleoplasm (By similarity)",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 12,
+            "end_residue_number": 12,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 43,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 62,
+            "end_residue_number": 64,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 70,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 74,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 107,
+            "end_residue_number": 113,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 18,
+            "end_residue_number": 33,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 56,
+            "end_residue_number": 73,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 108,
+            "end_residue_number": 116,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "12-12",
+        "43-47",
+        "62-64",
+        "70-70",
+        "74-82",
+        "107-113"
+    ],
+    "interfaceB": [
+        "18-33",
+        "56-73",
+        "108-116"
+    ]
+}

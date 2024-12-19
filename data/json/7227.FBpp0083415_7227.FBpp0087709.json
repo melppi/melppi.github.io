@@ -1,0 +1,48 @@
+{
+    "pae": 14.6,
+    "iptm": 24.7,
+    "pdockq": 0.024,
+    "proA": "FBpp0083415",
+    "proB": "FBpp0087709",
+    "geneA": "ppan",
+    "geneB": "Mys45A",
+    "annotationA": "Protein Peter pan; Required for initiation of larval growth and normal mitotic growth but is not absolutely required for general biosynthesis or DNA replication. Required for progression of normal oogenesis and maturation of some imaginal tissues into adult structures",
+    "annotationB": "Protein SDA1 homolog; Required for 60S pre-ribosomal subunits export to the cytoplasm",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 68,
+            "end_residue_number": 68,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 424,
+            "end_residue_number": 424,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "68-68"
+    ],
+    "interfaceB": [
+        "424-424"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "pae": 3.8,
+    "iptm": 38.1,
+    "pdockq": 0.045,
+    "proA": "FBpp0088249",
+    "proB": "FBpp0089177",
+    "geneA": "toy",
+    "geneB": "so",
+    "annotationA": "Twin of eyeless, isoform A; Sequence-specific DNA binding transcription factor activity; sequence-specific DNA binding; RNA polymerase II distal enhancer sequence-specific DNA binding transcription factor activity. It is involved in the biological process described with: positive regulation of transcription from RNA polymerase II promoter; brain morphogenesis; ocellus development; compound eye development; positive regulation of gene expression; eye-antennal disc development; regulation of transcription, DNA-templated; mushroom body development",
+    "annotationB": "Sine Oculis is a homeobox-containing transcription factor that functions with eya as a transcriptional co-activator. Sine Oculis contributes to both cell and tissue fate specification, promotion of cell proliferation and suppression of apoptosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 36,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 80,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 199,
+            "end_residue_number": 200,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 268,
+            "end_residue_number": 271,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "35-36",
+        "80-80"
+    ],
+    "interfaceB": [
+        "199-200",
+        "268-271"
+    ]
+}

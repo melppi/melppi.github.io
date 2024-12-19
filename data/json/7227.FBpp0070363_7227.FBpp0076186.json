@@ -1,0 +1,216 @@
+{
+    "pae": 10.0,
+    "iptm": 30.3,
+    "pdockq": 0.334,
+    "proA": "FBpp0070363",
+    "proB": "FBpp0076186",
+    "geneA": "csw",
+    "geneB": "Shc",
+    "annotationA": "Tyrosine-protein phosphatase corkscrew; Required in all receptor tyrosine kinase signaling pathways. Functions downstream of the receptor tyrosine kinase torso, acting in concert with D-Raf via tailless. Also functions downstream of Egfr (epidermal growth factor receptor) and btl (fibroblast growth factor receptor). The SH2 domain suggests that csw effects its role by mediating heteromeric protein interactions. Maternally required for normal determination of cell fates at the termini of the embryo. Required for cell fate specification of the ventral ectoderm, in the developing embryoni [...] ",
+    "annotationB": "SHC-adaptor protein; It is involved in the biological process described with: epidermal growth factor receptor signaling pathway; melanotic encapsulation of foreign target; tracheal outgrowth, open tracheal system; torso signaling pathway; TORC1 signaling",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 357,
+            "end_residue_number": 361,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 579,
+            "end_residue_number": 579,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 583,
+            "end_residue_number": 588,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 645,
+            "end_residue_number": 645,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 683,
+            "end_residue_number": 689,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 725,
+            "end_residue_number": 730,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 734,
+            "end_residue_number": 734,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 933,
+            "end_residue_number": 943,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 49,
+            "end_residue_number": 57,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 61,
+            "end_residue_number": 61,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 123,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 140,
+            "end_residue_number": 142,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 164,
+            "end_residue_number": 182,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 204,
+            "end_residue_number": 213,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "357-361",
+        "579-579",
+        "583-588",
+        "645-645",
+        "683-689",
+        "725-730",
+        "734-734",
+        "933-943"
+    ],
+    "interfaceB": [
+        "49-57",
+        "61-61",
+        "123-131",
+        "140-142",
+        "164-182",
+        "204-213"
+    ]
+}

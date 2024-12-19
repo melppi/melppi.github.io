@@ -1,0 +1,16 @@
+{
+    "pae": 25.1,
+    "iptm": 16.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0082276",
+    "proB": "FBpp0305095",
+    "geneA": "lkb1",
+    "geneB": "Hsp83",
+    "annotationA": "Lkb1 kinase is a serine/threonine kinase that plays a master role for activating the AMP-dependent protein kinase (AMPK) family kinases. It is a well-characterized tumor suppressor and regulates processes like cell polarity, metabolism, apoptosis, and cell growth",
+    "annotationB": "Heat shock protein 83; Molecular chaperone that promotes the maturation, structural maintenance and proper regulation of specific target proteins involved for instance in cell cycle control and signal transduction. Undergoes a functional cycle that is linked to its ATPase activity. This cycle probably induces conformational changes in the client proteins, thereby causing their activation. Interacts dynamically with various co-chaperones that modulate its substrate recognition, ATPase cycle and chaperone function. Together with Hop and piwi, mediates canalization, also known as developm [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

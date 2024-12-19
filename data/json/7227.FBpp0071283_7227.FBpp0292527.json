@@ -1,0 +1,104 @@
+{
+    "pae": 5.9,
+    "iptm": 47.1,
+    "pdockq": 0.488,
+    "proA": "FBpp0071283",
+    "proB": "FBpp0292527",
+    "geneA": "fh",
+    "geneB": "Fdxh",
+    "annotationA": "Frataxin homolog, mitochondrial; Promotes the biosynthesis of heme as well as the assembly and repair of iron-sulfur clusters by delivering Fe(2+) to proteins involved in these pathways. May play a role in the protection against iron-catalyzed oxidative stress through its ability to catalyze the oxidation of Fe(2+) to Fe(3+). May be able to store large amounts of the metal in the form of a ferrihydrite mineral by oligomerization",
+    "annotationB": "Adrenodoxin-like protein, mitochondrial; 2 iron, 2 sulfur cluster binding; electron carrier activity; Belongs to the adrenodoxin/putidaredoxin family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 106,
+            "end_residue_number": 111,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 119,
+            "end_residue_number": 129,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 133,
+            "end_residue_number": 143,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 42,
+            "end_residue_number": 49,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 67,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 81,
+            "end_residue_number": 95,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "106-111",
+        "119-129",
+        "133-143"
+    ],
+    "interfaceB": [
+        "42-49",
+        "67-67",
+        "81-95"
+    ]
+}

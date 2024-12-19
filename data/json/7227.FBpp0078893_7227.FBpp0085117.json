@@ -1,0 +1,16 @@
+{
+    "pae": 18.4,
+    "iptm": 27.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0078893",
+    "proB": "FBpp0085117",
+    "geneA": "CG9547",
+    "geneB": "CG1544",
+    "annotationA": "GH06693p; glutaryl-CoA dehydrogenase activity; flavin adenine dinucleotide binding. It is involved in the biological process described with: oxidation-reduction process; tryptophan metabolic process; lysine catabolic process; hydroxylysine catabolic process",
+    "annotationB": "Probable 2-oxoglutarate dehydrogenase E1 component DHKTD1 homolog, mitochondrial; The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2). It contains multiple copies of three enzymatic components: 2- oxoglutarate dehydrogenase (E1), dihydrolipoamide succinyltransferase (E2) and lipoamide dehydrogenase (E3) (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

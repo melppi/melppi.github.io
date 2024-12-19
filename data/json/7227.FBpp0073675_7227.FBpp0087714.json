@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 18.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073675",
+    "proB": "FBpp0087714",
+    "geneA": "CG9940",
+    "geneB": "CG8080",
+    "annotationA": "Probable glutamine-dependent NAD(+) synthetase; ATP binding; NAD+ synthase (glutamine-hydrolyzing) activity; hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds. It is involved in the biological process described with: NAD biosynthetic process; In the C-terminal section; belongs to the NAD synthetase family",
+    "annotationB": "NAD kinase 2, mitochondrial; Mitochondrial NAD(+) kinase that phosphorylates NAD(+) to yield NADP(+). Can use both ATP or inorganic polyphosphate as the phosphoryl donor",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

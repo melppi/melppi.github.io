@@ -1,0 +1,48 @@
+{
+    "pae": 4.4,
+    "iptm": 48.6,
+    "pdockq": 0.141,
+    "proA": "FBpp0075250",
+    "proB": "FBpp0082713",
+    "geneA": "IntS9",
+    "geneB": "asun",
+    "annotationA": "Integrator complex subunit 9; Component of the Integrator complex, a complex involved in the transcription of small nuclear RNAs (snRNA) and their 3'- box-dependent processing. Involved in the 3'-end processing of the U7 snRNA, and also the spliceosomal snRNAs U1, U2, U4 and U5. May mediate recruitment of cytoplasmic dynein to the nuclear envelope, probably as component of the INT complex (By similarity)",
+    "annotationB": "Protein asunder; Component of the Integrator complex, a complex involved in the transcription of small nuclear RNAs (snRNA) and their 3'- box-dependent processing. Involved in the 3'-end processing of the U7 snRNA, and also the spliceosomal snRNAs U1 and U5. Plays a role as a regulator of spermatogenesis. Crucial regulator of the mitotic cell cycle and development. Required for the correct dynein-dynactin perinuclear localization important for nucleus-centrosome coupling that occur upon meiotic progression of primary spermatocytes. Plays a role in sperm motility and fertility. May have [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 516,
+            "end_residue_number": 527,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 625,
+            "end_residue_number": 632,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "516-527"
+    ],
+    "interfaceB": [
+        "625-632"
+    ]
+}

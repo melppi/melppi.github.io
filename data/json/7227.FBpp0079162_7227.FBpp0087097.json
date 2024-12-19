@@ -1,0 +1,76 @@
+{
+    "pae": 1.5,
+    "iptm": 40.7,
+    "pdockq": 0.669,
+    "proA": "FBpp0079162",
+    "proB": "FBpp0087097",
+    "geneA": "CG7429",
+    "geneB": "wash",
+    "annotationA": "WASH complex subunit 3; Acts at least in part as component of the WASH complex which may regulate wash nucleation-promoting factor (NPF) activity and is required for its membrane targeting during endosomal sorting (By similarity). During embryogenesis, not involved in the wash-dependent developmental migration of hemocytes anteriorly from the tail",
+    "annotationB": "WASH complex subunit 1; Acts as a nucleation-promoting factor by activating the Arp2/3 complex to induce actin polymerization. Participates in both linear- and branched-actin networks. Functions in linear-filament (bundled F-actin) by acting downstream of Rho1 and regulating actin and microtubule organization during oogenesis. Nucleates actin in an Arp2/3-dependent manner and exhibits F-actin and microtubule bundling and cross-linking activity in the egg chamber. During embryogenesis, acts downstream of Rho1 to activate the Arp2/3 complex which is necessary for the developmental migrat [...] ",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 19,
+            "end_residue_number": 79,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 4,
+            "end_residue_number": 75,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 80,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 141,
+            "end_residue_number": 143,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "19-79"
+    ],
+    "interfaceB": [
+        "4-75",
+        "80-103",
+        "141-143"
+    ]
+}

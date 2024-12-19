@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 22.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0079648",
+    "proB": "FBpp0084349",
+    "geneA": "RnrL",
+    "geneB": "Dak1",
+    "annotationA": "Ribonucleoside-diphosphate reductase large subunit; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides",
+    "annotationB": "UMP-CMP kinase; Catalyzes the phosphorylation of pyrimidine nucleoside monophosphates at the expense of ATP. Plays an important role in de novo pyrimidine nucleotide biosynthesis. Has preference for UMP and CMP as phosphate acceptors",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

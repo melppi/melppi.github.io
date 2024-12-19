@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 16.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0076937",
+    "proB": "FBpp0085889",
+    "geneA": "Cbs",
+    "geneB": "Eip55E",
+    "annotationA": "Cystathionine beta-synthase activity. It is involved in the biological process described with: determination of adult lifespan; cysteine biosynthetic process from serine; response to endoplasmic reticulum stress; cysteine biosynthetic process via cystathionine",
+    "annotationB": "Eip55E, isoform A; Pyridoxal phosphate binding; catalytic activity; cystathionine gamma-lyase activity. It is involved in the biological process described with: glutathione biosynthetic process; sulfur amino acid metabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

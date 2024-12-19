@@ -1,0 +1,90 @@
+{
+    "pae": 5.6,
+    "iptm": 30.0,
+    "pdockq": 0.164,
+    "proA": "FBpp0072852",
+    "proB": "FBpp0086432",
+    "geneA": "Jafrac2",
+    "geneB": "Diap2",
+    "annotationA": "Thioredoxin peroxidase 2, isoform A; Protein binding; peroxidase activity; antioxidant activity; thioredoxin peroxidase activity. It is involved in the biological process described with: response to oxidative stress; positive regulation of JAK-STAT cascade; oxidation-reduction process; cellular response to DNA damage stimulus; positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway; apoptotic signaling pathway; cellular response to cold; hydrogen peroxide catabolic process; defense response to bacterium",
+    "annotationB": "Death-associated inhibitor of apoptosis 2; Required for activation of NF-kappaB transcription factors in the immune deficiency (Imd) signaling cascade which is essential for innate immune responses upon infection by Gram- negative bacteria. Promotes cytoplasmic cleavage of Rel and its translocation to the nucleus where it drives expression of antimicrobial peptides. Binds, polyubiquitinates and activates Dredd which is required for Rel-mediated induction of antimicrobial peptides. Anti-apoptotic protein which binds, ubiquitinates and inactivates the effector caspase Drice. Suppresses r [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 41,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 241,
+            "end_residue_number": 241,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 245,
+            "end_residue_number": 248,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 253,
+            "end_residue_number": 263,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 268,
+            "end_residue_number": 273,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "41-47"
+    ],
+    "interfaceB": [
+        "241-241",
+        "245-248",
+        "253-263",
+        "268-273"
+    ]
+}

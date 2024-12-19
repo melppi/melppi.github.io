@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 28.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0073457",
+    "proB": "FBpp0081352",
+    "geneA": "FucT6",
+    "geneB": "nac",
+    "annotationA": "Alpha-(1,6)-fucosyltransferase; Catalyzes the addition of fucose in alpha 1-6 linkage to the first GlcNAc residue, next to the peptide chains in N-glycans. The addition is prevented if the GlcNAc residue is already fucosylated",
+    "annotationB": "GDP-fucose transporter 1; Involved in GDP-fucose import from the cytoplasm into the Golgi lumen. Plays a major role in the fucosylation of N- glycans. Functions redundantly with Efr in the O-fucosylation of Notch, positively regulating Notch signaling",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,76 @@
+{
+    "pae": 11.2,
+    "iptm": 27.8,
+    "pdockq": 0.102,
+    "proA": "FBpp0081722",
+    "proB": "FBpp0271771",
+    "geneA": "Timp",
+    "geneB": "Mmp1",
+    "annotationA": "Tissue inhibitor of metalloproteinase; Metalloproteinase inhibitor that acts on both matrix metalloproteinases Mmp1 and Mmp2 in vitro. Complexes with metalloproteinases and irreversibly inactivates them by binding to their catalytic zinc cofactor (By similarity). Required for wing maturation which is the final step in morphogenesis of the adult fly. Involved in the negative regulation of developmental tissue invasion for imaginal disk eversion during metamorphosis by inhibiting Mmp-mediated basement membrane (BM) degradation. Required for oogenesis and for the long-term maintainance of [...] ",
+    "annotationB": "Matrix metalloproteinase 1 (Mmp1) is proteinase that cleaves proteins in the extracellular matrix. Mmp1 roles include tissue histolysis and remodeling during metamorphosis, tracheal remodeling, wound healing, wing regeneration, neoplastic growth, and circadian behavior. Mmp1 has been used as a reporter for JNK signaling since it is upregulated by the pathway; Belongs to the peptidase M10A family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 129,
+            "end_residue_number": 141,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 179,
+            "end_residue_number": 183,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 198,
+            "end_residue_number": 204,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 524,
+            "end_residue_number": 531,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "129-141",
+        "179-183",
+        "198-204"
+    ],
+    "interfaceB": [
+        "524-531"
+    ]
+}

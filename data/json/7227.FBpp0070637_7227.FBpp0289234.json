@@ -1,0 +1,16 @@
+{
+    "pae": 26.0,
+    "iptm": 18.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070637",
+    "proB": "FBpp0289234",
+    "geneA": "Nsun2",
+    "geneB": "CG42358",
+    "annotationA": "tRNA (cytosine(34)-C(5))-methyltransferase; RNA methyltransferase that methylates tRNAs. Methylates cytosine to 5-methylcytosine (m5C) at position 34 of intron- containing tRNA(Leu)(CAA) precursors. Required for short-term memory",
+    "annotationB": "Nop2/Sun-like domain containing protein 5 (Nsun5) is predicted to catalyze the m5C-methylation of 28S ribosomal RNA. Nsun5 loss leads to increased lifespan and heat shock resistance; Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB/NOP family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

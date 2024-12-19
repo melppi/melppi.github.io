@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 16.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0072036",
+    "proB": "FBpp0079060",
+    "geneA": "gbb",
+    "geneB": "wg",
+    "annotationA": "Protein 60A; Required for the growth of imaginal tissues and for patterning of the adult wing; Belongs to the TGF-beta family",
+    "annotationB": "Protein wingless; Binds as a ligand to a family of frizzled seven- transmembrane receptors and acts through a cascade of genes on the nucleus. Segment polarity protein. May be a growth factor. Acts on neighboring cells to regulate at least one gene, the homeobox segmentation gene engrailed. Wg signal represses arm phosphorylation. Wg signaling operates by inactivating the sgg repression of engrailed autoactivation. Wg and Wnt2 have a role in the developing trachea and together are responsible for all dorsal trunk formation. Wg also acts in the developing epidermis. Acts as a morphogen, [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

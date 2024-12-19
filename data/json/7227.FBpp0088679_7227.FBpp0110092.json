@@ -1,0 +1,132 @@
+{
+    "pae": 1.0,
+    "iptm": 67.2,
+    "pdockq": 0.697,
+    "proA": "FBpp0088679",
+    "proB": "FBpp0110092",
+    "geneA": "CG18619",
+    "geneB": "CG13624",
+    "annotationA": "REPTOR-binding partner is a transcription factor constitutively localized in the nucleus. Together with its binding partner REPTOR it mediates much of the transcriptional response observed upon Tor complex 1 inhibition",
+    "annotationB": "Protein CREBRF homolog; Transcriptional regulator that acts in the TORC1 signaling pathway to regulate energy homeostasis and promote survival during nutrient deprivation. Upon TORC1 inhibition resulting from nutrient stress, it is recruited into the nucleus where along with RETPOR-BP it maintains energy homeostasis by regulating the expression of target stress response genes including those involved in glycogenesis and triglyceride biosynthesis. It also appears to negatively regulate some aspects of TORC1-dependent larval growth; Belongs to the bZIP family. CREBRF subfamily",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 52,
+            "end_residue_number": 115,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 608,
+            "end_residue_number": 622,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 626,
+            "end_residue_number": 638,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 642,
+            "end_residue_number": 652,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 657,
+            "end_residue_number": 664,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 715,
+            "end_residue_number": 758,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 763,
+            "end_residue_number": 763,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 767,
+            "end_residue_number": 788,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "52-115"
+    ],
+    "interfaceB": [
+        "608-622",
+        "626-638",
+        "642-652",
+        "657-664",
+        "715-758",
+        "763-763",
+        "767-788"
+    ]
+}

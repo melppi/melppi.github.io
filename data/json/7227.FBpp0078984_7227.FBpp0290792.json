@@ -1,0 +1,146 @@
+{
+    "pae": 11.4,
+    "iptm": 52.7,
+    "pdockq": 0.322,
+    "proA": "FBpp0078984",
+    "proB": "FBpp0290792",
+    "geneA": "smt3",
+    "geneB": "Dif",
+    "annotationA": "Small ubiquitin-related modifier; Smt3 is the only Drosophila SUMO family protein. It is required for embryonic patterning and mitosis. It may also have roles in wing patterning, Dpp signaling, and Ras/MAPK signaling. It localizes to the nucleus during interphase  and to the kinetochores and midbodies during mitosis",
+    "annotationB": "Dorsal-related immunity factor Dif; Mediates an immune response in larvae. DIF binds to the kappa-B consensus sequence 5'-GGRNNYYCC-3', located in the enhancer region of the immunity gene CECA1. Involved in the melanization immune response to bacterial challenge, possibly by acting in a Toll signaling pathway that downregulates Spn27A in response to infection. Part of a signaling pathway involving NF-kappa- B (rel) and Toll-related receptors, that functions in the apoptosis of unfit cells during cell competition. May be part of a NF-kappa-B and Tollo signaling cascade that regulates de [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 57,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 67,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 87,
+            "end_residue_number": 94,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 98,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 112,
+            "end_residue_number": 112,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 116,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 153,
+            "end_residue_number": 153,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 178,
+            "end_residue_number": 180,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 251,
+            "end_residue_number": 251,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "57-63",
+        "67-82"
+    ],
+    "interfaceB": [
+        "87-94",
+        "98-106",
+        "112-112",
+        "116-118",
+        "153-153",
+        "178-180",
+        "251-251"
+    ]
+}

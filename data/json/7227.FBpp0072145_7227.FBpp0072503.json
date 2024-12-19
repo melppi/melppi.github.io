@@ -1,0 +1,104 @@
+{
+    "pae": 11.3,
+    "iptm": 21.3,
+    "pdockq": 0.091,
+    "proA": "FBpp0072145",
+    "proB": "FBpp0072503",
+    "geneA": "Snap29",
+    "geneB": "Vti1",
+    "annotationA": "Synaptosomal-associated protein 29kDa; SNAP receptor activity; SNARE binding. It is involved in the biological process described with: vesicle-mediated transport; autophagic vacuole fusion; autophagic vacuole maturation; neurotransmitter secretion",
+    "annotationB": "Vesicle transport through interaction with t-SNAREs 1a; SNAP receptor activity. It is involved in the biological process described with: vesicle-mediated transport; intracellular protein transport; vesicle fusion",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 74,
+            "end_residue_number": 98,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 102,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 106,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 222,
+            "end_residue_number": 232,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 236,
+            "end_residue_number": 250,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 130,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "74-98",
+        "102-102",
+        "106-109",
+        "222-232",
+        "236-250"
+    ],
+    "interfaceB": [
+        "130-162"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 20.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0082496",
+    "proB": "FBpp0099884",
+    "geneA": "GlyS",
+    "geneB": "UGP",
+    "annotationA": "Glycogen [starch] synthase; Transfers the glycosyl residue from UDPG to the non- reducing end of alpha-1,4-glucan. In larval skeletal muscle, isoform B is required for the formation of autophagosomes during starvation and during cloroquine-induced vacuolar myopathy",
+    "annotationB": "UGP, isoform A; UTP:glucose-1-phosphate uridylyltransferase activity. It is involved in the biological process described with: UDP-glucose metabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 21.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0086941",
+    "proB": "FBpp0302793",
+    "geneA": "Amph",
+    "geneB": "Arp2",
+    "annotationA": "Amphiphysin, isoform A; Phospholipid binding. It is involved in the biological process described with: exocytosis; protein localization; rhabdomere development; synaptic vesicle endocytosis; endocytosis; neurotransmitter secretion; rhabdomere membrane biogenesis; regulation of muscle contraction",
+    "annotationB": "Actin-related protein 2; Functions as ATP-binding component of the Arp2/3 complex which is involved in regulation of actin polymerization and together with an activating nucleation-promoting factor (NPF) mediates the formation of branched actin networks. Seems to contact the pointed end of the daughter actin filament (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

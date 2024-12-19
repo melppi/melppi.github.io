@@ -1,0 +1,132 @@
+{
+    "pae": 12.4,
+    "iptm": 28.4,
+    "pdockq": 0.155,
+    "proA": "FBpp0070037",
+    "proB": "FBpp0110418",
+    "geneA": "alpha-Cat",
+    "geneB": "cta",
+    "annotationA": "Catenin alpha; Associates with the cytoplasmic domain of a variety of cadherins. The association of catenins to cadherins produces a complex which is linked to the actin filament network, and which seems to be of primary importance for cadherins cell-adhesion properties",
+    "annotationB": "Guanine nucleotide-binding protein subunit alpha homolog; May play a role in a signal transduction pathway used during gastrulation. Required specifically for the ventral furrow and posterior midgut invaginations, where it is necessary for coordinating cell shape changes; Belongs to the G-alpha family. G(12) subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 714,
+            "end_residue_number": 718,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 785,
+            "end_residue_number": 792,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 844,
+            "end_residue_number": 851,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 855,
+            "end_residue_number": 855,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 871,
+            "end_residue_number": 879,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 108,
+            "end_residue_number": 133,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 293,
+            "end_residue_number": 293,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 317,
+            "end_residue_number": 320,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "714-718",
+        "785-792",
+        "844-851",
+        "855-855",
+        "871-879"
+    ],
+    "interfaceB": [
+        "108-133",
+        "293-293",
+        "317-320"
+    ]
+}

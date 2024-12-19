@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 15.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0078664",
+    "proB": "FBpp0085104",
+    "geneA": "Rpn11",
+    "geneB": "dco",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "annotationB": "Discs overgrown protein kinase; Involved in circadian rhythms, viability and molecular oscillations of the clock genes period (per) and timeless (tim). Dbt reduces the stability and thus the accumulation of monomeric per proteins, probably through phosphorylation. No evident circadian oscillation is detected in head. Together with CkIalpha, regulates processing of ci by phosphorylating it which promotes its binding to slmb, the F-box recognition component of the SCF(slmb) E3 ubiquitin-protein ligase; Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein k [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

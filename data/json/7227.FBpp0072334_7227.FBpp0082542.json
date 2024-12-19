@@ -1,0 +1,16 @@
+{
+    "pae": 19.2,
+    "iptm": 16.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0072334",
+    "proB": "FBpp0082542",
+    "geneA": "Aats-tyr-m",
+    "geneB": "Aats-ser",
+    "annotationA": "Tyrosine--tRNA ligase, mitochondrial; Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction: tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr); Belongs to the class-I aminoacyl-tRNA synthetase family",
+    "annotationB": "Seryl-tRNA synthetase, mitochondrial (SerRS-m) catalyses the aminoacylation of tRNAser with serine, to be used for gene translation during protein synthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

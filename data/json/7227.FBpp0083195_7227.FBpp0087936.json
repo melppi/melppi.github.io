@@ -1,0 +1,48 @@
+{
+    "pae": 7.4,
+    "iptm": 46.5,
+    "pdockq": 0.039,
+    "proA": "FBpp0083195",
+    "proB": "FBpp0087936",
+    "geneA": "Nup58",
+    "geneB": "Nup44A",
+    "annotationA": "Probable nucleoporin Nup58; Probable component of the nuclear pore complex, a complex required for the trafficking across the nuclear membrane",
+    "annotationB": "Nucleoporin at 44A, isoform A; Structural constituent of nuclear pore. It is involved in the biological process described with: oogenesis; regulation of mitotic cell cycle; regulation of meiotic cell cycle; Belongs to the WD repeat SEC13 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 435,
+            "end_residue_number": 443,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 303,
+            "end_residue_number": 305,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "435-443"
+    ],
+    "interfaceB": [
+        "303-305"
+    ]
+}

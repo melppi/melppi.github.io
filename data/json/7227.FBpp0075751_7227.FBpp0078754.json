@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 25.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0075751",
+    "proB": "FBpp0078754",
+    "geneA": "thoc6",
+    "geneB": "Hel25E",
+    "annotationA": "THO complex subunit 6; The THO complex is required for cell proliferation and for proper export of heat-shock mRNAs under heat stress",
+    "annotationB": "ATP-dependent RNA helicase WM6; Required for mRNA export out of the nucleus. Probable RNA helicase that may regulate entry into mitosis by down- regulating the expression of other genes whose activity may be rate-limiting for entry into mitosis during embryogenesis. Binds to salivary gland chromosomes and modifies position effect variegation. Promotes an open chromatin structure that favors transcription during development by regulating the spread of heterochromatin",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.7,
+    "iptm": 14.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0079812",
+    "proB": "FBpp0080120",
+    "geneA": "RfC38",
+    "geneB": "Orc5",
+    "annotationA": "Replication factor C 38kD subunit, isoform A; DNA clamp loader activity; ATPase activity. It is involved in the biological process described with: DNA replication; neurogenesis",
+    "annotationB": "Origin recognition complex subunit 5; Component of the origin recognition complex (ORC) that binds origins of replication. DNA-binding is ATP-dependent, however specific DNA sequences that define origins of replication have not been identified so far. ORC is required to assemble the pre-replication complex necessary to initiate DNA replication (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

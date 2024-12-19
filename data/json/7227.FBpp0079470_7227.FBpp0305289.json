@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 13.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0079470",
+    "proB": "FBpp0305289",
+    "geneA": "Bka",
+    "geneB": "NHP2",
+    "annotationA": "RE14259p; It is involved in the biological process described with: chromatin-mediated maintenance of transcription; neuron projection morphogenesis",
+    "annotationB": "H/ACA ribonucleoprotein complex subunit 2-like protein; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

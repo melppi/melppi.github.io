@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 19.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0074184",
+    "proB": "FBpp0302793",
+    "geneA": "Arpc3B",
+    "geneB": "Arp2",
+    "annotationA": "Actin-related protein 2/3 complex subunit 3; Functions as component of the Arp2/3 complex which is involved in regulation of actin polymerization and together with an activating nucleation-promoting factor (NPF) mediates the formation of branched actin networks",
+    "annotationB": "Actin-related protein 2; Functions as ATP-binding component of the Arp2/3 complex which is involved in regulation of actin polymerization and together with an activating nucleation-promoting factor (NPF) mediates the formation of branched actin networks. Seems to contact the pointed end of the daughter actin filament (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 21.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0075250",
+    "proB": "FBpp0077627",
+    "geneA": "IntS9",
+    "geneB": "IntS14",
+    "annotationA": "Integrator complex subunit 9; Component of the Integrator complex, a complex involved in the transcription of small nuclear RNAs (snRNA) and their 3'- box-dependent processing. Involved in the 3'-end processing of the U7 snRNA, and also the spliceosomal snRNAs U1, U2, U4 and U5. May mediate recruitment of cytoplasmic dynein to the nuclear envelope, probably as component of the INT complex (By similarity)",
+    "annotationB": "Integrator complex subunit 14; Component of the Integrator complex, a complex involved in the transcription of small nuclear RNAs (snRNA) and their 3'- box-dependent processing. Involved in the 3'-end processing of the U7 snRNA, and also the spliceosomal snRNAs U1 and U5",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

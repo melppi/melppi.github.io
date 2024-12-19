@@ -1,0 +1,62 @@
+{
+    "pae": 15.5,
+    "iptm": 20.2,
+    "pdockq": 0.026,
+    "proA": "FBpp0072407",
+    "proB": "FBpp0072418",
+    "geneA": "ttm2",
+    "geneB": "CG32845",
+    "annotationA": "Mitochondrial import inner membrane translocase subunit TIM50-B; Tiny tim 2 (Ttm2) is a mitochondrial inner membrane protein. Ttm2 is involved in mitochondrial protein translocation and maintenance of mitochondrial membrane potential; Belongs to the TIM50 family",
+    "annotationB": "Uncharacterized protein; Isomerase activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 233,
+            "end_residue_number": 235,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 266,
+            "end_residue_number": 266,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 352,
+            "end_residue_number": 354,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "233-235",
+        "266-266"
+    ],
+    "interfaceB": [
+        "352-354"
+    ]
+}

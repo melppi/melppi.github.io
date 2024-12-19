@@ -1,0 +1,16 @@
+{
+    "pae": 21.9,
+    "iptm": 24.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0075382",
+    "proB": "FBpp0088087",
+    "geneA": "Prosbeta2",
+    "geneB": "cos",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "annotationB": "Kinesin-like protein costa; Regulates cubitus interruptus (ci) processing by recruiting multiple kinases to promote its efficient phosphorylation. Scaffolds multiple kinases and ci into proximity to promote its hyperphosphorylation, which then targets it for SCFSlimb/proteasome-mediated processing to generate its repressor form. Hh signaling inhibits ci phosphorylation by interfering with the cos-ci-kinases complex formation. Negatively regulates hh- signaling pathways during various processes, including photoreceptor differentiation. May negatively regulate a hh-signaling pathway whic [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

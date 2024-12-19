@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 15.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0083713",
+    "proB": "FBpp0086649",
+    "geneA": "rumi",
+    "geneB": "O-fut1",
+    "annotationA": "O-glucosyltransferase rumi; Protein O-glucosyltransferase. Catalyzes the reaction that attaches glucose through an O-glycosidic linkage to a conserved serine residue in epidermal growth factor-like repeats. Regulates Notch signaling by glucosylating Notch in the ER, glucosylation is required for the correct folding and cleavage of Notch",
+    "annotationB": "GDP-fucose protein O-fucosyltransferase 1; Catalyzes the reaction that attaches fucose through an O-glycosidic linkage to a conserved serine or threonine residue found in the consensus sequence C2-X(4,5)-[S/T]-C3 of EGF domains, where C2 and C3 are the second and third conserved cysteines. Specifically uses GDP-fucose as donor substrate and proper disulfide pairing of the substrate EGF domains is required for fucose transfer. Plays a crucial role in Notch signaling. Initial fucosylation of Notch/N by POFUT1 generates a substrate for Fringe/Fng, an acetylglucosaminyltransferase that can [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

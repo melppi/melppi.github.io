@@ -1,0 +1,16 @@
+{
+    "pae": 24.1,
+    "iptm": 18.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0085891",
+    "proB": "FBpp0304449",
+    "geneA": "Atg7",
+    "geneB": "UbcE2M",
+    "annotationA": "Autophagy-related 7 is an E1-type ligase for the autophagic ubiquitin-like proteins Atg8a and Atg12. Its roles include autophagosome formation, maintaining neuromuscular function and normal lifespan",
+    "annotationB": "Nedd8-conjugating enzyme Ubc12; Accepts the ubiquitin-like protein Nedd8 from the Uba3- APP-BP1 E1 complex and catalyzes its covalent attachment to other proteins. Required for Cul1 and Cul3 neddylation. Negatively regulates full-length ci stability and hedgehog signaling; Belongs to the ubiquitin-conjugating enzyme family. UBC12 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

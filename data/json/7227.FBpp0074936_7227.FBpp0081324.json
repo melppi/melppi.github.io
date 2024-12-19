@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0074936",
+    "proB": "FBpp0081324",
+    "geneA": "CG5589",
+    "geneB": "eIF4AIII",
+    "annotationA": "CG5589; mRNA binding; ATP binding; ATP-dependent RNA helicase activity; Belongs to the DEAD box helicase family",
+    "annotationB": "Eukaryotic initiation factor 4A-III; ATP-dependent RNA helicase. Core component of the splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junctions on mRNAs. Involved in exon definition of genes containing long introns, including the rolled/MAPK gene. Has a role in oskar mRNA localization at the posterior pole of the developing oocyte",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

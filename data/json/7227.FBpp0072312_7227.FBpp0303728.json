@@ -1,0 +1,90 @@
+{
+    "pae": 4.0,
+    "iptm": 57.4,
+    "pdockq": 0.407,
+    "proA": "FBpp0072312",
+    "proB": "FBpp0303728",
+    "geneA": "RpL19",
+    "geneB": "RpL21",
+    "annotationA": "60S ribosomal protein L19; Structural constituent of ribosome. It is involved in the biological process described with: centrosome duplication; mitotic spindle elongation; translation; Belongs to the eukaryotic ribosomal protein eL19 family",
+    "annotationB": "Ribosomal protein L21, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 139,
+            "end_residue_number": 158,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 162,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 24,
+            "end_residue_number": 36,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 66,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 93,
+            "end_residue_number": 94,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "139-158",
+        "162-162"
+    ],
+    "interfaceB": [
+        "24-36",
+        "66-70",
+        "93-94"
+    ]
+}

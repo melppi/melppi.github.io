@@ -1,0 +1,16 @@
+{
+    "pae": 18.1,
+    "iptm": 24.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0078413",
+    "proB": "FBpp0081600",
+    "geneA": "ksr",
+    "geneB": "Ras85D",
+    "annotationA": "Kinase suppressor of ras, isoform A; Protein kinase activity; ATP binding; diacylglycerol binding; protein serine/threonine kinase activity. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; protein phosphorylation; tracheal outgrowth, open tracheal system; positive regulation of ERK1 and ERK2 cascade; imaginal disc-derived wing morphogenesis; torso signaling pathway; anterior/posterior axis specification, embryo; Ras protein signal transduction; signal transduction",
+    "annotationB": "Ras-like protein 1; Ras proteins bind GDP/GTP and possess intrinsic GTPase activity (By similarity). Plays a role in eye development by regulating cell growth, survival of postmitotic ommatidial cells and differentiation of photoreceptor cells. During larval development, mediates Ptth/tor signaling leading to the production of ecdysone, a hormone required for the initiation of metamorphosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

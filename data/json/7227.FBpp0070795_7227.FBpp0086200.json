@@ -1,0 +1,16 @@
+{
+    "pae": 20.9,
+    "iptm": 23.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070795",
+    "proB": "FBpp0086200",
+    "geneA": "GAA1",
+    "geneB": "PIG-V",
+    "annotationA": "Glycosylphosphatidylinositol anchor attachment 1 is a subunit of glycosylphosphatidylinositol (GPI) transamidase, which mediates GPI anchoring in the endoplasmic reticulum. GPI anchor attachment serves as a general mechanism for linking proteins to the cell surface membrane",
+    "annotationB": "GPI mannosyltransferase 2; Mannosyltransferase involved in glycosylphosphatidylinositol-anchor biosynthesis. Transfers the second mannose to the glycosylphosphatidylinositol during GPI precursor assembly. Required for the GPI-mediated endoplasmic reticulum exit and proper targeting to the cell surface of chp. Required for GPI-mediated membrane attachment of chp, qsm and Cont. Essential for microvillar stability in the rhabdomere; Belongs to the PIGV family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

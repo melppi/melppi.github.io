@@ -1,0 +1,48 @@
+{
+    "pae": 14.4,
+    "iptm": 45.0,
+    "pdockq": 0.024,
+    "proA": "FBpp0073230",
+    "proB": "FBpp0305866",
+    "geneA": "CG17030",
+    "geneB": "shi",
+    "annotationA": "AT26201p; Ubiquitin-protein transferase activity. It is involved in the biological process described with: protein polyubiquitination; Belongs to the ubiquitin-conjugating enzyme family",
+    "annotationB": "Dynamin; Microtubule-associated force-producing protein which is involved in the production of microtubule bundles and which is able to bind and hydrolyze GTP. Implicated in endocytic protein sorting; Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 14,
+            "end_residue_number": 14,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 713,
+            "end_residue_number": 713,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "14-14"
+    ],
+    "interfaceB": [
+        "713-713"
+    ]
+}

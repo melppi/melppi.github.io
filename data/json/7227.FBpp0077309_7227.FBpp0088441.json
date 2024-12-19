@@ -1,0 +1,62 @@
+{
+    "pae": 4.8,
+    "iptm": 55.5,
+    "pdockq": 0.156,
+    "proA": "FBpp0077309",
+    "proB": "FBpp0088441",
+    "geneA": "RpS21",
+    "geneB": "RpS7",
+    "annotationA": "40S ribosomal protein S21; May be an associated component of the ribosome rather than a core structural subunit. May act as a translation initiation factor. Has a role in regulation of cell proliferation in the hematopoietic organs and the imaginal disks of larva",
+    "annotationB": "Ribosomal protein S7; Belongs to the eukaryotic ribosomal protein eS7 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 62,
+            "end_residue_number": 76,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 81,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 140,
+            "end_residue_number": 148,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "62-76",
+        "81-83"
+    ],
+    "interfaceB": [
+        "140-148"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 17.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0079710",
+    "proB": "FBpp0081102",
+    "geneA": "Nup107",
+    "geneB": "nxf4",
+    "annotationA": "Nuclear pore complex protein Nup107; Plays a role in nuclear pore complex (NPC) assembly and maintenance. Required for nuclear import of Mad. Plays a role in double strand break repair by relocalizing the heterochromatic double strain breaks (DSBs) to the nuclear periphery as part of the homologous recombination (HR) repair process. Regulates cytokinesis during spermatocyte meiosis by maintaining type-B lamin Lam localization to the spindle envelope. Regulates female gonad development and oogenesis; Belongs to the nucleoporin Nup84/Nup107 family",
+    "annotationB": "Nuclear export factor 4; It is involved in the biological process described with: RNA export from nucleus",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

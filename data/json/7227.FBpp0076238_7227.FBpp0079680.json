@@ -1,0 +1,48 @@
+{
+    "pae": 15.0,
+    "iptm": 11.8,
+    "pdockq": 0.025,
+    "proA": "FBpp0076238",
+    "proB": "FBpp0079680",
+    "geneA": "mRpL12",
+    "geneB": "CG6094",
+    "annotationA": "Mitochondrial ribosomal protein L12; Structural constituent of ribosome; chromatin binding. It is involved in the biological process described with: translation; mitochondrion organization; cell growth",
+    "annotationB": "CG6094, isoform A; Translation release factor activity. It is involved in the biological process described with: translational termination",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 38,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 34,
+            "end_residue_number": 35,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "35-38"
+    ],
+    "interfaceB": [
+        "34-35"
+    ]
+}

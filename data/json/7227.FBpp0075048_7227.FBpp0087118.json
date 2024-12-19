@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 29.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0075048",
+    "proB": "FBpp0087118",
+    "geneA": "scaf6",
+    "geneB": "SmF",
+    "annotationA": "SR-related CTD associated factor 6, isoform A; mRNA binding. It is involved in the biological process described with: mRNA splicing, via spliceosome",
+    "annotationB": "Small ribonucleoprotein particle protein SmF (SmF) is an RNA binding protein that functions as part of a heteroheptameric ring structure called the Sm core. This complex binds to spliceosomal small nuclear RNAs (e.g. U1, U2, U4 and U5) and helps to carry out pre-mRNA splicing. SmF also forms a heterotrimeric sub-complex with SmE and SNRPG",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

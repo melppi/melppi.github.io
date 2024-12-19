@@ -1,0 +1,48 @@
+{
+    "pae": 8.2,
+    "iptm": 27.8,
+    "pdockq": 0.084,
+    "proA": "FBpp0084036",
+    "proB": "FBpp0291910",
+    "geneA": "atl",
+    "geneB": "CG42678",
+    "annotationA": "Atlastin; GTPase tethering membranes through formation of trans- homooligomers and mediating homotypic fusion of endoplasmic reticulum membranes. Functions in endoplasmic reticulum tubular network biogenesis. May also regulate microtubule polymerization and Golgi biogenesis. Required for dopaminergic neurons survival and the growth of muscles and synapses at neuromuscular junctions",
+    "annotationB": "Receptor expression enhancing protein 1 (Reep1) is a member of the DP1/Yop1p family that localizes to the endoplasmic reticulum (ER). Reep1 functions include the prevention of ER-stress",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 434,
+            "end_residue_number": 442,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 200,
+            "end_residue_number": 208,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "434-442"
+    ],
+    "interfaceB": [
+        "200-208"
+    ]
+}

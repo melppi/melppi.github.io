@@ -1,0 +1,16 @@
+{
+    "pae": 25.8,
+    "iptm": 13.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0304059",
+    "proB": "FBpp0304481",
+    "geneA": "Usp14",
+    "geneB": "Rpt3R",
+    "annotationA": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "annotationB": "Regulatory particle triple-A ATPase 3-related, isoform C; ATP binding; ATPase activity. It is involved in the biological process described with: proteolysis; cellular response to DNA damage stimulus; protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 26.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0075690",
+    "proB": "FBpp0290601",
+    "geneA": "vih",
+    "geneB": "mars",
+    "annotationA": "Ubiquitin-conjugating enzyme E2 C; Catalyzes the covalent attachment of ubiquitin to other proteins. Acts as an essential factor of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated ubiquitin ligase that controls progression through mitosis. Acts by initiating polyubiquitin chains on APC/C substrates, leading to the degradation of APC/C substrates by the proteasome and promoting mitotic exit; Belongs to the ubiquitin-conjugating enzyme family",
+    "annotationB": "Guanylate kinase-associated protein mars; Cell cycle regulator; Belongs to the SAPAP family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.7,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0083954",
+    "proB": "FBpp0084243",
+    "geneA": "twin",
+    "geneB": "bam",
+    "annotationA": "Twin, isoform C; Protein binding. It is involved in the biological process described with: mRNA catabolic process; oogenesis; nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay; regulation of transcription from RNA polymerase II promoter; female germ-line stem cell asymmetric division; nuclear-transcribed mRNA poly(A) tail shortening; negative regulation of translation",
+    "annotationB": "Bag of marbles (bam) is a protein involved in gametogenesis. It contributes to the fate determination of germline stem cells, in which bam is negatively regulated by the BMP signaling pathway. It is associated with the fusome, a germ cell-specific organelle",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

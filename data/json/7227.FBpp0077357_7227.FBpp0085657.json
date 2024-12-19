@@ -1,0 +1,16 @@
+{
+    "pae": 24.9,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0077357",
+    "proB": "FBpp0085657",
+    "geneA": "okr",
+    "geneB": "mei-W68",
+    "annotationA": "DNA repair and recombination protein RAD54-like; Involved in mitotic DNA repair and meiotic recombination. Functions in the recombinational DNA repair pathway. Essential for interhomolog gene conversion (GC), but may have a less important role in intersister GC than spn-A/Rad51. In the presence of DNA, spn-A/Rad51 enhances the ATPase activity of okr/Rad54",
+    "annotationB": "Meiotic recombination protein W68; Required for meiotic recombination. Together with mei-P22, mediates DNA cleavage that forms the double-strand breaks (DSB) that initiate meiotic recombination (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

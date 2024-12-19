@@ -1,0 +1,16 @@
+{
+    "pae": 16.7,
+    "iptm": 27.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0079538",
+    "proB": "FBpp0291369",
+    "geneA": "Prosalpha6",
+    "geneB": "Cul3",
+    "annotationA": "Proteasome subunit alpha type-1; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity; Belongs to the peptidase T1A family",
+    "annotationB": "Cullin 3, isoform F; Ubiquitin-protein transferase activity; ubiquitin protein ligase binding; Belongs to the cullin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

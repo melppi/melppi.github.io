@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 13.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0083564",
+    "proB": "FBpp0087511",
+    "geneA": "RpI12",
+    "geneB": "RpLP0-like",
+    "annotationA": "DNA-directed RNA polymerase subunit; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates",
+    "annotationB": "Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,76 @@
+{
+    "pae": 13.3,
+    "iptm": 31.4,
+    "pdockq": 0.056,
+    "proA": "FBpp0081879",
+    "proB": "FBpp0110412",
+    "geneA": "RpL24-like",
+    "geneB": "RpL38",
+    "annotationA": "Probable ribosome biogenesis protein RLP24; Involved in the biogenesis of the 60S ribosomal subunit. Ensures the docking of NOG1 to pre-60S particles (By similarity)",
+    "annotationB": "Ribosomal protein L38 is a component of the large subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 122,
+            "end_residue_number": 122,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 126,
+            "end_residue_number": 134,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 7,
+            "end_residue_number": 9,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 51,
+            "end_residue_number": 56,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "122-122",
+        "126-134"
+    ],
+    "interfaceB": [
+        "7-9",
+        "51-56"
+    ]
+}

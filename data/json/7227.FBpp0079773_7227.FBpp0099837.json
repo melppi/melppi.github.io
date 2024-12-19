@@ -1,0 +1,16 @@
+{
+    "pae": 18.3,
+    "iptm": 20.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0079773",
+    "proB": "FBpp0099837",
+    "geneA": "Porin2",
+    "geneB": "Pink1",
+    "annotationA": "Voltage-dependent anion-selective channel protein 2; Cation channel activity; porin activity; voltage-gated anion channel activity. It is involved in the biological process described with: ion transport; regulation of anion transport; transmembrane transport; mitochondrial transport",
+    "annotationB": "PTEN-induced putative kinase 1, isoform A; Protein kinase activity; ATP binding; protein binding; protein serine/threonine kinase activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

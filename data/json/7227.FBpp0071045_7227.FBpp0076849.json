@@ -1,0 +1,16 @@
+{
+    "pae": 16.4,
+    "iptm": 26.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0071045",
+    "proB": "FBpp0076849",
+    "geneA": "p115",
+    "geneB": "Membrin",
+    "annotationA": "General vesicular transport factor p115; Essential for maintaining the architecture of the Golgi stacks and for normal organization of the transitional endoplasmic reticulum (tER). Required for both the formation of the Golgi stacks and the maintenance of the individual cisternae; Belongs to the VDP/USO1/EDE1 family",
+    "annotationB": "Probable Golgi SNAP receptor complex member 2; Involved in transport of proteins from the cis/medial- Golgi to the trans-Golgi network",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,62 @@
+{
+    "pae": 7.7,
+    "iptm": 24.1,
+    "pdockq": 0.133,
+    "proA": "FBpp0078664",
+    "proB": "FBpp0085480",
+    "geneA": "Rpn11",
+    "geneB": "geminin",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "annotationB": "Geminin, isoform A; DNA binding. It is involved in the biological process described with: eggshell chorion gene amplification; regulation of syncytial blastoderm mitotic cell cycle; endomitotic cell cycle; regulation of cell cycle; negative regulation of epidermal growth factor receptor signaling pathway; negative regulation of DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 232,
+            "end_residue_number": 232,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 297,
+            "end_residue_number": 308,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 121,
+            "end_residue_number": 133,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "232-232",
+        "297-308"
+    ],
+    "interfaceB": [
+        "121-133"
+    ]
+}

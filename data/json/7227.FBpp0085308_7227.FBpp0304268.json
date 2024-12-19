@@ -1,0 +1,76 @@
+{
+    "pae": 8.6,
+    "iptm": 50.9,
+    "pdockq": 0.321,
+    "proA": "FBpp0085308",
+    "proB": "FBpp0304268",
+    "geneA": "Tif-IA",
+    "geneB": "Rpb5",
+    "annotationA": "LD10456p; It is involved in the biological process described with: ribosome biogenesis; regulation of transcription from RNA polymerase I promoter",
+    "annotationB": "Rpb5, isoform A; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 242,
+            "end_residue_number": 265,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 281,
+            "end_residue_number": 283,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 81,
+            "end_residue_number": 95,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 110,
+            "end_residue_number": 125,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "242-265",
+        "281-283"
+    ],
+    "interfaceB": [
+        "81-95",
+        "110-125"
+    ]
+}

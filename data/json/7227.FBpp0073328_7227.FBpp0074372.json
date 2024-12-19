@@ -1,0 +1,16 @@
+{
+    "pae": 17.3,
+    "iptm": 19.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0073328",
+    "proB": "FBpp0074372",
+    "geneA": "Ran",
+    "geneB": "CG6540",
+    "annotationA": "GTP-binding nuclear protein Ran; GTPase involved in nucleocytoplasmic transport, participating both to the import and the export from the nucleus of proteins and RNAs. Switches between a cytoplasmic GDP- and a nuclear GTP-bound state by nucleotide exchange and GTP hydrolysis. Nuclear import receptors such as importin beta bind their substrates only in the absence of GTP-bound Ran and release them upon direct interaction with GTP-bound Ran while export receptors behave in the opposite way. Thereby, RAN controls cargo loading and release by transport receptors in the proper compartment a [...] ",
+    "annotationB": "Nucleoporin NUP53; Functions as a component of the nuclear pore complex (NPC). NPC components, collectively referred to as nucleoporins (NUPs)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

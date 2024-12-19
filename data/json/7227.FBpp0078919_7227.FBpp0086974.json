@@ -1,0 +1,16 @@
+{
+    "pae": 18.5,
+    "iptm": 9.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0078919",
+    "proB": "FBpp0086974",
+    "geneA": "COX5BL",
+    "geneB": "ox",
+    "annotationA": "Cytochrome-c oxidase activity. It is involved in the biological process described with: mitochondrial electron transport, cytochrome c to oxygen",
+    "annotationB": "Cytochrome b-c1 complex subunit 9; This is a component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is part of the mitochondrial respiratory chain. This subunit interacts with cytochrome c1 (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

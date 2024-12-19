@@ -1,0 +1,48 @@
+{
+    "pae": 5.9,
+    "iptm": 31.6,
+    "pdockq": 0.13,
+    "proA": "FBpp0070864",
+    "proB": "FBpp0073526",
+    "geneA": "CG3815",
+    "geneB": "Brms1",
+    "annotationA": "GH06635p; Sequence-specific DNA binding transcription factor activity; zinc ion binding",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 333,
+            "end_residue_number": 346,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 109,
+            "end_residue_number": 124,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "333-346"
+    ],
+    "interfaceB": [
+        "109-124"
+    ]
+}

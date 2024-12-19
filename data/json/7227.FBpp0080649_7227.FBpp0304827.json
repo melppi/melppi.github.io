@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0080649",
+    "proB": "FBpp0304827",
+    "geneA": "Grip71",
+    "geneB": "TubG2",
+    "annotationA": "Grip71; Gamma-tubulin binding. It is involved in the biological process described with: mitotic nuclear division; spindle assembly involved in female meiosis I; spindle assembly involved in mitosis; centrosome organization; regulation of cell cycle; centrosome duplication; mitotic spindle organization",
+    "annotationB": "Tubulin gamma-2 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome, suggesting that it is involved in the minus-end nucleation of microtubule assembly. Required for oocyte activation and consequently for organization of the female meiotic spindle. Essential for centrosome organization and assembly of biastral mitotic spindles in embryos. Plays a role in stabilizing the augmin complex on the meiotic spindle",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 17.6,
+    "iptm": 14.5,
+    "pdockq": 0.028,
+    "proA": "FBpp0077401",
+    "proB": "FBpp0079164",
+    "geneA": "Taf10",
+    "geneB": "Trf",
+    "annotationA": "Transcription initiation factor TFIID subunit 10; TFIID is a multimeric protein complex that plays a central role in mediating promoter responses to various activators and repressors",
+    "annotationB": "TBP-related factor (Trf) is ubiquitiously expressed but upregulated in the central nervous system and the gonads of developing Drosophila. In flies the majority of Trf substitutes for Tbp in Pol III transcription in complex with Brf. The rest of Trf initiates transcription of a small subset of PolII-transcribed genes regulating fly fertility and nervous system function",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 155,
+            "end_residue_number": 155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 90,
+            "end_residue_number": 92,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "155-155"
+    ],
+    "interfaceB": [
+        "90-92"
+    ]
+}

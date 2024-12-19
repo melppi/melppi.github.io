@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 18.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070419",
+    "proB": "FBpp0081580",
+    "geneA": "z",
+    "geneB": "Scm",
+    "annotationA": "Zeste is a sequence-specific DNA-binding protein. It is often found in the proximal promoter region of many genes where it helps to recruit the BRM nucleosome remodeling complex. It is best known for the pairing-dependent repressive effects produced by some of its mutants on target genes, especially the w gene",
+    "annotationB": "Polycomb protein Scm; Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility; Belongs to the SCM family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,90 @@
+{
+    "pae": 13.5,
+    "iptm": 29.3,
+    "pdockq": 0.045,
+    "proA": "FBpp0073316",
+    "proB": "FBpp0088015",
+    "geneA": "l(1)10Bb",
+    "geneB": "U2A",
+    "annotationA": "L(1)10Bb protein; It is involved in the biological process described with: neurogenesis; mRNA splicing, via spliceosome",
+    "annotationB": "Probable U2 small nuclear ribonucleoprotein A; U2A is a protein component of the U2 snRNP. The U2 snRNP combines with other snRNPs on the pre-mRNA to assemble a spliceosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 55,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 63,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 67,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 17,
+            "end_residue_number": 18,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 146,
+            "end_residue_number": 147,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "55-55",
+        "63-63",
+        "67-70"
+    ],
+    "interfaceB": [
+        "17-18",
+        "146-147"
+    ]
+}

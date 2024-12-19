@@ -1,0 +1,48 @@
+{
+    "pae": 6.9,
+    "iptm": 37.4,
+    "pdockq": 0.027,
+    "proA": "FBpp0071087",
+    "proB": "FBpp0079168",
+    "geneA": "RpS6",
+    "geneB": "RpL36A",
+    "annotationA": "40S ribosomal protein S6; May play an important role in controlling cell growth and proliferation through the selective translation of particular classes of mRNA",
+    "annotationB": "Ribosomal protein L36A, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL42 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 210,
+            "end_residue_number": 210,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 46,
+            "end_residue_number": 48,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "210-210"
+    ],
+    "interfaceB": [
+        "46-48"
+    ]
+}

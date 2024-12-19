@@ -1,0 +1,160 @@
+{
+    "pae": 3.9,
+    "iptm": 48.4,
+    "pdockq": 0.389,
+    "proA": "FBpp0079060",
+    "proB": "FBpp0087197",
+    "geneA": "wg",
+    "geneB": "en",
+    "annotationA": "Protein wingless; Binds as a ligand to a family of frizzled seven- transmembrane receptors and acts through a cascade of genes on the nucleus. Segment polarity protein. May be a growth factor. Acts on neighboring cells to regulate at least one gene, the homeobox segmentation gene engrailed. Wg signal represses arm phosphorylation. Wg signaling operates by inactivating the sgg repression of engrailed autoactivation. Wg and Wnt2 have a role in the developing trachea and together are responsible for all dorsal trunk formation. Wg also acts in the developing epidermis. Acts as a morphogen, [...] ",
+    "annotationB": "Segmentation polarity homeobox protein engrailed; Engrailed is a homeodomain-containing transcription factor that is essential for posterior compartment identity and for compartment boundary formation and maintenance. It positively regulates the hh gene and negatively regulates the Hedgehog targets ci, ptc and dpp",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 96,
+            "end_residue_number": 100,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 230,
+            "end_residue_number": 230,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 256,
+            "end_residue_number": 270,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 374,
+            "end_residue_number": 386,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 416,
+            "end_residue_number": 421,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 419,
+            "end_residue_number": 421,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 435,
+            "end_residue_number": 443,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 512,
+            "end_residue_number": 512,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 516,
+            "end_residue_number": 516,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 524,
+            "end_residue_number": 530,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "96-100",
+        "230-230",
+        "256-270",
+        "374-386",
+        "416-421"
+    ],
+    "interfaceB": [
+        "419-421",
+        "435-443",
+        "512-512",
+        "516-516",
+        "524-530"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "pae": 16.1,
+    "iptm": 15.7,
+    "pdockq": 0.028,
+    "proA": "FBpp0291726",
+    "proB": "FBpp0304265",
+    "geneA": "RpL37A",
+    "geneB": "RpLP1",
+    "annotationA": "60S ribosomal protein L37a; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL43 family",
+    "annotationB": "60S acidic ribosomal protein P1; Plays an important role in the elongation step of protein synthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 54,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 65,
+            "end_residue_number": 65,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 83,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 11,
+            "end_residue_number": 11,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 15,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "54-54",
+        "65-65",
+        "83-83"
+    ],
+    "interfaceB": [
+        "11-11",
+        "15-15"
+    ]
+}

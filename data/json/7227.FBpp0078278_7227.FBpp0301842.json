@@ -1,0 +1,76 @@
+{
+    "pae": 14.6,
+    "iptm": 20.6,
+    "pdockq": 0.065,
+    "proA": "FBpp0078278",
+    "proB": "FBpp0301842",
+    "geneA": "Rpn5",
+    "geneB": "PI31",
+    "annotationA": "Regulatory particle non-ATPase 5; Endopeptidase activity. It is involved in the biological process described with: proteolysis; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "Proteasome inhibitor PI31 subunit; Plays an important role in the control of proteasome function. Inhibits the hydrolysis of protein and peptide substrates by the 20S proteasome. Enhances 26S proteasome function by promoting its assembly through the interaction with the assembly chaperones PSMD9 and PMSD5. Functions together with ntc to control non-apoptotic caspase activation during sperm individualization. In testis, is required for proper protein degradation and germline cell cycle progression",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 485,
+            "end_residue_number": 493,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 95,
+            "end_residue_number": 95,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 104,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 111,
+            "end_residue_number": 115,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "485-493"
+    ],
+    "interfaceB": [
+        "95-95",
+        "104-106",
+        "111-115"
+    ]
+}

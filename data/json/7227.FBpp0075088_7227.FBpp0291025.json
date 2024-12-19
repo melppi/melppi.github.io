@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 14.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0075088",
+    "proB": "FBpp0291025",
+    "geneA": "TSG101",
+    "geneB": "Alg-2",
+    "annotationA": "Tumor susceptibility gene 101 (TSG101) is an ESCRT-I complex component that acts as an adapter for membrane rearrangements operated by ESCRT-III. TSG101 roles include endosomal sorting of ubiquitinated cargoes, which is important for signaling regulation, cytokinesis, and budding of viruses and exovesicles",
+    "annotationB": "Apoptosis-linked gene-2",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

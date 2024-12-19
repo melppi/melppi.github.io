@@ -1,0 +1,16 @@
+{
+    "pae": 14.3,
+    "iptm": 23.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0086400",
+    "proB": "FBpp0304246",
+    "geneA": "Prosbeta1",
+    "geneB": "CG8786",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "annotationB": "CG8786, isoform C; Ubiquitin-protein transferase activity; zinc ion binding; poly-ADP-D-ribose binding. It is involved in the biological process described with: protein destabilization; protein ubiquitination involved in ubiquitin-dependent protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.3,
+    "iptm": 13.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0075690",
+    "proB": "FBpp0086107",
+    "geneA": "vih",
+    "geneB": "APC10",
+    "annotationA": "Ubiquitin-conjugating enzyme E2 C; Catalyzes the covalent attachment of ubiquitin to other proteins. Acts as an essential factor of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated ubiquitin ligase that controls progression through mitosis. Acts by initiating polyubiquitin chains on APC/C substrates, leading to the degradation of APC/C substrates by the proteasome and promoting mitotic exit; Belongs to the ubiquitin-conjugating enzyme family",
+    "annotationB": "Anaphase-promoting complex subunit 10; Component of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated ubiquitin ligase that controls progression through mitosis and the G1 phase of the cell cycle",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

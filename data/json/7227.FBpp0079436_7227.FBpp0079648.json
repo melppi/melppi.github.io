@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 21.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0079436",
+    "proB": "FBpp0079648",
+    "geneA": "Trx-2",
+    "geneB": "RnrL",
+    "annotationA": "Thioredoxin-2; Participates in various redox reactions through the reversible oxidation of its active center dithiol to a disulfide and catalyzes dithiol-disulfide exchange reactions. As a reducing substrate of peroxiredoxin 1, thioredoxin 2 is preferred over thioredoxin 1",
+    "annotationB": "Ribonucleoside-diphosphate reductase large subunit; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

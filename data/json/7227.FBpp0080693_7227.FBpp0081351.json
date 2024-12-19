@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 23.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0080693",
+    "proB": "FBpp0081351",
+    "geneA": "Phlpp",
+    "geneB": "Sgt1",
+    "annotationA": "Protein phosphatase PHLPP-like protein; Protein phosphatase that specifically mediates dephosphorylation of 'Ser-586' of Akt1, a protein that regulates the balance between cell survival and apoptosis through a cascade that primarily alters the function of transcription factors that regulate pro- and antiapoptotic genes. Dephosphorylation of 'Ser- 586' of Akt1 triggers apoptosis and suppression of tumor growth",
+    "annotationB": "Suppressor-of-G2-allele-of-skp1 (Sgt1) is required for the stability of the polo kinase and has a role in centrosome maturation and function",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

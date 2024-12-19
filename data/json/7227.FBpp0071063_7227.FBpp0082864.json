@@ -1,0 +1,16 @@
+{
+    "pae": 21.7,
+    "iptm": 21.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0071063",
+    "proB": "FBpp0082864",
+    "geneA": "Gclc",
+    "geneB": "Keap1",
+    "annotationA": "Protein binding; glutamate-cysteine ligase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; glutathione metabolic process; glutathione biosynthetic process; Belongs to the glutamate--cysteine ligase type 3 family",
+    "annotationB": "Keap1, isoform B; Actin binding. It is involved in the biological process described with: response to oxidative stress",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

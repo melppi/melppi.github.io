@@ -1,0 +1,16 @@
+{
+    "pae": 17.4,
+    "iptm": 15.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0071049",
+    "proB": "FBpp0088416",
+    "geneA": "Ykt6",
+    "geneB": "Vamp7",
+    "annotationA": "YKT6 v-SNARE; SNAP receptor activity; protein-cysteine S-palmitoyltransferase activity. It is involved in the biological process described with: retrograde vesicle-mediated transport, Golgi to ER; vesicle-mediated transport; ER to Golgi vesicle-mediated transport; Belongs to the synaptobrevin family",
+    "annotationB": "Vesicle-associated membrane protein 7 (Vamp7) is an R type SNARE protein. It mediates the fusion of autophagosomes with endosomes and lysosomes by forming a SNARE complex with Syx17 (Qa) and Snap29 (Qbc). Vamp7 localizes to endosomes in a Rab21 and Sbf dependent manner; Belongs to the synaptobrevin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

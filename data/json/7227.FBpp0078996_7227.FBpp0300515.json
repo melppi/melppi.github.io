@@ -1,0 +1,48 @@
+{
+    "pae": 13.8,
+    "iptm": 18.9,
+    "pdockq": 0.026,
+    "proA": "FBpp0078996",
+    "proB": "FBpp0300515",
+    "geneA": "x16",
+    "geneB": "B52",
+    "annotationA": "X16 splicing factor, isoform A; mRNA binding; protein binding; RNA binding; zinc ion binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: nervous system development; RNA splicing; mRNA splicing, via spliceosome; mRNA splice site selection",
+    "annotationB": "Serine-arginine protein 55; Essential for development. May have a critical role in splicing or in controlling alternative splice site use of at least some pre-mRNA in vivo. Not required for all splicing. May play a general role in the condensation or decondensation of chromatin",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 38,
+            "end_residue_number": 38,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 52,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "38-38"
+    ],
+    "interfaceB": [
+        "52-54"
+    ]
+}

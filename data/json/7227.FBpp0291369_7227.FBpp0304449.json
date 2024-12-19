@@ -1,0 +1,16 @@
+{
+    "pae": 23.8,
+    "iptm": 22.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0291369",
+    "proB": "FBpp0304449",
+    "geneA": "Cul3",
+    "geneB": "UbcE2M",
+    "annotationA": "Cullin 3, isoform F; Ubiquitin-protein transferase activity; ubiquitin protein ligase binding; Belongs to the cullin family",
+    "annotationB": "Nedd8-conjugating enzyme Ubc12; Accepts the ubiquitin-like protein Nedd8 from the Uba3- APP-BP1 E1 complex and catalyzes its covalent attachment to other proteins. Required for Cul1 and Cul3 neddylation. Negatively regulates full-length ci stability and hedgehog signaling; Belongs to the ubiquitin-conjugating enzyme family. UBC12 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

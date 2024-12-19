@@ -1,0 +1,48 @@
+{
+    "pae": 4.7,
+    "iptm": 51.4,
+    "pdockq": 0.17,
+    "proA": "FBpp0070766",
+    "proB": "FBpp0072312",
+    "geneA": "RpL35",
+    "geneB": "RpL19",
+    "annotationA": "Ribosomal protein L35, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization",
+    "annotationB": "60S ribosomal protein L19; Structural constituent of ribosome. It is involved in the biological process described with: centrosome duplication; mitotic spindle elongation; translation; Belongs to the eukaryotic ribosomal protein eL19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 95,
+            "end_residue_number": 111,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 71,
+            "end_residue_number": 74,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "95-111"
+    ],
+    "interfaceB": [
+        "71-74"
+    ]
+}

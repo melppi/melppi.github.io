@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 20.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0071085",
+    "proB": "FBpp0082647",
+    "geneA": "hdm",
+    "geneB": "rec",
+    "annotationA": "Hold'em is predicted to be a single-strand DNA binding protein based on the presence of three Oligosaccharide-Binding (OB) folds. It is involved in making meiotic crossovers and in some DNA repair process",
+    "annotationB": "DNA replication licensing factor REC; Recombination-defective interacts with other Mini-Chromosome Maintenance (MCM)-related proteins (mei-217 and mei-218) to make meiotic crossovers",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,146 @@
+{
+    "pae": 6.6,
+    "iptm": 25.3,
+    "pdockq": 0.242,
+    "proA": "FBpp0072468",
+    "proB": "FBpp0084787",
+    "geneA": "Cdc5",
+    "geneB": "Slu7",
+    "annotationA": "Cell division cycle 5, isoform A; DNA binding; chromatin binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; centrosome duplication",
+    "annotationB": "Pre-mRNA-splicing factor Slu7; Participates in the second catalytic step of pre-mRNA splicing, when the free hydroxyl group of exon I attacks the 3'- splice site to generate spliced mRNA and the excised lariat intron",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 187,
+            "end_residue_number": 191,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 196,
+            "end_residue_number": 196,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 236,
+            "end_residue_number": 246,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 771,
+            "end_residue_number": 789,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 182,
+            "end_residue_number": 193,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 245,
+            "end_residue_number": 251,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 397,
+            "end_residue_number": 397,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 419,
+            "end_residue_number": 429,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 435,
+            "end_residue_number": 435,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "187-191",
+        "196-196",
+        "236-246",
+        "771-789"
+    ],
+    "interfaceB": [
+        "182-193",
+        "245-251",
+        "397-397",
+        "419-429",
+        "435-435"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 3.7,
+    "iptm": 16.9,
+    "pdockq": 0.115,
+    "proA": "FBpp0075628",
+    "proB": "FBpp0077037",
+    "geneA": "Zmynd10",
+    "geneB": "tilB",
+    "annotationA": "Zinc finger MYND domain-containing protein 10 homolog; Required for motile ciliary function. Probably involved in axonemal assembly of inner and outer dynein arms (IDA and ODA, respectively) for proper axoneme building for cilia motility; Belongs to the ZMYND10 family",
+    "annotationB": "Protein tilB; Touch insensitive larva B (TilB) is required for the assembly and/or transport to the cilium of axonemal dynein arms. TilB depletion results in deafness and male sterility because it specifically affects chordotonal neurons and spermatids, the only fly motile cilia cells. TilB interacts with Zmynd10, which has a similar distribution and mutant phenotype",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 420,
+            "end_residue_number": 448,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 385,
+            "end_residue_number": 395,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "420-448"
+    ],
+    "interfaceB": [
+        "385-395"
+    ]
+}

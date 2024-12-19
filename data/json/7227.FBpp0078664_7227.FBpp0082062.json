@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 12.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0078664",
+    "proB": "FBpp0082062",
+    "geneA": "Rpn11",
+    "geneB": "Prosalpha2",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "annotationB": "Proteasome subunit alpha type-2; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

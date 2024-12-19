@@ -1,0 +1,16 @@
+{
+    "pae": 19.2,
+    "iptm": 17.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0070638",
+    "proB": "FBpp0301731",
+    "geneA": "Xpac",
+    "geneB": "lwr",
+    "annotationA": "DNA repair protein complementing XP-A cells homolog; Involved in DNA excision repair. Initiates repair by binding to damaged sites with various affinities, depending on the photoproduct and the transcriptional state of the region (By similarity); Belongs to the XPA family",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

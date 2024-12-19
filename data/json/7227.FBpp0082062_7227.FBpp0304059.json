@@ -1,0 +1,16 @@
+{
+    "pae": 22.6,
+    "iptm": 19.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0082062",
+    "proB": "FBpp0304059",
+    "geneA": "Prosalpha2",
+    "geneB": "Usp14",
+    "annotationA": "Proteasome subunit alpha type-2; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

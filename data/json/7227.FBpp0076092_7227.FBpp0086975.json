@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0076092",
+    "proB": "FBpp0086975",
+    "geneA": "iPLA2-VIA",
+    "geneB": "Taz",
+    "annotationA": "Calcium-independent phospholipase A2 VIA (IPLA2-VIA) localizes to cytosol and mitochondria. IPLA2-VIA has a role in repairing oxidized mitochondrial lipids, such as cardiolipin, and thus preventing cytochrome c release. IPLA2-VIA is partially responsible for cardiolipin depletion and monolysocardiolipin accumulation in Taz-deficient flies, which is a model of Barth syndrome",
+    "annotationB": "Tafazzin (Taz) is a mitochondrial phospholipid-lysophospholipid transacylase that exchange acyl groups between cardiolipin molecules and other phospholipids. Taz plays a critical role in maintaining a normal cardiolipin composition required for optimal mitochondrial function",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

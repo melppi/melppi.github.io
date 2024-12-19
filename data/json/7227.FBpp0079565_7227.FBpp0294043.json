@@ -1,0 +1,16 @@
+{
+    "pae": 23.9,
+    "iptm": 20.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0079565",
+    "proB": "FBpp0294043",
+    "geneA": "me31B",
+    "geneB": "AGO1",
+    "annotationA": "Putative ATP-dependent RNA helicase me31b; Unwinds RNA in an ATP-dependent fashion (Potential). Involved in germ cell formation",
+    "annotationB": "Argonaute-1, isoform A; Argonaute-1 is an Argonaute/Piwi family protein, which interacts with microRNAs to form miRNA-induced silencing complexes (miRISCs). miRISCs are guided to target and repress mRNAs either by transcript destabilisation, translational inhibition, or both",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,90 @@
+{
+    "pae": 3.2,
+    "iptm": 61.3,
+    "pdockq": 0.533,
+    "proA": "FBpp0079399",
+    "proB": "FBpp0293882",
+    "geneA": "Cks30A",
+    "geneB": "Cks85A",
+    "annotationA": "Cyclin-dependent kinases regulatory subunit; Binds to the catalytic subunit of the cyclin dependent kinases Cdk1 and Cdk2, and is essential for their biological function",
+    "annotationB": "Cyclin-dependent kinase subunit 85A (Cks85A) is a small Cdk1 and Cdk2 interacting protein. It also functions with Skp2 to target specific substrates for destruction, including dap. Cks85A is required for larval growth and to maintain diploidy in imaginal tissues",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 6,
+            "end_residue_number": 28,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 56,
+            "end_residue_number": 69,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 7,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 19,
+            "end_residue_number": 26,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 57,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "6-28",
+        "56-69"
+    ],
+    "interfaceB": [
+        "7-15",
+        "19-26",
+        "57-70"
+    ]
+}

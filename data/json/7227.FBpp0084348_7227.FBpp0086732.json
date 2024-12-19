@@ -1,0 +1,90 @@
+{
+    "pae": 9.6,
+    "iptm": 42.6,
+    "pdockq": 0.166,
+    "proA": "FBpp0084348",
+    "proB": "FBpp0086732",
+    "geneA": "Sld5",
+    "geneB": "Ctf4",
+    "annotationA": "DNA replication complex GINS protein SLD5; The GINS complex plays an essential role in the initiation of DNA replication",
+    "annotationB": "LD47422p; DNA binding. It is involved in the biological process described with: DNA endoreduplication; preblastoderm mitotic cell cycle; mitotic cell cycle",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 31,
+            "end_residue_number": 39,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 61,
+            "end_residue_number": 61,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 65,
+            "end_residue_number": 76,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 89,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 883,
+            "end_residue_number": 892,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "31-39",
+        "61-61",
+        "65-76",
+        "89-97"
+    ],
+    "interfaceB": [
+        "883-892"
+    ]
+}

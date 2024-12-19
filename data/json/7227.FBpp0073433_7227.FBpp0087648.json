@@ -1,0 +1,16 @@
+{
+    "pae": 24.7,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073433",
+    "proB": "FBpp0087648",
+    "geneA": "Upf1",
+    "geneB": "tsu",
+    "annotationA": "Regulator of nonsense transcripts 1 homolog; RNA-dependent helicase and ATPase required for nonsense- mediated decay (NMD) of mRNAs containing premature stop codons. Is recruited to mRNAs upon translation termination and undergoes a cycle of phosphorylation and dephosphorylation; its phosphorylation appears to be a key step in NMD. The formation of an Upf1-Upf2-Upf3 surveillance complex is believed to activate NMD (By similarity)",
+    "annotationB": "RNA-binding protein 8A; Core component of the splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junctions on mRNAs. Involved in exon definition of genes containing long introns, including the rolled/MAPK gene. The mago-tsu heterodimer interacts with the EJC key regulator Pym leading to EJC disassembly in the cytoplasm. Has a role in oskar mRNA localization to the posterior pole of the developing oocyte; Belongs to the RBM8A family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

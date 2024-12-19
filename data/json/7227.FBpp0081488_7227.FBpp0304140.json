@@ -1,0 +1,90 @@
+{
+    "pae": 6.6,
+    "iptm": 63.2,
+    "pdockq": 0.228,
+    "proA": "FBpp0081488",
+    "proB": "FBpp0304140",
+    "geneA": "Prosbeta3",
+    "geneB": "sgg",
+    "annotationA": "Proteasome subunit beta type-3; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "annotationB": "Protein kinase shaggy; Required for several developmental events such as syncytial blastoderm formation and embryonic segmentation. Is involved in transcriptional regulation. Required for arm phosphorylation. Wg signaling operates by inactivating the sgg repression of en autoactivation. Negatively controls the neuromuscular junction (NMJ) growth in presynaptic motoneurons. Plays a role in the regulation of microtubule dynamics and actin cytoskeleton during embryogenesis. Required for phosphorylation of sra in activated eggs. Essential for completion of meiosis, possibly by triggering c [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 44,
+            "end_residue_number": 50,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 117,
+            "end_residue_number": 117,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 164,
+            "end_residue_number": 176,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 188,
+            "end_residue_number": 203,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 57,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "44-50",
+        "117-117",
+        "164-176",
+        "188-203"
+    ],
+    "interfaceB": [
+        "57-78"
+    ]
+}

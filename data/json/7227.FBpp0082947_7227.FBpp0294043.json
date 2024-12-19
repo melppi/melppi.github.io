@@ -1,0 +1,16 @@
+{
+    "pae": 23.3,
+    "iptm": 20.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0082947",
+    "proB": "FBpp0294043",
+    "geneA": "CG18012",
+    "geneB": "AGO1",
+    "annotationA": "LD22559p; Beta-1,4-mannosyltransferase activity. It is involved in the biological process described with: protein glycosylation",
+    "annotationB": "Argonaute-1, isoform A; Argonaute-1 is an Argonaute/Piwi family protein, which interacts with microRNAs to form miRNA-induced silencing complexes (miRISCs). miRISCs are guided to target and repress mRNAs either by transcript destabilisation, translational inhibition, or both",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

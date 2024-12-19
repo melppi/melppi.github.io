@@ -1,0 +1,62 @@
+{
+    "pae": 13.1,
+    "iptm": 23.8,
+    "pdockq": 0.053,
+    "proA": "FBpp0076458",
+    "proB": "FBpp0086701",
+    "geneA": "mRpL36",
+    "geneB": "RpS23",
+    "annotationA": "Ribosomal protein; Structural constituent of ribosome. It is involved in the biological process described with: mitochondrial translation; translation; Belongs to the bacterial ribosomal protein bL36 family",
+    "annotationB": "40S ribosomal protein S23; Structural constituent of ribosome. It is involved in the biological process described with: centrosome organization; translation; centrosome duplication",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 120,
+            "end_residue_number": 124,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 86,
+            "end_residue_number": 89,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 133,
+            "end_residue_number": 136,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "120-124"
+    ],
+    "interfaceB": [
+        "86-89",
+        "133-136"
+    ]
+}

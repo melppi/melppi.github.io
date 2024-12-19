@@ -1,0 +1,90 @@
+{
+    "pae": 11.7,
+    "iptm": 19.7,
+    "pdockq": 0.104,
+    "proA": "FBpp0077130",
+    "proB": "FBpp0302939",
+    "geneA": "ND-B8",
+    "geneB": "ND-B14.5B",
+    "annotationA": "NADH dehydrogenase (Ubiquinone) B8 subunit; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "annotationB": "NADH dehydrogenase [ubiquinone] 1 subunit C2; Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 22,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 32,
+            "end_residue_number": 43,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 52,
+            "end_residue_number": 58,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 18,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 82,
+            "end_residue_number": 89,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "22-25",
+        "32-43",
+        "52-58"
+    ],
+    "interfaceB": [
+        "18-25",
+        "82-89"
+    ]
+}

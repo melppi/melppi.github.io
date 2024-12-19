@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 31.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0082177",
+    "proB": "FBpp0301731",
+    "geneA": "pic",
+    "geneB": "lwr",
+    "annotationA": "Piccolo encodes the Ddb1 protein, which functions to recruit substrate receptors to Cul4-based E3 ubiquitin ligase complexes, which catalyze the ubiquitylation and subsequent destruction of proteins that function in cell growth and proliferation as well as transcription, replication and repair of the genome",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

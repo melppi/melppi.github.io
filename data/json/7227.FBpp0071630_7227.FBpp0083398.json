@@ -1,0 +1,48 @@
+{
+    "pae": 14.9,
+    "iptm": 37.0,
+    "pdockq": 0.024,
+    "proA": "FBpp0071630",
+    "proB": "FBpp0083398",
+    "geneA": "LBR",
+    "geneB": "CG17270",
+    "annotationA": "Lamin-B receptor; Anchors the lamina and the heterochromatin to the inner nuclear membrane; Belongs to the ERG4/ERG24 family",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 382,
+            "end_residue_number": 382,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 35,
+            "end_residue_number": 35,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "382-382"
+    ],
+    "interfaceB": [
+        "35-35"
+    ]
+}

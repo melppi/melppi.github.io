@@ -1,0 +1,16 @@
+{
+    "pae": 20.3,
+    "iptm": 26.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0081459",
+    "proB": "FBpp0302752",
+    "geneA": "Vps16A",
+    "geneB": "Rop",
+    "annotationA": "Vacuolar protein sorting 16A; It is involved in the biological process described with: regulation of SNARE complex assembly; eye pigment granule organization; endosomal transport; cellular response to starvation; lysosomal transport; negative regulation of Notch signaling pathway; endosome to lysosome transport; autophagic vacuole fusion; intracellular protein transport",
+    "annotationB": "Protein ROP; May be a component of one of the vesicle trafficking pathways. May interact functionally with Ras2 protein",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

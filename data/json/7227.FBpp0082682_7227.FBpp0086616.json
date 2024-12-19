@@ -1,0 +1,216 @@
+{
+    "pae": 2.7,
+    "iptm": 48.3,
+    "pdockq": 0.509,
+    "proA": "FBpp0082682",
+    "proB": "FBpp0086616",
+    "geneA": "Akt1",
+    "geneB": "Sin1",
+    "annotationA": "RAC serine/threonine-protein kinase; Serine/threonine kinase involved in various developmental processes. During early embryogenesis, acts as a survival protein. During mid-embryogenesis, phosphorylates and activates trh, a transcription factor required for tracheal cell fate determination. Also regulates tracheal cell migration. Later in development, acts downstream of PI3K and Pk61C/PDK1 in the insulin receptor transduction pathway which regulates cell growth and organ size, by phosphorylating and antagonizing FOXO transcription factor. Controls follicle cell size during oogenesis. M [...] ",
+    "annotationB": "Stress-activated map kinase-interacting protein 1; Component of a multiprotein complex that phosphorylates Akt1, a protein that regulates the balance between cell survival and apoptosis through a cascade that primarily alters the function of transcription factors that regulate pro- and antiapoptotic genes",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 262,
+            "end_residue_number": 287,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 296,
+            "end_residue_number": 300,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 305,
+            "end_residue_number": 305,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 335,
+            "end_residue_number": 338,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 350,
+            "end_residue_number": 360,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 389,
+            "end_residue_number": 393,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 410,
+            "end_residue_number": 410,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 424,
+            "end_residue_number": 431,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 456,
+            "end_residue_number": 473,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 553,
+            "end_residue_number": 563,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 108,
+            "end_residue_number": 135,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 282,
+            "end_residue_number": 299,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 303,
+            "end_residue_number": 309,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 316,
+            "end_residue_number": 323,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "262-287",
+        "296-300",
+        "305-305",
+        "335-338",
+        "350-360",
+        "389-393",
+        "410-410",
+        "424-431",
+        "456-473",
+        "553-563"
+    ],
+    "interfaceB": [
+        "108-135",
+        "282-299",
+        "303-309",
+        "316-323"
+    ]
+}

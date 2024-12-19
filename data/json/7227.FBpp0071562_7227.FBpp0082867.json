@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0071562",
+    "proB": "FBpp0082867",
+    "geneA": "CG4038",
+    "geneB": "Ns1",
+    "annotationA": "Probable H/ACA ribonucleoprotein complex subunit 1; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "annotationB": "Guanine nucleotide-binding protein-like 3 homolog; May play a role in regulating cellular proliferation; Belongs to the TRAFAC class YlqF/YawG GTPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

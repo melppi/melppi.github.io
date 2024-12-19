@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 19.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0082477",
+    "proB": "FBpp0083687",
+    "geneA": "eff",
+    "geneB": "Rpn7",
+    "annotationA": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Mediates the selective degradation of short-lived and abnormal proteins. Required for proper telomere behavior during cell divisions and possibly for ubiquitination of proteins involved in postmeiotic stages of spermatogenesis. Deletion mutations are lethal in homozygotes",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 6; Acts as a regulatory subunit of the 26S proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

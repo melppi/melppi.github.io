@@ -1,0 +1,132 @@
+{
+    "pae": 10.7,
+    "iptm": 21.9,
+    "pdockq": 0.313,
+    "proA": "FBpp0071846",
+    "proB": "FBpp0072081",
+    "geneA": "RpS24",
+    "geneB": "eIF-5A",
+    "annotationA": "40S ribosomal protein S24; Structural constituent of ribosome; nucleotide binding. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eS24 family",
+    "annotationB": "Eukaryotic translation initiation factor 5A; mRNA-binding protein involved in translation elongation. Has an important function at the level of mRNA turnover, probably acting downstream of decapping. Involved in actin dynamics and cell cycle progression, mRNA decay and probably in a pathway involved in stress response and maintenance of cell wall integrity. Functions as a regulator of apoptosis; Belongs to the eIF-5A family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 11,
+            "end_residue_number": 14,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 21,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 59,
+            "end_residue_number": 62,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 71,
+            "end_residue_number": 75,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 91,
+            "end_residue_number": 95,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 101,
+            "end_residue_number": 112,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 129,
+            "end_residue_number": 134,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "11-14",
+        "21-25",
+        "59-62",
+        "71-75",
+        "91-91"
+    ],
+    "interfaceB": [
+        "91-95",
+        "101-112",
+        "129-134"
+    ]
+}

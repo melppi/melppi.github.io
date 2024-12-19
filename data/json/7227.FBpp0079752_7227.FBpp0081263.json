@@ -1,0 +1,132 @@
+{
+    "pae": 6.1,
+    "iptm": 57.3,
+    "pdockq": 0.402,
+    "proA": "FBpp0079752",
+    "proB": "FBpp0081263",
+    "geneA": "RpL9",
+    "geneB": "mRpS9",
+    "annotationA": "60S ribosomal protein L9; Structural constituent of ribosome; rRNA binding. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization; Belongs to the universal ribosomal protein uL6 family",
+    "annotationB": "Mitochondrial ribosomal protein S9; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 1,
+            "end_residue_number": 7,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 58,
+            "end_residue_number": 62,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 169,
+            "end_residue_number": 175,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 276,
+            "end_residue_number": 276,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 306,
+            "end_residue_number": 317,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 341,
+            "end_residue_number": 344,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 365,
+            "end_residue_number": 374,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 394,
+            "end_residue_number": 395,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "1-7",
+        "58-62",
+        "169-175"
+    ],
+    "interfaceB": [
+        "276-276",
+        "306-317",
+        "341-344",
+        "365-374",
+        "394-395"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 18.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073035",
+    "proB": "FBpp0099945",
+    "geneA": "Ubi-p63E",
+    "geneB": "hh",
+    "annotationA": "Polyubiquitin; Ubiquitin exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involved in protein degradatio [...] ",
+    "annotationB": "Protein hedgehog; Intercellular signal essential for a variety of patterning events during development. Establishes the anterior- posterior axis of the embryonic segments and patterns the larval imaginal disks. Binds to the patched (ptc) receptor, which functions in association with smoothened (smo), to activate the transcription of target genes wingless (wg), decapentaplegic (dpp) and ptc. In the absence of hh, ptc represses the constitutive signaling activity of smo through fused (fu). Essential component of a signaling pathway which regulates the Duox-dependent gut immune response t [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

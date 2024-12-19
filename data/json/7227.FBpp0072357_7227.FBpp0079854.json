@@ -1,0 +1,48 @@
+{
+    "pae": 10.5,
+    "iptm": 16.1,
+    "pdockq": 0.051,
+    "proA": "FBpp0072357",
+    "proB": "FBpp0079854",
+    "geneA": "PebII",
+    "geneB": "Acp33A",
+    "annotationA": "Ejaculatory bulb-specific protein 2; Protein component of the posterior mating plug",
+    "annotationB": "Accessory gland-specific peptide 33A is a peptide produced by the male accessory glands and transferred to females during mating",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 5,
+            "end_residue_number": 19,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 11,
+            "end_residue_number": 22,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "5-19"
+    ],
+    "interfaceB": [
+        "11-22"
+    ]
+}

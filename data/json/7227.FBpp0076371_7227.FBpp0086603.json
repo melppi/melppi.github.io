@@ -1,0 +1,104 @@
+{
+    "pae": 11.9,
+    "iptm": 35.8,
+    "pdockq": 0.187,
+    "proA": "FBpp0076371",
+    "proB": "FBpp0086603",
+    "geneA": "Cdc6",
+    "geneB": "Rpn6",
+    "annotationA": "Cell division control protein; Cdc6 is an essential component of the pre-Replication complex (preRC) together with the origin recognition complex, dup and MCM2-7 proteins. The preRC is present at all chromosomal origins of replication and is required for the initiation of DNA replication. Cdc6 also functions in the co-ordination of DNA replication with mitosis, and may contribute to apoptosis and transcription",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 11; Component of the lid subcomplex of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. In the complex, RPN6 is required for proteasome assembly (By similarity). May act as linker between 19S regulatory subunit and the 20S proteasome core",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 116,
+            "end_residue_number": 128,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 196,
+            "end_residue_number": 198,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 316,
+            "end_residue_number": 327,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 331,
+            "end_residue_number": 331,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 336,
+            "end_residue_number": 344,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 377,
+            "end_residue_number": 377,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "116-128"
+    ],
+    "interfaceB": [
+        "196-198",
+        "316-327",
+        "331-331",
+        "336-344",
+        "377-377"
+    ]
+}

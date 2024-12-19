@@ -1,0 +1,90 @@
+{
+    "pae": 8.5,
+    "iptm": 23.7,
+    "pdockq": 0.268,
+    "proA": "FBpp0071958",
+    "proB": "FBpp0084345",
+    "geneA": "RpL22-like",
+    "geneB": "RpL34a",
+    "annotationA": "Ribosomal protein L22-like is a eukaryotic-specific component of the large ribosomal subunit involved in protein synthesis",
+    "annotationB": "Ribosomal protein L34a, isoform A; Structural constituent of ribosome; myosin binding. It is involved in the biological process described with: translation",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 199,
+            "end_residue_number": 208,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 267,
+            "end_residue_number": 274,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 287,
+            "end_residue_number": 290,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 86,
+            "end_residue_number": 98,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 102,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "199-208",
+        "267-274",
+        "287-290"
+    ],
+    "interfaceB": [
+        "86-98",
+        "102-102"
+    ]
+}

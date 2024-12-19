@@ -1,0 +1,76 @@
+{
+    "pae": 11.0,
+    "iptm": 13.6,
+    "pdockq": 0.036,
+    "proA": "FBpp0070500",
+    "proB": "FBpp0075338",
+    "geneA": "Sgs4",
+    "geneB": "Eig71Ee",
+    "annotationA": "Salivary gland secretion 4",
+    "annotationB": "Ecdysone-induced gene 71Ee is a protein of unknown function. It is expressed in larvae in both salivary glue and the hemolymph clot, where it is a substrate of Tg",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 16,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 20,
+            "end_residue_number": 31,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 4,
+            "end_residue_number": 11,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 15,
+            "end_residue_number": 19,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "16-16",
+        "20-31"
+    ],
+    "interfaceB": [
+        "4-11",
+        "15-19"
+    ]
+}

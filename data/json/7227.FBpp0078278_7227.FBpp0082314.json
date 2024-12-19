@@ -1,0 +1,48 @@
+{
+    "pae": 16.5,
+    "iptm": 17.7,
+    "pdockq": 0.027,
+    "proA": "FBpp0078278",
+    "proB": "FBpp0082314",
+    "geneA": "Rpn5",
+    "geneB": "CG9588",
+    "annotationA": "Regulatory particle non-ATPase 5; Endopeptidase activity. It is involved in the biological process described with: proteolysis; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 9; Acts as a chaperone during the assembly of the 26S proteasome, specifically of the base subcomplex of the PA700/19S regulatory complex (RC)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 483,
+            "end_residue_number": 484,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 79,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "483-484"
+    ],
+    "interfaceB": [
+        "79-83"
+    ]
+}

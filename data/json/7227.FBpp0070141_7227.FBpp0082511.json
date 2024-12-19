@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 20.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070141",
+    "proB": "FBpp0082511",
+    "geneA": "Rbf",
+    "geneB": "Caf1",
+    "annotationA": "Retinoblastoma-family protein (Rbf) binds to members of the E2F transcription factors and forms the DREAM complex, which regulates genes with diverse biological functions including cell cycle regulators, apoptosis regulators, and DNA replication/repair factors. Rbf can also bind chromosomal proteins and modulate genome stability. Rbf is negatively regulated by CycE-Cdk2 and CycD-Cdk4 cyclin-dependent kinase complexes",
+    "annotationB": "Probable histone-binding protein Caf1; Core histone-binding subunit that may target chromatin assembly factors, chromatin remodeling factors and histone deacetylases to their histone substrates in a manner that is regulated by nucleosomal DNA. Component of several complexes which regulate chromatin metabolism. These include the chromatin assembly factor 1 (CAF-1) complex, which is required for chromatin assembly following DNA replication and DNA repair; the nucleosome remodeling and deacetylase complex (the NuRD complex), which promotes transcriptional repression by histone deacetylati [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

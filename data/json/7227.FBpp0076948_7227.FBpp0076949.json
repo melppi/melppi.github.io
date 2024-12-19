@@ -1,0 +1,90 @@
+{
+    "pae": 14.3,
+    "iptm": 16.6,
+    "pdockq": 0.029,
+    "proA": "FBpp0076948",
+    "proB": "FBpp0076949",
+    "geneA": "CG14579",
+    "geneB": "CG1724",
+    "annotationA": "annotation not available",
+    "annotationB": "MIP34364p1; P-P-bond-hydrolysis-driven protein transmembrane transporter activity. It is involved in the biological process described with: protein targeting to mitochondrion; protein transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 165,
+            "end_residue_number": 165,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 169,
+            "end_residue_number": 180,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 191,
+            "end_residue_number": 195,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 202,
+            "end_residue_number": 202,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 64,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "165-165",
+        "169-180",
+        "191-195",
+        "202-202"
+    ],
+    "interfaceB": [
+        "64-77"
+    ]
+}

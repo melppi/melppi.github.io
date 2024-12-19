@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 27.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0082477",
+    "proB": "FBpp0290792",
+    "geneA": "eff",
+    "geneB": "Dif",
+    "annotationA": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Mediates the selective degradation of short-lived and abnormal proteins. Required for proper telomere behavior during cell divisions and possibly for ubiquitination of proteins involved in postmeiotic stages of spermatogenesis. Deletion mutations are lethal in homozygotes",
+    "annotationB": "Dorsal-related immunity factor Dif; Mediates an immune response in larvae. DIF binds to the kappa-B consensus sequence 5'-GGRNNYYCC-3', located in the enhancer region of the immunity gene CECA1. Involved in the melanization immune response to bacterial challenge, possibly by acting in a Toll signaling pathway that downregulates Spn27A in response to infection. Part of a signaling pathway involving NF-kappa- B (rel) and Toll-related receptors, that functions in the apoptosis of unfit cells during cell competition. May be part of a NF-kappa-B and Tollo signaling cascade that regulates de [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

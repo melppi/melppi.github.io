@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 19.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0071938",
+    "proB": "FBpp0292309",
+    "geneA": "CG3530",
+    "geneB": "Sac1",
+    "annotationA": "CG3530, isoform A; Metal ion binding; protein tyrosine/serine/threonine phosphatase activity; protein tyrosine phosphatase activity. It is involved in the biological process described with: dephosphorylation; protein dephosphorylation; mitotic cell cycle; Belongs to the protein-tyrosine phosphatase family. Non-receptor class myotubularin subfamily",
+    "annotationB": "Phosphatidylinositide phosphatase SAC1; Phosphoinositide phosphatase that hydrolyzes PtdIns(3)P and PtdIns(4)P. Has low activity towards PtdIns(3,5)P2 (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

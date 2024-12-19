@@ -1,0 +1,76 @@
+{
+    "pae": 13.2,
+    "iptm": 23.6,
+    "pdockq": 0.102,
+    "proA": "FBpp0087461",
+    "proB": "FBpp0087511",
+    "geneA": "CG1671",
+    "geneB": "RpLP0-like",
+    "annotationA": "LD47550p; It is involved in the biological process described with: rRNA processing; neurogenesis",
+    "annotationB": "Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 561,
+            "end_residue_number": 562,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 581,
+            "end_residue_number": 584,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 600,
+            "end_residue_number": 605,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 2,
+            "end_residue_number": 6,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "561-562",
+        "581-584",
+        "600-605"
+    ],
+    "interfaceB": [
+        "2-6"
+    ]
+}

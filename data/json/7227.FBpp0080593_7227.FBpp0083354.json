@@ -1,0 +1,48 @@
+{
+    "pae": 18.5,
+    "iptm": 20.8,
+    "pdockq": 0.024,
+    "proA": "FBpp0080593",
+    "proB": "FBpp0083354",
+    "geneA": "Socs36E",
+    "geneB": "EloB",
+    "annotationA": "Suppressor of cytokine signaling at 36E",
+    "annotationB": "Elongin B (EloB) is essential for development and participates in the control of wing cell identity. The EloB, EloC and EloA subunits of the Elongin complex interact in vivo with the chromatin factor corto",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 577,
+            "end_residue_number": 577,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 15,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "577-577"
+    ],
+    "interfaceB": [
+        "15-15"
+    ]
+}

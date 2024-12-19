@@ -1,0 +1,16 @@
+{
+    "pae": 24.1,
+    "iptm": 9.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0072312",
+    "proB": "FBpp0300988",
+    "geneA": "RpL19",
+    "geneB": "tko",
+    "annotationA": "60S ribosomal protein L19; Structural constituent of ribosome. It is involved in the biological process described with: centrosome duplication; mitotic spindle elongation; translation; Belongs to the eukaryotic ribosomal protein eL19 family",
+    "annotationB": "40S ribosomal protein S12, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: sensory perception of sound; response to mechanical stimulus; mechanosensory behavior; translation; male courtship behavior; response to hypoxia; courtship behavior",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

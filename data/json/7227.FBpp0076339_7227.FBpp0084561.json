@@ -1,0 +1,16 @@
+{
+    "pae": 25.1,
+    "iptm": 14.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0076339",
+    "proB": "FBpp0084561",
+    "geneA": "Exo70",
+    "geneB": "Mtl",
+    "annotationA": "Exocyst complex component 7; Required for exocytosis. Thought to function in intracellular vesicle targeting and docking before SNARE complex formation",
+    "annotationB": "Mig-2-like GTPase Mtl; GTPase activity; GTP binding; Belongs to the small GTPase superfamily. Rho family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

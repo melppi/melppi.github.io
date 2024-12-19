@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 19.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0075628",
+    "proB": "FBpp0082402",
+    "geneA": "Zmynd10",
+    "geneB": "CG31320",
+    "annotationA": "Zinc finger MYND domain-containing protein 10 homolog; Required for motile ciliary function. Probably involved in axonemal assembly of inner and outer dynein arms (IDA and ODA, respectively) for proper axoneme building for cilia motility; Belongs to the ZMYND10 family",
+    "annotationB": "Dynein assembly factor 5, axonemal; Cytoplasmic protein involved in the delivery of the dynein machinery to the motile cilium. It is required for the assembly of the axonemal dynein inner and outer arms, two structures attached to the peripheral outer doublet A microtubule of the axoneme, that play a crucial role in cilium motility",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

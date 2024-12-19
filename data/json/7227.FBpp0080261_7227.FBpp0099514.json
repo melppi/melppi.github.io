@@ -1,0 +1,132 @@
+{
+    "pae": 10.4,
+    "iptm": 27.6,
+    "pdockq": 0.191,
+    "proA": "FBpp0080261",
+    "proB": "FBpp0099514",
+    "geneA": "Su(H)",
+    "geneB": "CtBP",
+    "annotationA": "Suppressor of hairless protein; Transcriptional regulator that plays a central role in Notch signaling, a signaling pathway involved in cell-cell communication that regulates a broad spectrum of cell-fate determinations. Binds directly the 5'-GTGRGAR-3' DNA consensus sequence, which is present in the regulatory region of several genes. Required for neurogenesis in imaginal disks. Acts as a transcriptional repressor when it is not associated with Notch proteins. When associated with some Notch protein, it acts as a transcriptional activator that activates transcription of Notch target g [...] ",
+    "annotationB": "C-terminal-binding protein; Corepressor targeting diverse transcription regulators. Hairy-interacting protein required for embryonic segmentation and hairy-mediated transcriptional repression; Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 282,
+            "end_residue_number": 284,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 306,
+            "end_residue_number": 309,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 323,
+            "end_residue_number": 325,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 329,
+            "end_residue_number": 334,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 364,
+            "end_residue_number": 364,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 372,
+            "end_residue_number": 372,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 379,
+            "end_residue_number": 381,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 438,
+            "end_residue_number": 447,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "282-284",
+        "306-309",
+        "323-325",
+        "329-334",
+        "364-364",
+        "372-372",
+        "379-381"
+    ],
+    "interfaceB": [
+        "438-447"
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "pae": 1.1,
+    "iptm": 67.4,
+    "pdockq": 0.674,
+    "proA": "FBpp0074715",
+    "proB": "FBpp0078649",
+    "geneA": "asf1",
+    "geneB": "His3.3A",
+    "annotationA": "Histone chaperone asf1; Histone chaperone that facilitates histone deposition and histone exchange and removal during nucleosome assembly and disassembly. Cooperates with chromatin assembly factor 1 (CAF-1) to promote replication-dependent chromatin assembly. Plays a role in the formation of silent heterochromatin",
+    "annotationB": "Histone H3.3A; Variant histone H3 which replaces conventional H3 in a wide range of nucleosomes in active genes and is specifically enriched in modifications associated with active chromatin. Constitutes the predominant form of histone H3 in non-dividing cells and is incorporated into chromatin independently of DNA synthesis. Deposited at sites of nucleosomal displacement throughout transcribed genes, suggesting that it represents an epigenetic imprint of transcriptionally active chromatin. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular mach [...] ",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 43,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 87,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 105,
+            "end_residue_number": 117,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 123,
+            "end_residue_number": 123,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 138,
+            "end_residue_number": 149,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 103,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 107,
+            "end_residue_number": 117,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 123,
+            "end_residue_number": 136,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "43-54",
+        "87-96",
+        "105-117",
+        "123-123",
+        "138-149"
+    ],
+    "interfaceB": [
+        "103-103",
+        "107-117",
+        "123-136"
+    ]
+}

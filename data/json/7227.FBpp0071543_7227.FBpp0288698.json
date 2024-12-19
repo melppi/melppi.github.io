@@ -1,0 +1,16 @@
+{
+    "pae": 23.8,
+    "iptm": 15.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0071543",
+    "proB": "FBpp0288698",
+    "geneA": "Sgf29",
+    "geneB": "not",
+    "annotationA": "SAGA-associated factor 29kDa, isoform A; Methylated histone binding; histone acetyltransferase activity. It is involved in the biological process described with: chromatin remodeling; histone acetylation",
+    "annotationB": "Ubiquitin carboxyl-terminal hydrolase nonstop; Histone deubiquitinating component of the transcription regulatory histone acetylation (HAT) complex SAGA. Catalyzes the deubiquitination of histone H2B, thereby acting as a coactivator in a large subset of genes. Required to counteract heterochromatin silencing. Controls the development of neuronal connectivity in visual system by being required for accurate axon targeting in the optic lobe. Required for expression of ecdysone-induced genes such as br/broad; Belongs to the peptidase C19 family. UBP8 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

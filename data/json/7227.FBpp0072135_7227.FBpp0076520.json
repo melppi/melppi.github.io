@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0072135",
+    "proB": "FBpp0076520",
+    "geneA": "Thiolase",
+    "geneB": "CG12262",
+    "annotationA": "GH13256p; acetyl-CoA C-acyltransferase activity; long-chain-3-hydroxyacyl-CoA dehydrogenase activity. It is involved in the biological process described with: determination of adult lifespan; fatty acid beta-oxidation; Belongs to the thiolase family",
+    "annotationB": "Probable medium-chain specific acyl-CoA dehydrogenase, mitochondrial; This enzyme is specific for acyl chain lengths of 4 to 16; Belongs to the acyl-CoA dehydrogenase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

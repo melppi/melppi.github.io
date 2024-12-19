@@ -1,0 +1,48 @@
+{
+    "pae": 14.1,
+    "iptm": 26.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0071252",
+    "proB": "FBpp0305513",
+    "geneA": "ric8a",
+    "geneB": "Frq2",
+    "annotationA": "Synembryn; Guanine nucleotide exchange factor (GEF), which can activate some, but not all, G-alpha proteins independently of G- protein coupled receptors. Acts by exchanging bound GDP for free GTP. Plays a key role in asymmetric spindle positioning, a step for asymmetric cell division that generates cell diversity during development by activating G(i) alpha protein independently of G- protein coupled receptors. In addition to its GEF activity, it plays an essential role in cortical subcellular localization of heterotrimeric G proteins, suggesting it acts as a facilitator of G-alpha fun [...] ",
+    "annotationB": "Frequenin 2 binds calcium and interacts with the guanyl exchange factor ric8a to regulate the number of synapses and the probability of neurotransmitter release per synapse",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 453,
+            "end_residue_number": 453,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 68,
+            "end_residue_number": 68,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "453-453"
+    ],
+    "interfaceB": [
+        "68-68"
+    ]
+}

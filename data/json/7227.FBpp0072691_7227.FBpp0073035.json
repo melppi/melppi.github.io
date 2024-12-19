@@ -1,0 +1,16 @@
+{
+    "pae": 22.7,
+    "iptm": 16.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0072691",
+    "proB": "FBpp0073035",
+    "geneA": "CG7967",
+    "geneB": "Ubi-p63E",
+    "annotationA": "Vesicle trafficking 1; ATPase activator activity. It is involved in the biological process described with: endosome transport via multivesicular body sorting pathway",
+    "annotationB": "Polyubiquitin; Ubiquitin exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involved in protein degradatio [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

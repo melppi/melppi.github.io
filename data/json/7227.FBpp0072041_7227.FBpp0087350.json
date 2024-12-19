@@ -1,0 +1,16 @@
+{
+    "pae": 17.0,
+    "iptm": 21.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0072041",
+    "proB": "FBpp0087350",
+    "geneA": "DNA-ligI",
+    "geneB": "Mat1",
+    "annotationA": "DNA ligase 1; DNA ligase that seals nicks in double-stranded DNA during DNA replication, DNA recombination and DNA repair",
+    "annotationB": "CDK7/cyclin H assembly factor MAT1; RNA polymerase II carboxy-terminal domain kinase activity; zinc ion binding; core RNA polymerase binding transcription factor activity; cyclin-dependent protein serine/threonine kinase activity. It is involved in the biological process described with: cell cycle; transcription initiation from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

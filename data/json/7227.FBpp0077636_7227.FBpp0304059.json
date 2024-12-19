@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0077636",
+    "proB": "FBpp0304059",
+    "geneA": "Tgt",
+    "geneB": "Usp14",
+    "annotationA": "Queuine tRNA-ribosyltransferase catalytic subunit; Catalytic subunit of the queuine tRNA-ribosyltransferase (TGT) that catalyzes the base-exchange of a guanine (G) residue with queuine (Q) at position 34 (anticodon wobble position) in tRNAs with GU(N) anticodons (tRNA-Asp, -Asn, -His and -Tyr), resulting in the hypermodified nucleoside queuosine (7-(((4,5-cis- dihydroxy-2-cyclopenten-1-yl)amino)methyl)-7-deazaguanosine). Catalysis occurs through a double-displacement mechanism. The nucleophile active site attacks the C1' of nucleotide 34 to detach the guanine base from the RNA, forming [...] ",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

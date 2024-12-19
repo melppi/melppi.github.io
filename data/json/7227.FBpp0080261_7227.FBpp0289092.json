@@ -1,0 +1,160 @@
+{
+    "pae": 10.7,
+    "iptm": 26.7,
+    "pdockq": 0.161,
+    "proA": "FBpp0080261",
+    "proB": "FBpp0289092",
+    "geneA": "Su(H)",
+    "geneB": "Atx-1",
+    "annotationA": "Suppressor of hairless protein; Transcriptional regulator that plays a central role in Notch signaling, a signaling pathway involved in cell-cell communication that regulates a broad spectrum of cell-fate determinations. Binds directly the 5'-GTGRGAR-3' DNA consensus sequence, which is present in the regulatory region of several genes. Required for neurogenesis in imaginal disks. Acts as a transcriptional repressor when it is not associated with Notch proteins. When associated with some Notch protein, it acts as a transcriptional activator that activates transcription of Notch target g [...] ",
+    "annotationB": "IP08458p1; Ataxin 1 (Atx-1) is the ortholog of human Atx-1, in which pathogenic variants with expanded glutamine tracts cause spinocerebellar ataxia type 1. Atx-1 interacts with sens via its AXH domain",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 1,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 40,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 53,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 57,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 78,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 101,
+            "end_residue_number": 101,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 110,
+            "end_residue_number": 112,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 118,
+            "end_residue_number": 121,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 127,
+            "end_residue_number": 127,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 152,
+            "end_residue_number": 157,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "1-15"
+    ],
+    "interfaceB": [
+        "40-44",
+        "48-53",
+        "57-72",
+        "78-83",
+        "101-101",
+        "110-112",
+        "118-121",
+        "127-127",
+        "152-157"
+    ]
+}

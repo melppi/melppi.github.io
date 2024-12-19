@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 13.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0078896",
+    "proB": "FBpp0086269",
+    "geneA": "Sec61alpha",
+    "geneB": "RpS15",
+    "annotationA": "Sec61 alpha subunit is a subunit of the the translocon, a protein-conducting channel that mediates the co-translational transport of nascent polypeptides into the endoplasmic reticulum. Sec61 alpha is a subunit of the Sec61 heterotrimer that forms the core of translocon channel",
+    "annotationB": "Ribosomal protein S15, isoform A; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the universal ribosomal protein uS19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

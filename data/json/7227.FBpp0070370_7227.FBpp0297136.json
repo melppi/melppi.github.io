@@ -1,0 +1,16 @@
+{
+    "pae": 15.4,
+    "iptm": 10.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070370",
+    "proB": "FBpp0297136",
+    "geneA": "ND-B14.5A",
+    "geneB": "ATPsynG",
+    "annotationA": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "annotationB": "Hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

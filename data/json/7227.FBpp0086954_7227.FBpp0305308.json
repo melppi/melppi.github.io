@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 24.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0086954",
+    "proB": "FBpp0305308",
+    "geneA": "Iswi",
+    "geneB": "baf",
+    "annotationA": "Chromatin-remodeling complex ATPase chain Iswi; Energy-transducing component of the chromatin-remodeling complexes NURF (nucleosome-remodeling factor), ACF (ATP-utilizing chromatin assembly and remodeling factor), and CHRAC (chromatin accessibility complex). NURF catalyzes ATP-dependent nucleosome sliding and facilitates transcription of chromatin. It is required for homeotic gene expression, proper larval blood cell development, normal male X chromosome morphology, ecdysteroid signaling and metamorphosis",
+    "annotationB": "Barrier-to-autointegration factor; Plays fundamental roles in nuclear assembly, chromatin organization, gene expression and gonad development. May potently compress chromatin structure and be involved in membrane recruitment and chromatin decondensation during nuclear assembly. Functions are required in both M phase and interphase of the cell cycle; Belongs to the BAF family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

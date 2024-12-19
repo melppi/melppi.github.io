@@ -1,0 +1,146 @@
+{
+    "pae": 4.6,
+    "iptm": 60.8,
+    "pdockq": 0.468,
+    "proA": "FBpp0084761",
+    "proB": "FBpp0302537",
+    "geneA": "Ef1gamma",
+    "geneB": "eIF-2gamma",
+    "annotationA": "Elongation factor 1-gamma; Ef1gamma associates with other EF1 subunits (alpha/beta/delta). It binds tubulin and Doa protein kinase, which in turns phosphorylates Ef1gamma. Ef1gamma regulates organelle movement along microtubules",
+    "annotationB": "Eukaryotic translation initiation factor 2 subunit 3; eIF-2 functions in the early steps of protein synthesis by forming a ternary complex with GTP and initiator tRNA. This complex binds to a 40S ribosomal subunit, followed by mRNA binding to form a 43S pre-initiation complex. Junction of the 60S ribosomal subunit to form the 80S initiation complex is preceded by hydrolysis of the GTP bound to eIF-2 and release of an eIF-2- GDP binary complex. In order for eIF-2 to recycle and catalyze another round of initiation, the GDP bound to eIF-2 must exchange with GTP by way of a reaction catal [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 293,
+            "end_residue_number": 301,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 328,
+            "end_residue_number": 338,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 412,
+            "end_residue_number": 414,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 424,
+            "end_residue_number": 431,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 48,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 160,
+            "end_residue_number": 167,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 192,
+            "end_residue_number": 201,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 205,
+            "end_residue_number": 205,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 384,
+            "end_residue_number": 387,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "293-301",
+        "328-338",
+        "412-414",
+        "424-431"
+    ],
+    "interfaceB": [
+        "48-48",
+        "160-167",
+        "192-201",
+        "205-205",
+        "384-387"
+    ]
+}

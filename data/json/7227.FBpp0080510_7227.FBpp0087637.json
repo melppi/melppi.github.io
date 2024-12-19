@@ -1,0 +1,146 @@
+{
+    "pae": 3.8,
+    "iptm": 38.6,
+    "pdockq": 0.269,
+    "proA": "FBpp0080510",
+    "proB": "FBpp0087637",
+    "geneA": "CG12288",
+    "geneB": "Non1",
+    "annotationA": "Uncharacterized protein; mRNA binding; poly(A) binding; nucleotide binding",
+    "annotationB": "Nucleolar GTP-binding protein 1; Involved in the biogenesis of the 60S ribosomal subunit (By similarity). Required for normal assembly of the mitotic spindle. May be involved in both centrosome- dependent and centrosome-independent spindle assembly programs",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 266,
+            "end_residue_number": 269,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 294,
+            "end_residue_number": 302,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 325,
+            "end_residue_number": 328,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 342,
+            "end_residue_number": 342,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 257,
+            "end_residue_number": 263,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 290,
+            "end_residue_number": 294,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 299,
+            "end_residue_number": 299,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 303,
+            "end_residue_number": 303,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 322,
+            "end_residue_number": 325,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "266-269",
+        "294-302",
+        "325-328",
+        "342-342"
+    ],
+    "interfaceB": [
+        "257-263",
+        "290-294",
+        "299-299",
+        "303-303",
+        "322-325"
+    ]
+}

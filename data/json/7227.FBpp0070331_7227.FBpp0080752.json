@@ -1,0 +1,16 @@
+{
+    "pae": 16.8,
+    "iptm": 21.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070331",
+    "proB": "FBpp0080752",
+    "geneA": "Actn",
+    "geneB": "Pax",
+    "annotationA": "Alpha-actinin, sarcomeric; Alpha Actinin (Actn) is an actin cross-linking protein with muscle and non-muscle specific isoforms, which are produced by alternative spicing. The muscle isoform has a role in muscle development while the non-muscle isoform localizes to ovarian ring canals and has a role in cytoskeletal remodeling of follicle cells; Belongs to the alpha-actinin family",
+    "annotationB": "Paxillin, isoform F; Paxillin (Pax) is an adaptor protein that is generally associated with integrins. It is not required for most integrin-mediated adhesion or migration events, but is required for viability beyond pupal stages. Pax controls the size of some muscles by regulating the rate of cell fusion",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

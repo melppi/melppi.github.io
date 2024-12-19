@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0084955",
+    "proB": "FBpp0087867",
+    "geneA": "spn-A",
+    "geneB": "Mlh1",
+    "annotationA": "DNA repair protein Rad51 homolog; Spindle A forms a filament on single-stranded DNA, does a homology search of double-stranded DNA, and catalyzes strand exchange, swapping the single-strand DNA in and displacing the partner of the complementary strand",
+    "annotationB": "Mlh1, isoform A; Mismatched DNA binding; ATP binding; MutSalpha complex binding; single-stranded DNA binding; ATPase activity. It is involved in the biological process described with: reciprocal meiotic recombination; mismatch repair",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

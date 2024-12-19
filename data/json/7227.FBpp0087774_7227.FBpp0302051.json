@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 15.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0087774",
+    "proB": "FBpp0302051",
+    "geneA": "Vps25",
+    "geneB": "Vps28",
+    "annotationA": "Vacuolar protein-sorting-associated protein 25; Component of the ESCRT-II complex (ensodomal sorting complex required for transport II), which is required for multivesicular body (MVB) formation and sorting of endosomal cargo proteins into MVBs. The MVB pathway mediates delivery of transmembrane proteins into the lumen of the lysosome for degradation. The ESCRT-II complex is probably involved in the recruitment of the ESCRT-III complex (By similarity). Seems to function as a tumor suppressor by regulating Notch trafficking, hence preventing non-autonomous overproliferation. May be invo [...] ",
+    "annotationB": "Vacuolar protein sorting 28 is a member of the ESCRT-I complex, which sorts certain endocytosed receptors for degradation via the multivesicular body; Belongs to the VPS28 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

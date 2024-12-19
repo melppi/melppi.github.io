@@ -1,0 +1,90 @@
+{
+    "pae": 1.7,
+    "iptm": 60.8,
+    "pdockq": 0.638,
+    "proA": "FBpp0082767",
+    "proB": "FBpp0110439",
+    "geneA": "mRpS33",
+    "geneB": "mRpS5",
+    "annotationA": "Mitochondrial ribosomal protein S33; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "annotationB": "Mitochondrial ribosomal protein S5, isoform A; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uS5 family",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 61,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 39,
+            "end_residue_number": 57,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 79,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 112,
+            "end_residue_number": 112,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 126,
+            "end_residue_number": 130,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "61-96"
+    ],
+    "interfaceB": [
+        "39-57",
+        "79-99",
+        "112-112",
+        "126-130"
+    ]
+}

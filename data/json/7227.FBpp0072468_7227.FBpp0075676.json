@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 19.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0072468",
+    "proB": "FBpp0075676",
+    "geneA": "Cdc5",
+    "geneB": "CG10754",
+    "annotationA": "Cell division cycle 5, isoform A; DNA binding; chromatin binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; centrosome duplication",
+    "annotationB": "LD47455p; Zinc ion binding; nucleic acid binding. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; mRNA splicing, via spliceosome; mitotic spindle organization; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

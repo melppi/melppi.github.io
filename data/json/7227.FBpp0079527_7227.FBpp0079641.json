@@ -1,0 +1,16 @@
+{
+    "pae": 25.0,
+    "iptm": 15.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0079527",
+    "proB": "FBpp0079641",
+    "geneA": "Pen",
+    "geneB": "Cdk1",
+    "annotationA": "Importin subunit alpha; Pendulin (Pen) is a member of the Importin-alpha protein family, an essential adaptor in the Ran-GTP nuclear transport cycle binding a cargo protein to the nuclear import receptor Fs(2)Ket. In addition to nuclear protein import, Pendulin is involved in centrosome duplication, mitotic spindle dynamics, nuclear envelope assembly, ring canal formation in the female germline, geotaxic behaviour and perception of pain",
+    "annotationB": "Cyclin-dependent kinase (Cdk1) is a catalytic protein kinase subunit that can only become active after association with either CycA, CycB or CycB3. The protein kinase activities of these complexes (CycA-Cdk1, CycB-Cdk1, CycB3-Cdk1) control important aspects of progression through the cell cycle. Functionally, the different Cdk1 complexes are partially redundant. They phosphorylate hundreds of target proteins and are most important for progression into and through mitotic and meiotic M phases; Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

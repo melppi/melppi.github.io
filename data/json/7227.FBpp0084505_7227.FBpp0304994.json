@@ -1,0 +1,62 @@
+{
+    "pae": 4.0,
+    "iptm": 36.2,
+    "pdockq": 0.08,
+    "proA": "FBpp0084505",
+    "proB": "FBpp0304994",
+    "geneA": "Cpr97Eb",
+    "geneB": "Cpr76Bd",
+    "annotationA": "Cuticular protein 97Eb; Structural constituent of chitin-based larval cuticle; structural constituent of chitin-based cuticle. It is involved in the biological process described with: chitin-based cuticle development",
+    "annotationB": "Cuticular protein 76Bd is a cuticle component involved in adult fly melanization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 221,
+            "end_residue_number": 235,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1194,
+            "end_residue_number": 1196,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1204,
+            "end_residue_number": 1220,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "221-235"
+    ],
+    "interfaceB": [
+        "1194-1196",
+        "1204-1220"
+    ]
+}

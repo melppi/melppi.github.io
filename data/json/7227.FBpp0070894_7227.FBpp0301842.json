@@ -1,0 +1,16 @@
+{
+    "pae": 25.0,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070894",
+    "proB": "FBpp0301842",
+    "geneA": "Ubi-p5E",
+    "geneB": "PI31",
+    "annotationA": "Ubiquitin-5E, isoform A; Protein tag. It is involved in the biological process described with: ubiquitin-dependent protein catabolic process; protein ubiquitination; cellular protein modification process",
+    "annotationB": "Proteasome inhibitor PI31 subunit; Plays an important role in the control of proteasome function. Inhibits the hydrolysis of protein and peptide substrates by the 20S proteasome. Enhances 26S proteasome function by promoting its assembly through the interaction with the assembly chaperones PSMD9 and PMSD5. Functions together with ntc to control non-apoptotic caspase activation during sperm individualization. In testis, is required for proper protein degradation and germline cell cycle progression",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,174 @@
+{
+    "pae": 2.4,
+    "iptm": 55.5,
+    "pdockq": 0.317,
+    "proA": "FBpp0084549",
+    "proB": "FBpp0085704",
+    "geneA": "pll",
+    "geneB": "Tab2",
+    "annotationA": "Serine/threonine-protein kinase pelle; Plays an essential role in the Tl receptor signaling pathway that establishes embryonic dorsoventral polarity; the signal directs import of dl into ventral and ventrolateral nuclei, thereby establishing dorsoventral polarity. Tub recruits pll to the plasma membrane and protein-protein interaction activates pll; Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. Pelle subfamily",
+    "annotationB": "TAK1-associated binding protein 2 is a protein with an ubiquitin binding domain. It interacts with Tak1, a MAP kinase kinase kinase involved the activation of the Immune Deficiency, JNK and Grunewald-Eiger pathways",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 221,
+            "end_residue_number": 224,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 246,
+            "end_residue_number": 258,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 300,
+            "end_residue_number": 300,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 346,
+            "end_residue_number": 348,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 367,
+            "end_residue_number": 367,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 381,
+            "end_residue_number": 391,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 396,
+            "end_residue_number": 399,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 422,
+            "end_residue_number": 424,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 762,
+            "end_residue_number": 762,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 767,
+            "end_residue_number": 780,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 784,
+            "end_residue_number": 784,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "221-224",
+        "246-258",
+        "300-300",
+        "346-348",
+        "367-367",
+        "381-391",
+        "396-399",
+        "422-424"
+    ],
+    "interfaceB": [
+        "762-762",
+        "767-780",
+        "784-784"
+    ]
+}

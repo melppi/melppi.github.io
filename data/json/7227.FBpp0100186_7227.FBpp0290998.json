@@ -1,0 +1,16 @@
+{
+    "pae": 18.5,
+    "iptm": 19.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0100186",
+    "proB": "FBpp0290998",
+    "geneA": "mt:Cyt-b",
+    "geneB": "UQCR-11",
+    "annotationA": "Cytochrome b; Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex) that is part of the mitochondrial respiratory chain. The b-c1 complex mediates electron transfer from ubiquinol to cytochrome c. Contributes to the generation of a proton gradient across the mitochondrial membrane that is then used for ATP synthesis",
+    "annotationB": "Cytochrome b-c1 complex subunit 6; This is a component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is part of the mitochondrial respiratory chain. This protein may mediate formation of the complex between cytochromes c and c1",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

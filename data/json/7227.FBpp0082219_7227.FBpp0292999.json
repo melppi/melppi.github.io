@@ -1,0 +1,16 @@
+{
+    "pae": 18.9,
+    "iptm": 21.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0082219",
+    "proB": "FBpp0292999",
+    "geneA": "Droj2",
+    "geneB": "Hsc70Cb",
+    "annotationA": "DnaJ-like-2, isoform A; ATP binding; heat shock protein binding; unfolded protein binding. It is involved in the biological process described with: response to heat; protein folding; neurogenesis",
+    "annotationB": "Hsc70Cb, isoform G; Hsc70Cb is an HSP110 family protein, and interacts physically with DnaJ-1 as a chaperone of misfolded proteins. Hsc70Cb functions together with DnaJ-1 to prevent the toxicity of aggregation-prone proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

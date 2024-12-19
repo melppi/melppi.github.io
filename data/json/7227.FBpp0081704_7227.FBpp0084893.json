@@ -1,0 +1,16 @@
+{
+    "pae": 25.4,
+    "iptm": 13.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081704",
+    "proB": "FBpp0084893",
+    "geneA": "pont",
+    "geneB": "dgt1",
+    "annotationA": "RuvB-like helicase 1; Acts as a transcriptional coactivator in Wg signaling caused by altered arm signaling. Pont and rept interfere antagonistically with nuclear arm signaling function, and are required to enhance or reduce arm activity, respectively. Also an essential cofactor for the normal function of Myc; required for cellular proliferation and growth",
+    "annotationB": "Dim gamma-tubulin 1, isoform A; It is involved in the biological process described with: mitotic G2 DNA damage checkpoint; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

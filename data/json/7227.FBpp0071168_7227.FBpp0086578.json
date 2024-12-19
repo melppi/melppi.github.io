@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 18.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071168",
+    "proB": "FBpp0086578",
+    "geneA": "Ogg1",
+    "geneB": "Ercc1",
+    "annotationA": "N-glycosylase/DNA lyase; DNA repair enzyme that incises DNA at 8-oxoG residues. Excises 7,8-dihydro-8-oxoguanine and 2,6-diamino-4-hydroxy-5-N- methylformamidopyrimidine (FAPY) from damaged DNA. Has a beta- lyase activity that nicks DNA 3' to the lesion. Efficiently incises DNA duplexes containing 8-hydroxyguanine (8-OH-Gua), 8- hydroxyadenine (8-OH-Ade) and abasic (AP) sites placed opposite to a cytosine",
+    "annotationB": "Nucleotide excision repair protein ERCC1; Ercc1 is the non-catalytic partner of the mei-9 nuclease that cuts structures formed during DNA repair. The mei-9-Ercc1 heterodimer interacts with mus312 to make meiotic crossovers. Ercc1 functions include repair of UV-induced DNA damage, repair of base adducts, a backup pathway for mismatch repair and meiotic recombination",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

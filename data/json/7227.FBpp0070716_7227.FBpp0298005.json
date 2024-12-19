@@ -1,0 +1,16 @@
+{
+    "pae": 20.3,
+    "iptm": 13.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0070716",
+    "proB": "FBpp0298005",
+    "geneA": "snf",
+    "geneB": "U2af50",
+    "annotationA": "U1 small nuclear ribonucleoprotein A; Binds stem loop II of U1 snRNA. It is the first snRNP to interact with pre-mRNA. This interaction is required for the subsequent binding of U2 snRNP and the U4/U6/U5 tri-snRNP (By similarity). Plays a role in regulating sex-lethal splicing; Belongs to the RRM U1 A/B'' family",
+    "annotationB": "Splicing factor U2AF 50 kDa subunit; Necessary for the splicing of pre-mRNA. Binds to the polypyrimidine tract of introns early during spliceosome assembly (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

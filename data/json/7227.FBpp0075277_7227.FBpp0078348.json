@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 23.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0075277",
+    "proB": "FBpp0078348",
+    "geneA": "POLD",
+    "geneB": "rev7",
+    "annotationA": "DNA polymerase delta catalytic subunit; Possesses two enzymatic activities: DNA synthesis (polymerase) and an exonucleolytic activity that degrades single stranded DNA in the 3'- to 5'-direction. Required with its accessory proteins (proliferating cell nuclear antigen (PCNA) and replication factor C (RFC) or activator 1) for leading strand synthesis. Also involved in completing Okazaki fragments initiated by the DNA polymerase alpha/primase complex (By similarity)",
+    "annotationB": "MAD2 like protein; It is involved in the biological process described with: positive regulation of lyase activity; regulation of cell cycle",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

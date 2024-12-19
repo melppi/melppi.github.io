@@ -1,0 +1,16 @@
+{
+    "pae": 16.6,
+    "iptm": 27.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071600",
+    "proB": "FBpp0076408",
+    "geneA": "Rae1",
+    "geneB": "msk",
+    "annotationA": "Rae1 is a nucleoporin member of the WD40-repeat beta propeller protein super family. Biological roles of the pleiotropic Rae1 gene include poly(A)+ mRNA export, cell cycle regulation, male meiosis control and male germ cell post-meiotic differentiation",
+    "annotationB": "D-Importin 7/RanBP7; Ran GTPase binding; protein binding; U4 snRNA binding; protein transmembrane transporter activity; U2 snRNA binding; U1 snRNA binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

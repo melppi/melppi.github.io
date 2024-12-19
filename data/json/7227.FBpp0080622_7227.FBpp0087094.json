@@ -1,0 +1,16 @@
+{
+    "pae": 15.7,
+    "iptm": 23.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0080622",
+    "proB": "FBpp0087094",
+    "geneA": "CG10333",
+    "geneB": "SmD3",
+    "annotationA": "RH55640p; ATP binding; ATP-dependent RNA helicase activity; nucleic acid binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; neurogenesis",
+    "annotationB": "Small ribonucleoprotein particle protein SmD3 (SmD3) is an RNA binding protein that forms a heterodimeric sub-complex with SmB. They function as part of the heteroheptameric ring complex Sm core, which is involved in the formation of spliceosomal small nuclear RNPs (U1, U2, U4 and U5), which together catalyze pre-mRNA splicing. SmD3 also has a function in germline specification, as it is required for localization of osk to the posterior pole of the oocyte",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

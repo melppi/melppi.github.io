@@ -1,0 +1,90 @@
+{
+    "pae": 15.2,
+    "iptm": 26.9,
+    "pdockq": 0.038,
+    "proA": "FBpp0074133",
+    "proB": "FBpp0288687",
+    "geneA": "CG9634",
+    "geneB": "TwdlZ",
+    "annotationA": "Protein gone early; Plays a role in the ovary in limiting the number of primordial germ cells (PGCs) that develop directly into gametes, allowing them instead to enter the developmental pathway that produces germline stem cells (GSCs) from PGCs and ensuring lifelong production of gametes from these GSCs. Negatively regulates epidermal growth factor receptor (Egfr) signaling. Probably down-regulates EGFR signaling on intermingled cells, a type of somatic stromal cell which contacts PGCs, and the resultant low level of signaling limits the proportion of PGCs which start gametogenesis, ma [...] ",
+    "annotationB": "RT03046p; Structural constituent of chitin-based cuticle. It is involved in the biological process described with: body morphogenesis; chitin-based cuticle development",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 325,
+            "end_residue_number": 325,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 403,
+            "end_residue_number": 403,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 435,
+            "end_residue_number": 436,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 634,
+            "end_residue_number": 634,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 22,
+            "end_residue_number": 23,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "325-325",
+        "403-403",
+        "435-436",
+        "634-634"
+    ],
+    "interfaceB": [
+        "22-23"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 19.8,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0084726",
+    "proB": "FBpp0086294",
+    "geneA": "Cpsf100",
+    "geneB": "Nup62",
+    "annotationA": "Probable cleavage and polyadenylation specificity factor subunit 2; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Required for the cotranscriptional processing of 3'-ends of polyadenylated and histone pre-mRNA",
+    "annotationB": "Nuclear pore glycoprotein p62; Essential component of the nuclear pore complex (By similarity). The N-terminal is probably involved in nucleocytoplasmic transport (By similarity). The C-terminal is involved in protein-protein interaction probably via coiled-coil formation, promotes its association with centrosomes and may function in anchorage of Nup62 to the pore complex (By similarity). Binds to transcriptionally active genes. Negatively regulates chromatin attachment to the nuclear envelope, probably by preventing chromatin tethering by Nup154",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

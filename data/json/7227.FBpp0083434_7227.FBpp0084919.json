@@ -1,0 +1,90 @@
+{
+    "pae": 12.5,
+    "iptm": 39.3,
+    "pdockq": 0.119,
+    "proA": "FBpp0083434",
+    "proB": "FBpp0084919",
+    "geneA": "slmb",
+    "geneB": "Axn",
+    "annotationA": "Supernumerary limbs, isoform B; Ubiquitin-protein transferase activity; phosphoprotein binding; protein dimerization activity",
+    "annotationB": "Axin (Axn) is the key scaffolding protein for the canonical Wnt signalling pathway. In the absence of signal, Axin targets arm for proteolysis inhibiting Wnt signalling. In the presence of signal, it forms a part of the membrane activation complex, disrupting arm degradation. This pathway play roles in cell proliferation (imaginal disc), differentiation (embryonic patterning), death and stemness",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 357,
+            "end_residue_number": 357,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 366,
+            "end_residue_number": 371,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 398,
+            "end_residue_number": 398,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 402,
+            "end_residue_number": 406,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 404,
+            "end_residue_number": 413,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "357-357",
+        "366-371",
+        "398-398",
+        "402-406"
+    ],
+    "interfaceB": [
+        "404-413"
+    ]
+}

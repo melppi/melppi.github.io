@@ -1,0 +1,16 @@
+{
+    "pae": 23.0,
+    "iptm": 18.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0075690",
+    "proB": "FBpp0083769",
+    "geneA": "vih",
+    "geneB": "Cdc16",
+    "annotationA": "Ubiquitin-conjugating enzyme E2 C; Catalyzes the covalent attachment of ubiquitin to other proteins. Acts as an essential factor of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated ubiquitin ligase that controls progression through mitosis. Acts by initiating polyubiquitin chains on APC/C substrates, leading to the degradation of APC/C substrates by the proteasome and promoting mitotic exit; Belongs to the ubiquitin-conjugating enzyme family",
+    "annotationB": "Cell division cycle 16 (Cdc16) is an essential subunit of the anaphase promoting complex/cyclosome (APC/C). Cdc16, together with other subunits, forms a functional subcomplex of the APC/C that binds to shtd and is likely to be involved in activator and substrate binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

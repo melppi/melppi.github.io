@@ -1,0 +1,16 @@
+{
+    "pae": 23.7,
+    "iptm": 19.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0081356",
+    "proB": "FBpp0082647",
+    "geneA": "RpA-70",
+    "geneB": "rec",
+    "annotationA": "Replication protein A 70 kDa DNA-binding subunit; As part of the heterotrimeric replication protein A complex (RPA/RP-A), binds and stabilizes single-stranded DNA intermediates, that form during DNA replication or upon DNA stress. It prevents their reannealing and in parallel, recruits and activates different proteins and complexes involved in DNA metabolism. Thereby, it plays an essential role both in DNA replication and the cellular response to DNA damage",
+    "annotationB": "DNA replication licensing factor REC; Recombination-defective interacts with other Mini-Chromosome Maintenance (MCM)-related proteins (mei-217 and mei-218) to make meiotic crossovers",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

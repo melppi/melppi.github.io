@@ -1,0 +1,76 @@
+{
+    "pae": 4.1,
+    "iptm": 73.8,
+    "pdockq": 0.394,
+    "proA": "FBpp0074853",
+    "proB": "FBpp0078984",
+    "geneA": "ftz-f1",
+    "geneB": "smt3",
+    "annotationA": "Nuclear hormone receptor FTZ-F1; Acts as a cofactor to fushi tarazu (ftz). Facilitates the binding of ftz to DNA. Binds the sequence element 5'- YCYYGGYCR-3' in the zebra element of ftz. Probably also functions as a receptor for a yet unknown ligand; Belongs to the nuclear hormone receptor family. NR5 subfamily",
+    "annotationB": "Small ubiquitin-related modifier; Smt3 is the only Drosophila SUMO family protein. It is required for embryonic patterning and mitosis. It may also have roles in wing patterning, Dpp signaling, and Ras/MAPK signaling. It localizes to the nucleus during interphase  and to the kinetochores and midbodies during mitosis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 822,
+            "end_residue_number": 828,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 894,
+            "end_residue_number": 897,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 12,
+            "end_residue_number": 14,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 25,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "822-828",
+        "894-897"
+    ],
+    "interfaceB": [
+        "12-14",
+        "25-45"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 21.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0079710",
+    "proB": "FBpp0084713",
+    "geneA": "Nup107",
+    "geneB": "eIF4E-6",
+    "annotationA": "Nuclear pore complex protein Nup107; Plays a role in nuclear pore complex (NPC) assembly and maintenance. Required for nuclear import of Mad. Plays a role in double strand break repair by relocalizing the heterochromatic double strain breaks (DSBs) to the nuclear periphery as part of the homologous recombination (HR) repair process. Regulates cytokinesis during spermatocyte meiosis by maintaining type-B lamin Lam localization to the spindle envelope. Regulates female gonad development and oogenesis; Belongs to the nucleoporin Nup84/Nup107 family",
+    "annotationB": "eIF4E-6, isoform A; RNA 7-methylguanosine cap binding; translation repressor activity; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation; negative regulation of translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

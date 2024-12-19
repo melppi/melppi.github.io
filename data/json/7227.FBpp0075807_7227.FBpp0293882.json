@@ -1,0 +1,16 @@
+{
+    "pae": 8.7,
+    "iptm": 47.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0075807",
+    "proB": "FBpp0293882",
+    "geneA": "CycA",
+    "geneB": "Cks85A",
+    "annotationA": "G2/mitotic-specific cyclin-A; Cyclin A (CycA) binds to Cdk1, thereby promoting Cdk1's protein kinase activity. The CycA-Cdk1 complex controls important aspects of progression through the cell cycle, including entry into mitosis. During the G2 phase, this complex is important for prevention of premature DNA re-replication. During mitosis and G1, CycA is rapidly degraded (involving APC/C and the proteasome), resulting in inactivation of Cdk1 protein kinase activity",
+    "annotationB": "Cyclin-dependent kinase subunit 85A (Cks85A) is a small Cdk1 and Cdk2 interacting protein. It also functions with Skp2 to target specific substrates for destruction, including dap. Cks85A is required for larval growth and to maintain diploidy in imaginal tissues",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

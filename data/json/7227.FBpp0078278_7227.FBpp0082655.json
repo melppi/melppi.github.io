@@ -1,0 +1,16 @@
+{
+    "pae": 16.6,
+    "iptm": 24.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0078278",
+    "proB": "FBpp0082655",
+    "geneA": "Rpn5",
+    "geneB": "Fbxl7",
+    "annotationA": "Regulatory particle non-ATPase 5; Endopeptidase activity. It is involved in the biological process described with: proteolysis; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "F-box and leucine-rich repeat protein 7; Ubiquitin-protein transferase activity. It is involved in the biological process described with: proximal/distal pattern formation, imaginal disc; SCF-dependent proteasomal ubiquitin-dependent protein catabolic process; regulation of hippo signaling; regulation of protein localization; negative regulation of growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

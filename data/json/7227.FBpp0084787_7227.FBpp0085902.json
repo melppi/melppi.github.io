@@ -1,0 +1,16 @@
+{
+    "pae": 23.6,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0084787",
+    "proB": "FBpp0085902",
+    "geneA": "Slu7",
+    "geneB": "Prp19",
+    "annotationA": "Pre-mRNA-splicing factor Slu7; Participates in the second catalytic step of pre-mRNA splicing, when the free hydroxyl group of exon I attacks the 3'- splice site to generate spliced mRNA and the excised lariat intron",
+    "annotationB": "Pre-RNA processing factor 19; Ubiquitin-protein transferase activity. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; regulation of alternative mRNA splicing, via spliceosome; positive regulation of ERK1 and ERK2 cascade; mRNA splicing, via spliceosome; protein ubiquitination",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.7,
+    "iptm": 26.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0081807",
+    "proB": "FBpp0291341",
+    "geneA": "Adk3",
+    "geneB": "Pde8",
+    "annotationA": "GTP:AMP phosphotransferase, mitochondrial; Involved in maintaining the homeostasis of cellular nucleotides by catalyzing the interconversion of nucleoside phosphates. Has GTP:AMP phosphotransferase and ITP:AMP phosphotransferase activities",
+    "annotationB": "High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes (By similarity). Involved in the positive regulation of MAP kinase signaling and in inhibiting oxidative stress-induced cell death",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

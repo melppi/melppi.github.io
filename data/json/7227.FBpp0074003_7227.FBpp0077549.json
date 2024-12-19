@@ -1,0 +1,16 @@
+{
+    "pae": 18.7,
+    "iptm": 26.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0074003",
+    "proB": "FBpp0077549",
+    "geneA": "SWIP",
+    "geneB": "cpb",
+    "annotationA": "WASH complex subunit 4; Acts at least in part as component of the WASH complex which may regulate wash nucleation-promoting factor (NPF) activity and is required for its membrane targeting during endosomal sorting (By similarity). During embryogenesis, not involved in the wash-dependent developmental migration of hemocytes anteriorly from the tail",
+    "annotationB": "F-actin-capping protein subunit beta; F-actin-capping proteins bind in a Ca(2+)-independent manner to the fast growing ends of actin filaments (barbed end) thereby blocking the exchange of subunits at these ends. Unlike other capping proteins (such as gelsolin and severin), these proteins do not sever actin filaments",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

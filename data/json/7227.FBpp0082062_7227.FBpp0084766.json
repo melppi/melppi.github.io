@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 20.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0082062",
+    "proB": "FBpp0084766",
+    "geneA": "Prosalpha2",
+    "geneB": "stg",
+    "annotationA": "Proteasome subunit alpha type-2; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "annotationB": "M-phase inducer phosphatase; This protein functions as a dosage-dependent inducer in mitotic control. It is a tyrosine protein phosphatase required for progression of the cell cycle. It may directly dephosphorylate Cdk1 and activate the Cdk1 activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

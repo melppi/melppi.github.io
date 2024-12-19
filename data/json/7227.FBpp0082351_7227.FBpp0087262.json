@@ -1,0 +1,160 @@
+{
+    "pae": 4.6,
+    "iptm": 59.8,
+    "pdockq": 0.557,
+    "proA": "FBpp0082351",
+    "proB": "FBpp0087262",
+    "geneA": "Or88a",
+    "geneB": "Or47b",
+    "annotationA": "Odorant receptor 88a; Odorant receptor which mediates acceptance or avoidance behavior, depending on its substrates. The odorant receptor repertoire encodes a large collection of odor stimuli that vary widely in identity, intensity, and duration. May form a complex with Orco to form odorant-sensing units, providing sensitive and prolonged odorant signaling and calcium permeability",
+    "annotationB": "Odorant receptor 47b; Odorant receptor which mediates acceptance or avoidance behavior, depending on its substrates. The odorant receptor repertoire encodes a large collection of odor stimuli that vary widely in identity, intensity, and duration. May form a complex with Orco to form odorant-sensing units, providing sensitive and prolonged odorant signaling and calcium permeability. Plays an important role in sociosexual interactions since its enhances courtship in a pheromone-dependent manner",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 252,
+            "end_residue_number": 270,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 285,
+            "end_residue_number": 285,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 353,
+            "end_residue_number": 369,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 373,
+            "end_residue_number": 376,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 389,
+            "end_residue_number": 401,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 246,
+            "end_residue_number": 246,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 306,
+            "end_residue_number": 306,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 335,
+            "end_residue_number": 376,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 391,
+            "end_residue_number": 395,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 399,
+            "end_residue_number": 410,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "252-270",
+        "285-285",
+        "353-369",
+        "373-376",
+        "389-401"
+    ],
+    "interfaceB": [
+        "246-246",
+        "306-306",
+        "335-376",
+        "391-395",
+        "399-410"
+    ]
+}

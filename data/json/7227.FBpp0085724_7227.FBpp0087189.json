@@ -1,0 +1,90 @@
+{
+    "pae": 9.0,
+    "iptm": 17.3,
+    "pdockq": 0.173,
+    "proA": "FBpp0085724",
+    "proB": "FBpp0087189",
+    "geneA": "EloC",
+    "geneB": "Roc2",
+    "annotationA": "Elongin C (EloC) is essential for development and participates in the control of wing cell identity. The EloC, EloB and EloA subunits of the Elongin complex interact in vivo with the chromatin factor corto; Belongs to the SKP1 family",
+    "annotationB": "Regulator of cullins 2 is a C2H2 type zinc finger protein that binds specifically to Cul5 and recruits ubiquitin-charged E2 to the CRL5 E3 ubiquitin ligase complex, which functions during oogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 23,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 31,
+            "end_residue_number": 40,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 73,
+            "end_residue_number": 86,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 30,
+            "end_residue_number": 40,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 77,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "23-25",
+        "31-40",
+        "73-86"
+    ],
+    "interfaceB": [
+        "30-40",
+        "77-82"
+    ]
+}

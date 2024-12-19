@@ -1,0 +1,76 @@
+{
+    "pae": 7.6,
+    "iptm": 34.2,
+    "pdockq": 0.089,
+    "proA": "FBpp0086272",
+    "proB": "FBpp0292847",
+    "geneA": "CG7813",
+    "geneB": "ATPsynE",
+    "annotationA": "FI05611p; Hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: ATP synthesis coupled proton transport",
+    "annotationB": "ATP synthase, subunit E, isoform A; Hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 621,
+            "end_residue_number": 639,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 701,
+            "end_residue_number": 708,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 712,
+            "end_residue_number": 722,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 63,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "621-639",
+        "701-708",
+        "712-722"
+    ],
+    "interfaceB": [
+        "63-80"
+    ]
+}

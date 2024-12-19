@@ -1,0 +1,16 @@
+{
+    "pae": 23.9,
+    "iptm": 14.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0073010",
+    "proB": "FBpp0079472",
+    "geneA": "Scsalpha",
+    "geneB": "yip2",
+    "annotationA": "Succinate--CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial; Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and specificity for either ATP or GTP is provided by different beta subunits",
+    "annotationB": "Yippee interacting protein 2; acetyl-CoA C-acyltransferase activity. It is involved in the biological process described with: fatty acid beta-oxidation; Belongs to the thiolase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

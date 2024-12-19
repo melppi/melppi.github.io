@@ -1,0 +1,48 @@
+{
+    "pae": 12.6,
+    "iptm": 22.2,
+    "pdockq": 0.048,
+    "proA": "FBpp0076232",
+    "proB": "FBpp0290461",
+    "geneA": "Nf-YA",
+    "geneB": "Mes4",
+    "annotationA": "Nuclear factor Y-box A; Sequence-specific DNA binding transcription factor activity; sequence-specific DNA binding; transcription regulatory region sequence-specific DNA binding. It is involved in the biological process described with: phagocytosis; lateral inhibition; positive regulation of transcription, DNA-templated; regulation of cell cycle; R7 cell differentiation",
+    "annotationB": "Mesoderm-expressed 4, isoform A; Sequence-specific DNA binding; protein heterodimerization activity; DNA-directed DNA polymerase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 299,
+            "end_residue_number": 303,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 141,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "299-303"
+    ],
+    "interfaceB": [
+        "141-150"
+    ]
+}

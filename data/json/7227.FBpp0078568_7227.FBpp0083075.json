@@ -1,0 +1,16 @@
+{
+    "pae": 23.9,
+    "iptm": 16.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0078568",
+    "proB": "FBpp0083075",
+    "geneA": "Fip1",
+    "geneB": "CstF-64",
+    "annotationA": "Factor interacting with poly(A) polymerase 1; Myosin binding. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; histone mRNA 3'-end processing",
+    "annotationB": "Cleavage stimulation factor 64 kilodalton subunit; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: mRNA cleavage; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

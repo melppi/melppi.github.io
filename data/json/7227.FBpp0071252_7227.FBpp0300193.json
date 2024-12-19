@@ -1,0 +1,16 @@
+{
+    "pae": 23.0,
+    "iptm": 16.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071252",
+    "proB": "FBpp0300193",
+    "geneA": "ric8a",
+    "geneB": "RSG7",
+    "annotationA": "Synembryn; Guanine nucleotide exchange factor (GEF), which can activate some, but not all, G-alpha proteins independently of G- protein coupled receptors. Acts by exchanging bound GDP for free GTP. Plays a key role in asymmetric spindle positioning, a step for asymmetric cell division that generates cell diversity during development by activating G(i) alpha protein independently of G- protein coupled receptors. In addition to its GEF activity, it plays an essential role in cortical subcellular localization of heterotrimeric G proteins, suggesting it acts as a facilitator of G-alpha fun [...] ",
+    "annotationB": "Regulator of G-protein signalling 7, isoform A; GTPase activator activity; signal transducer activity. It is involved in the biological process described with: intracellular signal transduction; termination of G-protein coupled receptor signaling pathway; regulation of G-protein coupled receptor protein signaling pathway",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

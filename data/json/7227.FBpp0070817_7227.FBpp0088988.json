@@ -1,0 +1,16 @@
+{
+    "pae": 23.6,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070817",
+    "proB": "FBpp0088988",
+    "geneA": "Sirt4",
+    "geneB": "Gdh",
+    "annotationA": "NAD-dependent protein deacylase Sirt4; NAD-dependent protein deacylase. Catalyzes the NAD- dependent hydrolysis of acyl groups from lysine residues",
+    "annotationB": "Glutamate dehydrogenase, mitochondrial; Glutamate dehydrogenase (NAD+) activity; identical protein binding; glutamate dehydrogenase [NAD(P)+] activity. It is involved in the biological process described with: aerobic respiration; glutamate catabolic process to 2-oxoglutarate; glutamate metabolic process; NADH oxidation; Belongs to the Glu/Leu/Phe/Val dehydrogenases family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

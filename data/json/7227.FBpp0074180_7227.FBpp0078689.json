@@ -1,0 +1,16 @@
+{
+    "pae": 22.8,
+    "iptm": 12.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0074180",
+    "proB": "FBpp0078689",
+    "geneA": "RpS5a",
+    "geneB": "Trip1",
+    "annotationA": "40S ribosomal protein S5a; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: mitotic spindle organization; mitotic spindle elongation; translation; Belongs to the universal ribosomal protein uS7 family",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit I; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

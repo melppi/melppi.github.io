@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 17.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0074510",
+    "proB": "FBpp0082867",
+    "geneA": "MKP-4",
+    "geneB": "Ns1",
+    "annotationA": "Dual specificity protein phosphatase MPK-4; Dual specificity phosphatase; can dephosphorylate both phosphotyrosine and phosphoserine or phosphothreonine residues. May suppress bsk/JNK activation during the immune response; Belongs to the protein-tyrosine phosphatase family. Non-receptor class dual specificity subfamily",
+    "annotationB": "Guanine nucleotide-binding protein-like 3 homolog; May play a role in regulating cellular proliferation; Belongs to the TRAFAC class YlqF/YawG GTPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

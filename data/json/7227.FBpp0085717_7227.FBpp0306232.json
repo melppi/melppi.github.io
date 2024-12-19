@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 13.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0085717",
+    "proB": "FBpp0306232",
+    "geneA": "RpL11",
+    "geneB": "RpLP0",
+    "annotationA": "60S ribosomal protein L11; Component of the ribosome, a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell. The small ribosomal subunit (SSU) binds messenger RNAs (mRNAs) and translates the encoded message by selecting cognate aminoacyl- transfer RNA (tRNA) molecules. The large subunit (LSU) contains the ribosomal catalytic site termed the peptidyl transferase center (PTC), which catalyzes the formation of peptide bonds, thereby polymerizing the amino acids delivered by tRNAs into a polypeptide chain. The nascent polypeptides leave the ribosome throug [...] ",
+    "annotationB": "60S acidic ribosomal protein P0; Ribosomal protein P0 is the functional equivalent of E.coli protein L10; Belongs to the universal ribosomal protein uL10 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

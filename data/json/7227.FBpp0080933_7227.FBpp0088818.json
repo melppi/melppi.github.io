@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 21.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0080933",
+    "proB": "FBpp0088818",
+    "geneA": "bru",
+    "geneB": "Bet3",
+    "annotationA": "Protein brunelleschi; Cooperates with Rab11 and fwd/PI4K to mediate the flow of membrane through the Golgi, which is required to support cleavage furrow ingression, therefore promoting cytokinesis in male meiotic cells",
+    "annotationB": "Trafficking protein particle complex subunit; May play a role in vesicular transport from endoplasmic reticulum to Golgi",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

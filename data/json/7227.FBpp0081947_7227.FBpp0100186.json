@@ -1,0 +1,16 @@
+{
+    "pae": 16.3,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0081947",
+    "proB": "FBpp0100186",
+    "geneA": "COX5A",
+    "geneB": "mt:Cyt-b",
+    "annotationA": "Cytochrome c oxidase subunit 5A, mitochondrial; This is the heme A-containing chain of cytochrome c oxidase, the terminal oxidase in mitochondrial electron transport",
+    "annotationB": "Cytochrome b; Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex) that is part of the mitochondrial respiratory chain. The b-c1 complex mediates electron transfer from ubiquinol to cytochrome c. Contributes to the generation of a proton gradient across the mitochondrial membrane that is then used for ATP synthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

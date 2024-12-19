@@ -1,0 +1,48 @@
+{
+    "pae": 15.8,
+    "iptm": 26.2,
+    "pdockq": 0.028,
+    "proA": "FBpp0071958",
+    "proB": "FBpp0073623",
+    "geneA": "RpL22-like",
+    "geneB": "RpS15Aa",
+    "annotationA": "Ribosomal protein L22-like is a eukaryotic-specific component of the large ribosomal subunit involved in protein synthesis",
+    "annotationB": "40S ribosomal protein S15Aa; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the universal ribosomal protein uS8 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 271,
+            "end_residue_number": 272,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 62,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "271-272"
+    ],
+    "interfaceB": [
+        "60-62"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "pae": 17.2,
+    "iptm": 19.3,
+    "pdockq": 0.025,
+    "proA": "FBpp0076607",
+    "proB": "FBpp0078731",
+    "geneA": "Surf1",
+    "geneB": "CG31648",
+    "annotationA": "SURF1-like protein; Probably involved in the biogenesis of the COX complex",
+    "annotationB": "RE57459p; Copper ion binding. It is involved in the biological process described with: respiratory chain complex IV assembly",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 218,
+            "end_residue_number": 218,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 278,
+            "end_residue_number": 278,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 69,
+            "end_residue_number": 69,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 161,
+            "end_residue_number": 161,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "218-218",
+        "278-278"
+    ],
+    "interfaceB": [
+        "69-69",
+        "161-161"
+    ]
+}

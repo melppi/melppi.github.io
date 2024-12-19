@@ -1,0 +1,160 @@
+{
+    "pae": 10.8,
+    "iptm": 24.3,
+    "pdockq": 0.375,
+    "proA": "FBpp0073296",
+    "proB": "FBpp0074594",
+    "geneA": "Lint-1",
+    "geneB": "Su(var)3-3",
+    "annotationA": "L(3)mbt interacting protein 1 (Lint-1) is a nuclear protein that associates with l(3)mbt in the LINT complex. Lint-1 is involved in the repression of malignant brain tumor signature (MBTS) genes",
+    "annotationB": "Possible lysine-specific histone demethylase 1; Probable histone demethylase that specifically demethylates 'Lys-4' of histone H3, a specific tag for epigenetic transcriptional activation, thereby acting as a corepressor. Required for heterochromatic gene silencing. Acts by oxidizing the substrate by FAD to generate the corresponding imine that is subsequently hydrolyzed. Demethylates both mono- and tri- methylated 'Lys-4' of histone H3. May also demethylate 'Lys-9' of histone H3, Plays a role in the repression of neuronal genes; Belongs to the flavin monoamine oxidase family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 439,
+            "end_residue_number": 451,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 456,
+            "end_residue_number": 456,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 165,
+            "end_residue_number": 165,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 321,
+            "end_residue_number": 321,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 342,
+            "end_residue_number": 348,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 361,
+            "end_residue_number": 373,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 380,
+            "end_residue_number": 380,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 524,
+            "end_residue_number": 533,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 545,
+            "end_residue_number": 557,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 805,
+            "end_residue_number": 811,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "439-451",
+        "456-456"
+    ],
+    "interfaceB": [
+        "165-165",
+        "321-321",
+        "342-348",
+        "361-373",
+        "380-380",
+        "524-533",
+        "545-557",
+        "805-811"
+    ]
+}

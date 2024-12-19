@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 24.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0075946",
+    "proB": "FBpp0084183",
+    "geneA": "Alg10",
+    "geneB": "CG11851",
+    "annotationA": "Putative Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase; Adds the third glucose residue to the lipid-linked oligosaccharide precursor for N-linked glycosylation. Transfers glucose from dolichyl phosphate glucose (Dol-P-Glc) onto the lipid-linked oligosaccharide Glc(2)Man(9)GlcNAc(2)-PP-Dol (By similarity); Belongs to the ALG10 glucosyltransferase family",
+    "annotationB": "Mannosyltransferase activity. It is involved in the biological process described with: protein glycosylation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

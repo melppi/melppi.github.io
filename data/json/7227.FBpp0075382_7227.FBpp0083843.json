@@ -1,0 +1,16 @@
+{
+    "pae": 22.9,
+    "iptm": 13.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0075382",
+    "proB": "FBpp0083843",
+    "geneA": "Prosbeta2",
+    "geneB": "Rpt5",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "annotationB": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

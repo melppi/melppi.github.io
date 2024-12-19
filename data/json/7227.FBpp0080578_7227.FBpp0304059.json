@@ -1,0 +1,16 @@
+{
+    "pae": 24.2,
+    "iptm": 14.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0080578",
+    "proB": "FBpp0304059",
+    "geneA": "Prosbeta5R2",
+    "geneB": "Usp14",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

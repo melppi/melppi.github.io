@@ -1,0 +1,16 @@
+{
+    "pae": 25.3,
+    "iptm": 16.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0087637",
+    "proB": "FBpp0099583",
+    "geneA": "Non1",
+    "geneB": "Nop60B",
+    "annotationA": "Nucleolar GTP-binding protein 1; Involved in the biogenesis of the 60S ribosomal subunit (By similarity). Required for normal assembly of the mitotic spindle. May be involved in both centrosome- dependent and centrosome-independent spindle assembly programs",
+    "annotationB": "H/ACA ribonucleoprotein complex subunit 4; Plays a central role in ribosomal RNA processing. Probable catalytic subunit of H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex, which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine ('psi') residues may serve to stabilize the conformation of rRNAs. Required for maintenance of the germline stem cell lineage during spermatogenesis; Belongs to the pseudouridine synthase TruB family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

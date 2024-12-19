@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 12.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0078433",
+    "proB": "FBpp0084525",
+    "geneA": "RpII18",
+    "geneB": "TfIIA-L",
+    "annotationA": "DNA-directed RNA polymerases I, II, and III subunit RPABC2; DNA-dependent RNA polymerases catalyze the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I, II and III which synthesize ribosomal RNA precursors, mRNA precursors and many functional non-coding RNAs, and small RNAs, such as 5S rRNA and tRNAs, respectively. Pol II is the central component of the basal RNA polymerase II transcription machinery. Pols are composed of mobile elements that move relative to each other. In Pol II, RPB6 is part of the clamp e [...] ",
+    "annotationB": "Transcription initiation factor IIA subunit 1; TFIIA is a component of the transcription machinery of RNA polymerase II and plays an important role in transcriptional activation. TFIIA in a complex with TBP mediates transcriptional activity; Belongs to the TFIIA subunit 1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

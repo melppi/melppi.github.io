@@ -1,0 +1,90 @@
+{
+    "pae": 2.2,
+    "iptm": 71.5,
+    "pdockq": 0.249,
+    "proA": "FBpp0081262",
+    "proB": "FBpp0082819",
+    "geneA": "CG2943",
+    "geneB": "CG3678",
+    "annotationA": "ER Membrane protein Complex 1 is a subunit of the ER membrane protein complex (EMC). In fly retinas, EMC has been shown to be essential for the biosynthesis of multi-pass membrane proteins, but not for single-pass membrane proteins and secretory proteins",
+    "annotationB": "annotation not available",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 906,
+            "end_residue_number": 906,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 910,
+            "end_residue_number": 915,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 77,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 81,
+            "end_residue_number": 90,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "906-906",
+        "910-915"
+    ],
+    "interfaceB": [
+        "48-55",
+        "77-77",
+        "81-90"
+    ]
+}

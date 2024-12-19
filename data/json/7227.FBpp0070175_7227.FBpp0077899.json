@@ -1,0 +1,16 @@
+{
+    "pae": 19.8,
+    "iptm": 21.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070175",
+    "proB": "FBpp0077899",
+    "geneA": "CDC45L",
+    "geneB": "S(faf)240",
+    "annotationA": "EG:BACR7A4.11 protein; DNA binding; 3'-5' DNA helicase activity; chromatin binding. It is involved in the biological process described with: DNA amplification; DNA replication initiation; chromosome condensation; DNA replication; positive regulation of G1/S transition of mitotic cell cycle; mitotic G2 DNA damage checkpoint; neurogenesis; neuron projection morphogenesis",
+    "annotationB": "DNA primase large subunit; DNA primase is the polymerase that synthesizes small RNA primers for the Okazaki fragments made during discontinuous DNA replication. Plays a role in the fat facets (faf)-dependent cell- communications pathway; Belongs to the eukaryotic-type primase large subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

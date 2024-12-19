@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 8.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071808",
+    "proB": "FBpp0076359",
+    "geneA": "RpL23",
+    "geneB": "RpL14",
+    "annotationA": "60S ribosomal protein L23; Structural constituent of ribosome; myosin binding. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; neurogenesis; Belongs to the universal ribosomal protein uL14 family",
+    "annotationB": "Ribosomal protein L14 is a component of the large subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

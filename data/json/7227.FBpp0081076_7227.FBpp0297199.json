@@ -1,0 +1,104 @@
+{
+    "pae": 1.4,
+    "iptm": 86.3,
+    "pdockq": 0.637,
+    "proA": "FBpp0081076",
+    "proB": "FBpp0297199",
+    "geneA": "Ubc84D",
+    "geneB": "ari-1",
+    "annotationA": "Ubiquitin-conjugating enzyme E2-18 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins",
+    "annotationB": "Potential E3 ubiquitin-protein ligase ariadne-1; Might act as an E3 ubiquitin-protein ligase, or as part of E3 complex, which accepts ubiquitin from specific E2 ubiquitin- conjugating enzymes, such as UBCD10/UBE2L3, and then transfers it to substrates",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 2,
+            "end_residue_number": 13,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 59,
+            "end_residue_number": 65,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 89,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 132,
+            "end_residue_number": 139,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 154,
+            "end_residue_number": 170,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 177,
+            "end_residue_number": 185,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "2-13",
+        "59-65",
+        "89-103"
+    ],
+    "interfaceB": [
+        "132-139",
+        "154-170",
+        "177-185"
+    ]
+}

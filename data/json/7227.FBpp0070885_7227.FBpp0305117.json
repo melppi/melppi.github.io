@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 11.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070885",
+    "proB": "FBpp0305117",
+    "geneA": "ND-B16.6",
+    "geneB": "ATPsyndelta",
+    "annotationA": "NADH dehydrogenase (Ubiquinone) B16.6 subunit, isoform A; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "annotationB": "ATP synthase, delta subunit, isoform A; Proton-transporting ATP synthase activity, rotational mechanism; proton-transporting ATPase activity, rotational mechanism; hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

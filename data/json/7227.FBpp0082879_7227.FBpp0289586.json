@@ -1,0 +1,118 @@
+{
+    "pae": 12.8,
+    "iptm": 20.1,
+    "pdockq": 0.079,
+    "proA": "FBpp0082879",
+    "proB": "FBpp0289586",
+    "geneA": "CG5860",
+    "geneB": "Spn42Dd",
+    "annotationA": "CG5860; Aspartic-type endopeptidase activity. It is involved in the biological process described with: proteolysis; Belongs to the peptidase A1 family",
+    "annotationB": "Serine protease inhibitor 42Dd; Serine protease inhibitor with activity toward trypsin. Involved in innate immunity to fungal infection by negatively regulating the Toll signaling pathway and suppressing the expression of the antifungal peptide drosomycin. Acts upstream of SPE and grass, and downstream of the fungal cell wall pattern recognition receptor GNBP3. May function specifically in the GNBP3-dependent beta-1,3-glucan branch of the Toll pathway",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 80,
+            "end_residue_number": 85,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 131,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 172,
+            "end_residue_number": 172,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 262,
+            "end_residue_number": 269,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 336,
+            "end_residue_number": 336,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 347,
+            "end_residue_number": 347,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 338,
+            "end_residue_number": 343,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "80-85",
+        "131-131",
+        "172-172",
+        "262-269",
+        "336-336",
+        "347-347"
+    ],
+    "interfaceB": [
+        "338-343"
+    ]
+}

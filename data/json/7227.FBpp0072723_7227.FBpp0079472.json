@@ -1,0 +1,16 @@
+{
+    "pae": 25.2,
+    "iptm": 13.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0072723",
+    "proB": "FBpp0079472",
+    "geneA": "SCOT",
+    "geneB": "yip2",
+    "annotationA": "Succinyl-CoA:3-ketoacid-coenzyme A transferase, mitochondrial; Key enzyme for ketone body catabolism. Transfers the CoA moiety from succinate to acetoacetate. Formation of the enzyme-CoA intermediate proceeds via an unstable anhydride species formed between the carboxylate groups of the enzyme and substrate (By similarity); Belongs to the 3-oxoacid CoA-transferase family",
+    "annotationB": "Yippee interacting protein 2; acetyl-CoA C-acyltransferase activity. It is involved in the biological process described with: fatty acid beta-oxidation; Belongs to the thiolase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

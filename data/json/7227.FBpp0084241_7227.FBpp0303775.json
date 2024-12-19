@@ -1,0 +1,16 @@
+{
+    "pae": 19.8,
+    "iptm": 23.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0084241",
+    "proB": "FBpp0303775",
+    "geneA": "CG10425",
+    "geneB": "CDase",
+    "annotationA": "LD07939p; Oxidoreductase activity. It is involved in the biological process described with: metabolic process",
+    "annotationB": "Neutral ceramidase; Hydrolyzes the sphingolipid ceramide into sphingosine and free fatty acid at an optimal pH of 6.5-7.5. Acts as a key regulator of sphingolipid signaling metabolites by generating sphingosine at the cell surface. Regulates synaptic vesicle exocytosis and trafficking by controlling presynaptic terminal sphingolipid composition; Belongs to the neutral ceramidase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

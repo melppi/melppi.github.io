@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 16.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0079769",
+    "proB": "FBpp0301731",
+    "geneA": "aurB",
+    "geneB": "lwr",
+    "annotationA": "Aurora B (AurB) is a serine-threonine kinase and member of the chromosomal passenger complex. AurB plays multiple roles in mitosis including the correction of erroneous chromosome-spindle interactions, chromosome condensation, kinetochore assembly, spindle assembly checkpoint and cytokinesis; Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Aurora subfamily",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

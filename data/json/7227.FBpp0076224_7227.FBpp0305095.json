@@ -1,0 +1,16 @@
+{
+    "pae": 18.7,
+    "iptm": 20.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0076224",
+    "proB": "FBpp0305095",
+    "geneA": "Hsp26",
+    "geneB": "Hsp83",
+    "annotationA": "Heat shock protein 26; Myosin binding. It is involved in the biological process described with: cold acclimation; response to heat; determination of adult lifespan; Belongs to the small heat shock protein (HSP20) family",
+    "annotationB": "Heat shock protein 83; Molecular chaperone that promotes the maturation, structural maintenance and proper regulation of specific target proteins involved for instance in cell cycle control and signal transduction. Undergoes a functional cycle that is linked to its ATPase activity. This cycle probably induces conformational changes in the client proteins, thereby causing their activation. Interacts dynamically with various co-chaperones that modulate its substrate recognition, ATPase cycle and chaperone function. Together with Hop and piwi, mediates canalization, also known as developm [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

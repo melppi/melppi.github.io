@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 25.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0082973",
+    "proB": "FBpp0304617",
+    "geneA": "Cbp20",
+    "geneB": "CG2807",
+    "annotationA": "Nuclear cap-binding protein subunit 2; Component of the cap-binding complex (CBC), which binds co-transcriptionally to the 5' cap of pre-mRNAs and is involved in various processes such as pre-mRNA splicing and RNA-mediated gene silencing (RNAi). The CBC complex is involved in miRNA-mediated RNA interference via its interaction with Ars2 and is required for primary microRNAs (miRNAs) processing. Also involved in innate immunity via the short interfering RNAs (siRNAs) processing machinery by restricting the viral RNA production. In the CBC complex, Cbp20 recognizes and binds capped RNAs  [...] ",
+    "annotationB": "CG2807, isoform A; It is involved in the biological process described with: mRNA splicing, via spliceosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

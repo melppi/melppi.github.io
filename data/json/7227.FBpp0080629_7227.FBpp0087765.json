@@ -1,0 +1,118 @@
+{
+    "pae": 6.9,
+    "iptm": 33.1,
+    "pdockq": 0.132,
+    "proA": "FBpp0080629",
+    "proB": "FBpp0087765",
+    "geneA": "Atac2",
+    "geneB": "MrgBP",
+    "annotationA": "Ada2a-containing complex component 2; H2A histone acetyltransferase activity; zinc ion binding; H4 histone acetyltransferase activity; histone acetyltransferase activity. It is involved in the biological process described with: intestinal stem cell homeostasis; chromatin remodeling; positive regulation of histone H4-K16 acetylation; histone H2A acetylation; histone acetylation; histone H4 acetylation",
+    "annotationB": "MRG/MORF4L binding protein; It is involved in the biological process described with: regulation of transcription, DNA-templated; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 469,
+            "end_residue_number": 469,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 477,
+            "end_residue_number": 477,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 507,
+            "end_residue_number": 516,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 533,
+            "end_residue_number": 533,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 537,
+            "end_residue_number": 537,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 24,
+            "end_residue_number": 31,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 74,
+            "end_residue_number": 87,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "469-469",
+        "477-477",
+        "507-516",
+        "533-533",
+        "537-537"
+    ],
+    "interfaceB": [
+        "24-31",
+        "74-87"
+    ]
+}

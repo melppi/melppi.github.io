@@ -1,0 +1,16 @@
+{
+    "pae": 24.5,
+    "iptm": 13.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0076200",
+    "proB": "FBpp0083843",
+    "geneA": "Uch-L5",
+    "geneB": "Rpt5",
+    "annotationA": "Ubiquitin carboxyl-terminal hydrolase; Ubiquitin-specific protease activity; omega peptidase activity; endopeptidase activity. It is involved in the biological process described with: protein deubiquitination; proteasome-mediated ubiquitin-dependent protein catabolic process; neurogenesis",
+    "annotationB": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.5,
+    "iptm": 24.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0076464",
+    "proB": "FBpp0083695",
+    "geneA": "eIF4E-5",
+    "geneB": "Nup133",
+    "annotationA": "CG8277-PA; Protein binding; RNA 7-methylguanosine cap binding; eukaryotic initiation factor 4G binding; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation; autophagic cell death; salivary gland cell autophagic cell death",
+    "annotationB": "Nuclear pore complex protein Nup133; Probable component of the nuclear pore complex (NPC) (Probable). Plays a role in NPC assembly and/or maintenance",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

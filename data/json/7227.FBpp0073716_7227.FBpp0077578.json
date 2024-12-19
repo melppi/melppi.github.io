@@ -1,0 +1,62 @@
+{
+    "pae": 13.3,
+    "iptm": 26.7,
+    "pdockq": 0.04,
+    "proA": "FBpp0073716",
+    "proB": "FBpp0077578",
+    "geneA": "CG11590",
+    "geneB": "CG17660",
+    "annotationA": "FI09726p; It is involved in the biological process described with: response to metal ion",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 117,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 181,
+            "end_residue_number": 185,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 147,
+            "end_residue_number": 149,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "117-118",
+        "181-185"
+    ],
+    "interfaceB": [
+        "147-149"
+    ]
+}

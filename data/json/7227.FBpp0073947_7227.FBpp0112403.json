@@ -1,0 +1,104 @@
+{
+    "pae": 8.8,
+    "iptm": 23.1,
+    "pdockq": 0.109,
+    "proA": "FBpp0073947",
+    "proB": "FBpp0112403",
+    "geneA": "eIF5",
+    "geneB": "eIF-4B",
+    "annotationA": "Eukaryotic translation initiation factor 5; Catalyzes the hydrolysis of GTP bound to the 40S ribosomal initiation complex (40S.mRNA.Met-tRNA[F].eIF-2.GTP) with the subsequent joining of a 60S ribosomal subunit resulting in the release of eIF-2 and the guanine nucleotide. The subsequent joining of a 60S ribosomal subunit results in the formation of a functional 80S initiation complex (80S.mRNA.Met-tRNA[F]) (By similarity)",
+    "annotationB": "mRNA binding; translation initiation factor activity; nucleotide binding. It is involved in the biological process described with: translational initiation; positive regulation of JAK-STAT cascade; cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 320,
+            "end_residue_number": 320,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 329,
+            "end_residue_number": 329,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 364,
+            "end_residue_number": 371,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 375,
+            "end_residue_number": 375,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 404,
+            "end_residue_number": 413,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 3,
+            "end_residue_number": 12,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "320-320",
+        "329-329",
+        "364-371",
+        "375-375",
+        "404-413"
+    ],
+    "interfaceB": [
+        "3-12"
+    ]
+}

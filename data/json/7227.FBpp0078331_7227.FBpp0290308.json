@@ -1,0 +1,16 @@
+{
+    "pae": 26.2,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0078331",
+    "proB": "FBpp0290308",
+    "geneA": "Snr1",
+    "geneB": "Ir40a",
+    "annotationA": "Snf5-related 1; Protein binding; SET domain binding; transcription coactivator activity",
+    "annotationB": "Ionotropic receptor 40a; Integral part of a neural sensory system in the antenna that provides the neural basis for the response to environmental changes in humidity (hygrosensation). Together with Ir25a and Ir93a, mediates the response of the hygrosensory sacculus neurons to changes in relative humidity and is required for dry detection behavior; Belongs to the glutamate-gated ion channel (TC 1.A.10.1) family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,90 @@
+{
+    "pae": 15.8,
+    "iptm": 38.4,
+    "pdockq": 0.031,
+    "proA": "FBpp0073328",
+    "proB": "FBpp0079710",
+    "geneA": "Ran",
+    "geneB": "Nup107",
+    "annotationA": "GTP-binding nuclear protein Ran; GTPase involved in nucleocytoplasmic transport, participating both to the import and the export from the nucleus of proteins and RNAs. Switches between a cytoplasmic GDP- and a nuclear GTP-bound state by nucleotide exchange and GTP hydrolysis. Nuclear import receptors such as importin beta bind their substrates only in the absence of GTP-bound Ran and release them upon direct interaction with GTP-bound Ran while export receptors behave in the opposite way. Thereby, RAN controls cargo loading and release by transport receptors in the proper compartment a [...] ",
+    "annotationB": "Nuclear pore complex protein Nup107; Plays a role in nuclear pore complex (NPC) assembly and maintenance. Required for nuclear import of Mad. Plays a role in double strand break repair by relocalizing the heterochromatic double strain breaks (DSBs) to the nuclear periphery as part of the homologous recombination (HR) repair process. Regulates cytokinesis during spermatocyte meiosis by maintaining type-B lamin Lam localization to the spindle envelope. Regulates female gonad development and oogenesis; Belongs to the nucleoporin Nup84/Nup107 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 72,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 177,
+            "end_residue_number": 177,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 181,
+            "end_residue_number": 181,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 373,
+            "end_residue_number": 373,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 402,
+            "end_residue_number": 402,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "72-72"
+    ],
+    "interfaceB": [
+        "177-177",
+        "181-181",
+        "373-373",
+        "402-402"
+    ]
+}

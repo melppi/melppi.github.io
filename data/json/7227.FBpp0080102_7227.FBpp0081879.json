@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 7.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0080102",
+    "proB": "FBpp0081879",
+    "geneA": "RpL24",
+    "geneB": "RpL24-like",
+    "annotationA": "60S ribosomal protein L24; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL24 family",
+    "annotationB": "Probable ribosome biogenesis protein RLP24; Involved in the biogenesis of the 60S ribosomal subunit. Ensures the docking of NOG1 to pre-60S particles (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

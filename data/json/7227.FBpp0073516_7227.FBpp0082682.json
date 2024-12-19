@@ -1,0 +1,160 @@
+{
+    "pae": 9.6,
+    "iptm": 33.3,
+    "pdockq": 0.293,
+    "proA": "FBpp0073516",
+    "proB": "FBpp0082682",
+    "geneA": "Tis11",
+    "geneB": "Akt1",
+    "annotationA": "Tis11 zinc finger protein (Tis11) is a protein with three splice isoforms, all of which have the major attributes of members of the tristetraprolin (TTP) family of RNA binding and destabilizing proteins. Tis11 knockout and knock-down flies exhibit relatively minor delays in eclosion associated with accumulation of many putative mRNA targets",
+    "annotationB": "RAC serine/threonine-protein kinase; Serine/threonine kinase involved in various developmental processes. During early embryogenesis, acts as a survival protein. During mid-embryogenesis, phosphorylates and activates trh, a transcription factor required for tracheal cell fate determination. Also regulates tracheal cell migration. Later in development, acts downstream of PI3K and Pk61C/PDK1 in the insulin receptor transduction pathway which regulates cell growth and organ size, by phosphorylating and antagonizing FOXO transcription factor. Controls follicle cell size during oogenesis. M [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 113,
+            "end_residue_number": 125,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 276,
+            "end_residue_number": 276,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 305,
+            "end_residue_number": 305,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 350,
+            "end_residue_number": 359,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 389,
+            "end_residue_number": 393,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 427,
+            "end_residue_number": 430,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 455,
+            "end_residue_number": 456,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 460,
+            "end_residue_number": 469,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 482,
+            "end_residue_number": 482,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 552,
+            "end_residue_number": 557,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "113-125"
+    ],
+    "interfaceB": [
+        "276-276",
+        "305-305",
+        "350-359",
+        "389-393",
+        "427-430",
+        "455-456",
+        "460-469",
+        "482-482",
+        "552-557"
+    ]
+}

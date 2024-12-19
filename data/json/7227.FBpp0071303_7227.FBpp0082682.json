@@ -1,0 +1,76 @@
+{
+    "pae": 14.4,
+    "iptm": 32.6,
+    "pdockq": 0.079,
+    "proA": "FBpp0071303",
+    "proB": "FBpp0082682",
+    "geneA": "Lst8",
+    "geneB": "Akt1",
+    "annotationA": "Protein LST8 homolog; Subunit of TORC1 and TORC2, which regulate cell growth and survival in response to nutrient and hormonal signals. Essential for TORC2-mediated regulation of cell growth and phosphorylation of Akt1. However it is not required for TORC1-mediated functions such as TORC1-dependent regulation of cell growth, autophagy and phosphorylation of S6K; Belongs to the WD repeat LST8 family",
+    "annotationB": "RAC serine/threonine-protein kinase; Serine/threonine kinase involved in various developmental processes. During early embryogenesis, acts as a survival protein. During mid-embryogenesis, phosphorylates and activates trh, a transcription factor required for tracheal cell fate determination. Also regulates tracheal cell migration. Later in development, acts downstream of PI3K and Pk61C/PDK1 in the insulin receptor transduction pathway which regulates cell growth and organ size, by phosphorylating and antagonizing FOXO transcription factor. Controls follicle cell size during oogenesis. M [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 158,
+            "end_residue_number": 163,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 190,
+            "end_residue_number": 192,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 205,
+            "end_residue_number": 208,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 65,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "158-163",
+        "190-192",
+        "205-208"
+    ],
+    "interfaceB": [
+        "65-67"
+    ]
+}

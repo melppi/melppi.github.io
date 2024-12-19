@@ -1,0 +1,16 @@
+{
+    "pae": 20.6,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0083843",
+    "proB": "FBpp0085104",
+    "geneA": "Rpt5",
+    "geneB": "dco",
+    "annotationA": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "annotationB": "Discs overgrown protein kinase; Involved in circadian rhythms, viability and molecular oscillations of the clock genes period (per) and timeless (tim). Dbt reduces the stability and thus the accumulation of monomeric per proteins, probably through phosphorylation. No evident circadian oscillation is detected in head. Together with CkIalpha, regulates processing of ci by phosphorylating it which promotes its binding to slmb, the F-box recognition component of the SCF(slmb) E3 ubiquitin-protein ligase; Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein k [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 25.7,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0071217",
+    "proB": "FBpp0075302",
+    "geneA": "l(1)G0020",
+    "geneB": "CG7275",
+    "annotationA": "RNA cytidine acetyltransferase; RNA cytidine acetyltransferase with specificity toward both 18S rRNA and tRNAs. Catalyzes the formation of N(4)- acetylcytidine (ac4C) in 18S rRNA. Required for early nucleolar cleavages of precursor rRNA at sites A0, A1 and A2 during 18S rRNA synthesis. Catalyzes the formation of ac4C in serine and leucine tRNAs. Requires a tRNA-binding adapter protein for full tRNA acetyltransferase activity but not for 18S rRNA acetylation (Probable). Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the t [...] ",
+    "annotationB": "LD28275p; It is involved in the biological process described with: phagocytosis; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

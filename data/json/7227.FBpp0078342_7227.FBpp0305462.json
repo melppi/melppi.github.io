@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 23.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0078342",
+    "proB": "FBpp0305462",
+    "geneA": "Rheb",
+    "geneB": "S6k",
+    "annotationA": "GTP-binding protein Rheb homolog; Binds GTP and exhibits intrinsic GTPase activity (By similarity). Activates the protein kinase activity of TORC1, and thereby plays a role in the regulation of apoptosis. Stimulates the phosphorylation of S6K through activation of TORC1 signaling. May also have a role in activating TORC2 signaling",
+    "annotationB": "ATP binding; protein binding; ribosomal protein S6 kinase activity; protein serine/threonine kinase activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

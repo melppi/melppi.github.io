@@ -1,0 +1,16 @@
+{
+    "pae": 25.7,
+    "iptm": 18.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0073035",
+    "proB": "FBpp0304246",
+    "geneA": "Ubi-p63E",
+    "geneB": "CG8786",
+    "annotationA": "Polyubiquitin; Ubiquitin exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involved in protein degradatio [...] ",
+    "annotationB": "CG8786, isoform C; Ubiquitin-protein transferase activity; zinc ion binding; poly-ADP-D-ribose binding. It is involved in the biological process described with: protein destabilization; protein ubiquitination involved in ubiquitin-dependent protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,104 @@
+{
+    "pae": 1.4,
+    "iptm": 67.5,
+    "pdockq": 0.563,
+    "proA": "FBpp0071087",
+    "proB": "FBpp0076424",
+    "geneA": "RpS6",
+    "geneB": "eIF4E-3",
+    "annotationA": "40S ribosomal protein S6; May play an important role in controlling cell growth and proliferation through the selective translation of particular classes of mRNA",
+    "annotationB": "Eukaryotic translation initiation factor 4E-3 (eIF4E-3) binds the 7-methyl-guanosine cap structure of mRNA. It is a component of the eIF4F cap-binding complex that is essential for cap-dependent translation of mRNA. eIF4E-3 is primarily expressed in testes and is required for male fertility, but not for viability",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 199,
+            "end_residue_number": 218,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 67,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 99,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 160,
+            "end_residue_number": 170,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 214,
+            "end_residue_number": 214,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "199-218"
+    ],
+    "interfaceB": [
+        "60-63",
+        "67-70",
+        "99-109",
+        "160-170",
+        "214-214"
+    ]
+}

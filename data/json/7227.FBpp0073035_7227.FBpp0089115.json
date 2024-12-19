@@ -1,0 +1,16 @@
+{
+    "pae": 24.4,
+    "iptm": 22.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0073035",
+    "proB": "FBpp0089115",
+    "geneA": "Ubi-p63E",
+    "geneB": "gro",
+    "annotationA": "Polyubiquitin; Ubiquitin exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involved in protein degradatio [...] ",
+    "annotationB": "Groucho (Gro) is a global developmental co-repressor in conjunction with manifold DNA-binding repressor partner proteins, which tether it to target promoters. Groucho functions downstream of key signaling pathways such as Wg/Wnt and Dpp/TGF-beta. Notably, phosphorylation of Gro in response to MAPK activation weakens its repressor capacity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

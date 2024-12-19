@@ -1,0 +1,16 @@
+{
+    "pae": 21.3,
+    "iptm": 19.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0086795",
+    "proB": "FBpp0292999",
+    "geneA": "Roe1",
+    "geneB": "Hsc70Cb",
+    "annotationA": "GrpE protein homolog, mitochondrial; Essential component of the PAM complex, a complex required for the translocation of transit peptide-containing proteins from the inner membrane into the mitochondrial matrix in an ATP-dependent manner. Seems to control the nucleotide-dependent binding of mitochondrial HSP70 to substrate proteins (By similarity)",
+    "annotationB": "Hsc70Cb, isoform G; Hsc70Cb is an HSP110 family protein, and interacts physically with DnaJ-1 as a chaperone of misfolded proteins. Hsc70Cb functions together with DnaJ-1 to prevent the toxicity of aggregation-prone proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

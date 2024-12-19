@@ -1,0 +1,118 @@
+{
+    "pae": 16.2,
+    "iptm": 24.0,
+    "pdockq": 0.074,
+    "proA": "FBpp0079310",
+    "proB": "FBpp0086267",
+    "geneA": "fu12",
+    "geneB": "CG8311",
+    "annotationA": "1-acylglycerol-3-phosphate O-acyltransferase activity. It is involved in the biological process described with: phospholipid biosynthetic process; behavioral response to ethanol",
+    "annotationB": "CG8311; Dolichol kinase activity. It is involved in the biological process described with: dolichyl monophosphate biosynthetic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 40,
+            "end_residue_number": 43,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 128,
+            "end_residue_number": 128,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 66,
+            "end_residue_number": 66,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 472,
+            "end_residue_number": 472,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 476,
+            "end_residue_number": 480,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 495,
+            "end_residue_number": 495,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 499,
+            "end_residue_number": 499,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "40-43",
+        "128-128"
+    ],
+    "interfaceB": [
+        "66-66",
+        "472-472",
+        "476-480",
+        "495-495",
+        "499-499"
+    ]
+}

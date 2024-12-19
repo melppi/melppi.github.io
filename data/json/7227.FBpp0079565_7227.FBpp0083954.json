@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 25.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0079565",
+    "proB": "FBpp0083954",
+    "geneA": "me31B",
+    "geneB": "twin",
+    "annotationA": "Putative ATP-dependent RNA helicase me31b; Unwinds RNA in an ATP-dependent fashion (Potential). Involved in germ cell formation",
+    "annotationB": "Twin, isoform C; Protein binding. It is involved in the biological process described with: mRNA catabolic process; oogenesis; nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay; regulation of transcription from RNA polymerase II promoter; female germ-line stem cell asymmetric division; nuclear-transcribed mRNA poly(A) tail shortening; negative regulation of translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

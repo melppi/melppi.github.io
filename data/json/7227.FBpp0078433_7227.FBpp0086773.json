@@ -1,0 +1,16 @@
+{
+    "pae": 16.1,
+    "iptm": 26.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078433",
+    "proB": "FBpp0086773",
+    "geneA": "RpII18",
+    "geneB": "fl(2)d",
+    "annotationA": "DNA-directed RNA polymerases I, II, and III subunit RPABC2; DNA-dependent RNA polymerases catalyze the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I, II and III which synthesize ribosomal RNA precursors, mRNA precursors and many functional non-coding RNAs, and small RNAs, such as 5S rRNA and tRNAs, respectively. Pol II is the central component of the basal RNA polymerase II transcription machinery. Pols are composed of mobile elements that move relative to each other. In Pol II, RPB6 is part of the clamp e [...] ",
+    "annotationB": "Pre-mRNA-splicing regulator female-lethal(2)D; Required for male and female viability, sex determination and dosage compensation. Involved in the female- specific splicing of Sxl transcripts. Required for proper inclusion of regulated exons in Ubx transcripts, leading to isoforms Ia/b and IIa/b; Belongs to the fl(2)d family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

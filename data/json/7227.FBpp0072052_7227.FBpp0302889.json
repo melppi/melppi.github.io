@@ -1,0 +1,16 @@
+{
+    "pae": 19.8,
+    "iptm": 26.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0072052",
+    "proB": "FBpp0302889",
+    "geneA": "Galphas",
+    "geneB": "Epac",
+    "annotationA": "G protein alpha s subunit; Guanine nucleotide-binding proteins (G proteins) are involved as modulators or transducers in various transmembrane signaling systems. The G(s) protein is involved in hormonal regulation of adenylate cyclase: it activates the cyclase (By similarity); Belongs to the G-alpha family. G(s) subfamily",
+    "annotationB": "Exchange protein directly activated by cAMP ortholog, isoform E; Cyclic nucleotide-dependent guanyl-nucleotide exchange factor activity; cAMP-dependent protein kinase regulator activity; Rap guanyl-nucleotide exchange factor activity. It is involved in the biological process described with: regulation of protein phosphorylation; regulation of Rap protein signal transduction",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

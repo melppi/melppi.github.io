@@ -1,0 +1,48 @@
+{
+    "pae": 10.2,
+    "iptm": 31.0,
+    "pdockq": 0.046,
+    "proA": "FBpp0076789",
+    "proB": "FBpp0080967",
+    "geneA": "DNApol-epsilon58",
+    "geneB": "RPA2",
+    "annotationA": "DNA polymerase epsilon subunit; Participates in DNA repair and in chromosomal DNA replication",
+    "annotationB": "Replication protein A2, isoform A; DNA binding. It is involved in the biological process described with: DNA recombination; DNA repair; DNA-dependent DNA replication; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 116,
+            "end_residue_number": 119,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 128,
+            "end_residue_number": 133,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "116-119"
+    ],
+    "interfaceB": [
+        "128-133"
+    ]
+}

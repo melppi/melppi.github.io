@@ -1,0 +1,48 @@
+{
+    "pae": 16.1,
+    "iptm": 16.2,
+    "pdockq": 0.024,
+    "proA": "FBpp0083376",
+    "proB": "FBpp0085585",
+    "geneA": "RpS30",
+    "geneB": "RpS18",
+    "annotationA": "40S ribosomal protein S30; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eS30 family",
+    "annotationB": "40S ribosomal protein S18; Located at the top of the head of the 40S subunit, it contacts several helices of the 18S rRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 124,
+            "end_residue_number": 124,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 115,
+            "end_residue_number": 115,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "124-124"
+    ],
+    "interfaceB": [
+        "115-115"
+    ]
+}

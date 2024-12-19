@@ -1,0 +1,16 @@
+{
+    "pae": 17.3,
+    "iptm": 15.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0077941",
+    "proB": "FBpp0078591",
+    "geneA": "kni",
+    "geneB": "hkb",
+    "annotationA": "Zygotic gap protein knirps; Transcriptional repressor. Binds to multiple sites in the eve stripe 3 enhancer element. Plays an essential role in the segmentation process both by refining the expression patterns of gap genes and by establishing pair-rules stripes of gene expression",
+    "annotationB": "Huckebein is expressed in patches within the embryonic neuroectoderm and a subset of neuroblasts and their progeny, where it is required for proper neuronal specification and axon targeting. It is a terminal gap gene mediating the maternal terminal information at the posterior end of the blastoderm embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

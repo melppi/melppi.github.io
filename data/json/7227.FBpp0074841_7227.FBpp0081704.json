@@ -1,0 +1,16 @@
+{
+    "pae": 26.3,
+    "iptm": 15.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0074841",
+    "proB": "FBpp0081704",
+    "geneA": "CSN1b",
+    "geneB": "pont",
+    "annotationA": "COP9 signalosome complex subunit 1b; Essential component of the COP9 signalosome complex (CSN), a complex involved in various cellular and developmental processes. The CSN complex is an essential regulator of the ubiquitin (Ubl) conjugation pathway by mediating the deneddylation of the cullin subunits of the SCF-type E3 ligase complexes, leading to decrease the Ubl ligase activity of SCF. The CSN complex plays an essential role in oogenesis and embryogenesis and is required for proper photoreceptor R cell differentiation and promote lamina glial cell migration or axon targeting. It als [...] ",
+    "annotationB": "RuvB-like helicase 1; Acts as a transcriptional coactivator in Wg signaling caused by altered arm signaling. Pont and rept interfere antagonistically with nuclear arm signaling function, and are required to enhance or reduce arm activity, respectively. Also an essential cofactor for the normal function of Myc; required for cellular proliferation and growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

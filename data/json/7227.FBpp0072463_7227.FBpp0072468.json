@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072463",
+    "proB": "FBpp0072468",
+    "geneA": "Cypl",
+    "geneB": "Cdc5",
+    "annotationA": "Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides",
+    "annotationB": "Cell division cycle 5, isoform A; DNA binding; chromatin binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; centrosome duplication",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

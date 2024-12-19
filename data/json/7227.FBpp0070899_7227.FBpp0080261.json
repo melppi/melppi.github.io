@@ -1,0 +1,132 @@
+{
+    "pae": 5.6,
+    "iptm": 46.0,
+    "pdockq": 0.471,
+    "proA": "FBpp0070899",
+    "proB": "FBpp0080261",
+    "geneA": "schlank",
+    "geneB": "Su(H)",
+    "annotationA": "Schlank, isoform A; Schlank is a member of the Ceramide Synthases family involved in sphingolipid metabolism. It is essential for ceramide synthesis and modulates triacylglycerol levels and transcriptional expression of body fat metabolism regulators",
+    "annotationB": "Suppressor of hairless protein; Transcriptional regulator that plays a central role in Notch signaling, a signaling pathway involved in cell-cell communication that regulates a broad spectrum of cell-fate determinations. Binds directly the 5'-GTGRGAR-3' DNA consensus sequence, which is present in the regulatory region of several genes. Required for neurogenesis in imaginal disks. Acts as a transcriptional repressor when it is not associated with Notch proteins. When associated with some Notch protein, it acts as a transcriptional activator that activates transcription of Notch target g [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 384,
+            "end_residue_number": 400,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 282,
+            "end_residue_number": 284,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 297,
+            "end_residue_number": 297,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 305,
+            "end_residue_number": 312,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 323,
+            "end_residue_number": 325,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 330,
+            "end_residue_number": 334,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 364,
+            "end_residue_number": 383,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 397,
+            "end_residue_number": 397,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "384-400"
+    ],
+    "interfaceB": [
+        "282-284",
+        "297-297",
+        "305-312",
+        "323-325",
+        "330-334",
+        "364-383",
+        "397-397"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0079536",
+    "proB": "FBpp0305165",
+    "geneA": "RpL7",
+    "geneB": "Ef1beta",
+    "annotationA": "60S ribosomal protein L7; Binds to G-rich structures in 28S rRNA and in mRNAs. Plays a regulatory role in the translation apparatus; inhibits cell-free translation of mRNAs (By similarity)",
+    "annotationB": "Probable elongation factor 1-beta; EF-1-beta and EF-1-delta stimulate the exchange of GDP bound to EF-1-alpha to GTP",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

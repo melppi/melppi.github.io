@@ -1,0 +1,48 @@
+{
+    "pae": 17.7,
+    "iptm": 22.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0082879",
+    "proB": "FBpp0085060",
+    "geneA": "CG5860",
+    "geneB": "Spn100A",
+    "annotationA": "CG5860; Aspartic-type endopeptidase activity. It is involved in the biological process described with: proteolysis; Belongs to the peptidase A1 family",
+    "annotationB": "Serpin 100A; Serine-type endopeptidase inhibitor activity. It is involved in the biological process described with: multicellular organism reproduction; negative regulation of endopeptidase activity; regulation of proteolysis; Belongs to the serpin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 85,
+            "end_residue_number": 85,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 355,
+            "end_residue_number": 355,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "85-85"
+    ],
+    "interfaceB": [
+        "355-355"
+    ]
+}

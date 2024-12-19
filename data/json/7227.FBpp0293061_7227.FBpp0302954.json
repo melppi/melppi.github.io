@@ -1,0 +1,90 @@
+{
+    "pae": 2.4,
+    "iptm": 36.0,
+    "pdockq": 0.316,
+    "proA": "FBpp0293061",
+    "proB": "FBpp0302954",
+    "geneA": "SmB",
+    "geneB": "Smn",
+    "annotationA": "Small ribonucleoprotein particle protein SmB (SmB) is an RNA binding protein that forms a heterodimeric sub-complex with SmD3. They function as part of the heteroheptameric ring complex Sm core, which is involved in the formation of spliceosomal small nuclear RNPs (U1, U2, U4 and U5), which together catalyze pre-mRNA splicing; Belongs to the snRNP SmB/SmN family",
+    "annotationB": "Survival motor neuron protein; The SMN complex plays an essential role in spliceosomal snRNP assembly in the cytoplasm, is required for pre-mRNA splicing in the nucleus and acts as a chaperone that discriminates target and non-target RNAs of Sm proteins. Required for normal expression of spliceosomal snRNAs and for U12 intron splicing. Required in cholinergic neurons, but not in motor neurons, to ensure correct splicing and proper levels of stas mRNA and normal neurotransmitter release by motor neurons. However, Smn is required in motor neurons, but not in cholinergic neurons, for norm [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 53,
+            "end_residue_number": 62,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 80,
+            "end_residue_number": 86,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 104,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 130,
+            "end_residue_number": 130,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 134,
+            "end_residue_number": 147,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "53-62"
+    ],
+    "interfaceB": [
+        "80-86",
+        "104-109",
+        "130-130",
+        "134-147"
+    ]
+}

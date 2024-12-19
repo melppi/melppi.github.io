@@ -1,0 +1,16 @@
+{
+    "pae": 26.1,
+    "iptm": 17.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0088033",
+    "proB": "FBpp0291495",
+    "geneA": "Orc1",
+    "geneB": "Rpn3",
+    "annotationA": "Origin recognition complex subunit 1 (Orc1) is the largest subunit of the Origin Recognition Complex (ORC), which is essential for the initiation of DNA replication in eukaryotic cells. The ATPase activity of Orc1 is critical for the formation and function of the pre-replicative complex. The regulated degradation of Orc1 by ubiquitin-mediated proteolysis after initiation of DNA replication helps to prevent re-replication",
+    "annotationB": "Probable 26S proteasome non-ATPase regulatory subunit 3; Acts as a regulatory subunit of the 26 proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

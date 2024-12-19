@@ -1,0 +1,16 @@
+{
+    "pae": 17.3,
+    "iptm": 20.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0075952",
+    "proB": "FBpp0078984",
+    "geneA": "Ufd1-like",
+    "geneB": "smt3",
+    "annotationA": "Ubiquitin fusion degradation protein 1 homolog; Functions at a post-ubiquitation step in the ubiquitin fusion degradation (UFD) pathway",
+    "annotationB": "Small ubiquitin-related modifier; Smt3 is the only Drosophila SUMO family protein. It is required for embryonic patterning and mitosis. It may also have roles in wing patterning, Dpp signaling, and Ras/MAPK signaling. It localizes to the nucleus during interphase  and to the kinetochores and midbodies during mitosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

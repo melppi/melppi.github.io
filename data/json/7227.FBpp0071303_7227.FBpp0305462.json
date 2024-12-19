@@ -1,0 +1,48 @@
+{
+    "pae": 15.7,
+    "iptm": 28.4,
+    "pdockq": 0.025,
+    "proA": "FBpp0071303",
+    "proB": "FBpp0305462",
+    "geneA": "Lst8",
+    "geneB": "S6k",
+    "annotationA": "Protein LST8 homolog; Subunit of TORC1 and TORC2, which regulate cell growth and survival in response to nutrient and hormonal signals. Essential for TORC2-mediated regulation of cell growth and phosphorylation of Akt1. However it is not required for TORC1-mediated functions such as TORC1-dependent regulation of cell growth, autophagy and phosphorylation of S6K; Belongs to the WD repeat LST8 family",
+    "annotationB": "ATP binding; protein binding; ribosomal protein S6 kinase activity; protein serine/threonine kinase activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 207,
+            "end_residue_number": 208,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 435,
+            "end_residue_number": 435,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "207-208"
+    ],
+    "interfaceB": [
+        "435-435"
+    ]
+}

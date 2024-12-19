@@ -1,0 +1,118 @@
+{
+    "pae": 1.8,
+    "iptm": 31.8,
+    "pdockq": 0.511,
+    "proA": "FBpp0077353",
+    "proB": "FBpp0078400",
+    "geneA": "CG3605",
+    "geneB": "noi",
+    "annotationA": "CG3605, isoform A; It is involved in the biological process described with: mRNA splicing, via spliceosome",
+    "annotationB": "Splicing factor 3A subunit 3; Probable subunit of a splicing factor complex required for 'A' complex assembly formed by the stable binding of U2 snRNP to the branchpoint sequence (BPS) in pre-mRNA (By similarity). Involved in male fertility; Belongs to the SF3A3 family",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 311,
+            "end_residue_number": 327,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 357,
+            "end_residue_number": 357,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 401,
+            "end_residue_number": 401,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 408,
+            "end_residue_number": 408,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 421,
+            "end_residue_number": 425,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 446,
+            "end_residue_number": 467,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 471,
+            "end_residue_number": 471,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "311-327",
+        "357-357"
+    ],
+    "interfaceB": [
+        "401-401",
+        "408-408",
+        "421-425",
+        "446-467",
+        "471-471"
+    ]
+}

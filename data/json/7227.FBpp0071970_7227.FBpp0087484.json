@@ -1,0 +1,48 @@
+{
+    "pae": 7.5,
+    "iptm": 27.7,
+    "pdockq": 0.08,
+    "proA": "FBpp0071970",
+    "proB": "FBpp0087484",
+    "geneA": "levy",
+    "geneB": "COX7C",
+    "annotationA": "Levy, isoform A; Enzyme regulator activity; cytochrome-c oxidase activity. It is involved in the biological process described with: determination of adult lifespan; mitochondrial electron transport, cytochrome c to oxygen",
+    "annotationB": "Cytochrome-c oxidase activity. It is involved in the biological process described with: negative regulation of neuroblast proliferation; mitochondrial electron transport, cytochrome c to oxygen",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 38,
+            "end_residue_number": 64,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 30,
+            "end_residue_number": 56,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "38-64"
+    ],
+    "interfaceB": [
+        "30-56"
+    ]
+}

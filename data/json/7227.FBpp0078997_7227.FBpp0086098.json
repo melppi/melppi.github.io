@@ -1,0 +1,16 @@
+{
+    "pae": 24.6,
+    "iptm": 15.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0078997",
+    "proB": "FBpp0086098",
+    "geneA": "nop5",
+    "geneB": "eIF3-S9",
+    "annotationA": "CG10206-PA; It is involved in the biological process described with: rRNA processing",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit B; RNA-binding component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

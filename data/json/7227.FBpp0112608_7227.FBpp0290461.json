@@ -1,0 +1,118 @@
+{
+    "pae": 17.1,
+    "iptm": 31.6,
+    "pdockq": 0.041,
+    "proA": "FBpp0112608",
+    "proB": "FBpp0290461",
+    "geneA": "Parp",
+    "geneB": "Mes4",
+    "annotationA": "Poly [ADP-ribose] polymerase; Poly[ADP-ribose] polymerase modifies various nuclear proteins by poly(ADP-ribosyl)ation. The modification is dependent on DNA and is involved in the regulation of various important cellular processes such as differentiation, proliferation, and tumor transformation and also in the regulation of the molecular events involved in the recovery of cell from DNA damage. Plays a fundamental role in organizing chromatin on a global scale; isoform e autoregulates Parp transcription by influencing the chromatin structure of its heterochromatic environment",
+    "annotationB": "Mesoderm-expressed 4, isoform A; Sequence-specific DNA binding; protein heterodimerization activity; DNA-directed DNA polymerase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 41,
+            "end_residue_number": 42,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 150,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 572,
+            "end_residue_number": 572,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 585,
+            "end_residue_number": 585,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 603,
+            "end_residue_number": 604,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 23,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 145,
+            "end_residue_number": 145,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "41-42",
+        "150-150",
+        "572-572",
+        "585-585",
+        "603-604"
+    ],
+    "interfaceB": [
+        "23-25",
+        "145-145"
+    ]
+}

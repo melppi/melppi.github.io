@@ -1,0 +1,104 @@
+{
+    "pae": 11.8,
+    "iptm": 31.7,
+    "pdockq": 0.045,
+    "proA": "FBpp0083975",
+    "proB": "FBpp0086285",
+    "geneA": "Atg6",
+    "geneB": "Atg9",
+    "annotationA": "Beclin-1-like protein; Autophagy-related 6 is a component of the Vps34 complex that is required for the formation of PI3P, and functions in vesicle trafficking including autophagy and endocytosis",
+    "annotationB": "Autophagy-related protein 9; Involved in autophagy and cytoplasm to vacuole transport (Cvt) vesicle formation. Plays a key role in the organization of the preautophagosomal structure/phagophore assembly site (PAS), the nucleating site for formation of the sequestering vesicle",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 206,
+            "end_residue_number": 214,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 218,
+            "end_residue_number": 218,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 80,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 214,
+            "end_residue_number": 214,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 237,
+            "end_residue_number": 240,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 246,
+            "end_residue_number": 246,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "206-214",
+        "218-218"
+    ],
+    "interfaceB": [
+        "80-80",
+        "214-214",
+        "237-240",
+        "246-246"
+    ]
+}

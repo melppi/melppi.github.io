@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 13.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0078689",
+    "proB": "FBpp0082994",
+    "geneA": "Trip1",
+    "geneB": "eIF-1A",
+    "annotationA": "Eukaryotic translation initiation factor 3 subunit I; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "annotationB": "Eukaryotic initiation factor 1A, isoform A; Seems to be required for maximal rate of protein biosynthesis. Enhances ribosome dissociation into subunits and stabilizes the binding of the initiator Met-tRNA(I) to 40 S ribosomal subunits",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,76 @@
+{
+    "pae": 10.0,
+    "iptm": 41.3,
+    "pdockq": 0.317,
+    "proA": "FBpp0071052",
+    "proB": "FBpp0083905",
+    "geneA": "RpS14b",
+    "geneB": "RpS19b",
+    "annotationA": "40S ribosomal protein S14a; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uS11 family",
+    "annotationB": "40S ribosomal protein S19b; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eS19 family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 102,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 131,
+            "end_residue_number": 138,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 33,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 96,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "102-106",
+        "131-138"
+    ],
+    "interfaceB": [
+        "33-46",
+        "96-102"
+    ]
+}

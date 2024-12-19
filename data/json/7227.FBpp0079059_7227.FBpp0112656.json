@@ -1,0 +1,62 @@
+{
+    "pae": 15.7,
+    "iptm": 38.1,
+    "pdockq": 0.037,
+    "proA": "FBpp0079059",
+    "proB": "FBpp0112656",
+    "geneA": "ade3",
+    "geneB": "CG40801",
+    "annotationA": "Trifunctional purine biosynthetic protein adenosine-3; Phosphoribosylglycinamide formyltransferase activity; methyltransferase activity; ATP binding; metal ion binding; phosphoribosylamine-glycine ligase activity; phosphoribosylformylglycinamidine cyclo-ligase activity. It is involved in the biological process described with: purine nucleobase biosynthetic process; 'de novo' IMP biosynthetic process; In the central section; belongs to the AIR synthase family",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 463,
+            "end_residue_number": 467,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 563,
+            "end_residue_number": 563,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 86,
+            "end_residue_number": 89,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "463-467",
+        "563-563"
+    ],
+    "interfaceB": [
+        "86-89"
+    ]
+}

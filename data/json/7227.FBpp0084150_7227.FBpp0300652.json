@@ -1,0 +1,48 @@
+{
+    "pae": 9.0,
+    "iptm": 27.8,
+    "pdockq": 0.042,
+    "proA": "FBpp0084150",
+    "proB": "FBpp0300652",
+    "geneA": "vig2",
+    "geneB": "RpL15",
+    "annotationA": "Vig2, isoform B; It is involved in the biological process described with: regulation of chromatin silencing; histone H3-K9 methylation; heterochromatin organization",
+    "annotationB": "60S ribosomal protein L15; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eL15 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 283,
+            "end_residue_number": 289,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 195,
+            "end_residue_number": 203,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "283-289"
+    ],
+    "interfaceB": [
+        "195-203"
+    ]
+}

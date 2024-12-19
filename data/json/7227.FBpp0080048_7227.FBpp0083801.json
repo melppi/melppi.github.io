@@ -1,0 +1,132 @@
+{
+    "pae": 9.0,
+    "iptm": 50.8,
+    "pdockq": 0.115,
+    "proA": "FBpp0080048",
+    "proB": "FBpp0083801",
+    "geneA": "beta'COP",
+    "geneB": "Sec13",
+    "annotationA": "Coatomer subunit beta; The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins (By similarity)",
+    "annotationB": "Protein SEC13 homolog; Functions as a component of the nuclear pore complex (NPC) and the COPII coat (By similarity). At the endoplasmic reticulum, SEC13 is involved in the biogenesis of COPII-coated vesicles (By similarity). Recruited to transcriptionally active chromatin at the time of transcription initiation by RNA polymerase II. Required for proper expression of ecdysone-responsive genes such as Eip74EF and Eip75B during larval development. Required for reactivation of transcription after heat shock. Required for nuclear import of phosphorylated Mad via importin msk. Has no role i [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 625,
+            "end_residue_number": 628,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 633,
+            "end_residue_number": 633,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 648,
+            "end_residue_number": 648,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 652,
+            "end_residue_number": 652,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 670,
+            "end_residue_number": 677,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 6,
+            "end_residue_number": 6,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 41,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 91,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "625-628",
+        "633-633",
+        "648-648",
+        "652-652",
+        "670-677"
+    ],
+    "interfaceB": [
+        "6-6",
+        "41-47",
+        "91-91"
+    ]
+}

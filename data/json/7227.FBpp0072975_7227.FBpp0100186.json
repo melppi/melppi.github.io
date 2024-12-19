@@ -1,0 +1,16 @@
+{
+    "pae": 17.7,
+    "iptm": 15.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0072975",
+    "proB": "FBpp0100186",
+    "geneA": "ND-30",
+    "geneB": "mt:Cyt-b",
+    "annotationA": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity. It is involved in the biological process described with: oxidation-reduction process; Belongs to the complex I 30 kDa subunit family",
+    "annotationB": "Cytochrome b; Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex) that is part of the mitochondrial respiratory chain. The b-c1 complex mediates electron transfer from ubiquinol to cytochrome c. Contributes to the generation of a proton gradient across the mitochondrial membrane that is then used for ATP synthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

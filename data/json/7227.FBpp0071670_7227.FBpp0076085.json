@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 21.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0071670",
+    "proB": "FBpp0076085",
+    "geneA": "Synj",
+    "geneB": "CG6707",
+    "annotationA": "Synaptojanin, isoform A; Synaptojanin (Synj) is a synaptic Phosphoinositide phosphate (PtdInsP) phosphatase that catalyzes the hydrolysis of phosphate groups from phosphorylated inositols. It is recruited or stabilized by EndoA to endocytic membranes, and it catalyzes dephosphorylation reactions implicated in the uncoating of nascent endocytic vesicles. When Synj dephosphorylates phosphoinositides on nascent vesicles, endocytic adaptors with affinity for these lipids will leave the membrane to uncoat the vesicle",
+    "annotationB": "Catalyzes the hydrolysis of phosphatidylinositol-4,5- bisphosphate (PtdIns-4,5-P2) to phosphatidylinositol-4-phosphate (PtdIns-4-P)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 19.7,
+    "iptm": 19.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0073120",
+    "proB": "FBpp0076312",
+    "geneA": "RfC4",
+    "geneB": "Mcm7",
+    "annotationA": "Replication factor C subunit 2; The elongation of primed DNA templates by DNA polymerase delta and epsilon requires the action of the accessory proteins proliferating cell nuclear antigen (PCNA) and activator 1. Subunit 2 binds ATP",
+    "annotationB": "DNA replication licensing factor Mcm7; Acts as component of the Mcm2-7 complex (Mcm complex) which is the putative replicative helicase essential for 'once per cell cycle' DNA replication initiation and elongation in eukaryotic cells. The active ATPase sites in the Mcm2-7 ring are formed through the interaction surfaces of two neighboring subunits such that a critical structure of a conserved arginine finger motif is provided in trans relative to the ATP-binding site of the Walker A box of the adjacent subunit. The six ATPase active sites, however, are likely to contribute differential [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.6,
+    "iptm": 9.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070150",
+    "proB": "FBpp0081820",
+    "geneA": "RpL36",
+    "geneB": "Tctp",
+    "annotationA": "60S ribosomal protein L36; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eL36 family",
+    "annotationB": "Translationally controlled tumor protein (Tctp) belongs to the TCTP family. It interacts with the GTPase Rheb to regulate organ growth. Tctp is required for DNA damage response and genome stability",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

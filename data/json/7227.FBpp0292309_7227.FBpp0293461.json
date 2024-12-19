@@ -1,0 +1,16 @@
+{
+    "pae": 15.3,
+    "iptm": 22.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0292309",
+    "proB": "FBpp0293461",
+    "geneA": "Sac1",
+    "geneB": "PIP5K59B",
+    "annotationA": "Phosphatidylinositide phosphatase SAC1; Phosphoinositide phosphatase that hydrolyzes PtdIns(3)P and PtdIns(4)P. Has low activity towards PtdIns(3,5)P2 (By similarity)",
+    "annotationB": "Phosphatidylinositol 4-phosphate 5-kinase at 59B, isoform E; PIP5K59B",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

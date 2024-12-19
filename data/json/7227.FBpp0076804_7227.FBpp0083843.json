@@ -1,0 +1,16 @@
+{
+    "pae": 26.4,
+    "iptm": 11.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0076804",
+    "proB": "FBpp0083843",
+    "geneA": "Txl",
+    "geneB": "Rpt5",
+    "annotationA": "Thioredoxin-like; Disulfide oxidoreductase activity; protein disulfide oxidoreductase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; cell redox homeostasis; glycerol ether metabolic process",
+    "annotationB": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

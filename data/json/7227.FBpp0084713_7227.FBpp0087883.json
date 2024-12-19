@@ -1,0 +1,48 @@
+{
+    "pae": 18.0,
+    "iptm": 18.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0084713",
+    "proB": "FBpp0087883",
+    "geneA": "eIF4E-6",
+    "geneB": "RagC-D",
+    "annotationA": "eIF4E-6, isoform A; RNA 7-methylguanosine cap binding; translation repressor activity; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation; negative regulation of translation",
+    "annotationB": "Ras-related GTP binding C/D ortholog; GTPase activity; protein heterodimerization activity; GTP binding. It is involved in the biological process described with: cellular response to amino acid stimulus; positive regulation of TOR signaling",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 160,
+            "end_residue_number": 160,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 3,
+            "end_residue_number": 3,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "160-160"
+    ],
+    "interfaceB": [
+        "3-3"
+    ]
+}

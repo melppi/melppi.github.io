@@ -1,0 +1,48 @@
+{
+    "pae": 2.7,
+    "iptm": 35.5,
+    "pdockq": 0.666,
+    "proA": "FBpp0292260",
+    "proB": "FBpp0303878",
+    "geneA": "Syx1A",
+    "geneB": "nSyb",
+    "annotationA": "Syntaxin-1A; Plays a critical role in several secretory processes, including cuticle secretion and neurotransmitter release, and probably assists in neuronal membrane maturation or the final stages of neuronal differentiation. Essential for embryonic viability and development. Required for coordinated peristaltic contractions. Recruited by Unc-13-4B to secretory lysosome-related organelles (SLs) that are essential for tracheal lumen fusion between previously separate tracheal branches (anastomosis). Possibly promotes the intracellular fusion of the extending tracheal stalk cell lumens  [...] ",
+    "annotationB": "Neuronal synaptobrevin, isoform J; SNAP receptor activity; protein binding; SNARE binding. It is involved in the biological process described with: vesicle-mediated transport; synaptic vesicle docking involved in exocytosis; vesicle fusion; neurotransmitter secretion",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 193,
+            "end_residue_number": 281,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 34,
+            "end_residue_number": 119,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "193-281"
+    ],
+    "interfaceB": [
+        "34-119"
+    ]
+}

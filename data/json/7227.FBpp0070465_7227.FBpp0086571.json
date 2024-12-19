@@ -1,0 +1,118 @@
+{
+    "pae": 9.2,
+    "iptm": 28.3,
+    "pdockq": 0.169,
+    "proA": "FBpp0070465",
+    "proB": "FBpp0086571",
+    "geneA": "dwg",
+    "geneB": "BEAF-32",
+    "annotationA": "Deformed wings; Sequence-specific DNA binding transcription factor activity; DNA binding; protein binding; zinc ion binding; chromatin insulator sequence binding",
+    "annotationB": "Boundary element-associated factor of 32kD (BEAF-32) is a DNA-binding protein with binding sites near transcription start sites. BEAF-32 roles include chromatin domain insulator function, gene regulation and genome organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 338,
+            "end_residue_number": 338,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 402,
+            "end_residue_number": 405,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 416,
+            "end_residue_number": 417,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 428,
+            "end_residue_number": 471,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 31,
+            "end_residue_number": 35,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 70,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 86,
+            "end_residue_number": 104,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "338-338",
+        "402-405",
+        "416-417",
+        "428-471"
+    ],
+    "interfaceB": [
+        "31-35",
+        "70-78",
+        "86-104"
+    ]
+}

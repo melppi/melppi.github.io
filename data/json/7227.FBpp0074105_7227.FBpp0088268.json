@@ -1,0 +1,16 @@
+{
+    "pae": 19.7,
+    "iptm": 18.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0074105",
+    "proB": "FBpp0088268",
+    "geneA": "Sap30",
+    "geneB": "pho",
+    "annotationA": "Histone deacetylase complex subunit SAP30 homolog; Component of the class 1 Sin3A-histone deacetylase (Rpd3) complex (HDAC). Appears to be a non-essential subunit of this complex which is not required for cell cycle regulation of progression through the G2 phase of the cell cycle; Belongs to the SAP30 family",
+    "annotationB": "Polycomb protein PHO; Polycomb group (PcG) protein that binds to the 5'- CNGCCATNNNNG-3' sequence found in the regulatory regions of many genes. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility. Probably targets the Esc/E(z) complex to DNA. Necessary but no [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

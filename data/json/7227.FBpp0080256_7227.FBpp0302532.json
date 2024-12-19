@@ -1,0 +1,16 @@
+{
+    "pae": 22.6,
+    "iptm": 13.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0080256",
+    "proB": "FBpp0302532",
+    "geneA": "NC2beta",
+    "geneB": "Ada2a",
+    "annotationA": "Protein Dr1; Bifunctional basic transcription factor. Activates transcription of DPE (Downstream Promoter Element) containing promoters while repressing transcription of promoters which contain TATA elements; Belongs to the NC2 beta/DR1 family",
+    "annotationB": "Transcriptional adapter 2A; GCN5-independent Rpb4 complexes are highly enriched in decondensed chromosome puffs so may play a role in RNA polymerase II-dependent transcription",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

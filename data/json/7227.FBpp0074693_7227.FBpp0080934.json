@@ -1,0 +1,146 @@
+{
+    "pae": 16.5,
+    "iptm": 27.6,
+    "pdockq": 0.08,
+    "proA": "FBpp0074693",
+    "proB": "FBpp0080934",
+    "geneA": "cyc",
+    "geneB": "phr6-4",
+    "annotationA": "Protein cycle; Putative transcription factor involved in the generation of biological rhythms. Activates cycling transcription of Period (PER) and Timeless (TIM) by binding to the E-box (5'-CACGTG-3') present in their promoters",
+    "annotationB": "(6-4)-photolyase, isoform A; (6-4)-photolyase (Phr6-4) is an enzyme that repairs DNA damage induced by ultraviolet light. Phr6-4 uses blue light and cofactor FADH to reverse the pyrimidine(6-4)pyrimidone photoproduct",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 182,
+            "end_residue_number": 185,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 294,
+            "end_residue_number": 294,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 299,
+            "end_residue_number": 299,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 306,
+            "end_residue_number": 306,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 366,
+            "end_residue_number": 369,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 402,
+            "end_residue_number": 402,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 410,
+            "end_residue_number": 410,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 415,
+            "end_residue_number": 415,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 421,
+            "end_residue_number": 423,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "182-185"
+    ],
+    "interfaceB": [
+        "294-294",
+        "299-299",
+        "306-306",
+        "366-369",
+        "402-402",
+        "410-410",
+        "415-415",
+        "421-423"
+    ]
+}

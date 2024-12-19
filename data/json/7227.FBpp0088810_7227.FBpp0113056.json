@@ -1,0 +1,16 @@
+{
+    "pae": 25.7,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0088810",
+    "proB": "FBpp0113056",
+    "geneA": "csul",
+    "geneB": "Art7",
+    "annotationA": "Protein arginine N-methyltransferase 5; Arginine methyltransferase that can both catalyze the formation of omega-N monomethylarginine (MMA) and symmetrical dimethylarginine (sDMA) (By similarity). Specifically mediates the symmetrical dimethylation of arginine residues in the small nuclear ribonucleoproteins SmD1 and SmD3. Required for arginine symmetrical dimethylation of piwi family proteins, piwi, aub and AGO3, during germline development. Required during oogenesis for pole cell formation in the pathway controlled by oskar (osk) and for abdominal segments during early embryogenesis. [...] ",
+    "annotationB": "Protein arginine N-methyltransferase 7; Essential arginine methyltransferase that can both catalyze the formation of omega-N monomethylarginine (MMA) and symmetrical dimethylarginine (sDMA). Specifically mediates the symmetrical dimethylation of arginine residues in the small nuclear ribonucleoproteins SmD1 and SmD3",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

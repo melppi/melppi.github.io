@@ -1,0 +1,16 @@
+{
+    "pae": 17.0,
+    "iptm": 28.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0087596",
+    "proB": "FBpp0099945",
+    "geneA": "Wnt2",
+    "geneB": "hh",
+    "annotationA": "Protein Wnt-2; Binds as a ligand to a family of frizzled seven- transmembrane receptors and acts through a cascade of genes on the nucleus. Segment polarity protein. May function in gonadogenesis and limb development. Wg and Wnt2 have a role in the developing trachea and together are responsible for all dorsal trunk formation",
+    "annotationB": "Protein hedgehog; Intercellular signal essential for a variety of patterning events during development. Establishes the anterior- posterior axis of the embryonic segments and patterns the larval imaginal disks. Binds to the patched (ptc) receptor, which functions in association with smoothened (smo), to activate the transcription of target genes wingless (wg), decapentaplegic (dpp) and ptc. In the absence of hh, ptc represses the constitutive signaling activity of smo through fused (fu). Essential component of a signaling pathway which regulates the Duox-dependent gut immune response t [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

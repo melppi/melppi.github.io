@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 13.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0082125",
+    "proB": "FBpp0087712",
+    "geneA": "CG12279",
+    "geneB": "CG8078",
+    "annotationA": "Thiosulfate sulfurtransferase activity; unfolded protein binding. It is involved in the biological process described with: protein folding",
+    "annotationB": "Cytoplasmic tRNA 2-thiolation protein 1; Plays a central role in 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of tRNA(Lys), tRNA(Glu) and tRNA(Gln). Directly binds tRNAs and probably acts by catalyzing adenylation of tRNAs, an intermediate required for 2-thiolation. It is unclear whether it acts as a sulfurtransferase that transfers sulfur from thiocarboxylated URM1 onto the uridine of tRNAs at wobble position",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

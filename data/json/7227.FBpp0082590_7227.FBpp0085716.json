@@ -1,0 +1,16 @@
+{
+    "pae": 25.4,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0082590",
+    "proB": "FBpp0085716",
+    "geneA": "CG31344",
+    "geneB": "Spt5",
+    "annotationA": "GH11867p; It is involved in the biological process described with: neurogenesis",
+    "annotationB": "Transcription elongation factor SPT5; Component of the DRB sensitivity-inducing factor complex (DSIF complex), which regulates transcription elongation by RNA polymerase II. DSIF enhances transcriptional pausing at sites proximal to the promoter, which may facilitate the assembly of an elongation competent RNA polymerase II complex. DSIF may also promote transcriptional elongation within coding regions. DSIF is required for the transcriptional induction of heat shock response genes and regulation of genes which control anterior-posterior patterning during embryonic development; Belongs [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

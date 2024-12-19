@@ -1,0 +1,16 @@
+{
+    "pae": 16.2,
+    "iptm": 20.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0085149",
+    "proB": "FBpp0110413",
+    "geneA": "Gprk2",
+    "geneB": "Gprk1",
+    "annotationA": "G protein-coupled receptor kinase 2 (Gprk2) is a member of a family of serine/threonine kinases that modulate G-protein coupled receptors. It is required for female fertility, normal egg shape, and normal egg cAMP levels. Gprk2 is also implicated in Hedgehog signaling and olfactory rhythmicity; Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. GPRK subfamily",
+    "annotationB": "G protein-coupled receptor kinase 1; Specifically phosphorylates the activated forms of G protein-coupled receptors",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

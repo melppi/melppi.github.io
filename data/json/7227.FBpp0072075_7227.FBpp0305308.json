@@ -1,0 +1,62 @@
+{
+    "pae": 4.5,
+    "iptm": 73.0,
+    "pdockq": 0.346,
+    "proA": "FBpp0072075",
+    "proB": "FBpp0305308",
+    "geneA": "MAN1",
+    "geneB": "baf",
+    "annotationA": "Inner nuclear membrane protein Man1; Inner nuclear membrane protein. Acts as a negative regulator of the BMP (Dpp) signaling cascade during crossvein development in pupal wings and possibly during synaptic transmission at the neuromuscular junction (NMJ). Appears to be required for pupal development and consequently transition to the adult stage. During pupal development, plays essential and redundant functions with the other LEM domain proteins; bocks and Ote",
+    "annotationB": "Barrier-to-autointegration factor; Plays fundamental roles in nuclear assembly, chromatin organization, gene expression and gonad development. May potently compress chromatin structure and be involved in membrane recruitment and chromatin decondensation during nuclear assembly. Functions are required in both M phase and interphase of the cell cycle; Belongs to the BAF family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 24,
+            "end_residue_number": 42,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 38,
+            "end_residue_number": 40,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 49,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "24-42"
+    ],
+    "interfaceB": [
+        "38-40",
+        "49-67"
+    ]
+}

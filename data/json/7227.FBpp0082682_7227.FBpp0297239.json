@@ -1,0 +1,16 @@
+{
+    "pae": 16.6,
+    "iptm": 25.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0082682",
+    "proB": "FBpp0297239",
+    "geneA": "Akt1",
+    "geneB": "Pp2A-29B",
+    "annotationA": "RAC serine/threonine-protein kinase; Serine/threonine kinase involved in various developmental processes. During early embryogenesis, acts as a survival protein. During mid-embryogenesis, phosphorylates and activates trh, a transcription factor required for tracheal cell fate determination. Also regulates tracheal cell migration. Later in development, acts downstream of PI3K and Pk61C/PDK1 in the insulin receptor transduction pathway which regulates cell growth and organ size, by phosphorylating and antagonizing FOXO transcription factor. Controls follicle cell size during oogenesis. M [...] ",
+    "annotationB": "Serine/threonine-protein phosphatase PP2A 65 kDa regulatory subunit; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

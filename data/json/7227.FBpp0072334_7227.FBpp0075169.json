@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 15.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0072334",
+    "proB": "FBpp0075169",
+    "geneA": "Aats-tyr-m",
+    "geneB": "CG4573",
+    "annotationA": "Tyrosine--tRNA ligase, mitochondrial; Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction: tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr); Belongs to the class-I aminoacyl-tRNA synthetase family",
+    "annotationB": "Glutamyl-tRNA synthetase, mitochondrial; tRNA binding; ATP binding; glutamate-tRNA ligase activity. It is involved in the biological process described with: glutamyl-tRNA aminoacylation; Belongs to the class-I aminoacyl-tRNA synthetase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

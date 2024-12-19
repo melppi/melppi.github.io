@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 28.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0077251",
+    "proB": "FBpp0081491",
+    "geneA": "CG33123",
+    "geneB": "RagA-B",
+    "annotationA": "Leucyl-tRNA synthetase, isoform A; aminoacyl-tRNA editing activity; ATP binding; leucine-tRNA ligase activity. It is involved in the biological process described with: leucyl-tRNA aminoacylation; neurogenesis; wound healing; Belongs to the class-I aminoacyl-tRNA synthetase family",
+    "annotationB": "Ras-related GTP binding A/B (RagA-B) is a Ras family GTPase that forms a heterodimer with RagC-D.  The heterodimer localizes on the lysosome surface and functions to relay amino acid signals to Tor activation by recruiting it to the lysosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

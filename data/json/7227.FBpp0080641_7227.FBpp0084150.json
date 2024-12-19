@@ -1,0 +1,48 @@
+{
+    "pae": 14.8,
+    "iptm": 22.7,
+    "pdockq": 0.032,
+    "proA": "FBpp0080641",
+    "proB": "FBpp0084150",
+    "geneA": "RpS26",
+    "geneB": "vig2",
+    "annotationA": "40S ribosomal protein S26; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "annotationB": "Vig2, isoform B; It is involved in the biological process described with: regulation of chromatin silencing; histone H3-K9 methylation; heterochromatin organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 67,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 26,
+            "end_residue_number": 27,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "67-72"
+    ],
+    "interfaceB": [
+        "26-27"
+    ]
+}

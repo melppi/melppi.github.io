@@ -1,0 +1,48 @@
+{
+    "pae": 11.9,
+    "iptm": 34.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070150",
+    "proB": "FBpp0079752",
+    "geneA": "RpL36",
+    "geneB": "RpL9",
+    "annotationA": "60S ribosomal protein L36; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eL36 family",
+    "annotationB": "60S ribosomal protein L9; Structural constituent of ribosome; rRNA binding. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization; Belongs to the universal ribosomal protein uL6 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 47,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 174,
+            "end_residue_number": 174,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "47-47"
+    ],
+    "interfaceB": [
+        "174-174"
+    ]
+}

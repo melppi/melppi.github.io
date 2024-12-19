@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 17.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0074099",
+    "proB": "FBpp0074133",
+    "geneA": "TwdlX",
+    "geneB": "CG9634",
+    "annotationA": "IP11207p; Structural constituent of chitin-based cuticle. It is involved in the biological process described with: body morphogenesis; chitin-based cuticle development",
+    "annotationB": "Protein gone early; Plays a role in the ovary in limiting the number of primordial germ cells (PGCs) that develop directly into gametes, allowing them instead to enter the developmental pathway that produces germline stem cells (GSCs) from PGCs and ensuring lifelong production of gametes from these GSCs. Negatively regulates epidermal growth factor receptor (Egfr) signaling. Probably down-regulates EGFR signaling on intermingled cells, a type of somatic stromal cell which contacts PGCs, and the resultant low level of signaling limits the proportion of PGCs which start gametogenesis, ma [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

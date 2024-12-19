@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 24.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0087461",
+    "proB": "FBpp0305289",
+    "geneA": "CG1671",
+    "geneB": "NHP2",
+    "annotationA": "LD47550p; It is involved in the biological process described with: rRNA processing; neurogenesis",
+    "annotationB": "H/ACA ribonucleoprotein complex subunit 2-like protein; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

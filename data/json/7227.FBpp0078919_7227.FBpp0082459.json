@@ -1,0 +1,16 @@
+{
+    "pae": 16.4,
+    "iptm": 22.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0078919",
+    "proB": "FBpp0082459",
+    "geneA": "COX5BL",
+    "geneB": "UQCR-C1",
+    "annotationA": "Cytochrome-c oxidase activity. It is involved in the biological process described with: mitochondrial electron transport, cytochrome c to oxygen",
+    "annotationB": "Ubiquinol-cytochrome-c reductase activity; metal ion binding; metalloendopeptidase activity. It is involved in the biological process described with: proteolysis; protein processing; mitochondrial electron transport, ubiquinol to cytochrome c; cytoplasmic microtubule organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

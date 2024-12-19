@@ -1,0 +1,48 @@
+{
+    "pae": 15.1,
+    "iptm": 30.1,
+    "pdockq": 0.024,
+    "proA": "FBpp0078093",
+    "proB": "FBpp0289317",
+    "geneA": "CycH",
+    "geneB": "grn",
+    "annotationA": "Cyclin H homolog; RNA polymerase II carboxy-terminal domain kinase activity; protein kinase binding; core RNA polymerase binding transcription factor activity; cyclin-dependent protein serine/threonine kinase activity; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; regulation of transcription, DNA-templated; regulation of cyclin-dependent protein serine/threonine kinase activity; transcription initiation from RNA polymerase II promoter",
+    "annotationB": "Grain (Grn) is a transcription factor from the GATA family. It regulates the expression of receptors and adhesion molecules such as unc-5 and Fas2 involved in axon guidance. Grn contributes to multiple other developmental processes including leg and larval spiracle morphogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 121,
+            "end_residue_number": 121,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 503,
+            "end_residue_number": 503,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "121-121"
+    ],
+    "interfaceB": [
+        "503-503"
+    ]
+}

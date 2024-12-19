@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 19.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0073561",
+    "proB": "FBpp0082655",
+    "geneA": "REG",
+    "geneB": "Fbxl7",
+    "annotationA": "Proteasome regulator dREG; Endopeptidase activator activity; endopeptidase inhibitor activity. It is involved in the biological process described with: mRNA splicing, via spliceosome; regulation of proteasomal protein catabolic process; regulation of G1/S transition of mitotic cell cycle",
+    "annotationB": "F-box and leucine-rich repeat protein 7; Ubiquitin-protein transferase activity. It is involved in the biological process described with: proximal/distal pattern formation, imaginal disc; SCF-dependent proteasomal ubiquitin-dependent protein catabolic process; regulation of hippo signaling; regulation of protein localization; negative regulation of growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

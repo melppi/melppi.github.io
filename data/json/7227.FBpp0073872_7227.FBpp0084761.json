@@ -1,0 +1,16 @@
+{
+    "pae": 22.7,
+    "iptm": 17.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073872",
+    "proB": "FBpp0084761",
+    "geneA": "CG9281",
+    "geneB": "Ef1gamma",
+    "annotationA": "CG9281, isoform B; ATPase activity, coupled to transmembrane movement of substances; ATP binding; transporter activity",
+    "annotationB": "Elongation factor 1-gamma; Ef1gamma associates with other EF1 subunits (alpha/beta/delta). It binds tubulin and Doa protein kinase, which in turns phosphorylates Ef1gamma. Ef1gamma regulates organelle movement along microtubules",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

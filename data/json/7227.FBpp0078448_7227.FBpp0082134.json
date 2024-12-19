@@ -1,0 +1,16 @@
+{
+    "pae": 18.9,
+    "iptm": 24.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0078448",
+    "proB": "FBpp0082134",
+    "geneA": "Prosbeta7",
+    "geneB": "Su(fu)",
+    "annotationA": "Proteasome subunit beta type-4; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity); Belongs to the peptidase T1B family",
+    "annotationB": "Suppressor of fused is a negative regulator of the Hedgehog signaling pathway. It forms a complex with the transcription factor ci to inhibit its activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

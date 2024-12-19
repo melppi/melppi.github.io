@@ -1,0 +1,104 @@
+{
+    "pae": 13.3,
+    "iptm": 36.8,
+    "pdockq": 0.173,
+    "proA": "FBpp0070045",
+    "proB": "FBpp0302752",
+    "geneA": "CG32350",
+    "geneB": "Rop",
+    "annotationA": "Vacuolar protein sorting 11 (Vps11) is a Class C Vps core subunit of HOPS, a heterohexameric tethering complex that consists of car, dor, lt, Vps11, Vps16A and Vps39. HOPS tethers autophagosomes or late endosomes with lysosomes to facilitate fusion. Vps11 roles include autophagosome-lysosome fusion, late endosome-lysosome fusion and biosynthetic trafficking to lysosomes",
+    "annotationB": "Protein ROP; May be a component of one of the vesicle trafficking pathways. May interact functionally with Ras2 protein",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 9,
+            "end_residue_number": 9,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 308,
+            "end_residue_number": 310,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 363,
+            "end_residue_number": 370,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 390,
+            "end_residue_number": 398,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 402,
+            "end_residue_number": 402,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 474,
+            "end_residue_number": 480,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "9-9",
+        "308-310",
+        "363-370",
+        "390-398",
+        "402-402"
+    ],
+    "interfaceB": [
+        "474-480"
+    ]
+}

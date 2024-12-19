@@ -1,0 +1,48 @@
+{
+    "pae": 18.3,
+    "iptm": 12.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071194",
+    "proB": "FBpp0090944",
+    "geneA": "CG1789",
+    "geneB": "CG33506",
+    "annotationA": "Probable U3 small nucleolar RNA-associated protein 11; Involved in nucleolar processing of pre-18S ribosomal RNA",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 64,
+            "end_residue_number": 64,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 96,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "64-64"
+    ],
+    "interfaceB": [
+        "96-96"
+    ]
+}

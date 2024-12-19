@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 13.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078205",
+    "proB": "FBpp0301731",
+    "geneA": "Ssl1",
+    "geneB": "lwr",
+    "annotationA": "Suppressor of stem-loop mutation, isoform A; Zinc ion binding; core RNA polymerase binding transcription factor activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; transcriptional open complex formation at RNA polymerase II promoter; nucleotide-excision repair; promoter clearance from RNA polymerase II promoter; transcription initiation from RNA polymerase II promoter",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

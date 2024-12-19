@@ -1,0 +1,118 @@
+{
+    "pae": 5.8,
+    "iptm": 22.8,
+    "pdockq": 0.329,
+    "proA": "FBpp0071563",
+    "proB": "FBpp0082383",
+    "geneA": "Rbpn-5",
+    "geneB": "CG3259",
+    "annotationA": "Rabaptin-5; Zinc ion binding; Rab GTPase binding. It is involved in the biological process described with: regulation of endosome size",
+    "annotationB": "IP21508p; Microtubule binding. It is involved in the biological process described with: cilium assembly",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 391,
+            "end_residue_number": 449,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 453,
+            "end_residue_number": 453,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 460,
+            "end_residue_number": 460,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 471,
+            "end_residue_number": 471,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 517,
+            "end_residue_number": 517,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 524,
+            "end_residue_number": 524,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 535,
+            "end_residue_number": 588,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "391-449",
+        "453-453",
+        "460-460",
+        "471-471"
+    ],
+    "interfaceB": [
+        "517-517",
+        "524-524",
+        "535-588"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 22.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0079148",
+    "proB": "FBpp0305946",
+    "geneA": "mts",
+    "geneB": "Raf",
+    "annotationA": "Serine/threonine-protein phosphatase PP2A; Protein serine/threonine phosphatase activity; phosphatase regulator activity",
+    "annotationB": "Raf homolog serine/threonine-protein kinase phl; Serine/threonine kinase required in the early embryo for the formation of terminal structure. Also required during the proliferation of imaginal cells. May act downstream of Ras85D in the tor signal transduction pathway. During larval development, mediates Ptth/tor signaling leading to the production of ecdysone, an hormone required for the initiation of metamorphosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

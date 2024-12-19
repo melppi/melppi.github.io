@@ -1,0 +1,16 @@
+{
+    "pae": 16.7,
+    "iptm": 25.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0084021",
+    "proB": "FBpp0086098",
+    "geneA": "CG5706",
+    "geneB": "eIF3-S9",
+    "annotationA": "Phenylalanyl-tRNA synthetase, beta-subunit is a cytoplasmic aminoacyl-tRNA synthetase that catalyzes the ligation of Phenylalanine to its cognate tRNAPhe. Together with the alpha-subunit it forms a tetrameric enzyme complex. This subunit plays a role in recognition and binding of tRNAPhe and it provides the editing site that hydrolyzes wrongfully activated or ligated compounds",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit B; RNA-binding component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

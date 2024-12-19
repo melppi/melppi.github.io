@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 14.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0082428",
+    "proB": "FBpp0288398",
+    "geneA": "BigH1",
+    "geneB": "Dsp1",
+    "annotationA": "Histone H1 variant BigH1; DNA binding. It is involved in the biological process described with: regulation of nucleosome density; regulation of transcription, DNA-templated; nucleosome assembly",
+    "annotationB": "High mobility group protein DSP1; Binds preferentially single-stranded DNA and unwinds double-stranded DNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

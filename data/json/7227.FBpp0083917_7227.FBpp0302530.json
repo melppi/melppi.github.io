@@ -1,0 +1,16 @@
+{
+    "pae": 16.3,
+    "iptm": 23.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0083917",
+    "proB": "FBpp0302530",
+    "geneA": "Ime4",
+    "geneB": "Rpb4",
+    "annotationA": "Probable N6-adenosine-methyltransferase MT-A70-like protein; Probable N6-methyltransferase that methylates adenosine residues of some mRNAs. N6-methyladenosine (m6A), which is present at internal sites in mRNA isolated, may play a role in the efficiency of mRNA splicing, transport or translation (By similarity)",
+    "annotationB": "DNA-directed RNA polymerase II 16 kDa polypeptide; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Associates with POLR2G; Belongs to the eukaryotic RPB4 RNA polymerase subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

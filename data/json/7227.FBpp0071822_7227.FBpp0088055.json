@@ -1,0 +1,16 @@
+{
+    "pae": 26.5,
+    "iptm": 16.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071822",
+    "proB": "FBpp0088055",
+    "geneA": "CycB",
+    "geneB": "dpa",
+    "annotationA": "G2/mitotic-specific cyclin-B; Cyclin B (CycB) binds to Cdk1, thereby promoting Cdk1's protein kinase activity. The complex CycB-Cdk1 complex induces the start of mitosis. During late metaphase of mitosis and continuing in G1, CycB is rapidly degraded (involving APC/C and the proteasome), resulting in inactivation of Cdk1 protein kinase activity, and allowing termination of mitosis",
+    "annotationB": "DNA replication licensing factor MCM4; Acts as component of the Mcm2-7 complex (Mcm complex) which is the putative replicative helicase essential for 'once per cell cycle' DNA replication initiation and elongation in eukaryotic cells. The active ATPase sites in the Mcm2-7 ring are formed through the interaction surfaces of two neighboring subunits such that a critical structure of a conserved arginine finger motif is provided in trans relative to the ATP-binding site of the Walker A box of the adjacent subunit. The six ATPase active sites, however, are likely to contribute differential [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

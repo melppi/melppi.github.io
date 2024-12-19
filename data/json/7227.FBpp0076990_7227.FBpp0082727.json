@@ -1,0 +1,48 @@
+{
+    "pae": 16.8,
+    "iptm": 26.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0076990",
+    "proB": "FBpp0082727",
+    "geneA": "l(1)G0004",
+    "geneB": "Mat89Ba",
+    "annotationA": "RNA-binding protein pno1; mRNA binding; RNA binding. It is involved in the biological process described with: neurogenesis",
+    "annotationB": "Nucleolar protein 6; RNA binding. It is involved in the biological process described with: rRNA processing; neurogenesis; Belongs to the NRAP family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 96,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 2,
+            "end_residue_number": 2,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "96-96"
+    ],
+    "interfaceB": [
+        "2-2"
+    ]
+}

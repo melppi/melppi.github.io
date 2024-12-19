@@ -1,0 +1,16 @@
+{
+    "pae": 19.7,
+    "iptm": 13.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0084955",
+    "proB": "FBpp0301731",
+    "geneA": "spn-A",
+    "geneB": "lwr",
+    "annotationA": "DNA repair protein Rad51 homolog; Spindle A forms a filament on single-stranded DNA, does a homology search of double-stranded DNA, and catalyzes strand exchange, swapping the single-strand DNA in and displacing the partner of the complementary strand",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

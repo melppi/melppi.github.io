@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0078059",
+    "proB": "FBpp0081580",
+    "geneA": "Pc",
+    "geneB": "Scm",
+    "annotationA": "Polycomb group protein Pc; Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. Component of the PcG multiprotein PRC1 complex, a complex that acts via chromatin remodeling and modification of histones; it mediates monoubiquitination of histone H2A 'Lys-118', rendering chromatin heritably changed in its expressibility. Promotes locus-specif [...] ",
+    "annotationB": "Polycomb protein Scm; Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility; Belongs to the SCM family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 24.8,
+    "iptm": 20.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0087350",
+    "proB": "FBpp0305335",
+    "geneA": "Mat1",
+    "geneB": "CycT",
+    "annotationA": "CDK7/cyclin H assembly factor MAT1; RNA polymerase II carboxy-terminal domain kinase activity; zinc ion binding; core RNA polymerase binding transcription factor activity; cyclin-dependent protein serine/threonine kinase activity. It is involved in the biological process described with: cell cycle; transcription initiation from RNA polymerase II promoter",
+    "annotationB": "Cyclin-T; Regulatory subunit of the cyclin-dependent kinase pair (CDK9/cyclin T) complex, also called positive transcription elongation factor B (P-TEFb), which is proposed to facilitate the transition from abortive to production elongation by phosphorylating the CTD (carboxy-terminal domain) of the large subunit of RNA polymerase II (RNAP II)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

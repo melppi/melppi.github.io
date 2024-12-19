@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 23.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0072041",
+    "proB": "FBpp0080967",
+    "geneA": "DNA-ligI",
+    "geneB": "RPA2",
+    "annotationA": "DNA ligase 1; DNA ligase that seals nicks in double-stranded DNA during DNA replication, DNA recombination and DNA repair",
+    "annotationB": "Replication protein A2, isoform A; DNA binding. It is involved in the biological process described with: DNA recombination; DNA repair; DNA-dependent DNA replication; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

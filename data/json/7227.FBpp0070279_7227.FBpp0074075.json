@@ -1,0 +1,16 @@
+{
+    "pae": 24.1,
+    "iptm": 10.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070279",
+    "proB": "FBpp0074075",
+    "geneA": "Sta",
+    "geneB": "eIF-2alpha",
+    "annotationA": "40S ribosomal protein SA; Required for the assembly and/or stability of the 40S ribosomal subunit. Required for the processing of the 20S rRNA- precursor to mature 18S rRNA in a late step of the maturation of 40S ribosomal subunits. Required during oogenesis and imaginal development",
+    "annotationB": "Eukaryotic translation initiation factor 2 subunit 1; eIF-2 functions in the early steps of protein synthesis by forming a ternary complex with GTP and initiator tRNA. This preinitiation complex mediates ribosomal recognition of a start codon during the scanning process of the leader region",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

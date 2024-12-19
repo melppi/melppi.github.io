@@ -1,0 +1,76 @@
+{
+    "pae": 5.4,
+    "iptm": 25.4,
+    "pdockq": 0.22,
+    "proA": "FBpp0082467",
+    "proB": "FBpp0087063",
+    "geneA": "Nup93-2",
+    "geneB": "Nup54",
+    "annotationA": "Structural constituent of nuclear pore. It is involved in the biological process described with: transport; nuclear pore organization",
+    "annotationB": "Probable nucleoporin Nup54; Probable component of the nuclear pore complex, a complex required for the trafficking across the nuclear membrane (By similarity). May have a role in the organization of the inner nuclear membrane proteins at the nuclear envelope together with Nup154; Belongs to the NUP54 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 1,
+            "end_residue_number": 20,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 57,
+            "end_residue_number": 84,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 478,
+            "end_residue_number": 478,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 562,
+            "end_residue_number": 595,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "1-20",
+        "57-84"
+    ],
+    "interfaceB": [
+        "478-478",
+        "562-595"
+    ]
+}

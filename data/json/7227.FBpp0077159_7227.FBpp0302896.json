@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 25.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0077159",
+    "proB": "FBpp0302896",
+    "geneA": "RpL40",
+    "geneB": "esn",
+    "annotationA": "Ubiquitin-60S ribosomal protein L40; Ubiquitin: exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involve [...] ",
+    "annotationB": "Espinas (Esn) is a LIM domain protein that binds to the seven-pass transmembrane cadherin stan. This stan-Esn interplay elicits repulsion between dendritic branches of Drosophila sensory neurons; Belongs to the prickle / espinas / testin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

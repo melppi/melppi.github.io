@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 18.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0070141",
+    "proB": "FBpp0085744",
+    "geneA": "Rbf",
+    "geneB": "mip40",
+    "annotationA": "Retinoblastoma-family protein (Rbf) binds to members of the E2F transcription factors and forms the DREAM complex, which regulates genes with diverse biological functions including cell cycle regulators, apoptosis regulators, and DNA replication/repair factors. Rbf can also bind chromosomal proteins and modulate genome stability. Rbf is negatively regulated by CycE-Cdk2 and CycD-Cdk4 cyclin-dependent kinase complexes",
+    "annotationB": "Myb-interacting protein 40; It is involved in the biological process described with: eggshell chorion gene amplification; oogenesis; spermatogenesis; cell cycle; negative regulation of transcription from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

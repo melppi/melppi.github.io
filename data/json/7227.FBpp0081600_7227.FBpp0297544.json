@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 32.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0081600",
+    "proB": "FBpp0297544",
+    "geneA": "Ras85D",
+    "geneB": "l(2)gl",
+    "annotationA": "Ras-like protein 1; Ras proteins bind GDP/GTP and possess intrinsic GTPase activity (By similarity). Plays a role in eye development by regulating cell growth, survival of postmitotic ommatidial cells and differentiation of photoreceptor cells. During larval development, mediates Ptth/tor signaling leading to the production of ecdysone, a hormone required for the initiation of metamorphosis",
+    "annotationB": "Lethal(2) giant larvae protein; Essential for the development of polarized epithelia, for cell polarity associated with asymmetric cell division of neuroblasts during development, and for oocyte polarity formation. Promotes the formation of actin-rich projections at the oocyte cortex and the posterior enrichment of par-1 which is required for oocyte polarization. Regulates the localization of axis-specifying morphogens such as stau and grk",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

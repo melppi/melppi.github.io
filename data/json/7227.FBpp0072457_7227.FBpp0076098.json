@@ -1,0 +1,16 @@
+{
+    "pae": 19.0,
+    "iptm": 15.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0072457",
+    "proB": "FBpp0076098",
+    "geneA": "MED30",
+    "geneB": "Cdk8",
+    "annotationA": "Mediator of RNA polymerase II transcription subunit 30; Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors",
+    "annotationB": "Cyclin-dependent kinase 8; Component of the Mediator complex, a coactivator involved in regulated gene transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors. May phosphorylate the CTD (C-terminal domain) of the  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070175",
+    "proB": "FBpp0074246",
+    "geneA": "CDC45L",
+    "geneB": "CG8142",
+    "annotationA": "EG:BACR7A4.11 protein; DNA binding; 3'-5' DNA helicase activity; chromatin binding. It is involved in the biological process described with: DNA amplification; DNA replication initiation; chromosome condensation; DNA replication; positive regulation of G1/S transition of mitotic cell cycle; mitotic G2 DNA damage checkpoint; neurogenesis; neuron projection morphogenesis",
+    "annotationB": "LD35209p; ATP binding; DNA binding. It is involved in the biological process described with: lateral inhibition; DNA replication; cytoplasmic microtubule organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

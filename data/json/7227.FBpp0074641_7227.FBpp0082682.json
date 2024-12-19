@@ -1,0 +1,16 @@
+{
+    "pae": 18.3,
+    "iptm": 19.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0074641",
+    "proB": "FBpp0082682",
+    "geneA": "CG14184",
+    "geneB": "Akt1",
+    "annotationA": "Uncharacterized protein, isoform A; It is involved in the biological process described with: regulation of receptor recycling; positive regulation of MAPK cascade; endosome localization; cellular response to amino acid stimulus; lysosome organization; cholesterol homeostasis; positive regulation of TOR signaling",
+    "annotationB": "RAC serine/threonine-protein kinase; Serine/threonine kinase involved in various developmental processes. During early embryogenesis, acts as a survival protein. During mid-embryogenesis, phosphorylates and activates trh, a transcription factor required for tracheal cell fate determination. Also regulates tracheal cell migration. Later in development, acts downstream of PI3K and Pk61C/PDK1 in the insulin receptor transduction pathway which regulates cell growth and organ size, by phosphorylating and antagonizing FOXO transcription factor. Controls follicle cell size during oogenesis. M [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

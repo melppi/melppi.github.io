@@ -1,0 +1,48 @@
+{
+    "pae": 5.1,
+    "iptm": 37.4,
+    "pdockq": 0.026,
+    "proA": "FBpp0086853",
+    "proB": "FBpp0290602",
+    "geneA": "Dp",
+    "geneB": "mip120",
+    "annotationA": "Transcription factor Dp; Component of the DREAM complex, a multiprotein complex that can both act as a transcription activator or repressor depending on the context. In follicle cells, the complex plays a central role in the site-specific DNA replication at the chorion loci. During development, the complex represses transcription of developmentally controlled E2F target genes. Can stimulate E2F- dependent transcription",
+    "annotationB": "Protein lin-54 homolog; Component of the DREAM complex, a multiprotein complex that can both act as a transcription activator or repressor depending on the context. In follicle cells, the complex plays a central role in the site-specific DNA replication at the chorion loci. During development, the complex represses transcription of developmentally controlled E2F target genes",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 224,
+            "end_residue_number": 227,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 820,
+            "end_residue_number": 820,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "224-227"
+    ],
+    "interfaceB": [
+        "820-820"
+    ]
+}

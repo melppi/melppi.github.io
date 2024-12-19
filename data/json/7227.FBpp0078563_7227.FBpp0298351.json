@@ -1,0 +1,62 @@
+{
+    "pae": 14.3,
+    "iptm": 22.2,
+    "pdockq": 0.024,
+    "proA": "FBpp0078563",
+    "proB": "FBpp0298351",
+    "geneA": "CG31528",
+    "geneB": "Arr1",
+    "annotationA": "annotation not available",
+    "annotationB": "Phosrestin-2; Regulates photoreceptor cell deactivation. Arr1 and Arr2 proteins are mediators of rhodopsin inactivation and are essential for the termination of the phototransduction cascade",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 173,
+            "end_residue_number": 173,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 185,
+            "end_residue_number": 185,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 332,
+            "end_residue_number": 332,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "173-173",
+        "185-185"
+    ],
+    "interfaceB": [
+        "332-332"
+    ]
+}

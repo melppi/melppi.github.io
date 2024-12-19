@@ -1,0 +1,16 @@
+{
+    "pae": 14.6,
+    "iptm": 31.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073036",
+    "proB": "FBpp0083891",
+    "geneA": "Ccz1",
+    "geneB": "Rab7",
+    "annotationA": "Caffeine, calcium, zinc sensitivity 1 (Ccz1) forms a complex with Mon1 and acts as an exchange factor of the small G-protein Rab7. The Ccz1/Mon1 complex activates and recruits Rab7 to the maturing endosome, where Rab7 organizes the fusion of the matured endosome with the lysosome. Ccz1/Mon1 complex loss of function results in Rab7 phenotypes",
+    "annotationB": "Small ras-like GTPase RAB7; GTPase activity; protein complex binding; GTP binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 14.5,
+    "iptm": 20.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0072036",
+    "proB": "FBpp0306147",
+    "geneA": "gbb",
+    "geneB": "put",
+    "annotationA": "Protein 60A; Required for the growth of imaginal tissues and for patterning of the adult wing; Belongs to the TGF-beta family",
+    "annotationB": "Serine/threonine-protein kinase receptor; Punt (Put) is a transforming growth factor beta type II receptor that functions in both Dpp/BMP and Activin signaling. Pathway specificity in signaling output is determined by which type I receptor (Dpp/BMP or Activin one) is engaged in the complex with Put",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 46,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 430,
+            "end_residue_number": 430,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "46-46"
+    ],
+    "interfaceB": [
+        "430-430"
+    ]
+}

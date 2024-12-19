@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 16.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0086066",
+    "proB": "FBpp0291495",
+    "geneA": "Prosalpha5",
+    "geneB": "Rpn3",
+    "annotationA": "Proteasome subunit alpha type-5; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity; Belongs to the peptidase T1A family",
+    "annotationB": "Probable 26S proteasome non-ATPase regulatory subunit 3; Acts as a regulatory subunit of the 26 proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

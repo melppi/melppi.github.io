@@ -1,0 +1,16 @@
+{
+    "pae": 26.5,
+    "iptm": 13.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0072385",
+    "proB": "FBpp0079936",
+    "geneA": "NitFhit",
+    "geneB": "CG17010",
+    "annotationA": "Nitrilase and fragile histidine triad fusion protein NitFhit; Cleaves A-5'-PPP-5'A to yield AMP and ADP",
+    "annotationB": "Ribokinase; Catalyzes the phosphorylation of ribose at O-5 in a reaction requiring ATP and magnesium. The resulting D-ribose-5- phosphate can then be used either for sythesis of nucleotides, histidine, and tryptophan, or as a component of the pentose phosphate pathway",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

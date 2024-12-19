@@ -1,0 +1,16 @@
+{
+    "pae": 19.2,
+    "iptm": 21.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0078093",
+    "proB": "FBpp0082675",
+    "geneA": "CycH",
+    "geneB": "pnr",
+    "annotationA": "Cyclin H homolog; RNA polymerase II carboxy-terminal domain kinase activity; protein kinase binding; core RNA polymerase binding transcription factor activity; cyclin-dependent protein serine/threonine kinase activity; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; regulation of transcription, DNA-templated; regulation of cyclin-dependent protein serine/threonine kinase activity; transcription initiation from RNA polymerase II promoter",
+    "annotationB": "GATA-binding factor A; Transcriptional regulator involved in several developmental processes during embryonic and imaginal disks development. Involved in determining dorsal cell fate. Acts as an essential transcriptional regulator of proneural achaete-scute complex (AS-C) and is required for its spatial regulation during development of the adult peripheral nervous system, and hence for the positioning of neural precursors. It is the only factor to directly activate AS-C genes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

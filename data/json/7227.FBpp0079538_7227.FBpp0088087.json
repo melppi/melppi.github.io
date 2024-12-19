@@ -1,0 +1,62 @@
+{
+    "pae": 14.0,
+    "iptm": 34.6,
+    "pdockq": 0.027,
+    "proA": "FBpp0079538",
+    "proB": "FBpp0088087",
+    "geneA": "Prosalpha6",
+    "geneB": "cos",
+    "annotationA": "Proteasome subunit alpha type-1; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity; Belongs to the peptidase T1A family",
+    "annotationB": "Kinesin-like protein costa; Regulates cubitus interruptus (ci) processing by recruiting multiple kinases to promote its efficient phosphorylation. Scaffolds multiple kinases and ci into proximity to promote its hyperphosphorylation, which then targets it for SCFSlimb/proteasome-mediated processing to generate its repressor form. Hh signaling inhibits ci phosphorylation by interfering with the cos-ci-kinases complex formation. Negatively regulates hh- signaling pathways during various processes, including photoreceptor differentiation. May negatively regulate a hh-signaling pathway whic [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 28,
+            "end_residue_number": 31,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 77,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 496,
+            "end_residue_number": 501,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "28-31",
+        "77-77"
+    ],
+    "interfaceB": [
+        "496-501"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 15.6,
+    "iptm": 17.8,
+    "pdockq": 0.026,
+    "proA": "FBpp0077928",
+    "proB": "FBpp0082377",
+    "geneA": "Mst77F",
+    "geneB": "CG9920",
+    "annotationA": "Histone-like protein 18C; Not known. Encoded in the intron of cAMP-dependent protein kinase regulatory chain type I",
+    "annotationB": "AT30951p; Unfolded protein binding. It is involved in the biological process described with: protein folding; 'de novo' protein folding; Belongs to the GroES chaperonin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 85,
+            "end_residue_number": 90,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 41,
+            "end_residue_number": 42,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "85-90"
+    ],
+    "interfaceB": [
+        "41-42"
+    ]
+}

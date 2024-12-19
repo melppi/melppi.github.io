@@ -1,0 +1,16 @@
+{
+    "pae": 16.1,
+    "iptm": 32.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0070165",
+    "proB": "FBpp0290815",
+    "geneA": "mus81",
+    "geneB": "SMC5",
+    "annotationA": "EG:BACR7A4.16 protein; Mus81 is the catalytic subunit of the Mus81-mms4 structure-selective endonuclease that functions in DNA repair",
+    "annotationB": "Structural maintenance of chromosomes 5, isoform E; SUMO ligase activity; damaged DNA binding; ATPase activity. It is involved in the biological process described with: mitotic nuclear division; cellular response to DNA damage stimulus; mitotic sister chromatid segregation; DNA repair; response to caffeine; double-strand break repair via homologous recombination",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

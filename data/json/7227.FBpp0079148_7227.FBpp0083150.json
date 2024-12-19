@@ -1,0 +1,146 @@
+{
+    "pae": 13.3,
+    "iptm": 24.2,
+    "pdockq": 0.374,
+    "proA": "FBpp0079148",
+    "proB": "FBpp0083150",
+    "geneA": "mts",
+    "geneB": "cry",
+    "annotationA": "Serine/threonine-protein phosphatase PP2A; Protein serine/threonine phosphatase activity; phosphatase regulator activity",
+    "annotationB": "Cryptochrome-1; Blue light-dependent regulator that is the input of the circadian feedback loop. Has no photolyase activity for cyclobutane pyrimidine dimers or 6-4 photoproducts. Regulation of expression by light suggests a role in photoreception for locomotor activity rhythms. Functions, together with per, as a transcriptional repressor required for the oscillation of peripheral circadian clocks and for the correct specification of clock cells. Genes directly activated by the transcription factors Clock (Clk) and cycle (cyc) are repressed by cry. Necessary for light-dependent magneto [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 304,
+            "end_residue_number": 309,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 158,
+            "end_residue_number": 158,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 251,
+            "end_residue_number": 258,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 265,
+            "end_residue_number": 270,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 307,
+            "end_residue_number": 318,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 376,
+            "end_residue_number": 385,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 404,
+            "end_residue_number": 404,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 408,
+            "end_residue_number": 410,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 415,
+            "end_residue_number": 423,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "304-309"
+    ],
+    "interfaceB": [
+        "158-158",
+        "251-258",
+        "265-270",
+        "307-318",
+        "376-385",
+        "404-404",
+        "408-410",
+        "415-423"
+    ]
+}

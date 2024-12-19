@@ -1,0 +1,16 @@
+{
+    "pae": 25.8,
+    "iptm": 10.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0078532",
+    "proB": "FBpp0083802",
+    "geneA": "CG9769",
+    "geneB": "RpS3",
+    "annotationA": "Eukaryotic translation initiation factor 3 subunit F-1; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "annotationB": "Ribosomal protein S3 (RpS3) is a component of the small subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles. RpS3 also contains a DNA lyase activity and functions in DNA repair",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

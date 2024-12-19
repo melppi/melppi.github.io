@@ -1,0 +1,118 @@
+{
+    "pae": 12.7,
+    "iptm": 27.5,
+    "pdockq": 0.265,
+    "proA": "FBpp0071193",
+    "proB": "FBpp0087045",
+    "geneA": "CG1785",
+    "geneB": "CG8545",
+    "annotationA": "Ribosome biogenesis protein NOP53; May play a role in ribosome biogenesis, being required for integration of the 5S RNP into the ribosomal large subunit",
+    "annotationB": "LD11307p; RNA binding; S-adenosylmethionine-dependent methyltransferase activity. It is involved in the biological process described with: rRNA processing; Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB/NOP family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 168,
+            "end_residue_number": 170,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 175,
+            "end_residue_number": 190,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 555,
+            "end_residue_number": 555,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 580,
+            "end_residue_number": 590,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 610,
+            "end_residue_number": 613,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 638,
+            "end_residue_number": 639,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 643,
+            "end_residue_number": 646,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "168-170",
+        "175-190"
+    ],
+    "interfaceB": [
+        "555-555",
+        "580-590",
+        "610-613",
+        "638-639",
+        "643-646"
+    ]
+}

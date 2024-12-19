@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 17.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0081580",
+    "proB": "FBpp0084614",
+    "geneA": "Scm",
+    "geneB": "Sce",
+    "annotationA": "Polycomb protein Scm; Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility; Belongs to the SCM family",
+    "annotationB": "E3 ubiquitin-protein ligase RING1; E3 ubiquitin-protein ligase that mediates monoubiquitination of 'Lys-118' of histone H2A, thereby playing a central role in histone code and gene regulation. H2A 'Lys-118' ubiquitination gives a specific tag for epigenetic transcriptional repression. Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. PcG [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

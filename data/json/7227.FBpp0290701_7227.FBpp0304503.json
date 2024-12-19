@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 9.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0290701",
+    "proB": "FBpp0304503",
+    "geneA": "CG7048",
+    "geneB": "mRpS7",
+    "annotationA": "Probable prefoldin subunit 5; Binds specifically to cytosolic chaperonin (c-CPN) and transfers target proteins to it. Binds to nascent polypeptide chain and promotes folding in an environment in which there are many competing pathways for nonnative proteins (By similarity)",
+    "annotationB": "28S ribosomal protein S7, mitochondrial; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uS7 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

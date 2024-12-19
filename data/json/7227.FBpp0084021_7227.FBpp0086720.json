@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 21.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0084021",
+    "proB": "FBpp0086720",
+    "geneA": "CG5706",
+    "geneB": "Aats-phe",
+    "annotationA": "Phenylalanyl-tRNA synthetase, beta-subunit is a cytoplasmic aminoacyl-tRNA synthetase that catalyzes the ligation of Phenylalanine to its cognate tRNAPhe. Together with the alpha-subunit it forms a tetrameric enzyme complex. This subunit plays a role in recognition and binding of tRNAPhe and it provides the editing site that hydrolyzes wrongfully activated or ligated compounds",
+    "annotationB": "Probable phenylalanine--tRNA ligase, mitochondrial; Is responsible for the charging of tRNA(Phe) with phenylalanine in mitochondrial translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

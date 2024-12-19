@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 14.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0072480",
+    "proB": "FBpp0076076",
+    "geneA": "CG13887",
+    "geneB": "Dronc",
+    "annotationA": "Uncharacterized protein, isoform B; It is involved in the biological process described with: intracellular protein transport",
+    "annotationB": "Caspase Dronc; Involved in the activation cascade of caspases responsible for apoptosis execution. Effector of steroid-mediated apoptosis during insect metamorphosis. Overexpression promotes programmed cell death. Interaction with Diap1 is required to suppress Dronc-mediated cell death; via Diap1-mediated ubiquitination of Dronc. Rate-limiting caspase in rpr and hid death pathway",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

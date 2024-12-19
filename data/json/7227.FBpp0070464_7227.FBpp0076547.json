@@ -1,0 +1,62 @@
+{
+    "pae": 2.0,
+    "iptm": 48.6,
+    "pdockq": 0.412,
+    "proA": "FBpp0070464",
+    "proB": "FBpp0076547",
+    "geneA": "CG2709",
+    "geneB": "mei-P22",
+    "annotationA": "RING finger protein vilya; Required for the formation of DNA double-strand breaks during meiosis",
+    "annotationB": "Meiotic P22 is thought to form a dimer with the TopoVIA subunit mei-W68 and is required for meiotic double strand breakes in female meiosis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 133,
+            "end_residue_number": 160,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 267,
+            "end_residue_number": 282,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 306,
+            "end_residue_number": 316,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "133-160"
+    ],
+    "interfaceB": [
+        "267-282",
+        "306-316"
+    ]
+}

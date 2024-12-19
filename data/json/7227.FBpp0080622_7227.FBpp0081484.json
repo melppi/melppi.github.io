@@ -1,0 +1,76 @@
+{
+    "pae": 11.3,
+    "iptm": 50.2,
+    "pdockq": 0.134,
+    "proA": "FBpp0080622",
+    "proB": "FBpp0081484",
+    "geneA": "CG10333",
+    "geneB": "CG11985",
+    "annotationA": "RH55640p; ATP binding; ATP-dependent RNA helicase activity; nucleic acid binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; neurogenesis",
+    "annotationB": "Probable splicing factor 3B subunit 5; Necessary for the splicing of pre-mRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 322,
+            "end_residue_number": 331,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 335,
+            "end_residue_number": 349,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 37,
+            "end_residue_number": 37,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 66,
+            "end_residue_number": 84,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "322-331",
+        "335-349"
+    ],
+    "interfaceB": [
+        "37-37",
+        "66-84"
+    ]
+}

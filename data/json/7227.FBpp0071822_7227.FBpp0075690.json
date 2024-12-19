@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 20.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071822",
+    "proB": "FBpp0075690",
+    "geneA": "CycB",
+    "geneB": "vih",
+    "annotationA": "G2/mitotic-specific cyclin-B; Cyclin B (CycB) binds to Cdk1, thereby promoting Cdk1's protein kinase activity. The complex CycB-Cdk1 complex induces the start of mitosis. During late metaphase of mitosis and continuing in G1, CycB is rapidly degraded (involving APC/C and the proteasome), resulting in inactivation of Cdk1 protein kinase activity, and allowing termination of mitosis",
+    "annotationB": "Ubiquitin-conjugating enzyme E2 C; Catalyzes the covalent attachment of ubiquitin to other proteins. Acts as an essential factor of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated ubiquitin ligase that controls progression through mitosis. Acts by initiating polyubiquitin chains on APC/C substrates, leading to the degradation of APC/C substrates by the proteasome and promoting mitotic exit; Belongs to the ubiquitin-conjugating enzyme family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

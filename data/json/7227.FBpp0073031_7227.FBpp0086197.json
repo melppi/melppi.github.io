@@ -1,0 +1,16 @@
+{
+    "pae": 16.8,
+    "iptm": 25.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0073031",
+    "proB": "FBpp0086197",
+    "geneA": "Eip63F-1",
+    "geneB": "Pkc53E",
+    "annotationA": "Calcium-binding protein E63-1; Ecdysone-induced protein 63F 1 is a member of the EF-hand family of Ca(2+)-binding proteins, induced directly by 20-hydroxyecdysone in late third instar larvae. It is responsible for formation of the 63F early puff in the polytene chromosomes",
+    "annotationB": "Protein kinase C, brain isozyme; PKC is activated by diacylglycerol which in turn phosphorylates a range of cellular proteins (By similarity). PKC also serves as the receptor for phorbol esters, a class of tumor promoters (By similarity). Acts in a hh-signaling pathway which regulates the Duox-dependent gut immune response to bacterial uracil; required for the activation of Cad99C and consequently Cad99C-dependent endosome formation, which is essential for the Duox-dependent production of reactive oxygen species (ROS) in response to intestinal bacterial infection",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

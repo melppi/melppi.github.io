@@ -1,0 +1,48 @@
+{
+    "pae": 11.6,
+    "iptm": 19.9,
+    "pdockq": 0.034,
+    "proA": "FBpp0072608",
+    "proB": "FBpp0087059",
+    "geneA": "msd5",
+    "geneB": "dgt5",
+    "annotationA": "Augmin complex subunit msd5; As part of the augmin complex, plays a role in centrosome-independent generation of spindle microtubules. The complex is required for mitotic spindle assembly through its involvement in localizing gamma-tubulin to spindle microtubules",
+    "annotationB": "Augmin complex subunit dgt5; As part of the augmin complex, plays a role in centrosome-independent generation of spindle microtubules. The complex is required for mitotic spindle assembly through its involvement in localizing gamma-tubulin to spindle microtubules",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 230,
+            "end_residue_number": 248,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 270,
+            "end_residue_number": 289,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "230-248"
+    ],
+    "interfaceB": [
+        "270-289"
+    ]
+}

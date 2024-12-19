@@ -1,0 +1,16 @@
+{
+    "pae": 17.3,
+    "iptm": 20.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0110266",
+    "proB": "FBpp0289608",
+    "geneA": "Hsf",
+    "geneB": "CaMKII",
+    "annotationA": "Heat shock factor protein; DNA-binding protein that specifically binds heat shock promoter elements (HSE) and activates transcription. In higher eukaryotes, HSF is unable to bind to the HSE unless the cells are heat shocked",
+    "annotationB": "Calcium/calmodulin-dependent protein kinase II (CaMKII) is an abundant Ca[2+]-calmodulin-regulated serine/threonine protein kinase. In neurons it has a wide range of substrates in multiple subcellular compartments, regulating synaptic plasticity, excitability and cytoskeletal interactions",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

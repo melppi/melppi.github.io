@@ -1,0 +1,16 @@
+{
+    "pae": 19.7,
+    "iptm": 20.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0072503",
+    "proB": "FBpp0089151",
+    "geneA": "Vti1",
+    "geneB": "lqf",
+    "annotationA": "Vesicle transport through interaction with t-SNAREs 1a; SNAP receptor activity. It is involved in the biological process described with: vesicle-mediated transport; intracellular protein transport; vesicle fusion",
+    "annotationB": "Liquid facets, isoform A; It is involved in the biological process described with: positive regulation of Notch signaling pathway; synaptic vesicle endocytosis; autophagy; endocytosis; storage protein import into fat body; negative regulation of cardioblast cell fate specification; regulation of Notch signaling pathway; neurotransmitter secretion",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

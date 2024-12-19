@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 20.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0079648",
+    "proB": "FBpp0087004",
+    "geneA": "RnrL",
+    "geneB": "Ak6",
+    "annotationA": "Ribonucleoside-diphosphate reductase large subunit; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides",
+    "annotationB": "Adenylate kinase isoenzyme 6 homolog; Broad-specificity nucleoside monophosphate (NMP) kinase that catalyzes the reversible transfer of the terminal phosphate group between nucleoside triphosphates and monophosphates. AMP is the best phosphate acceptor, and CMP is also a good substrate. All nucleoside triphosphates ATP, TTP, CTP, GTP, and UTP are accepted as phosphate donors. ATP is the best phosphate donor. May have a role in nuclear energy homeostasis; Belongs to the adenylate kinase family. AK6 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

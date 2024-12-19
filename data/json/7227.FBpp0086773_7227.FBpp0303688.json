@@ -1,0 +1,76 @@
+{
+    "pae": 11.1,
+    "iptm": 18.5,
+    "pdockq": 0.052,
+    "proA": "FBpp0086773",
+    "proB": "FBpp0303688",
+    "geneA": "fl(2)d",
+    "geneB": "Hakai",
+    "annotationA": "Pre-mRNA-splicing regulator female-lethal(2)D; Required for male and female viability, sex determination and dosage compensation. Involved in the female- specific splicing of Sxl transcripts. Required for proper inclusion of regulated exons in Ubx transcripts, leading to isoforms Ia/b and IIa/b; Belongs to the fl(2)d family",
+    "annotationB": "Hakai, isoform F; Hakai is a ring finger type E3 ubiquitin ligase that associates with the cadherin shg. It is essential for organismal viability and embryonic morphogenesis, but is dispensable for cell viability and proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 272,
+            "end_residue_number": 291,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 152,
+            "end_residue_number": 152,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 156,
+            "end_residue_number": 167,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 171,
+            "end_residue_number": 173,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "272-291"
+    ],
+    "interfaceB": [
+        "152-152",
+        "156-167",
+        "171-173"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 16.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070283",
+    "proB": "FBpp0086649",
+    "geneA": "O-fut2",
+    "geneB": "O-fut1",
+    "annotationA": "GDP-fucose protein O-fucosyltransferase 2; Catalyzes the reaction that attaches fucose through an O-glycosidic linkage to a conserved serine or threonine residue in the consensus sequence C1-X(2,3)-S/T-C2-X(2)-G of thrombospondin type 1 repeats where C1 and C2 are the first and second cysteines, respectively. O-fucosylates members of a number of protein families including the ADAMTS family, the thrombosporin (TSP) and spondin families",
+    "annotationB": "GDP-fucose protein O-fucosyltransferase 1; Catalyzes the reaction that attaches fucose through an O-glycosidic linkage to a conserved serine or threonine residue found in the consensus sequence C2-X(4,5)-[S/T]-C3 of EGF domains, where C2 and C3 are the second and third conserved cysteines. Specifically uses GDP-fucose as donor substrate and proper disulfide pairing of the substrate EGF domains is required for fucose transfer. Plays a crucial role in Notch signaling. Initial fucosylation of Notch/N by POFUT1 generates a substrate for Fringe/Fng, an acetylglucosaminyltransferase that can [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

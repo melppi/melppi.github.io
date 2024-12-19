@@ -1,0 +1,90 @@
+{
+    "pae": 2.0,
+    "iptm": 74.0,
+    "pdockq": 0.413,
+    "proA": "FBpp0072801",
+    "proB": "FBpp0082483",
+    "geneA": "RpL8",
+    "geneB": "RpL10Aa",
+    "annotationA": "60S ribosomal protein L8; Structural constituent of ribosome. It is involved in the biological process described with: regulation of cell size; insulin receptor signaling pathway; mitotic spindle elongation; translation; compound eye development; centrosome duplication; mitotic spindle organization",
+    "annotationB": "Ribosomal protein L10Aa; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: phagocytosis; translation; neurogenesis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 173,
+            "end_residue_number": 184,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 245,
+            "end_residue_number": 247,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 33,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 161,
+            "end_residue_number": 165,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 201,
+            "end_residue_number": 214,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "173-184",
+        "245-247"
+    ],
+    "interfaceB": [
+        "33-45",
+        "161-165",
+        "201-214"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 20.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0079710",
+    "proB": "FBpp0083801",
+    "geneA": "Nup107",
+    "geneB": "Sec13",
+    "annotationA": "Nuclear pore complex protein Nup107; Plays a role in nuclear pore complex (NPC) assembly and maintenance. Required for nuclear import of Mad. Plays a role in double strand break repair by relocalizing the heterochromatic double strain breaks (DSBs) to the nuclear periphery as part of the homologous recombination (HR) repair process. Regulates cytokinesis during spermatocyte meiosis by maintaining type-B lamin Lam localization to the spindle envelope. Regulates female gonad development and oogenesis; Belongs to the nucleoporin Nup84/Nup107 family",
+    "annotationB": "Protein SEC13 homolog; Functions as a component of the nuclear pore complex (NPC) and the COPII coat (By similarity). At the endoplasmic reticulum, SEC13 is involved in the biogenesis of COPII-coated vesicles (By similarity). Recruited to transcriptionally active chromatin at the time of transcription initiation by RNA polymerase II. Required for proper expression of ecdysone-responsive genes such as Eip74EF and Eip75B during larval development. Required for reactivation of transcription after heat shock. Required for nuclear import of phosphorylated Mad via importin msk. Has no role i [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

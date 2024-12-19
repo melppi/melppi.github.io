@@ -1,0 +1,16 @@
+{
+    "pae": 26.9,
+    "iptm": 16.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0076789",
+    "proB": "FBpp0082647",
+    "geneA": "DNApol-epsilon58",
+    "geneB": "rec",
+    "annotationA": "DNA polymerase epsilon subunit; Participates in DNA repair and in chromosomal DNA replication",
+    "annotationB": "DNA replication licensing factor REC; Recombination-defective interacts with other Mini-Chromosome Maintenance (MCM)-related proteins (mei-217 and mei-218) to make meiotic crossovers",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

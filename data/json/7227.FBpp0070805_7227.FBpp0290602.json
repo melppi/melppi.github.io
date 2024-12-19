@@ -1,0 +1,16 @@
+{
+    "pae": 16.4,
+    "iptm": 21.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0070805",
+    "proB": "FBpp0290602",
+    "geneA": "lin-52",
+    "geneB": "mip120",
+    "annotationA": "Myb-MuvB complex subunit Lin-52; It is involved in the biological process described with: compound eye development; cell cycle; negative regulation of transcription from RNA polymerase II promoter",
+    "annotationB": "Protein lin-54 homolog; Component of the DREAM complex, a multiprotein complex that can both act as a transcription activator or repressor depending on the context. In follicle cells, the complex plays a central role in the site-specific DNA replication at the chorion loci. During development, the complex represses transcription of developmentally controlled E2F target genes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

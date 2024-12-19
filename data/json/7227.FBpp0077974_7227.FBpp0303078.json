@@ -1,0 +1,16 @@
+{
+    "pae": 21.5,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0077974",
+    "proB": "FBpp0303078",
+    "geneA": "park",
+    "geneB": "HtrA2",
+    "annotationA": "E3 ubiquitin-protein ligase parkin; Functions within a multiprotein E3 ubiquitin ligase complex, catalyzing the covalent attachment of ubiquitin moieties onto substrate proteins; Belongs to the RBR family. Parkin subfamily",
+    "annotationB": "Serine protease HTRA2, mitochondrial; Serine protease that shows proteolytic activity against a non-specific substrate beta-casein. Promotes or induces cell death either by direct binding to and inhibition of BIRC proteins (also called inhibitor of apoptosis proteins, IAPs), leading to an increase in caspase activity, or by a BIRC inhibition-independent, caspase-independent and serine protease activity-dependent mechanism. Can antagonize antiapoptotic activity of th by directly inducing the degradation of th",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

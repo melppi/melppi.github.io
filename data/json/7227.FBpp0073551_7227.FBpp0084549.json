@@ -1,0 +1,16 @@
+{
+    "pae": 16.6,
+    "iptm": 20.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0073551",
+    "proB": "FBpp0084549",
+    "geneA": "lic",
+    "geneB": "pll",
+    "annotationA": "MAP kinase kinase activity; protein kinase activity; ATP binding; receptor signaling protein serine/threonine kinase activity; mitogen-activated protein kinase kinase kinase binding; protein serine/threonine kinase activity. It is involved in the biological process described with: protein phosphorylation; mucosal immune response; oocyte axis specification; positive regulation of protein phosphorylation; activation of MAPK activity; positive regulation of cell size; regulation of adult chitin-containing cuticle pigmentation; oocyte anterior/posterior axis specification; positive regulat [...] ",
+    "annotationB": "Serine/threonine-protein kinase pelle; Plays an essential role in the Tl receptor signaling pathway that establishes embryonic dorsoventral polarity; the signal directs import of dl into ventral and ventrolateral nuclei, thereby establishing dorsoventral polarity. Tub recruits pll to the plasma membrane and protein-protein interaction activates pll; Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. Pelle subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,62 @@
+{
+    "pae": 5.6,
+    "iptm": 57.9,
+    "pdockq": 0.278,
+    "proA": "FBpp0075048",
+    "proB": "FBpp0076723",
+    "geneA": "scaf6",
+    "geneB": "CG13298",
+    "annotationA": "SR-related CTD associated factor 6, isoform A; mRNA binding. It is involved in the biological process described with: mRNA splicing, via spliceosome",
+    "annotationB": "Splicing factor 3B subunit 6-like protein; Necessary for the splicing of pre-mRNA",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 936,
+            "end_residue_number": 960,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 23,
+            "end_residue_number": 39,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 68,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "936-960"
+    ],
+    "interfaceB": [
+        "23-39",
+        "68-80"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "pae": 11.8,
+    "iptm": 16.0,
+    "pdockq": 0.039,
+    "proA": "FBpp0073211",
+    "proB": "FBpp0081714",
+    "geneA": "CG32235",
+    "geneB": "CG31406",
+    "annotationA": "annotation not available",
+    "annotationB": "Uncharacterized protein, isoform B; It is involved in the biological process described with: notum morphogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 62,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 107,
+            "end_residue_number": 122,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 147,
+            "end_residue_number": 161,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "62-78"
+    ],
+    "interfaceB": [
+        "107-122",
+        "147-161"
+    ]
+}

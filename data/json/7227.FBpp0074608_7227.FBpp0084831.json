@@ -1,0 +1,16 @@
+{
+    "pae": 23.6,
+    "iptm": 18.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0074608",
+    "proB": "FBpp0084831",
+    "geneA": "polo",
+    "geneB": "Bub3",
+    "annotationA": "Serine/threonine-protein kinase polo; May play a role in regulating both nuclear and cytoplasmic aspects of the mitotic cycle. Regulates localization of the augmin complex during mitosis by ensuring its location on mitotic spindles. Also regulates augmin complex localization during male meiosis by promoting its placement at kinetochores while preventing its association with spindle microtubules",
+    "annotationB": "Bub3, isoform A; Bub3 functions in the \"spindle assembly checkpoint (SAC)\" pathway. This mitotic checkpoint pathway inhibits the APC/C complex and hence the transition from metaphase to anaphase, as long as there are free kinetochores that are not yet attached to the mitotic spindle in the cell. Bub3 is localized at the kinetochore during mitosis with maximal levels observed at free kinetochores. Together with other SAC proteins it forms mitotic checkpoint complexes that bind and inhibit the APC/C",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

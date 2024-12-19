@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 21.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0079171",
+    "proB": "FBpp0079309",
+    "geneA": "Spn28Dc",
+    "geneB": "Bace",
+    "annotationA": "Serine protease inhibitor 28Dc; Serine protease inhibitor which is required for pupal viability and plays an essential role in regulating the melanization reaction. Inhibits spontaneous melanization and appears to be involved in the melanization immune response to physical wounding in larvae and adults. Acts by negatively regulating the Hayan-phenoloxidase (PPO1) cascade in the hemolymph and possibly the trachea. May function by controlling the initial release of the activated form of PPO1, phenoloxidase (PO) and thus maintains PO availability for processes such as wound response and p [...] ",
+    "annotationB": "Beta-site APP-cleaving enzyme (Bace) is an aspartic protease that cleaves amyloid precursor proteins. In humans, Bace, together with the gamma-secretase complex, generates the toxic Abeta peptide that accumulates in Alzheimer's disease. Drosophila Bace contributes to glial cell survival and enhances neuronal degeneration caused by expression of Appl; Belongs to the peptidase A1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

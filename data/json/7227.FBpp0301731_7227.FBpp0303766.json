@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 20.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0301731",
+    "proB": "FBpp0303766",
+    "geneA": "lwr",
+    "geneB": "ald",
+    "annotationA": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "annotationB": "Monopolar spindle 1, isoform B; Protein serine/threonine kinase activity; protein kinase activity; ATP binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

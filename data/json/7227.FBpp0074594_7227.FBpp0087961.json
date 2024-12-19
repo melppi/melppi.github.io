@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 23.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0074594",
+    "proB": "FBpp0087961",
+    "geneA": "Su(var)3-3",
+    "geneB": "Kdm4A",
+    "annotationA": "Possible lysine-specific histone demethylase 1; Probable histone demethylase that specifically demethylates 'Lys-4' of histone H3, a specific tag for epigenetic transcriptional activation, thereby acting as a corepressor. Required for heterochromatic gene silencing. Acts by oxidizing the substrate by FAD to generate the corresponding imine that is subsequently hydrolyzed. Demethylates both mono- and tri- methylated 'Lys-4' of histone H3. May also demethylate 'Lys-9' of histone H3, Plays a role in the repression of neuronal genes; Belongs to the flavin monoamine oxidase family",
+    "annotationB": "Probable lysine-specific demethylase 4A; Probable histone demethylase that specifically demethylates 'Lys-9' and 'Lys-36' residues of histone H3, thereby playing a central role in histone code. Demethylation of Lys residue generates formaldehyde and succinate (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

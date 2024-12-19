@@ -1,0 +1,90 @@
+{
+    "pae": 3.5,
+    "iptm": 67.7,
+    "pdockq": 0.149,
+    "proA": "FBpp0078967",
+    "proB": "FBpp0082120",
+    "geneA": "CG11236",
+    "geneB": "Gnmt",
+    "annotationA": "Uncharacterized protein, isoform A; D-aspartate oxidase activity. It is involved in the biological process described with: oxidation-reduction process",
+    "annotationB": "Glycine N-methyltransferase catalyzes the methylation reaction of glycine to generate sarcosine (N-methylglycine).  It is abundantly expressed in the fat body and controls the amount of methyl donor S-adenosylmethionine (SAM); Belongs to the class I-like SAM-binding methyltransferase superfamily. Glycine N-methyltransferase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 82,
+            "end_residue_number": 87,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 94,
+            "end_residue_number": 94,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 222,
+            "end_residue_number": 222,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 213,
+            "end_residue_number": 217,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 237,
+            "end_residue_number": 237,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "82-87",
+        "94-94",
+        "222-222"
+    ],
+    "interfaceB": [
+        "213-217",
+        "237-237"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 16.1,
+    "iptm": 21.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0070584",
+    "proB": "FBpp0083214",
+    "geneA": "VhaAC39-1",
+    "geneB": "Vha13",
+    "annotationA": "V-type proton ATPase subunit d 1; Subunit of the integral membrane V0 complex of vacuolar ATPase. Vacuolar ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells, thus providing most of the energy required for transport processes in the vacuolar system. In aerobic conditions, involved in intracellular iron homeostasis, thus triggering the activity of Fe(2+) prolyl hydroxylase (PHD) enzymes, and leading to HIF1A hydroxylation and subsequent proteasomal degradation (By similarity)",
+    "annotationB": "V-type proton ATPase subunit G; Catalytic subunit of the peripheral V1 complex of vacuolar ATPase (V-ATPase). V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

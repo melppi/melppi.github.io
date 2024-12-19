@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 19.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0071497",
+    "proB": "FBpp0078754",
+    "geneA": "mago",
+    "geneB": "Hel25E",
+    "annotationA": "Protein mago nashi; Core component of the splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junctions on mRNAs. Involved in exon definition of genes containing long introns, including the rolled/MAPK gene. The mago-tsu heterodimer interacts with the EJC key regulator Pym leading to EJC disassembly in the cytoplasm. Has a role in oskar mRNA localization to the posterior pole of the developing oocyte, and may also be involved in polarization of the oocyte microtubule cytoskeleton",
+    "annotationB": "ATP-dependent RNA helicase WM6; Required for mRNA export out of the nucleus. Probable RNA helicase that may regulate entry into mitosis by down- regulating the expression of other genes whose activity may be rate-limiting for entry into mitosis during embryogenesis. Binds to salivary gland chromosomes and modifies position effect variegation. Promotes an open chromatin structure that favors transcription during development by regulating the spread of heterochromatin",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

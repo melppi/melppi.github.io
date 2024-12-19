@@ -1,0 +1,16 @@
+{
+    "pae": 16.2,
+    "iptm": 19.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0083078",
+    "proB": "FBpp0083857",
+    "geneA": "CG31229",
+    "geneB": "SdhD",
+    "annotationA": "Mitochondrial import inner membrane translocase subunit Tim22; Essential core component of the TIM22 complex, a complex that mediates the import and insertion of multi-pass transmembrane proteins into the mitochondrial inner membrane. In the TIM22 complex, it constitutes the voltage-activated and signal-gated channel. Forms a twin-pore translocase that uses the membrane potential as external driving force in 2 voltage-dependent steps (By similarity)",
+    "annotationB": "Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial; Membrane-anchoring subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q); Belongs to the CybS family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

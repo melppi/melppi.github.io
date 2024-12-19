@@ -1,0 +1,48 @@
+{
+    "pae": 14.6,
+    "iptm": 11.1,
+    "pdockq": 0.024,
+    "proA": "FBpp0070631",
+    "proB": "FBpp0070632",
+    "geneA": "Femcoat",
+    "geneB": "CG15571",
+    "annotationA": "Femcoat; Structural constituent of chorion. It is involved in the biological process described with: eggshell chorion assembly",
+    "annotationB": "GEO10373p1; It is involved in the biological process described with: eggshell chorion assembly",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 13,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 51,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "13-16"
+    ],
+    "interfaceB": [
+        "48-51"
+    ]
+}

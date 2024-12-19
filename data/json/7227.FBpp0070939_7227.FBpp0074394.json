@@ -1,0 +1,16 @@
+{
+    "pae": 16.6,
+    "iptm": 22.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0070939",
+    "proB": "FBpp0074394",
+    "geneA": "shf",
+    "geneB": "Wnt5",
+    "annotationA": "Protein shifted; Required for normal accumulation and movement of lipid- modified hedgehog (hh) morphogen. May act by stabilizing the interaction between heparan sulfate proteoglycans (HSPGs) and hh, HSPGs being required for diffusion of hh morphogen. Not involved in wingless (wg) morphogen movement, suggesting that it may provide HSPG specificity for Hh",
+    "annotationB": "Protein Wnt-5; Binds as a ligand to a family of frizzled seven- transmembrane receptors and acts through a cascade of genes on the nucleus. Probable developmental protein. May be a signaling molecule which affects the development of discrete regions of tissues. Is likely to signal over only few cell diameters. May have a role in limb and CNS development; may be a downstream target of Dll that acts in the specification of these primordia; Belongs to the Wnt family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

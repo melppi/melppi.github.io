@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 20.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0294035",
+    "proB": "FBpp0305904",
+    "geneA": "Fs(2)Ket",
+    "geneB": "Ntf-2",
+    "annotationA": "Importin subunit beta; Required for nuclear protein import and mediates docking of import substrate to distinct nucleoporins. In Drosophila, may not function as a snRNP import receptor as it does not interact with components of the snRNP complex such as snRNP U1, U2, U4/U6 and Snup",
+    "annotationB": "Nuclear transport factor-2 (Ntf-2) is an essential gene regulating nuclear import. Ntf-2 binds to the nuclear pore protein DCTN4-p62 and to Ran and regulates the nuclear import of nuclear localization signal containing proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

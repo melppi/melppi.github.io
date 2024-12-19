@@ -1,0 +1,16 @@
+{
+    "pae": 21.0,
+    "iptm": 18.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0079769",
+    "proB": "FBpp0086432",
+    "geneA": "aurB",
+    "geneB": "Diap2",
+    "annotationA": "Aurora B (AurB) is a serine-threonine kinase and member of the chromosomal passenger complex. AurB plays multiple roles in mitosis including the correction of erroneous chromosome-spindle interactions, chromosome condensation, kinetochore assembly, spindle assembly checkpoint and cytokinesis; Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Aurora subfamily",
+    "annotationB": "Death-associated inhibitor of apoptosis 2; Required for activation of NF-kappaB transcription factors in the immune deficiency (Imd) signaling cascade which is essential for innate immune responses upon infection by Gram- negative bacteria. Promotes cytoplasmic cleavage of Rel and its translocation to the nucleus where it drives expression of antimicrobial peptides. Binds, polyubiquitinates and activates Dredd which is required for Rel-mediated induction of antimicrobial peptides. Anti-apoptotic protein which binds, ubiquitinates and inactivates the effector caspase Drice. Suppresses r [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

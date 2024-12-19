@@ -1,0 +1,48 @@
+{
+    "pae": 14.6,
+    "iptm": 11.0,
+    "pdockq": 0.027,
+    "proA": "FBpp0078167",
+    "proB": "FBpp0083126",
+    "geneA": "ND-B14.5AL",
+    "geneB": "NP15.6",
+    "annotationA": "NADH dehydrogenase (ubiquinone) activity. It is involved in the biological process described with: ATP synthesis coupled electron transport",
+    "annotationB": "Uncharacterized protein NP15.6; It is involved in the biological process described with: respiratory electron transport chain",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 12,
+            "end_residue_number": 17,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 94,
+            "end_residue_number": 94,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "12-17"
+    ],
+    "interfaceB": [
+        "94-94"
+    ]
+}

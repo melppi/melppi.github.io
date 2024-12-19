@@ -1,0 +1,16 @@
+{
+    "pae": 26.2,
+    "iptm": 13.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0080495",
+    "proB": "FBpp0087668",
+    "geneA": "VhaSFD",
+    "geneB": "VhaAC45",
+    "annotationA": "V-type proton ATPase subunit H; Subunit of the peripheral V1 complex of vacuolar ATPase. Subunit H activates the ATPase activity of the enzyme and couples ATPase activity to proton flow. Vacuolar ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells, thus providing most of the energy required for transport processes in the vacuolar system (By similarity)",
+    "annotationB": "Vacuolar H[+] ATPase AC45 accessory subunit, isoform A; Proton-transporting ATP synthase activity, rotational mechanism; proton-transporting ATPase activity, rotational mechanism. It is involved in the biological process described with: ATP hydrolysis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

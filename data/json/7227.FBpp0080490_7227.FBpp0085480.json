@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 15.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0080490",
+    "proB": "FBpp0085480",
+    "geneA": "Prosbeta4",
+    "geneB": "geminin",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; cellular process; multicellular organism reproduction; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "annotationB": "Geminin, isoform A; DNA binding. It is involved in the biological process described with: eggshell chorion gene amplification; regulation of syncytial blastoderm mitotic cell cycle; endomitotic cell cycle; regulation of cell cycle; negative regulation of epidermal growth factor receptor signaling pathway; negative regulation of DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

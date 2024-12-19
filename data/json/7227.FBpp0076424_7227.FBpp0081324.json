@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 14.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0076424",
+    "proB": "FBpp0081324",
+    "geneA": "eIF4E-3",
+    "geneB": "eIF4AIII",
+    "annotationA": "Eukaryotic translation initiation factor 4E-3 (eIF4E-3) binds the 7-methyl-guanosine cap structure of mRNA. It is a component of the eIF4F cap-binding complex that is essential for cap-dependent translation of mRNA. eIF4E-3 is primarily expressed in testes and is required for male fertility, but not for viability",
+    "annotationB": "Eukaryotic initiation factor 4A-III; ATP-dependent RNA helicase. Core component of the splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junctions on mRNAs. Involved in exon definition of genes containing long introns, including the rolled/MAPK gene. Has a role in oskar mRNA localization at the posterior pole of the developing oocyte",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

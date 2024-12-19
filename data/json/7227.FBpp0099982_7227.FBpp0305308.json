@@ -1,0 +1,104 @@
+{
+    "pae": 1.4,
+    "iptm": 88.9,
+    "pdockq": 0.518,
+    "proA": "FBpp0099982",
+    "proB": "FBpp0305308",
+    "geneA": "bocks",
+    "geneB": "baf",
+    "annotationA": "LEM domain-containing protein Bocksbeutel; Inner nuclear membrane protein. May have a role in maintaining the structural integrity of the nuclear lamina. During pupal development, plays essential and redundant functions with the other LEM domain proteins; MAN1 and Ote. Also has a redundant but important role with Ote in larval development",
+    "annotationB": "Barrier-to-autointegration factor; Plays fundamental roles in nuclear assembly, chromatin organization, gene expression and gonad development. May potently compress chromatin structure and be involved in membrane recruitment and chromatin decondensation during nuclear assembly. Functions are required in both M phase and interphase of the cell cycle; Belongs to the BAF family",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 24,
+            "end_residue_number": 40,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 44,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 50,
+            "end_residue_number": 51,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 40,
+            "end_residue_number": 40,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 49,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 72,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "24-40",
+        "44-44",
+        "50-51"
+    ],
+    "interfaceB": [
+        "40-40",
+        "49-67",
+        "72-72"
+    ]
+}

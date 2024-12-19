@@ -1,0 +1,16 @@
+{
+    "pae": 19.7,
+    "iptm": 13.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0071596",
+    "proB": "FBpp0294020",
+    "geneA": "Tbp",
+    "geneB": "mbf1",
+    "annotationA": "TATA binding protein is a basal transcription factor required at most RNA Pol I and Pol II-transcribed genes in Drosophila. Traditionally thought to be recruited only to TATA box containing promoters, recent work shows that promoters with very weak TATA box consensus sequences also recruit TBP as a part of the multisubunit TFIID basal transcription factor or via the SAGA histone acetyltransferase complex",
+    "annotationB": "Multiprotein bridging factor 1 (Mbf1) is a transcriptional co-activator that bridges between sequence-specific transcriptional regulators and Tbp. Under stress, cytoplasmic Mbf1 can translocate into the nucleus and serve as a co-activator to induce stress-reponse genes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

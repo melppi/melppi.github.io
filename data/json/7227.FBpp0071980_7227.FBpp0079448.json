@@ -1,0 +1,76 @@
+{
+    "pae": 17.5,
+    "iptm": 19.9,
+    "pdockq": 0.034,
+    "proA": "FBpp0071980",
+    "proB": "FBpp0079448",
+    "geneA": "CG5398",
+    "geneB": "Pka-C1",
+    "annotationA": "GH26134p; Water channel activity; channel activity. It is involved in the biological process described with: transmembrane transport; Belongs to the MIP/aquaporin (TC 1.A.8) family",
+    "annotationB": "Protein kinase, cAMP-dependent, catalytic subunit 1 is a serine/threonine kinase that contributes to axis specification, rhythmic behavior and synaptic transmission",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 78,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 150,
+            "end_residue_number": 153,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 208,
+            "end_residue_number": 208,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 213,
+            "end_residue_number": 213,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "78-78",
+        "150-153"
+    ],
+    "interfaceB": [
+        "208-208",
+        "213-213"
+    ]
+}

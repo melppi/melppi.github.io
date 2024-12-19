@@ -1,0 +1,48 @@
+{
+    "pae": 10.0,
+    "iptm": 26.4,
+    "pdockq": 0.05,
+    "proA": "FBpp0081322",
+    "proB": "FBpp0086531",
+    "geneA": "mRpL1",
+    "geneB": "mRpL41",
+    "annotationA": "Mitochondrial ribosomal protein L1; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: translation",
+    "annotationB": "39S ribosomal protein L41, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the mitochondrion-specific ribosomal protein mL41 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 112,
+            "end_residue_number": 116,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 98,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "112-116"
+    ],
+    "interfaceB": [
+        "98-102"
+    ]
+}

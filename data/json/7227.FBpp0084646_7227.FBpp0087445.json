@@ -1,0 +1,48 @@
+{
+    "pae": 17.6,
+    "iptm": 17.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0084646",
+    "proB": "FBpp0087445",
+    "geneA": "Mst98Ca",
+    "geneB": "CG12902",
+    "annotationA": "Male-specific RNA 98Ca; It is involved in the biological process described with: spermatid development",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 124,
+            "end_residue_number": 124,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 13,
+            "end_residue_number": 13,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "124-124"
+    ],
+    "interfaceB": [
+        "13-13"
+    ]
+}

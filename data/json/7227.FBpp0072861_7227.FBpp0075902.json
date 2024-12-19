@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072861",
+    "proB": "FBpp0075902",
+    "geneA": "CG11486",
+    "geneB": "CG11726",
+    "annotationA": "PAN2-PAN3 deadenylation complex subunit PAN3; Regulatory subunit of the poly(A)-nuclease (PAN) deadenylation complex, one of two cytoplasmic mRNA deadenylases involved in general and miRNA-mediated mRNA turnover. PAN specifically shortens poly(A) tails of RNA and the activity is stimulated by poly(A)-binding protein (PABP). PAN deadenylation is followed by rapid degradation of the shortened mRNA tails by the CCR4-NOT complex. Deadenylated mRNAs are then degraded by two alternative mechanisms, namely exosome-mediated 3'-5' exonucleolytic degradation, or deadenlyation-dependent mRNA deca [...] ",
+    "annotationB": "IP09423p; mRNA binding; nucleotide binding; nucleic acid binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

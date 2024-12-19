@@ -1,0 +1,48 @@
+{
+    "pae": 16.6,
+    "iptm": 23.6,
+    "pdockq": 0.024,
+    "proA": "FBpp0079148",
+    "proB": "FBpp0305308",
+    "geneA": "mts",
+    "geneB": "baf",
+    "annotationA": "Serine/threonine-protein phosphatase PP2A; Protein serine/threonine phosphatase activity; phosphatase regulator activity",
+    "annotationB": "Barrier-to-autointegration factor; Plays fundamental roles in nuclear assembly, chromatin organization, gene expression and gonad development. May potently compress chromatin structure and be involved in membrane recruitment and chromatin decondensation during nuclear assembly. Functions are required in both M phase and interphase of the cell cycle; Belongs to the BAF family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 213,
+            "end_residue_number": 213,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 67,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "213-213"
+    ],
+    "interfaceB": [
+        "67-67"
+    ]
+}

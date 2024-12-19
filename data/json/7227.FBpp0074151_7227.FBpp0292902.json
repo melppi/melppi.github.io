@@ -1,0 +1,48 @@
+{
+    "pae": 10.4,
+    "iptm": 34.1,
+    "pdockq": 0.052,
+    "proA": "FBpp0074151",
+    "proB": "FBpp0292902",
+    "geneA": "SmG",
+    "geneB": "65K",
+    "annotationA": "Small nuclear ribonucleoprotein G is a Sm class protein and a common component of pre-mRNA processing U snRNPs. It forms the toroidal core of U snRNPs (Sm core domain) together with 6 related Sm proteins",
+    "annotationB": "Uncharacterized protein; Snipper",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 39,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 163,
+            "end_residue_number": 175,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "35-39"
+    ],
+    "interfaceB": [
+        "163-175"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 12.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0073317",
+    "proB": "FBpp0087879",
+    "geneA": "sisA",
+    "geneB": "dpn",
+    "annotationA": "Protein sisterless A; Involved in sex determination and dosage compensation. Required for proper expression of Sxl in embryonic somatic cells. Also has an essential function in the yolk nuclei. Involved in endoderm migration and midgut formation",
+    "annotationB": "Protein deadpan; Transcriptional repressor of genes that require a bHLH protein for their transcription. Likely to be involved in the functional rather than the morphological differentiation of neurons. Loss of DPN function results in weak motor activity, lethargic behavior, and death. Implicated in sex determination as Groucho-DPN complex act directly to repress SXL transcription",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

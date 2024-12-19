@@ -1,0 +1,16 @@
+{
+    "pae": 27.0,
+    "iptm": 6.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081879",
+    "proB": "FBpp0087115",
+    "geneA": "RpL24-like",
+    "geneB": "RpS11",
+    "annotationA": "Probable ribosome biogenesis protein RLP24; Involved in the biogenesis of the 60S ribosomal subunit. Ensures the docking of NOG1 to pre-60S particles (By similarity)",
+    "annotationB": "40S ribosomal protein S11; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; neurogenesis; Belongs to the universal ribosomal protein uS17 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

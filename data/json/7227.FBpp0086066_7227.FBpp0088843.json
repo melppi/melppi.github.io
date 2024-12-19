@@ -1,0 +1,16 @@
+{
+    "pae": 20.6,
+    "iptm": 22.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0086066",
+    "proB": "FBpp0088843",
+    "geneA": "Prosalpha5",
+    "geneB": "Pten",
+    "annotationA": "Proteasome subunit alpha type-5; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity; Belongs to the peptidase T1A family",
+    "annotationB": "Phosphatase and tensin homolog, isoform B; Pten",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

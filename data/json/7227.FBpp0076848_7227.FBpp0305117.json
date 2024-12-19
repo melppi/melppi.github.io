@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 14.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0076848",
+    "proB": "FBpp0305117",
+    "geneA": "Cyt-c1",
+    "geneB": "ATPsyndelta",
+    "annotationA": "Cytochrome c1, isoform A; Electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity; iron ion binding; heme binding. It is involved in the biological process described with: oxidative phosphorylation; mitochondrial electron transport, ubiquinol to cytochrome c",
+    "annotationB": "ATP synthase, delta subunit, isoform A; Proton-transporting ATP synthase activity, rotational mechanism; proton-transporting ATPase activity, rotational mechanism; hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 16.0,
+    "iptm": 24.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0078414",
+    "proB": "FBpp0082953",
+    "geneA": "Hdac3",
+    "geneB": "CG7379",
+    "annotationA": "Protein binding; histone deacetylase activity. It is involved in the biological process described with: chromatin silencing; histone H4-K16 acetylation; negative regulation of apoptotic process; regulation of transcription, DNA-templated; histone deacetylation; cell growth",
+    "annotationB": "Inhibitor of growth protein; Zinc ion binding. It is involved in the biological process described with: chromatin modification",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 30.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0071497",
+    "proB": "FBpp0073433",
+    "geneA": "mago",
+    "geneB": "Upf1",
+    "annotationA": "Protein mago nashi; Core component of the splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junctions on mRNAs. Involved in exon definition of genes containing long introns, including the rolled/MAPK gene. The mago-tsu heterodimer interacts with the EJC key regulator Pym leading to EJC disassembly in the cytoplasm. Has a role in oskar mRNA localization to the posterior pole of the developing oocyte, and may also be involved in polarization of the oocyte microtubule cytoskeleton",
+    "annotationB": "Regulator of nonsense transcripts 1 homolog; RNA-dependent helicase and ATPase required for nonsense- mediated decay (NMD) of mRNAs containing premature stop codons. Is recruited to mRNAs upon translation termination and undergoes a cycle of phosphorylation and dephosphorylation; its phosphorylation appears to be a key step in NMD. The formation of an Upf1-Upf2-Upf3 surveillance complex is believed to activate NMD (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

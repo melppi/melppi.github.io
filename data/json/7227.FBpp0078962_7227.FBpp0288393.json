@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0078962",
+    "proB": "FBpp0288393",
+    "geneA": "Osm6",
+    "geneB": "Kap3",
+    "annotationA": "Intraflagellar transport 52; It is involved in the biological process described with: cilium morphogenesis; cilium assembly; microtubule-based movement",
+    "annotationB": "Kinesin associated protein 3 (Kap3) is the non-motor accessory subunit of the heterotrimeric kinesin-2. Kap3 associates to the coiled-coil stalk domain of Klp68D andKlp64D. Kap3 plays an essential role in sensory cilia assembly and axonal transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

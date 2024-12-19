@@ -1,0 +1,62 @@
+{
+    "pae": 14.8,
+    "iptm": 28.0,
+    "pdockq": 0.026,
+    "proA": "FBpp0080706",
+    "proB": "FBpp0083244",
+    "geneA": "l(2)37Cb",
+    "geneB": "mdlc",
+    "annotationA": "Lethal (2) 37Cb; ATP binding; ATP-dependent RNA helicase activity; nucleic acid binding; RNA helicase activity. It is involved in the biological process described with: mRNA splicing, via spliceosome; neurogenesis",
+    "annotationB": "CG4973 protein; Midlife crisis is a nuclear protein that is required for maintaining neuronal differentiation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 183,
+            "end_residue_number": 183,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 517,
+            "end_residue_number": 518,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 228,
+            "end_residue_number": 230,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "183-183",
+        "517-518"
+    ],
+    "interfaceB": [
+        "228-230"
+    ]
+}

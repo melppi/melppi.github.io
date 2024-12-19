@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0088213",
+    "proB": "FBpp0304214",
+    "geneA": "CG2316",
+    "geneB": "Pex3",
+    "annotationA": "CG2316, isoform A; ATPase activity, coupled to transmembrane movement of substances; ATP binding; transporter activity. It is involved in the biological process described with: transmembrane transport",
+    "annotationB": "Peroxin 3 (Pex3) is a peroxisomal membrane protein (PMP) involved in de novo peroxisome biogenesis from the ER and PMP import from the cytosol. Pex3 also facilitates the insertion of proteins into the membrane of mature peroxisomes via its interaction with the PMP chaperone Pex19",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

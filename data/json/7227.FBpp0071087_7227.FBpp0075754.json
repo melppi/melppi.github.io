@@ -1,0 +1,16 @@
+{
+    "pae": 25.9,
+    "iptm": 11.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0071087",
+    "proB": "FBpp0075754",
+    "geneA": "RpS6",
+    "geneB": "CG5642",
+    "annotationA": "40S ribosomal protein S6; May play an important role in controlling cell growth and proliferation through the selective translation of particular classes of mRNA",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit L; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

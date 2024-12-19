@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 27.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0080490",
+    "proB": "FBpp0304140",
+    "geneA": "Prosbeta4",
+    "geneB": "sgg",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; cellular process; multicellular organism reproduction; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "annotationB": "Protein kinase shaggy; Required for several developmental events such as syncytial blastoderm formation and embryonic segmentation. Is involved in transcriptional regulation. Required for arm phosphorylation. Wg signaling operates by inactivating the sgg repression of en autoactivation. Negatively controls the neuromuscular junction (NMJ) growth in presynaptic motoneurons. Plays a role in the regulation of microtubule dynamics and actin cytoskeleton during embryogenesis. Required for phosphorylation of sra in activated eggs. Essential for completion of meiosis, possibly by triggering c [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

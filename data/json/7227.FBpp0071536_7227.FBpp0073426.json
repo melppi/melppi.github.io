@@ -1,0 +1,132 @@
+{
+    "pae": 1.3,
+    "iptm": 60.0,
+    "pdockq": 0.525,
+    "proA": "FBpp0071536",
+    "proB": "FBpp0073426",
+    "geneA": "cv-2",
+    "geneB": "tsg",
+    "annotationA": "Crossveinless 2 (Cv-2) is a secreted protein that binds BMPs, the BMP receptor tkv and Heparan Sulfate Proteoglycans. Cv-2 either promotes BMP signaling, as in the developing crossveins, or inhibits BMP signaling, as in the early embryo",
+    "annotationB": "Protein twisted gastrulation; Involved in dorsal-ventral patterning. Required for specification of a narrow strip of dorsal midline cells that will give rise to the amnioserosa, but not for specification of dorsal ectoderm cells. Inhibits BMP signaling; enhances the binding of sog to dpp, thus enhancing the antagonistic activity of sog",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 107,
+            "end_residue_number": 107,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 111,
+            "end_residue_number": 111,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 118,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 228,
+            "end_residue_number": 231,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 245,
+            "end_residue_number": 263,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 95,
+            "end_residue_number": 104,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 112,
+            "end_residue_number": 112,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 168,
+            "end_residue_number": 174,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "107-107",
+        "111-111",
+        "118-118",
+        "228-231",
+        "245-263"
+    ],
+    "interfaceB": [
+        "95-104",
+        "112-112",
+        "168-174"
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "pae": 11.6,
+    "iptm": 31.9,
+    "pdockq": 0.126,
+    "proA": "FBpp0110582",
+    "proB": "FBpp0302814",
+    "geneA": "conu",
+    "geneB": "Miro",
+    "annotationA": "Rho GTPase-activating protein conundrum; GTPase-activating protein (GAP) for Rho1; functions with the ERM protein Moe to regulate Rho1 and control proliferation in the developing epithelium. Recruited by Moe to the cell cortex where it negatively regulates Rho1 activity. Can also promote cell proliferation independently of its GAP activity, perhaps by acting with Arf51F (Arf6) to positively regulate Rac1",
+    "annotationB": "Mitochondrial Rho GTPase; Mitochondrial GTPase involved in mitochondrial trafficking. Milt and Miro form an essential protein complex that links Khc to mitochondria for light chain-independent, anterograde transport of mitochondria. Required for axonal transport to synapses within nerve terminals. Required presynaptically but not postsynaptically at neuromuscular junctions (NMJs)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 209,
+            "end_residue_number": 217,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 154,
+            "end_residue_number": 161,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 168,
+            "end_residue_number": 173,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 179,
+            "end_residue_number": 183,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 187,
+            "end_residue_number": 190,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 202,
+            "end_residue_number": 202,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 285,
+            "end_residue_number": 288,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "209-217"
+    ],
+    "interfaceB": [
+        "154-161",
+        "168-173",
+        "179-183",
+        "187-190",
+        "202-202",
+        "285-288"
+    ]
+}

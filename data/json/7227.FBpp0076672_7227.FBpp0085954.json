@@ -1,0 +1,48 @@
+{
+    "pae": 14.6,
+    "iptm": 31.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0076672",
+    "proB": "FBpp0085954",
+    "geneA": "eIF4E-4",
+    "geneB": "Nup75",
+    "annotationA": "GH23527p; Protein binding; RNA 7-methylguanosine cap binding; eukaryotic initiation factor 4G binding; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation",
+    "annotationB": "Nuclear pore complex protein Nup75; Component of the nuclear pore complex (NPC) that seems to be required for NPC assembly and maintenance (By similarity). Required for nuclear import of phosphorylated Mad via importin msk. Has no role in classical nuclear localization signal (cNLS)-dependent nuclear import via importin-beta. Facilitates the interaction between Nup93 and sec13 with msk",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 85,
+            "end_residue_number": 85,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 27,
+            "end_residue_number": 27,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "85-85"
+    ],
+    "interfaceB": [
+        "27-27"
+    ]
+}

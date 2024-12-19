@@ -1,0 +1,16 @@
+{
+    "pae": 23.3,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0083879",
+    "proB": "FBpp0087936",
+    "geneA": "Ndc1",
+    "geneB": "Nup44A",
+    "annotationA": "Nucleoporin Ndc1; Component of the nuclear pore complex (NPC), which plays a key role in de novo assembly and insertion of NPC in the nuclear envelope",
+    "annotationB": "Nucleoporin at 44A, isoform A; Structural constituent of nuclear pore. It is involved in the biological process described with: oogenesis; regulation of mitotic cell cycle; regulation of meiotic cell cycle; Belongs to the WD repeat SEC13 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

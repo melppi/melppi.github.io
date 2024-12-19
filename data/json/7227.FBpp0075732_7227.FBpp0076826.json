@@ -1,0 +1,16 @@
+{
+    "pae": 15.2,
+    "iptm": 24.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0075732",
+    "proB": "FBpp0076826",
+    "geneA": "eap",
+    "geneB": "Ppat-Dpck",
+    "annotationA": "GH12334p; Magnesium ion binding; holo-[acyl-carrier-protein] synthase activity. It is involved in the biological process described with: protein phosphopantetheinylation; macromolecule biosynthetic process",
+    "annotationB": "Bifunctional Phosphopantetheine adenylyltransferase - Dephospho-CoA kinase (Ppat-Dpck) is a bifunctional enzyme that carries out the last two steps of the canonical Coenzyme A (CoA) biosynthesis pathway. The Ppat part converts 4'-phosphopantetheine into dephospho-CoA and subsequently the Dpck part phosphorylates dephospho-CoA to form CoA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

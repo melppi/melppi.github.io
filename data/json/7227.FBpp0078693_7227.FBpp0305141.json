@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 13.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0078693",
+    "proB": "FBpp0305141",
+    "geneA": "jet",
+    "geneB": "Rpn8",
+    "annotationA": "Jetlag, isoform A; Jetlag is an F-box protein that is a component of an SCF E3 ubiquitin ligase complex. It targets tim for degradation upon light exposure, and is essential for photic entrainment of the circadian clock",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 7; Acts as a regulatory subunit of the 26S proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

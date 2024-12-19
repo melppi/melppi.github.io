@@ -1,0 +1,76 @@
+{
+    "pae": 13.5,
+    "iptm": 21.1,
+    "pdockq": 0.089,
+    "proA": "FBpp0074984",
+    "proB": "FBpp0081848",
+    "geneA": "UQCR-Q",
+    "geneB": "SdhC",
+    "annotationA": "Ubiquinone binding; ubiquinol-cytochrome-c reductase activity. It is involved in the biological process described with: mitochondrial electron transport, ubiquinol to cytochrome c",
+    "annotationB": "Succinate dehydrogenase, subunit C, isoform A; Succinate dehydrogenase (ubiquinone) activity; succinate dehydrogenase activity; electron carrier activity. It is involved in the biological process described with: response to oxidative stress; succinate metabolic process; determination of adult lifespan; mitochondrial electron transport, succinate to ubiquinone; tricarboxylic acid cycle",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 8,
+            "end_residue_number": 12,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 59,
+            "end_residue_number": 59,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 85,
+            "end_residue_number": 85,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 138,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "8-12",
+        "59-59"
+    ],
+    "interfaceB": [
+        "85-85",
+        "138-150"
+    ]
+}

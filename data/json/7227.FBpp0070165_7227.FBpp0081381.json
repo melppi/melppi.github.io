@@ -1,0 +1,90 @@
+{
+    "pae": 11.0,
+    "iptm": 38.5,
+    "pdockq": 0.137,
+    "proA": "FBpp0070165",
+    "proB": "FBpp0081381",
+    "geneA": "mus81",
+    "geneB": "pch2",
+    "annotationA": "EG:BACR7A4.16 protein; Mus81 is the catalytic subunit of the Mus81-mms4 structure-selective endonuclease that functions in DNA repair",
+    "annotationB": "Pachytene checkpoint 2 is inolved in a checkpoint pathway that monitors the Synaptonemal Complex (SC) assembly and recombination during female meiosis; Belongs to the AAA ATPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 124,
+            "end_residue_number": 132,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 338,
+            "end_residue_number": 340,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 349,
+            "end_residue_number": 354,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 378,
+            "end_residue_number": 378,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 383,
+            "end_residue_number": 401,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "124-132"
+    ],
+    "interfaceB": [
+        "338-340",
+        "349-354",
+        "378-378",
+        "383-401"
+    ]
+}

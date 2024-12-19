@@ -1,0 +1,48 @@
+{
+    "pae": 14.6,
+    "iptm": 34.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0076464",
+    "proB": "FBpp0087735",
+    "geneA": "eIF4E-5",
+    "geneB": "PAN2",
+    "annotationA": "CG8277-PA; Protein binding; RNA 7-methylguanosine cap binding; eukaryotic initiation factor 4G binding; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation; autophagic cell death; salivary gland cell autophagic cell death",
+    "annotationB": "PAN2-PAN3 deadenylation complex catalytic subunit PAN2; Catalytic subunit of the poly(A)-nuclease (PAN) deadenylation complex, one of two cytoplasmic mRNA deadenylases involved in general and miRNA-mediated mRNA turnover. PAN specifically shortens poly(A) tails of RNA and the activity is stimulated by poly(A)-binding protein (PABP). PAN deadenylation is followed by rapid degradation of the shortened mRNA tails by the CCR4-NOT complex. Deadenylated mRNAs are then degraded by two alternative mechanisms, namely exosome-mediated 3'-5' exonucleolytic degradation, or deadenlyation-dependent  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 97,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 431,
+            "end_residue_number": 431,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "97-97"
+    ],
+    "interfaceB": [
+        "431-431"
+    ]
+}

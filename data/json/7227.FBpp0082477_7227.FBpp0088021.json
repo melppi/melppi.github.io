@@ -1,0 +1,16 @@
+{
+    "pae": 24.9,
+    "iptm": 12.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0082477",
+    "proB": "FBpp0088021",
+    "geneA": "eff",
+    "geneB": "Rpt1",
+    "annotationA": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Mediates the selective degradation of short-lived and abnormal proteins. Required for proper telomere behavior during cell divisions and possibly for ubiquitination of proteins involved in postmeiotic stages of spermatogenesis. Deletion mutations are lethal in homozygotes",
+    "annotationB": "26S proteasome regulatory complex subunit p48B; Regulatory particle triple-A ATPase 1 is an AAA-type ATPase protein that forms part of the heterohexameric ATPase ring of the regulatory complex of the 26S proteasome",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

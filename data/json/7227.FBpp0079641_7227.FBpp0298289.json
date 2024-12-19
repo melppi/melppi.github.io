@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 18.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0079641",
+    "proB": "FBpp0298289",
+    "geneA": "Cdk1",
+    "geneB": "rux",
+    "annotationA": "Cyclin-dependent kinase (Cdk1) is a catalytic protein kinase subunit that can only become active after association with either CycA, CycB or CycB3. The protein kinase activities of these complexes (CycA-Cdk1, CycB-Cdk1, CycB3-Cdk1) control important aspects of progression through the cell cycle. Functionally, the different Cdk1 complexes are partially redundant. They phosphorylate hundreds of target proteins and are most important for progression into and through mitotic and meiotic M phases; Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily",
+    "annotationB": "Cell cycle negative regulator roughex; Negative regulator of both mitosis and meiosis. Required for the establishment of the G1 phase in the developing eye",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

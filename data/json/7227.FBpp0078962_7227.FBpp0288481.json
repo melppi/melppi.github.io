@@ -1,0 +1,90 @@
+{
+    "pae": 13.4,
+    "iptm": 27.0,
+    "pdockq": 0.133,
+    "proA": "FBpp0078962",
+    "proB": "FBpp0288481",
+    "geneA": "Osm6",
+    "geneB": "Oseg5",
+    "annotationA": "Intraflagellar transport 52; It is involved in the biological process described with: cilium morphogenesis; cilium assembly; microtubule-based movement",
+    "annotationB": "Outer segment 5; It is involved in the biological process described with: nonmotile primary cilium assembly; cilium assembly",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 248,
+            "end_residue_number": 263,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 608,
+            "end_residue_number": 612,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 622,
+            "end_residue_number": 631,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 653,
+            "end_residue_number": 656,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 671,
+            "end_residue_number": 671,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "248-263"
+    ],
+    "interfaceB": [
+        "608-612",
+        "622-631",
+        "653-656",
+        "671-671"
+    ]
+}

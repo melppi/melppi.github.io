@@ -1,0 +1,132 @@
+{
+    "pae": 1.0,
+    "iptm": 40.6,
+    "pdockq": 0.653,
+    "proA": "FBpp0072477",
+    "proB": "FBpp0304504",
+    "geneA": "emc",
+    "geneB": "da",
+    "annotationA": "Protein extra-macrochaetae; Participates in sensory organ patterning by antagonizing the neurogenic activity of the Achaete-scute complex (AS-C). It lacks a basic DNA-binding domain but is able to form heterodimers with other HLH proteins, thereby inhibiting DNA binding. May sequester proneural proteins in complexes inefficient for DNA interaction. EMC also affects vein differentiation. Inhibits the activity of AS-C proteins by forming an non-DNA binding heterodimer",
+    "annotationB": "Daughterless is a class I bHLH protein important for sex determination and dosage compensation by controlling the feminizing switch gene Sxl. It participates in transcriptional regulation of a wide variety processes, including oogenesis, neurogenesis, myogenesis and cell proliferation",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 23,
+            "end_residue_number": 23,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 52,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 60,
+            "end_residue_number": 85,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 15,
+            "end_residue_number": 19,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 556,
+            "end_residue_number": 556,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 560,
+            "end_residue_number": 560,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 566,
+            "end_residue_number": 584,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 592,
+            "end_residue_number": 625,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "23-23",
+        "35-52",
+        "60-85"
+    ],
+    "interfaceB": [
+        "15-19",
+        "556-556",
+        "560-560",
+        "566-584",
+        "592-625"
+    ]
+}

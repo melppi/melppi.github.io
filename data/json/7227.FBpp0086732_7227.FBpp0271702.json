@@ -1,0 +1,90 @@
+{
+    "pae": 10.5,
+    "iptm": 28.4,
+    "pdockq": 0.145,
+    "proA": "FBpp0086732",
+    "proB": "FBpp0271702",
+    "geneA": "Ctf4",
+    "geneB": "CG10336",
+    "annotationA": "LD47422p; DNA binding. It is involved in the biological process described with: DNA endoreduplication; preblastoderm mitotic cell cycle; mitotic cell cycle",
+    "annotationB": "Protein TIPIN homolog; Required for normal progression of S-phase. Important for cell survival after DNA damage or replication stress (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 625,
+            "end_residue_number": 628,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 646,
+            "end_residue_number": 650,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 654,
+            "end_residue_number": 660,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 82,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 140,
+            "end_residue_number": 147,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "625-628",
+        "646-650",
+        "654-660"
+    ],
+    "interfaceB": [
+        "82-82",
+        "140-147"
+    ]
+}

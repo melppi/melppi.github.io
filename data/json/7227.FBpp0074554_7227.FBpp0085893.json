@@ -1,0 +1,48 @@
+{
+    "pae": 15.6,
+    "iptm": 15.5,
+    "pdockq": 0.024,
+    "proA": "FBpp0074554",
+    "proB": "FBpp0085893",
+    "geneA": "mRpS14",
+    "geneB": "mRpS28",
+    "annotationA": "Mitochondrial ribosomal protein S14, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "annotationB": "Mitochondrial ribosomal protein S28; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 103,
+            "end_residue_number": 104,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 155,
+            "end_residue_number": 155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "103-104"
+    ],
+    "interfaceB": [
+        "155-155"
+    ]
+}

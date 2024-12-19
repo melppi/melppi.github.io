@@ -1,0 +1,16 @@
+{
+    "pae": 18.3,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0085489",
+    "proB": "FBpp0305117",
+    "geneA": "SdhB",
+    "geneB": "ATPsyndelta",
+    "annotationA": "Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial; Iron-sulfur protein (IP) subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q)",
+    "annotationB": "ATP synthase, delta subunit, isoform A; Proton-transporting ATP synthase activity, rotational mechanism; proton-transporting ATPase activity, rotational mechanism; hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

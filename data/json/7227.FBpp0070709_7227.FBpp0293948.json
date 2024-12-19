@@ -1,0 +1,16 @@
+{
+    "pae": 26.2,
+    "iptm": 12.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0070709",
+    "proB": "FBpp0293948",
+    "geneA": "Rpn13R",
+    "geneB": "Rpt4",
+    "annotationA": "Regulatory particle non-ATPase 13-related; Ubiquitin binding. It is involved in the biological process described with: ubiquitin-dependent protein catabolic process",
+    "annotationB": "Regulatory particle triple-A ATPase 4 (Rpt4) is the 19S proteasomal ATPase, which is a component of the 26S proteosome complex. Rpt4 localizes to the nucleolus and participates in regulating rRNA transcription. Rpt4 physically interacts with the BHD tumor suppressor",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

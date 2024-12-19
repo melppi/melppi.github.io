@@ -1,0 +1,132 @@
+{
+    "pae": 14.8,
+    "iptm": 25.2,
+    "pdockq": 0.141,
+    "proA": "FBpp0084328",
+    "proB": "FBpp0089115",
+    "geneA": "E(spl)mdelta-HLH",
+    "geneB": "gro",
+    "annotationA": "Enhancer of split mdelta protein; Transcriptional repressor of genes that require a bHLH protein for their transcription. May serve as a transcriptional regulator of the Achaete-scute complex (AS-C) genes. Contributes to the neural-epidermal lineage decision during early neurogenesis. Part of the Notch signaling pathway",
+    "annotationB": "Groucho (Gro) is a global developmental co-repressor in conjunction with manifold DNA-binding repressor partner proteins, which tether it to target promoters. Groucho functions downstream of key signaling pathways such as Wg/Wnt and Dpp/TGF-beta. Notably, phosphorylation of Gro in response to MAPK activation weakens its repressor capacity",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 20,
+            "end_residue_number": 28,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 491,
+            "end_residue_number": 494,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 510,
+            "end_residue_number": 511,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 535,
+            "end_residue_number": 538,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 554,
+            "end_residue_number": 555,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 576,
+            "end_residue_number": 578,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 596,
+            "end_residue_number": 597,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 619,
+            "end_residue_number": 619,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "20-28"
+    ],
+    "interfaceB": [
+        "491-494",
+        "510-511",
+        "535-538",
+        "554-555",
+        "576-578",
+        "596-597",
+        "619-619"
+    ]
+}

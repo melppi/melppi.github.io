@@ -1,0 +1,146 @@
+{
+    "pae": 4.0,
+    "iptm": 53.3,
+    "pdockq": 0.36,
+    "proA": "FBpp0078501",
+    "proB": "FBpp0079978",
+    "geneA": "spartin",
+    "geneB": "spict",
+    "annotationA": "Protein spartin; During postembryonic development, functions with endocytic adapter Eps-15 in neurons to restrain synaptic growth, by inhibiting BMP signaling, and to control synaptic endocytosis. Required presynaptically for neuromuscular junction (NMJ) neurotransmission. Inhibits neuronal BMP signaling by promoting endocytic internalization and subsequent endosomal trafficking of the BMP receptor wit. In this way, regulates the Fmr1 translational regulator controlling Futsch expression to modulate neuronal microtubule stability, which controls both synaptogenesis and neuronal survival",
+    "annotationB": "Spichthyin, isoform A; Magnesium ion transmembrane transporter activity. It is involved in the biological process described with: magnesium ion transport; imaginal disc-derived wing morphogenesis; negative regulation of synaptic growth at neuromuscular junction; negative regulation of BMP signaling pathway",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 331,
+            "end_residue_number": 346,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 377,
+            "end_residue_number": 403,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 407,
+            "end_residue_number": 407,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 454,
+            "end_residue_number": 462,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 43,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 89,
+            "end_residue_number": 114,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 231,
+            "end_residue_number": 242,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 249,
+            "end_residue_number": 249,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 254,
+            "end_residue_number": 262,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "331-346",
+        "377-403",
+        "407-407",
+        "454-462"
+    ],
+    "interfaceB": [
+        "43-54",
+        "89-114",
+        "231-242",
+        "249-249",
+        "254-262"
+    ]
+}

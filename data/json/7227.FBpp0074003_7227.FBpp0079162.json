@@ -1,0 +1,146 @@
+{
+    "pae": 2.5,
+    "iptm": 61.8,
+    "pdockq": 0.583,
+    "proA": "FBpp0074003",
+    "proB": "FBpp0079162",
+    "geneA": "SWIP",
+    "geneB": "CG7429",
+    "annotationA": "WASH complex subunit 4; Acts at least in part as component of the WASH complex which may regulate wash nucleation-promoting factor (NPF) activity and is required for its membrane targeting during endosomal sorting (By similarity). During embryogenesis, not involved in the wash-dependent developmental migration of hemocytes anteriorly from the tail",
+    "annotationB": "WASH complex subunit 3; Acts at least in part as component of the WASH complex which may regulate wash nucleation-promoting factor (NPF) activity and is required for its membrane targeting during endosomal sorting (By similarity). During embryogenesis, not involved in the wash-dependent developmental migration of hemocytes anteriorly from the tail",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 1,
+            "end_residue_number": 7,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 427,
+            "end_residue_number": 435,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 439,
+            "end_residue_number": 439,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 443,
+            "end_residue_number": 443,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 640,
+            "end_residue_number": 640,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 647,
+            "end_residue_number": 659,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 663,
+            "end_residue_number": 663,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 690,
+            "end_residue_number": 697,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 22,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "1-7",
+        "427-435",
+        "439-439",
+        "443-443",
+        "640-640",
+        "647-659",
+        "663-663",
+        "690-697"
+    ],
+    "interfaceB": [
+        "22-70"
+    ]
+}

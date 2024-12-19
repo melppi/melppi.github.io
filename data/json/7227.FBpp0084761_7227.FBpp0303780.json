@@ -1,0 +1,16 @@
+{
+    "pae": 18.9,
+    "iptm": 22.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0084761",
+    "proB": "FBpp0303780",
+    "geneA": "Ef1gamma",
+    "geneB": "RpL27",
+    "annotationA": "Elongation factor 1-gamma; Ef1gamma associates with other EF1 subunits (alpha/beta/delta). It binds tubulin and Doa protein kinase, which in turns phosphorylates Ef1gamma. Ef1gamma regulates organelle movement along microtubules",
+    "annotationB": "60S ribosomal protein L27; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; centrosome organization; translation; centrosome duplication; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL27 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

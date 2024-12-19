@@ -1,0 +1,48 @@
+{
+    "pae": 12.1,
+    "iptm": 17.9,
+    "pdockq": 0.03,
+    "proA": "FBpp0073386",
+    "proB": "FBpp0290434",
+    "geneA": "Kmn1",
+    "geneB": "Kmn2",
+    "annotationA": "Kinetochore Mis12-Ndc80 network component 1, isoform A; It is involved in the biological process described with: mitotic chromosome movement towards spindle pole; mitotic metaphase plate congression; neurogenesis; chromosome segregation",
+    "annotationB": "Kinetochore Mis12-Ndc80 network component 2 is a component of the Ndc80 complex, an essential kinetochore constituent",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 18,
+            "end_residue_number": 33,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "91-102"
+    ],
+    "interfaceB": [
+        "18-33"
+    ]
+}

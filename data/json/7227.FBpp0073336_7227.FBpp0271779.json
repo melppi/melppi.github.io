@@ -1,0 +1,16 @@
+{
+    "pae": 10.6,
+    "iptm": 41.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0073336",
+    "proB": "FBpp0271779",
+    "geneA": "Gtp-bp",
+    "geneB": "Srp14",
+    "annotationA": "Signal recognition particle receptor subunit alpha homolog; Component of the SRP (signal recognition particle) receptor. Ensures, in conjunction with the signal recognition particle, the correct targeting of the nascent secretory proteins to the endoplasmic reticulum membrane system (By similarity). May have a role in axonogenesis",
+    "annotationB": "Signal recognition particle protein 14; Endoplasmic reticulum signal peptide binding; mRNA binding; 7S RNA binding. It is involved in the biological process described with: SRP-dependent cotranslational protein targeting to membrane",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 24.8,
+    "iptm": 21.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0073313",
+    "proB": "FBpp0086812",
+    "geneA": "hop",
+    "geneB": "Drk",
+    "annotationA": "Tyrosine-protein kinase hopscotch; Tyrosine kinase of the non-receptor type, phosphorylates the marelle protein. Required maternally for the establishment of the normal array of embryonic segments: involved in the control of pair-rule gene transcription in a stripe-specific manner. Together with Hsp83 and piwi, mediates canalization, also known as developmental robustness, likely via epigenetic silencing of existing genetic variants and suppression of transposon-induced new genetic variation",
+    "annotationB": "Protein enhancer of sevenless 2B; Required for proper signaling by sevenless. May act to stimulate the ability of Sos to catalyze Ras1 activation by linking sevenless and Sos in a signaling complex; Belongs to the GRB2/sem-5/DRK family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

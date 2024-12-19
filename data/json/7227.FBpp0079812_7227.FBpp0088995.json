@@ -1,0 +1,48 @@
+{
+    "pae": 4.3,
+    "iptm": 50.6,
+    "pdockq": 0.135,
+    "proA": "FBpp0079812",
+    "proB": "FBpp0088995",
+    "geneA": "RfC38",
+    "geneB": "CG32318",
+    "annotationA": "Replication factor C 38kD subunit, isoform A; DNA clamp loader activity; ATPase activity. It is involved in the biological process described with: DNA replication; neurogenesis",
+    "annotationB": "RT07324p; ATP binding; microtubule binding; microtubule motor activity. It is involved in the biological process described with: microtubule-based movement; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 317,
+            "end_residue_number": 334,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 89,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "317-334"
+    ],
+    "interfaceB": [
+        "89-96"
+    ]
+}

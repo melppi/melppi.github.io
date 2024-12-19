@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070242",
+    "proB": "FBpp0087936",
+    "geneA": "eIF4E-7",
+    "geneB": "Nup44A",
+    "annotationA": "Protein binding; RNA 7-methylguanosine cap binding; eukaryotic initiation factor 4G binding; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation",
+    "annotationB": "Nucleoporin at 44A, isoform A; Structural constituent of nuclear pore. It is involved in the biological process described with: oogenesis; regulation of mitotic cell cycle; regulation of meiotic cell cycle; Belongs to the WD repeat SEC13 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

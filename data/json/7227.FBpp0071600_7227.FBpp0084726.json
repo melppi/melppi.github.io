@@ -1,0 +1,16 @@
+{
+    "pae": 18.5,
+    "iptm": 23.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0071600",
+    "proB": "FBpp0084726",
+    "geneA": "Rae1",
+    "geneB": "Cpsf100",
+    "annotationA": "Rae1 is a nucleoporin member of the WD40-repeat beta propeller protein super family. Biological roles of the pleiotropic Rae1 gene include poly(A)+ mRNA export, cell cycle regulation, male meiosis control and male germ cell post-meiotic differentiation",
+    "annotationB": "Probable cleavage and polyadenylation specificity factor subunit 2; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Required for the cotranscriptional processing of 3'-ends of polyadenylated and histone pre-mRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

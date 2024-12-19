@@ -1,0 +1,90 @@
+{
+    "pae": 4.4,
+    "iptm": 25.7,
+    "pdockq": 0.208,
+    "proA": "FBpp0081732",
+    "proB": "FBpp0082829",
+    "geneA": "hth",
+    "geneB": "abd-A",
+    "annotationA": "Homeobox protein homothorax; All isoforms are required for patterning of the embryonic cuticle. Acts with exd to delimit the eye field and prevent inappropriate eye development. Isoforms that carry the homeodomain are required for proper localization of chordotonal organs within the peripheral nervous system and antennal identity; required to activate antennal-specific genes, such as sal and to repress the leg-like expression of dac. Necessary for the nuclear localization of the essential HOX cofactor, extradenticle (exd). Both necessary and sufficient for inner photoreceptors to adopt [...] ",
+    "annotationB": "Homeobox protein abdominal-A; Sequence-specific transcription factor which is part of a developmental regulatory system that provides cells with specific positional identities on the anterior-posterior axis. Required for segmental identity of the second through eighth abdominal segments. Once a pattern of abd-A expression is turned on in a given parasegment, it remains on the more posterior parasegment, so that the complex pattern of expression is built up in the successive parasegments. Appears to repress expression of Ubx whenever they appear in the same cell, but abd-A is repressed  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 387,
+            "end_residue_number": 399,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 420,
+            "end_residue_number": 436,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 363,
+            "end_residue_number": 374,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 455,
+            "end_residue_number": 458,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 462,
+            "end_residue_number": 462,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "387-399",
+        "420-436"
+    ],
+    "interfaceB": [
+        "363-374",
+        "455-458",
+        "462-462"
+    ]
+}

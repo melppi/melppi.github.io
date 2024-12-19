@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0076142",
+    "proB": "FBpp0082110",
+    "geneA": "SH3PX1",
+    "geneB": "Snx3",
+    "annotationA": "Sorting nexin; Phosphatidylinositol-4,5-bisphosphate binding; phosphatidylinositol-3,4,5-trisphosphate binding. It is involved in the biological process described with: mitotic nuclear division; cellular response to hypoxia; phagosome-lysosome fusion involved in apoptotic cell clearance; autophagic vacuole assembly; intracellular protein transport; Belongs to the sorting nexin family",
+    "annotationB": "Sorting nexin 3, isoform A; Phosphatidylinositol-3-phosphate binding. It is involved in the biological process described with: phagocytosis; positive regulation of canonical Wnt signaling pathway; wing disc development; positive regulation of Wnt protein secretion; protein stabilization; canonical Wnt signaling pathway; regulation of Wnt signaling pathway by Wnt protein secretion; intracellular protein transport; Wnt protein secretion",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

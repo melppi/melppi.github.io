@@ -1,0 +1,104 @@
+{
+    "pae": 4.0,
+    "iptm": 26.0,
+    "pdockq": 0.177,
+    "proA": "FBpp0077259",
+    "proB": "FBpp0306049",
+    "geneA": "msl-2",
+    "geneB": "MRG15",
+    "annotationA": "E3 ubiquitin-protein ligase msl-2; The Msl proteins are essential for elevating transcription of the single X chromosome in the male (X chromosome dosage compensation). Msl-2 is required for translation and/or stability of msl-1 in males. In complex with msl-1, acts as an E3 ubiquitin ligase that promotes ubiquitination of histone H2B; Belongs to the MSL2 family",
+    "annotationB": "NuA4 complex subunit EAF3 homolog; Part of the Tip60 chromatin-remodeling complex which is involved in DNA repair. Upon induction of DNA double-strand breaks, this complex acetylates phosphorylated H2AV in nucleosomes and exchanges it with unmodified H2AV",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 540,
+            "end_residue_number": 542,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 547,
+            "end_residue_number": 551,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 562,
+            "end_residue_number": 572,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 32,
+            "end_residue_number": 37,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 58,
+            "end_residue_number": 64,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 84,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "540-542",
+        "547-551",
+        "562-572"
+    ],
+    "interfaceB": [
+        "32-37",
+        "58-64",
+        "84-96"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.3,
+    "iptm": 18.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0081561",
+    "proB": "FBpp0290542",
+    "geneA": "nmdyn-D7",
+    "geneB": "CASK",
+    "annotationA": "FI21821p1; ATP binding; nucleoside diphosphate kinase activity. It is involved in the biological process described with: nucleoside diphosphate phosphorylation; CTP biosynthetic process; UTP biosynthetic process; GTP biosynthetic process; Belongs to the NDK family",
+    "annotationB": "Peripheral plasma membrane protein CASK; CASK is a member of the MAGUK family of scaffolding proteins. In epithelial tissues, CASK functions as an adhesion molecule involved in cell proliferation, cytoskeletal remodeling and cell migration. In neurons, CASK serves as a scaffold for a number of signaling and transmembrane molecules and is involved in synaptic development and plasticity; In the N-terminal section; belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

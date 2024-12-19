@@ -1,0 +1,16 @@
+{
+    "pae": 25.0,
+    "iptm": 17.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0074496",
+    "proB": "FBpp0084210",
+    "geneA": "car",
+    "geneB": "Vps33B",
+    "annotationA": "Vacuolar protein sorting-associated protein 33A; Required for the biogenesis of eye pigment granules. Plays a role in vesicle-mediated protein trafficking to lysosomal compartments and in membrane docking/fusion reactions of late endosomes/lysosomes; Belongs to the STXBP/unc-18/SEC1 family",
+    "annotationB": "Vacuolar protein sorting 33B; Protein binding; syntaxin binding. It is involved in the biological process described with: regulation of SNARE complex assembly; endosomal transport; spindle assembly involved in mitosis; vesicle docking involved in exocytosis; imaginal disc-derived wing morphogenesis; vesicle-mediated transport; immune response; Belongs to the STXBP/unc-18/SEC1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

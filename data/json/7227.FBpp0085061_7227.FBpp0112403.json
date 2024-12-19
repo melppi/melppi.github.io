@@ -1,0 +1,16 @@
+{
+    "pae": 16.6,
+    "iptm": 15.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0085061",
+    "proB": "FBpp0112403",
+    "geneA": "CG1340",
+    "geneB": "eIF-4B",
+    "annotationA": "CG1340, isoform A; mRNA binding; translation initiation factor activity; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: translational initiation",
+    "annotationB": "mRNA binding; translation initiation factor activity; nucleotide binding. It is involved in the biological process described with: translational initiation; positive regulation of JAK-STAT cascade; cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 12.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0078024",
+    "proB": "FBpp0300615",
+    "geneA": "Rpn10",
+    "geneB": "RpS3A",
+    "annotationA": "Regulatory particle non-ATPase 10 (Rpn10) is one of the polyubiquitin receptor subunits of the 26S proteasome. Rpn10 recognizes and binds the polyubiquitin moiety of proteins intended for proteasomal degradation or the ubiquitin-like domain of extraproteasomal ubiquitin receptors",
+    "annotationB": "Ribosomal protein S3A is an essential component of the small ribosomal subunit that functions in protein synthesis. It is classified as a 'Minute' gene as heterozygous mutants exhibit a slower developmental rate and small adult bristles",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

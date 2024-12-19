@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 10.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0079746",
+    "proB": "FBpp0080967",
+    "geneA": "dUTPase",
+    "geneB": "RPA2",
+    "annotationA": "Deoxyuridine triphosphatase, isoform A; dUTP diphosphatase activity. It is involved in the biological process described with: dUTP metabolic process",
+    "annotationB": "Replication protein A2, isoform A; DNA binding. It is involved in the biological process described with: DNA recombination; DNA repair; DNA-dependent DNA replication; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

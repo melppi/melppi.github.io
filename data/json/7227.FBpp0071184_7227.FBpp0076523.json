@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 15.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071184",
+    "proB": "FBpp0076523",
+    "geneA": "Sptr",
+    "geneB": "Hn",
+    "annotationA": "Sepiapterin reductase activity. It is involved in the biological process described with: oxidation-reduction process; tetrahydrobiopterin biosynthetic process",
+    "annotationB": "Henna (Hn) is a tryptophan phenylalanine hydroxylase. Hn is a dual function enzyme: it hydroxylates both phenylalanine to generate tyrosine, as well as tryptophan to generate the precursor for peripheral (non-neuronal) serotonin. Hn is also involved in pteridine synthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

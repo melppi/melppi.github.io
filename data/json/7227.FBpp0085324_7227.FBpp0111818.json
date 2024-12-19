@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0085324",
+    "proB": "FBpp0111818",
+    "geneA": "Pngl",
+    "geneB": "TER94",
+    "annotationA": "Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase; Specifically deglycosylates the denatured form of N- linked glycoproteins in the cytoplasm and assists their proteasome-mediated degradation. Cleaves the beta-aspartyl- glucosamine (GlcNAc) of the glycan and the amide side chain of Asn, converting Asn to Asp. Prefers proteins containing high- mannose over those bearing complex type oligosaccharides. Can recognize misfolded proteins in the endoplasmic reticulum that are exported to the cytosol to be destroyed and deglycosylate them, while it has no activity toward native prote [...] ",
+    "annotationB": "Transitional endoplasmic reticulum ATPase TER94; Necessary for the fragmentation of Golgi stacks during mitosis and for their reassembly after mitosis. Involved in the formation of the transitional endoplasmic reticulum (tER). The transfer of membranes from the endoplasmic reticulum to the Golgi apparatus occurs via 50-70 nm transition vesicles which derive from part-rough, part-smooth transitional elements of the endoplasmic reticulum (tER). Vesicle budding from the tER is an ATP-dependent process. Involved in the ubiquitin-proteasome system. Important for oskar mRNA localization and/ [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

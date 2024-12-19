@@ -1,0 +1,16 @@
+{
+    "pae": 23.6,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0074906",
+    "proB": "FBpp0088988",
+    "geneA": "CG7430",
+    "geneB": "Gdh",
+    "annotationA": "Dihydrolipoyl dehydrogenase activity; flavin adenine dinucleotide binding. It is involved in the biological process described with: tricarboxylic acid cycle; lipoamide metabolic process; cell redox homeostasis; glycine catabolic process",
+    "annotationB": "Glutamate dehydrogenase, mitochondrial; Glutamate dehydrogenase (NAD+) activity; identical protein binding; glutamate dehydrogenase [NAD(P)+] activity. It is involved in the biological process described with: aerobic respiration; glutamate catabolic process to 2-oxoglutarate; glutamate metabolic process; NADH oxidation; Belongs to the Glu/Leu/Phe/Val dehydrogenases family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

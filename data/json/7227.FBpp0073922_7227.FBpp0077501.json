@@ -1,0 +1,16 @@
+{
+    "pae": 23.0,
+    "iptm": 21.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0073922",
+    "proB": "FBpp0077501",
+    "geneA": "Gapdh2",
+    "geneB": "GlyP",
+    "annotationA": "NADP binding; glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity; NAD binding. It is involved in the biological process described with: glycolytic process; oxidation-reduction process; glucose metabolic process",
+    "annotationB": "Glycogen phosphorylase; Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties (By similarity). Required for glycogen breakdown in skeletal muscle",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 11.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072144",
+    "proB": "FBpp0087608",
+    "geneA": "eIF6",
+    "geneB": "RpL31",
+    "annotationA": "Eukaryotic translation initiation factor 6; Binds to the 60S ribosomal subunit and prevents its association with the 40S ribosomal subunit to form the 80S initiation complex in the cytoplasm. May also be involved in ribosome biogenesis",
+    "annotationB": "60S ribosomal protein L31; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL31 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

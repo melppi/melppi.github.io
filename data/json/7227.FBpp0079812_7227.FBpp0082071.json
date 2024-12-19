@@ -1,0 +1,16 @@
+{
+    "pae": 23.8,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0079812",
+    "proB": "FBpp0082071",
+    "geneA": "RfC38",
+    "geneB": "lig3",
+    "annotationA": "Replication factor C 38kD subunit, isoform A; DNA clamp loader activity; ATPase activity. It is involved in the biological process described with: DNA replication; neurogenesis",
+    "annotationB": "DNA ligase III (Lig3) is an ATP-dependent DNA ligase. Lig3 is involved in the repair of nuclear and mitochondrial single- and double-strand DNA breaks",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,118 @@
+{
+    "pae": 2.1,
+    "iptm": 39.1,
+    "pdockq": 0.258,
+    "proA": "FBpp0110080",
+    "proB": "FBpp0288504",
+    "geneA": "RhoU",
+    "geneB": "RhoGAP71E",
+    "annotationA": "RhoU, isoform B; GTPase activity; GTP binding. It is involved in the biological process described with: small GTPase mediated signal transduction; Belongs to the small GTPase superfamily. Rho family",
+    "annotationB": "Rho GTPase activator activity. It is involved in the biological process described with: Rho protein signal transduction; imaginal disc-derived leg morphogenesis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 426,
+            "end_residue_number": 429,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 453,
+            "end_residue_number": 463,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 467,
+            "end_residue_number": 467,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 489,
+            "end_residue_number": 493,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 14,
+            "end_residue_number": 20,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 30,
+            "end_residue_number": 35,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 95,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "426-429",
+        "453-463",
+        "467-467",
+        "489-493"
+    ],
+    "interfaceB": [
+        "14-20",
+        "30-35",
+        "95-99"
+    ]
+}

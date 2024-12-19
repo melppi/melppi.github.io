@@ -1,0 +1,16 @@
+{
+    "pae": 22.7,
+    "iptm": 15.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0072723",
+    "proB": "FBpp0087186",
+    "geneA": "SCOT",
+    "geneB": "wal",
+    "annotationA": "Succinyl-CoA:3-ketoacid-coenzyme A transferase, mitochondrial; Key enzyme for ketone body catabolism. Transfers the CoA moiety from succinate to acetoacetate. Formation of the enzyme-CoA intermediate proceeds via an unstable anhydride species formed between the carboxylate groups of the enzyme and substrate (By similarity); Belongs to the 3-oxoacid CoA-transferase family",
+    "annotationB": "Walrus, isoform A; Flavin adenine dinucleotide binding; electron carrier activity. It is involved in the biological process described with: oxidative phosphorylation; morphogenesis of an epithelium; ectodermal digestive tract morphogenesis; Malpighian tubule morphogenesis; head involution; open tracheal system development",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

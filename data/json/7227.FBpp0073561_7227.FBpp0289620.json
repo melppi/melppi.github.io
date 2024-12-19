@@ -1,0 +1,16 @@
+{
+    "pae": 25.3,
+    "iptm": 13.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073561",
+    "proB": "FBpp0289620",
+    "geneA": "REG",
+    "geneB": "CycD",
+    "annotationA": "Proteasome regulator dREG; Endopeptidase activator activity; endopeptidase inhibitor activity. It is involved in the biological process described with: mRNA splicing, via spliceosome; regulation of proteasomal protein catabolic process; regulation of G1/S transition of mitotic cell cycle",
+    "annotationB": "Cyclin D, isoform D; Protein binding; protein kinase binding; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: cell proliferation; cellular process; mitochondrion organization; JAK-STAT cascade; regulation of cyclin-dependent protein serine/threonine kinase activity; cell growth; positive regulation of cell growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

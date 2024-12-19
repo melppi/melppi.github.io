@@ -1,0 +1,48 @@
+{
+    "pae": 19.8,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0072060",
+    "proB": "FBpp0082120",
+    "geneA": "Alas",
+    "geneB": "Gnmt",
+    "annotationA": "Aminolevulinate synthase is a mitochondrial enzyme involved in cuticle barrier formation and thought to have a role in Heme biosynthesis; Belongs to the class-II pyridoxal-phosphate-dependent aminotransferase family",
+    "annotationB": "Glycine N-methyltransferase catalyzes the methylation reaction of glycine to generate sarcosine (N-methylglycine).  It is abundantly expressed in the fat body and controls the amount of methyl donor S-adenosylmethionine (SAM); Belongs to the class I-like SAM-binding methyltransferase superfamily. Glycine N-methyltransferase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 413,
+            "end_residue_number": 413,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 210,
+            "end_residue_number": 210,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "413-413"
+    ],
+    "interfaceB": [
+        "210-210"
+    ]
+}

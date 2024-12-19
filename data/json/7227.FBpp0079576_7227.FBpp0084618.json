@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0079576",
+    "proB": "FBpp0084618",
+    "geneA": "Mulk",
+    "geneB": "mino",
+    "annotationA": "Multi-substrate lipid kinase; Diacylglycerol kinase activity; NAD+ kinase activity. It is involved in the biological process described with: pole cell migration; ceramide metabolic process; protein kinase C-activating G-protein coupled receptor signaling pathway",
+    "annotationB": "Minotaur, isoform A; Glycerol-3-phosphate O-acyltransferase activity. It is involved in the biological process described with: phospholipid biosynthetic process; plasma membrane organization; piRNA metabolic process; Belongs to the GPAT/DAPAT family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

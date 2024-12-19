@@ -1,0 +1,62 @@
+{
+    "pae": 8.9,
+    "iptm": 46.7,
+    "pdockq": 0.122,
+    "proA": "FBpp0070679",
+    "proB": "FBpp0111805",
+    "geneA": "l(1)G0334",
+    "geneB": "Pdk",
+    "annotationA": "Pyruvate dehydrogenase E1 component subunit alpha; The pyruvate dehydrogenase complex catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2)",
+    "annotationB": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase, mitochondrial; Inhibits the mitochondrial pyruvate dehydrogenase complex by phosphorylation of the E1 alpha subunit, thus contributing to the regulation of glucose metabolism; Belongs to the PDK/BCKDK protein kinase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 425,
+            "end_residue_number": 430,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 84,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 118,
+            "end_residue_number": 123,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "425-430"
+    ],
+    "interfaceB": [
+        "84-91",
+        "118-123"
+    ]
+}

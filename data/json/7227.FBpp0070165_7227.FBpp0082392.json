@@ -1,0 +1,16 @@
+{
+    "pae": 20.3,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0070165",
+    "proB": "FBpp0082392",
+    "geneA": "mus81",
+    "geneB": "spn-B",
+    "annotationA": "EG:BACR7A4.16 protein; Mus81 is the catalytic subunit of the Mus81-mms4 structure-selective endonuclease that functions in DNA repair",
+    "annotationB": "Spindle B is a member of the recA family. It is involved in double strand break repair in mitosis and meiosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

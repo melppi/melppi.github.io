@@ -1,0 +1,104 @@
+{
+    "pae": 8.7,
+    "iptm": 26.7,
+    "pdockq": 0.132,
+    "proA": "FBpp0075038",
+    "proB": "FBpp0304248",
+    "geneA": "beg",
+    "geneB": "ND-ACP",
+    "annotationA": "Probable malonyl-CoA-acyl carrier protein transacylase, mitochondrial; Catalyzes the transfer of a malonyl moiety from malonyl- CoA to the free thiol group of the phosphopantetheine arm of the ACP protein. This suggests the existence of the biosynthesis of fatty acids in mitochondria (By similarity)",
+    "annotationB": "Carrier of the growing fatty acid chain in fatty acid biosynthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 1,
+            "end_residue_number": 9,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 147,
+            "end_residue_number": 148,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 166,
+            "end_residue_number": 167,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 93,
+            "end_residue_number": 93,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 137,
+            "end_residue_number": 148,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 154,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "1-9",
+        "147-148",
+        "166-167"
+    ],
+    "interfaceB": [
+        "93-93",
+        "137-148",
+        "154-162"
+    ]
+}

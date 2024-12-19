@@ -1,0 +1,188 @@
+{
+    "pae": 5.8,
+    "iptm": 56.7,
+    "pdockq": 0.533,
+    "proA": "FBpp0074786",
+    "proB": "FBpp0080999",
+    "geneA": "nes",
+    "geneB": "CG9248",
+    "annotationA": "Lysophospholipid acyltransferase 5; Acyltransferase which mediates the conversion of lysophosphatidylcholine (1-acyl-sn-glycero-3-phosphocholine or LPC) to phosphatidylcholine (1,2-diacyl-sn-glycero-3- phosphocholine or PC) (LPCAT activity). May also catalyze the conversion of lysophosphatidylethanolamine (1-acyl-2-hydroxy-sn- glycero-3-phosphoethanolamine or LPE) to phosphatidylethanolamine (1,2-diacyl-sn-glycero-3-phosphoethanolamine or PE) (LPEAT activity), as well as the conversion of lysophosphatidylserine (1- acyl-2-hydroxy-sn-glycero-3-phospho-L-serine or LPS) to phosphatidylser [...] ",
+    "annotationB": "CG9248, isoform A; Catalytic activity. It is involved in the biological process described with: metabolic process",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 114,
+            "end_residue_number": 123,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 158,
+            "end_residue_number": 160,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 304,
+            "end_residue_number": 310,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 315,
+            "end_residue_number": 319,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 326,
+            "end_residue_number": 326,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 330,
+            "end_residue_number": 330,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 334,
+            "end_residue_number": 383,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 429,
+            "end_residue_number": 434,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 457,
+            "end_residue_number": 457,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 464,
+            "end_residue_number": 464,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 4,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 40,
+            "end_residue_number": 71,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "114-123",
+        "158-160",
+        "304-310",
+        "315-319",
+        "326-326",
+        "330-330",
+        "334-383",
+        "429-434",
+        "457-457",
+        "464-464"
+    ],
+    "interfaceB": [
+        "4-15",
+        "40-71"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 14.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0073358",
+    "proB": "FBpp0076237",
+    "geneA": "PGRP-SA",
+    "geneB": "GNBP3",
+    "annotationA": "Peptidoglycan-recognition protein SA; Peptidoglycan-recognition protein that plays a key role in innate immunity by binding to peptidoglycans (PGN) of Gram- positive bacteria and activating the Toll pathway upstream of spz activating enzyme SPE. Has no activity against Gram-negative bacteria and fungi. Shows some partial redundancy with PRPGP-SD in Gram-positive bacteria recognition. May act by forming a complex with GNBP1 that activates the proteolytic cleavage of Spatzle and the subsequent activation of Toll pathway. Binds to diaminopimelic acid-type tetrapeptide PGN (DAP-type PGN) a [...] ",
+    "annotationB": "Gram-negative bacteria binding protein 3 is a hemolymphatic protein involved in the sensing of glucan (a fungal cell wall component) upstream of the Toll pathway",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

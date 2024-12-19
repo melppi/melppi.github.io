@@ -1,0 +1,16 @@
+{
+    "pae": 19.5,
+    "iptm": 15.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0082675",
+    "proB": "FBpp0289487",
+    "geneA": "pnr",
+    "geneB": "fkh",
+    "annotationA": "GATA-binding factor A; Transcriptional regulator involved in several developmental processes during embryonic and imaginal disks development. Involved in determining dorsal cell fate. Acts as an essential transcriptional regulator of proneural achaete-scute complex (AS-C) and is required for its spatial regulation during development of the adult peripheral nervous system, and hence for the positioning of neural precursors. It is the only factor to directly activate AS-C genes",
+    "annotationB": "Fork head is a winged-helix nuclear transcription factor most studied for its role in salivary gland formation, where it is required for salivary gland viability, invagination, and maintaining expression of other early-expressed salivary gland transcription factors. It works with sage to activate expression of salivary gland specific gene products, such as secreted proteins and their modifying enzymes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

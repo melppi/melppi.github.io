@@ -1,0 +1,118 @@
+{
+    "pae": 5.0,
+    "iptm": 51.9,
+    "pdockq": 0.343,
+    "proA": "FBpp0072097",
+    "proB": "FBpp0089196",
+    "geneA": "tsr",
+    "geneB": "chic",
+    "annotationA": "Cofilin/actin-depolymerizing factor homolog; Exhibits F-actin depolymerizing activity and regulates actin cytoskeleton dynamics. Required for cytokinesis in both mitotic and meiotic cells and for aster migration and separation. Promotes cell motility during ovary development and oogenesis. During larval development, required for the cell rearrangement needed for formation of terminal filaments which are stacks of somatic cells that are important for the initiation of ovarioles. Also required for border cell migration during oogenesis. During border cell migration, required for actin tu [...] ",
+    "annotationB": "Profilin; Binds to actin and affects the structure of the cytoskeleton. At high concentrations, profilin prevents the polymerization of actin, whereas it enhances it at low concentrations. By binding to PIP2, it inhibits the formation of IP3 and DG. This profilin is required for intercellular cytoplasm transport during Drosophila oogenesis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 51,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 94,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 130,
+            "end_residue_number": 130,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 6,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 26,
+            "end_residue_number": 30,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 94,
+            "end_residue_number": 94,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 120,
+            "end_residue_number": 126,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "51-63",
+        "94-103",
+        "130-130"
+    ],
+    "interfaceB": [
+        "1-6",
+        "26-30",
+        "94-94",
+        "120-126"
+    ]
+}

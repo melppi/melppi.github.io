@@ -1,0 +1,76 @@
+{
+    "pae": 12.3,
+    "iptm": 46.4,
+    "pdockq": 0.043,
+    "proA": "FBpp0077258",
+    "proB": "FBpp0084955",
+    "geneA": "CG3238",
+    "geneB": "spn-A",
+    "annotationA": "ATP-dependent DNA helicase PIF1; DNA-dependent ATPase and 5'-3' DNA helicase required for the maintenance of both mitochondrial and nuclear genome stability",
+    "annotationB": "DNA repair protein Rad51 homolog; Spindle A forms a filament on single-stranded DNA, does a homology search of double-stranded DNA, and catalyzes strand exchange, swapping the single-strand DNA in and displacing the partner of the complementary strand",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 627,
+            "end_residue_number": 630,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 142,
+            "end_residue_number": 144,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 151,
+            "end_residue_number": 151,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 177,
+            "end_residue_number": 182,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "627-630"
+    ],
+    "interfaceB": [
+        "142-144",
+        "151-151",
+        "177-182"
+    ]
+}

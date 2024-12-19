@@ -1,0 +1,16 @@
+{
+    "pae": 19.0,
+    "iptm": 22.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073457",
+    "proB": "FBpp0075451",
+    "geneA": "FucT6",
+    "geneB": "CG17173",
+    "annotationA": "Alpha-(1,6)-fucosyltransferase; Catalyzes the addition of fucose in alpha 1-6 linkage to the first GlcNAc residue, next to the peptide chains in N-glycans. The addition is prevented if the GlcNAc residue is already fucosylated",
+    "annotationB": "Alpha-1,3-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity. It is involved in the biological process described with: carbohydrate metabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

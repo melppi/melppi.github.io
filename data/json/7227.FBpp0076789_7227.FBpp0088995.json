@@ -1,0 +1,16 @@
+{
+    "pae": 18.1,
+    "iptm": 18.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0076789",
+    "proB": "FBpp0088995",
+    "geneA": "DNApol-epsilon58",
+    "geneB": "CG32318",
+    "annotationA": "DNA polymerase epsilon subunit; Participates in DNA repair and in chromosomal DNA replication",
+    "annotationB": "RT07324p; ATP binding; microtubule binding; microtubule motor activity. It is involved in the biological process described with: microtubule-based movement; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

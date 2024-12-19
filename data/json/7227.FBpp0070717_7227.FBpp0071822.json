@@ -1,0 +1,16 @@
+{
+    "pae": 19.8,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070717",
+    "proB": "FBpp0071822",
+    "geneA": "dhd",
+    "geneB": "CycB",
+    "annotationA": "Thioredoxin-1; Participates in various redox reactions through the reversible oxidation of its active center dithiol to a disulfide and catalyzes dithiol-disulfide exchange reactions. As a reducing substrate of peroxiredoxin 1, thioredoxin 2 is preferred over thioredoxin 1. Required for female meiosis and early embryonic development",
+    "annotationB": "G2/mitotic-specific cyclin-B; Cyclin B (CycB) binds to Cdk1, thereby promoting Cdk1's protein kinase activity. The complex CycB-Cdk1 complex induces the start of mitosis. During late metaphase of mitosis and continuing in G1, CycB is rapidly degraded (involving APC/C and the proteasome), resulting in inactivation of Cdk1 protein kinase activity, and allowing termination of mitosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 14.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0073513",
+    "proB": "FBpp0078664",
+    "geneA": "CkIalpha",
+    "geneB": "Rpn11",
+    "annotationA": "Casein kinase I isoform alpha; Casein kinases are operationally defined by their preferential utilization of acidic proteins such as caseins as substrates. Can phosphorylate a large number of proteins. Negative regulator of wg signaling. Phosphorylates arm directly or indirectly and stimulates its degradation which prevents inappropriate wg signaling. Phosphorylates smo which promotes its accumulation at the cell surface and its signaling activity in response to hh. Together with dco, regulates proteolytic processing of ci by phosphorylating it which promotes its binding to slmb, the F [...] ",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

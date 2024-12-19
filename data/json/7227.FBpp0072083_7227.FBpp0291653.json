@@ -1,0 +1,48 @@
+{
+    "pae": 16.0,
+    "iptm": 28.9,
+    "pdockq": 0.028,
+    "proA": "FBpp0072083",
+    "proB": "FBpp0291653",
+    "geneA": "RpL12",
+    "geneB": "RpL30",
+    "annotationA": "Ribosomal protein L12, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; Belongs to the universal ribosomal protein uL11 family",
+    "annotationB": "Ribosomal protein L30, isoform B; Structural constituent of ribosome. It is involved in the biological process described with: peripheral nervous system development; mitotic spindle elongation; translation; growth; centrosome duplication; mitotic spindle organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 30,
+            "end_residue_number": 31,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 62,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "30-31"
+    ],
+    "interfaceB": [
+        "60-62"
+    ]
+}

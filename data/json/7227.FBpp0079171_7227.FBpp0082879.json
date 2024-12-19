@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 20.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0079171",
+    "proB": "FBpp0082879",
+    "geneA": "Spn28Dc",
+    "geneB": "CG5860",
+    "annotationA": "Serine protease inhibitor 28Dc; Serine protease inhibitor which is required for pupal viability and plays an essential role in regulating the melanization reaction. Inhibits spontaneous melanization and appears to be involved in the melanization immune response to physical wounding in larvae and adults. Acts by negatively regulating the Hayan-phenoloxidase (PPO1) cascade in the hemolymph and possibly the trachea. May function by controlling the initial release of the activated form of PPO1, phenoloxidase (PO) and thus maintains PO availability for processes such as wound response and p [...] ",
+    "annotationB": "CG5860; Aspartic-type endopeptidase activity. It is involved in the biological process described with: proteolysis; Belongs to the peptidase A1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

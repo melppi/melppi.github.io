@@ -1,0 +1,118 @@
+{
+    "pae": 4.9,
+    "iptm": 51.3,
+    "pdockq": 0.336,
+    "proA": "FBpp0100079",
+    "proB": "FBpp0113022",
+    "geneA": "Prx5",
+    "geneB": "CG33276",
+    "annotationA": "Peroxiredoxin 5, isoform A; Antioxidant activity; oxidoreductase activity. It is involved in the biological process described with: negative regulation of innate immune response; response to oxidative stress; determination of adult lifespan; negative regulation of apoptotic process; cell redox homeostasis",
+    "annotationB": "Ubiquitin-related modifier 1 homolog; Acts as a sulfur carrier required for 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of cytosolic tRNA(Lys), tRNA(Glu) and tRNA(Gln). Serves as sulfur donor in tRNA 2- thiolation reaction by being thiocarboxylated (-COSH) at its C- terminus by MOCS3. The sulfur is then transferred to tRNA to form 2-thiolation of mcm(5)S(2)U. Also acts as a ubiquitin-like protein (UBL) that is covalently conjugated via an isopeptide bond to lysine residues of target proteins. The thiocarboxylated form serves as substrate for conjugation and oxidative stress sp [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 72,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 76,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 147,
+            "end_residue_number": 150,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 157,
+            "end_residue_number": 157,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 173,
+            "end_residue_number": 180,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 65,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 93,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "72-72",
+        "76-82",
+        "147-150",
+        "157-157",
+        "173-180"
+    ],
+    "interfaceB": [
+        "65-80",
+        "93-97"
+    ]
+}

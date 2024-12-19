@@ -1,0 +1,104 @@
+{
+    "pae": 11.0,
+    "iptm": 36.2,
+    "pdockq": 0.238,
+    "proA": "FBpp0078973",
+    "proB": "FBpp0082445",
+    "geneA": "Rat1",
+    "geneB": "CG8461",
+    "annotationA": "Rat1 5'-3' exoribonuclease (Rat1) is a member of the 5'-3' exonuclease family. Rat1 is required for mRNA processing and mutations cause phenotypes in various cell types, including the nervous system",
+    "annotationB": "LD29276p; It is involved in the biological process described with: neurogenesis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 501,
+            "end_residue_number": 506,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 513,
+            "end_residue_number": 520,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 542,
+            "end_residue_number": 547,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 615,
+            "end_residue_number": 615,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 628,
+            "end_residue_number": 633,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 104,
+            "end_residue_number": 109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "501-506",
+        "513-520",
+        "542-547",
+        "615-615",
+        "628-633"
+    ],
+    "interfaceB": [
+        "104-109"
+    ]
+}

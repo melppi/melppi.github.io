@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 15.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0083400",
+    "proB": "FBpp0296952",
+    "geneA": "Takl1",
+    "geneB": "key",
+    "annotationA": "MAP kinase kinase kinase activity; ATP binding. It is involved in the biological process described with: protein phosphorylation",
+    "annotationB": "NF-kappa-B essential modulator; The scaffold protein Kenny is, together with IKKbeta, a component of the IKK (IkappaB Kinase) complex, which participates in the activation of the transcription factor Rel in the Imd pathway. This pathway regulates the antibacterial response and other less characterized cellular processes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

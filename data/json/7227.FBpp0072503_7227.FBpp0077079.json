@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 15.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0072503",
+    "proB": "FBpp0077079",
+    "geneA": "Vti1",
+    "geneB": "Mon1",
+    "annotationA": "Vesicle transport through interaction with t-SNAREs 1a; SNAP receptor activity. It is involved in the biological process described with: vesicle-mediated transport; intracellular protein transport; vesicle fusion",
+    "annotationB": "Monensin sensitivity 1 (Mon1) forms a complex with Ccz1 and acts as an exchange factor of the small G-protein Rab7. Mon1 activates and recruits Rab7 to the maturing endosome, where Rab7 organizes the fusion of the matured endosome with the lysosome. Mon1/Ccz1 complex loss of function results in Rab7 phenotypes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

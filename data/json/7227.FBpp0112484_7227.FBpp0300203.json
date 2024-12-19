@@ -1,0 +1,16 @@
+{
+    "pae": 15.6,
+    "iptm": 30.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0112484",
+    "proB": "FBpp0300203",
+    "geneA": "CG17691",
+    "geneB": "CG2118",
+    "annotationA": "Uncharacterized protein, isoform C; 3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity. It is involved in the biological process described with: fatty-acyl-CoA biosynthetic process",
+    "annotationB": "CG2118, isoform A; CG2118 encodes the biotin-attachment subunit of the 3-methylcrotonyl-CoA carboxylase. It catalyzes the conversion of 3-methylcrotonyl-CoA to 3-methylglutaconyl-CoA, a critical step for leucine and isovaleric acid catabolism",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

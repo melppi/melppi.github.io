@@ -1,0 +1,16 @@
+{
+    "pae": 23.4,
+    "iptm": 17.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0074608",
+    "proB": "FBpp0079527",
+    "geneA": "polo",
+    "geneB": "Pen",
+    "annotationA": "Serine/threonine-protein kinase polo; May play a role in regulating both nuclear and cytoplasmic aspects of the mitotic cycle. Regulates localization of the augmin complex during mitosis by ensuring its location on mitotic spindles. Also regulates augmin complex localization during male meiosis by promoting its placement at kinetochores while preventing its association with spindle microtubules",
+    "annotationB": "Importin subunit alpha; Pendulin (Pen) is a member of the Importin-alpha protein family, an essential adaptor in the Ran-GTP nuclear transport cycle binding a cargo protein to the nuclear import receptor Fs(2)Ket. In addition to nuclear protein import, Pendulin is involved in centrosome duplication, mitotic spindle dynamics, nuclear envelope assembly, ring canal formation in the female germline, geotaxic behaviour and perception of pain",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

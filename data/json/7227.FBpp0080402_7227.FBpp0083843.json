@@ -1,0 +1,16 @@
+{
+    "pae": 25.2,
+    "iptm": 16.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0080402",
+    "proB": "FBpp0083843",
+    "geneA": "cact",
+    "geneB": "Rpt5",
+    "annotationA": "NF-kappa-B inhibitor cactus; Involved in the formation of the dorsoventral pattern. It inhibits nuclear translocation of the dorsal morphogen in the dorsal region of the embryo. Acts as a negative regulator of the NF-kappa-B (rel) signaling pathway. Cact is degraded by ird5, this is essential for NF-kappa-B (rel) activation",
+    "annotationB": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

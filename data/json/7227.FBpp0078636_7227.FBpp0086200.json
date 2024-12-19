@@ -1,0 +1,16 @@
+{
+    "pae": 22.4,
+    "iptm": 16.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0078636",
+    "proB": "FBpp0086200",
+    "geneA": "CG3792",
+    "geneB": "PIG-V",
+    "annotationA": "Mannose-P-dolichol utilization defect 1 protein homolog; It is involved in the biological process described with: protein glycosylation",
+    "annotationB": "GPI mannosyltransferase 2; Mannosyltransferase involved in glycosylphosphatidylinositol-anchor biosynthesis. Transfers the second mannose to the glycosylphosphatidylinositol during GPI precursor assembly. Required for the GPI-mediated endoplasmic reticulum exit and proper targeting to the cell surface of chp. Required for GPI-mediated membrane attachment of chp, qsm and Cont. Essential for microvillar stability in the rhabdomere; Belongs to the PIGV family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

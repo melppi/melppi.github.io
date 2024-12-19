@@ -1,0 +1,16 @@
+{
+    "pae": 24.7,
+    "iptm": 16.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0071468",
+    "proB": "FBpp0077121",
+    "geneA": "Treh",
+    "geneB": "Tps1",
+    "annotationA": "Trehalase activity; alpha,alpha-trehalase activity. It is involved in the biological process described with: trehalose metabolic process; neuronal stem cell maintenance; Belongs to the glycosyl hydrolase 37 family",
+    "annotationB": "Trehalose-6-phosphate synthase 1 (Tps1) is the trehalose synthesis enzyme. Tps1 N-terminal trehalose-6-phosphate (T6P) synthase domain catalyzes the production of T6P using glucose-6-phosphate and UDP-glucose. Tps1 C-terminal T6P phosphatase domain dephosphorylates T6P to generate trehalose",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

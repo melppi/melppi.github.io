@@ -1,0 +1,16 @@
+{
+    "pae": 22.4,
+    "iptm": 13.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0082477",
+    "proB": "FBpp0297285",
+    "geneA": "eff",
+    "geneB": "CG7427",
+    "annotationA": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Mediates the selective degradation of short-lived and abnormal proteins. Required for proper telomere behavior during cell divisions and possibly for ubiquitination of proteins involved in postmeiotic stages of spermatogenesis. Deletion mutations are lethal in homozygotes",
+    "annotationB": "DCN1-like protein; May contribute to neddylation of cullin components of SCF-type E3 ubiquitin ligase complexes. Neddylation of cullins play an essential role in the regulation of SCF-type complexes activity (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 13.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0292041",
+    "proB": "FBpp0303792",
+    "geneA": "SC35",
+    "geneB": "snRNP70K",
+    "annotationA": "SR family splicing factor SC35, isoform B; mRNA binding; protein binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome; mRNA splice site selection",
+    "annotationB": "U1 small nuclear ribonucleoprotein 70 kDa; Mediates the splicing of pre-mRNA by binding to the stem loop I region of U1-snRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

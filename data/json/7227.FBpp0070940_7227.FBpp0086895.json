@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 7.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0070940",
+    "proB": "FBpp0086895",
+    "geneA": "RpL17",
+    "geneB": "bic",
+    "annotationA": "60S ribosomal protein L17; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization; Belongs to the universal ribosomal protein uL22 family",
+    "annotationB": "Transcription factor BTF3; It is involved in the biological process described with: intracellular mRNA localization involved in anterior/posterior axis specification; regulation of pole plasm oskar mRNA localization; regulation of establishment of protein localization; Belongs to the NAC-beta family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

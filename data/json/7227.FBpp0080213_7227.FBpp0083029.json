@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 18.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0080213",
+    "proB": "FBpp0083029",
+    "geneA": "mTTF",
+    "geneB": "mTerf5",
+    "annotationA": "Transcription termination factor, mitochondrial; Transcription termination factor. Binds promoter DNA and regulates mitochondrial replication and transcription. Transcription termination activity may be polarized with highest termination activity occurring when its DNA-binding site is positioned in the reverse orientation with respect to the incoming RNA polymerase. Required for normal topology and maintenance of mitochondrial DNA (mtDNA) levels. Regulates mtDNA replication by promoting replication pausing, possibly by acting as a natural barrier to replication fork progression. Its fu [...] ",
+    "annotationB": "Transcription termination factor 5, mitochondrial; Binds promoter DNA and regulates initiation of transcription. Regulates mitochondrial replication and transcription. Required for normal topology and maintenance of mitochondrial DNA (mtDNA) levels. Regulates mtDNA replication by re-activating replication after replication pausing. Likely to regulate replication pausing by coordinating with the mitochondrial termination factor mTTF which promotes replication pausing. Their function in replication pausing prevents unregulated replication that may occur for example by collisions between  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

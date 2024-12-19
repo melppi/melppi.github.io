@@ -1,0 +1,16 @@
+{
+    "pae": 22.7,
+    "iptm": 11.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081879",
+    "proB": "FBpp0085585",
+    "geneA": "RpL24-like",
+    "geneB": "RpS18",
+    "annotationA": "Probable ribosome biogenesis protein RLP24; Involved in the biogenesis of the 60S ribosomal subunit. Ensures the docking of NOG1 to pre-60S particles (By similarity)",
+    "annotationB": "40S ribosomal protein S18; Located at the top of the head of the 40S subunit, it contacts several helices of the 18S rRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

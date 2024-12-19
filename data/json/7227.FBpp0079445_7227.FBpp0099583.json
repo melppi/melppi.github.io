@@ -1,0 +1,16 @@
+{
+    "pae": 24.2,
+    "iptm": 15.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0079445",
+    "proB": "FBpp0099583",
+    "geneA": "CG4364",
+    "geneB": "Nop60B",
+    "annotationA": "Pescadillo homolog; Required for maturation of ribosomal RNAs and formation of the large ribosomal subunit",
+    "annotationB": "H/ACA ribonucleoprotein complex subunit 4; Plays a central role in ribosomal RNA processing. Probable catalytic subunit of H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex, which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine ('psi') residues may serve to stabilize the conformation of rRNAs. Required for maintenance of the germline stem cell lineage during spermatogenesis; Belongs to the pseudouridine synthase TruB family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

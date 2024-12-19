@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 18.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070298",
+    "proB": "FBpp0077473",
+    "geneA": "Vps26",
+    "geneB": "Rab5",
+    "annotationA": "Vacuolar protein sorting-associated protein 26; Component of the retromer complex which acts in conjunction with wingless (wg) and clathrin-mediated endocytosis to sustain a wntless (wls) traffic loop. This loop encompasses the Golgi, the cell surface, an endocytic compartment and a retrograde route leading back to the Golgi, thereby enabling wls to direct wg secretion. The hh and dpp signaling pathways do not require the retromer complex suggesting that it does not play a general role in exocytosis; Belongs to the VPS26 family",
+    "annotationB": "Rab5, isoform A; Rab5 is a monomeric GTPase that controls entry of endocytosed cargo into the early endosome and is required for vesicle re-uptake at the synapse. Altering Rab5 activity affects many receptor-mediated signaling pathways as well as epithelial polarity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.8,
+    "iptm": 18.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0084726",
+    "proB": "FBpp0087936",
+    "geneA": "Cpsf100",
+    "geneB": "Nup44A",
+    "annotationA": "Probable cleavage and polyadenylation specificity factor subunit 2; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Required for the cotranscriptional processing of 3'-ends of polyadenylated and histone pre-mRNA",
+    "annotationB": "Nucleoporin at 44A, isoform A; Structural constituent of nuclear pore. It is involved in the biological process described with: oogenesis; regulation of mitotic cell cycle; regulation of meiotic cell cycle; Belongs to the WD repeat SEC13 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,104 @@
+{
+    "pae": 4.0,
+    "iptm": 35.4,
+    "pdockq": 0.216,
+    "proA": "FBpp0074709",
+    "proB": "FBpp0289298",
+    "geneA": "Taf6",
+    "geneB": "nht",
+    "annotationA": "TBP-associated factor 6 (Taf6) is part of the multisubunit basal transcription factor TFIID, and it might be important for its stability. It forms a histone-like pair with e(y)1. Taf6 is required during all stages of Drosophila development, but particularly imaginal disc development and gametogenesis",
+    "annotationB": "No hitter; Protein heterodimerization activity; RNA polymerase II core promoter sequence-specific DNA binding transcription factor activity involved in preinitiation complex assembly. It is involved in the biological process described with: spermatogenesis; regulation of gene expression; transcription initiation from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 59,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 76,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 104,
+            "end_residue_number": 111,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 122,
+            "end_residue_number": 133,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 218,
+            "end_residue_number": 218,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 245,
+            "end_residue_number": 245,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "59-67",
+        "76-91"
+    ],
+    "interfaceB": [
+        "104-111",
+        "122-133",
+        "218-218",
+        "245-245"
+    ]
+}

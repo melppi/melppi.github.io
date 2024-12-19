@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 13.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0088021",
+    "proB": "FBpp0289620",
+    "geneA": "Rpt1",
+    "geneB": "CycD",
+    "annotationA": "26S proteasome regulatory complex subunit p48B; Regulatory particle triple-A ATPase 1 is an AAA-type ATPase protein that forms part of the heterohexameric ATPase ring of the regulatory complex of the 26S proteasome",
+    "annotationB": "Cyclin D, isoform D; Protein binding; protein kinase binding; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: cell proliferation; cellular process; mitochondrion organization; JAK-STAT cascade; regulation of cyclin-dependent protein serine/threonine kinase activity; cell growth; positive regulation of cell growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

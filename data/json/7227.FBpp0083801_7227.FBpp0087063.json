@@ -1,0 +1,16 @@
+{
+    "pae": 22.4,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0083801",
+    "proB": "FBpp0087063",
+    "geneA": "Sec13",
+    "geneB": "Nup54",
+    "annotationA": "Protein SEC13 homolog; Functions as a component of the nuclear pore complex (NPC) and the COPII coat (By similarity). At the endoplasmic reticulum, SEC13 is involved in the biogenesis of COPII-coated vesicles (By similarity). Recruited to transcriptionally active chromatin at the time of transcription initiation by RNA polymerase II. Required for proper expression of ecdysone-responsive genes such as Eip74EF and Eip75B during larval development. Required for reactivation of transcription after heat shock. Required for nuclear import of phosphorylated Mad via importin msk. Has no role i [...] ",
+    "annotationB": "Probable nucleoporin Nup54; Probable component of the nuclear pore complex, a complex required for the trafficking across the nuclear membrane (By similarity). May have a role in the organization of the inner nuclear membrane proteins at the nuclear envelope together with Nup154; Belongs to the NUP54 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

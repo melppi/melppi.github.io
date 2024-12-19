@@ -1,0 +1,62 @@
+{
+    "pae": 14.9,
+    "iptm": 31.4,
+    "pdockq": 0.031,
+    "proA": "FBpp0072908",
+    "proB": "FBpp0112403",
+    "geneA": "CG17737",
+    "geneB": "eIF-4B",
+    "annotationA": "Eukaryotic translation initiation factor eIF1; Probably involved in translation",
+    "annotationB": "mRNA binding; translation initiation factor activity; nucleotide binding. It is involved in the biological process described with: translational initiation; positive regulation of JAK-STAT cascade; cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 50,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 99,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 278,
+            "end_residue_number": 281,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "50-55",
+        "99-99"
+    ],
+    "interfaceB": [
+        "278-281"
+    ]
+}

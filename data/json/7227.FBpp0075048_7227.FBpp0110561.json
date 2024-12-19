@@ -1,0 +1,90 @@
+{
+    "pae": 2.7,
+    "iptm": 30.9,
+    "pdockq": 0.436,
+    "proA": "FBpp0075048",
+    "proB": "FBpp0110561",
+    "geneA": "scaf6",
+    "geneB": "Spf45",
+    "annotationA": "SR-related CTD associated factor 6, isoform A; mRNA binding. It is involved in the biological process described with: mRNA splicing, via spliceosome",
+    "annotationB": "RNA binding motif protein 17; Spf45 is a bi-functional protein with roles in both splicing and DNA repair",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 226,
+            "end_residue_number": 240,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 268,
+            "end_residue_number": 287,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 318,
+            "end_residue_number": 325,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 329,
+            "end_residue_number": 329,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 92,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "226-240",
+        "268-287",
+        "318-325",
+        "329-329"
+    ],
+    "interfaceB": [
+        "92-106"
+    ]
+}

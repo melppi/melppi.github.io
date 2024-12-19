@@ -1,0 +1,16 @@
+{
+    "pae": 21.5,
+    "iptm": 17.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0073120",
+    "proB": "FBpp0077899",
+    "geneA": "RfC4",
+    "geneB": "S(faf)240",
+    "annotationA": "Replication factor C subunit 2; The elongation of primed DNA templates by DNA polymerase delta and epsilon requires the action of the accessory proteins proliferating cell nuclear antigen (PCNA) and activator 1. Subunit 2 binds ATP",
+    "annotationB": "DNA primase large subunit; DNA primase is the polymerase that synthesizes small RNA primers for the Okazaki fragments made during discontinuous DNA replication. Plays a role in the fat facets (faf)-dependent cell- communications pathway; Belongs to the eukaryotic-type primase large subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

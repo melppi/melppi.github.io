@@ -1,0 +1,16 @@
+{
+    "pae": 16.2,
+    "iptm": 14.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0080445",
+    "proB": "FBpp0085425",
+    "geneA": "Cyt-c-d",
+    "geneB": "COX4L",
+    "annotationA": "Cytochrome c-1; Electron carrier protein. The oxidized form of the cytochrome c heme group can accept an electron from the heme group of the cytochrome c1 subunit of cytochrome reductase. Cytochrome c then transfers this electron to the cytochrome oxidase complex, the final protein carrier in the mitochondrial electron-transport chain",
+    "annotationB": "Cytochrome-c oxidase activity. It is involved in the biological process described with: mitochondrial electron transport, cytochrome c to oxygen",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

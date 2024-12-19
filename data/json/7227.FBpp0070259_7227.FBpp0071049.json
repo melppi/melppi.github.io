@@ -1,0 +1,16 @@
+{
+    "pae": 21.3,
+    "iptm": 28.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070259",
+    "proB": "FBpp0071049",
+    "geneA": "dor",
+    "geneB": "Ykt6",
+    "annotationA": "Vacuolar protein sorting-associated protein 18 homolog; Required for the biogenesis of eye pigment granules. Plays a role in vesicle-mediated protein trafficking to lysosomal compartments and in membrane docking/fusion reactions of late endosomes/lysosomes. Required to maintain normal levels of rush, which functions in endosome formation and trafficking",
+    "annotationB": "YKT6 v-SNARE; SNAP receptor activity; protein-cysteine S-palmitoyltransferase activity. It is involved in the biological process described with: retrograde vesicle-mediated transport, Golgi to ER; vesicle-mediated transport; ER to Golgi vesicle-mediated transport; Belongs to the synaptobrevin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

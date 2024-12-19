@@ -1,0 +1,62 @@
+{
+    "pae": 16.6,
+    "iptm": 24.3,
+    "pdockq": 0.032,
+    "proA": "FBpp0074936",
+    "proB": "FBpp0087709",
+    "geneA": "CG5589",
+    "geneB": "Mys45A",
+    "annotationA": "CG5589; mRNA binding; ATP binding; ATP-dependent RNA helicase activity; Belongs to the DEAD box helicase family",
+    "annotationB": "Protein SDA1 homolog; Required for 60S pre-ribosomal subunits export to the cytoplasm",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 525,
+            "end_residue_number": 527,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 98,
+            "end_residue_number": 98,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 130,
+            "end_residue_number": 133,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "525-527"
+    ],
+    "interfaceB": [
+        "98-98",
+        "130-133"
+    ]
+}

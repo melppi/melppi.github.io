@@ -1,0 +1,62 @@
+{
+    "pae": 11.8,
+    "iptm": 43.8,
+    "pdockq": 0.131,
+    "proA": "FBpp0084131",
+    "proB": "FBpp0301731",
+    "geneA": "Hr96",
+    "geneB": "lwr",
+    "annotationA": "Hormone receptor-like in 96 binds cholesterol as a ligand and is required to maintain cholesterol and lipid homeostasis; Belongs to the nuclear hormone receptor family. NR1 subfamily",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 44,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 52,
+            "end_residue_number": 59,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 125,
+            "end_residue_number": 135,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "44-45",
+        "52-59"
+    ],
+    "interfaceB": [
+        "125-135"
+    ]
+}

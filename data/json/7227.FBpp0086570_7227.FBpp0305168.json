@@ -1,0 +1,48 @@
+{
+    "pae": 8.2,
+    "iptm": 25.4,
+    "pdockq": 0.082,
+    "proA": "FBpp0086570",
+    "proB": "FBpp0305168",
+    "geneA": "ND-B15",
+    "geneB": "Neb-cGP",
+    "annotationA": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "annotationB": "Neb-cGP, isoform A; Hormone activity. It is involved in the biological process described with: regulation of growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 64,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 20,
+            "end_residue_number": 43,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "64-91"
+    ],
+    "interfaceB": [
+        "20-43"
+    ]
+}

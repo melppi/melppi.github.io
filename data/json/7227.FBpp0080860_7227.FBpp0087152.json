@@ -1,0 +1,16 @@
+{
+    "pae": 15.6,
+    "iptm": 19.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0080860",
+    "proB": "FBpp0087152",
+    "geneA": "lok",
+    "geneB": "RnrS",
+    "annotationA": "Ovarian-specific serine/threonine-protein kinase Lok; May have a role in germline establishment; Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CDS1 subfamily",
+    "annotationB": "Ribonucleoside-diphosphate reductase subunit M2; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides; Belongs to the ribonucleoside diphosphate reductase small chain family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

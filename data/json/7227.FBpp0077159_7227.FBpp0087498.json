@@ -1,0 +1,16 @@
+{
+    "pae": 24.8,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0077159",
+    "proB": "FBpp0087498",
+    "geneA": "RpL40",
+    "geneB": "Jra",
+    "annotationA": "Ubiquitin-60S ribosomal protein L40; Ubiquitin: exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involve [...] ",
+    "annotationB": "Transcription factor AP-1; Transcription factor that recognizes and binds to the enhancer heptamer motif 5'-TGA[CG]TCA-3'. Plays a role in dorsal closure; Belongs to the bZIP family. Jun subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

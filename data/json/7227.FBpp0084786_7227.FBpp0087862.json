@@ -1,0 +1,146 @@
+{
+    "pae": 9.8,
+    "iptm": 29.2,
+    "pdockq": 0.23,
+    "proA": "FBpp0084786",
+    "proB": "FBpp0087862",
+    "geneA": "Cul5",
+    "geneB": "Socs44A",
+    "annotationA": "FI20194p1; Cullin 5 (Cul5) is expressed in both neuronal and non-neuronal cells (such as in fusion sites of embryonic trachea). Reduction of Cul5 protein in neuronal cells results in an increase in number of synaptic boutons in the larval neuromuscular junction",
+    "annotationB": "Suppressor of Cytokine Signaling at 44A (Socs44A) promotes the degradation of interacting proteins by recruiting Cullin/Elongin ubiquitin ligase complexes. Socs44A activity negatively regulates JAK/STAT signaling and positively impacts RTK signaling in a context specific manner, which can impact developmental patterning",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 38,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 103,
+            "end_residue_number": 111,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 540,
+            "end_residue_number": 540,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 600,
+            "end_residue_number": 607,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 633,
+            "end_residue_number": 633,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 639,
+            "end_residue_number": 648,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 4,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 274,
+            "end_residue_number": 276,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 280,
+            "end_residue_number": 284,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "38-46",
+        "103-111",
+        "540-540",
+        "600-607",
+        "633-633",
+        "639-648"
+    ],
+    "interfaceB": [
+        "1-4",
+        "274-276",
+        "280-284"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 19.6,
+    "iptm": 30.9,
+    "pdockq": 0.024,
+    "proA": "FBpp0081328",
+    "proB": "FBpp0085327",
+    "geneA": "Arl2",
+    "geneB": "Tbce",
+    "annotationA": "ADP-ribosylation factor-like protein 2; GTP-binding protein involved in protein trafficking; may modulate vesicle budding and uncoating within the Golgi apparatus",
+    "annotationB": "Tubulin-specific chaperone E; Tubulin-folding protein which is required for the development of the neuronal microtubule network. Essential for the development and function of neuromuscular synapses. Likely to promote microtubule formation by acting in the negative regulation of the microtubule-severing protein spas; Belongs to the TBCE family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 27,
+            "end_residue_number": 27,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 376,
+            "end_residue_number": 376,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "27-27"
+    ],
+    "interfaceB": [
+        "376-376"
+    ]
+}

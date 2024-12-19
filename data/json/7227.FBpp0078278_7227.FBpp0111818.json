@@ -1,0 +1,16 @@
+{
+    "pae": 26.4,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0078278",
+    "proB": "FBpp0111818",
+    "geneA": "Rpn5",
+    "geneB": "TER94",
+    "annotationA": "Regulatory particle non-ATPase 5; Endopeptidase activity. It is involved in the biological process described with: proteolysis; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "Transitional endoplasmic reticulum ATPase TER94; Necessary for the fragmentation of Golgi stacks during mitosis and for their reassembly after mitosis. Involved in the formation of the transitional endoplasmic reticulum (tER). The transfer of membranes from the endoplasmic reticulum to the Golgi apparatus occurs via 50-70 nm transition vesicles which derive from part-rough, part-smooth transitional elements of the endoplasmic reticulum (tER). Vesicle budding from the tER is an ATP-dependent process. Involved in the ubiquitin-proteasome system. Important for oskar mRNA localization and/ [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

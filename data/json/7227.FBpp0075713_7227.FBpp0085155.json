@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0075713",
+    "proB": "FBpp0085155",
+    "geneA": "ArfGAP1",
+    "geneB": "gammaCOP",
+    "annotationA": "ADP-ribosylation factor GTPase activating protein 1, isoform A; Zinc ion binding; ARF GTPase activator activity; GTP binding. It is involved in the biological process described with: regulation of ARF GTPase activity; regulation of ARF protein signal transduction",
+    "annotationB": "Coatomer subunit gamma; The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins. Required for limiting lipid storage in lipid droplets. Involved in the expansion of luminal extracellular matrices and apical membrane during tubulogenesis. Required [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0082542",
+    "proB": "FBpp0084240",
+    "geneA": "Aats-ser",
+    "geneB": "Aats-gln",
+    "annotationA": "Seryl-tRNA synthetase, mitochondrial (SerRS-m) catalyses the aminoacylation of tRNAser with serine, to be used for gene translation during protein synthesis",
+    "annotationB": "Probable glutamine--tRNA ligase; ATP binding; glutamine-tRNA ligase activity. It is involved in the biological process described with: glutaminyl-tRNA aminoacylation; dendrite morphogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

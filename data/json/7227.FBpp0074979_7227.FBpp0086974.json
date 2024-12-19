@@ -1,0 +1,48 @@
+{
+    "pae": 4.3,
+    "iptm": 37.3,
+    "pdockq": 0.132,
+    "proA": "FBpp0074979",
+    "proB": "FBpp0086974",
+    "geneA": "CG7630",
+    "geneB": "ox",
+    "annotationA": "annotation not available",
+    "annotationB": "Cytochrome b-c1 complex subunit 9; This is a component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is part of the mitochondrial respiratory chain. This subunit interacts with cytochrome c1 (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 50,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 12,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "50-78"
+    ],
+    "interfaceB": [
+        "12-46"
+    ]
+}

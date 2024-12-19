@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 22.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0075618",
+    "proB": "FBpp0082994",
+    "geneA": "RpS4",
+    "geneB": "eIF-1A",
+    "annotationA": "40S ribosomal protein S4; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: mitotic spindle elongation; centrosome organization; translation; centrosome duplication; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eS4 family",
+    "annotationB": "Eukaryotic initiation factor 1A, isoform A; Seems to be required for maximal rate of protein biosynthesis. Enhances ribosome dissociation into subunits and stabilizes the binding of the initiator Met-tRNA(I) to 40 S ribosomal subunits",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

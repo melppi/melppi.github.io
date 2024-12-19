@@ -1,0 +1,16 @@
+{
+    "pae": 15.4,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0100187",
+    "proB": "FBpp0297500",
+    "geneA": "mt:ND1",
+    "geneB": "ND-15",
+    "annotationA": "NADH-ubiquinone oxidoreductase chain 1; Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone (By similarity)",
+    "annotationB": "NADH dehydrogenase (Ubiquinone) 15 kDa subunit, isoform A; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

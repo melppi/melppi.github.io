@@ -1,0 +1,16 @@
+{
+    "pae": 16.7,
+    "iptm": 16.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0071596",
+    "proB": "FBpp0081916",
+    "geneA": "Tbp",
+    "geneB": "Taf12",
+    "annotationA": "TATA binding protein is a basal transcription factor required at most RNA Pol I and Pol II-transcribed genes in Drosophila. Traditionally thought to be recruited only to TATA box containing promoters, recent work shows that promoters with very weak TATA box consensus sequences also recruit TBP as a part of the multisubunit TFIID basal transcription factor or via the SAGA histone acetyltransferase complex",
+    "annotationB": "TBP-associated factor 12 (Taf12) is part of the multisubunit basal transcription factor TFIID, and it is important for its stability. It forms a histone-like pair with Taf4. Taf12 is also an integral component of the Drosophila SAGA histone acetyltransferase complex",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

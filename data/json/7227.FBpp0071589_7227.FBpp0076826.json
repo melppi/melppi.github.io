@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 17.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0071589",
+    "proB": "FBpp0076826",
+    "geneA": "Ppcdc",
+    "geneB": "Ppat-Dpck",
+    "annotationA": "Phosphopantothenoylcysteine decarboxylase activity; catalytic activity. It is involved in the biological process described with: coenzyme A biosynthetic process",
+    "annotationB": "Bifunctional Phosphopantetheine adenylyltransferase - Dephospho-CoA kinase (Ppat-Dpck) is a bifunctional enzyme that carries out the last two steps of the canonical Coenzyme A (CoA) biosynthesis pathway. The Ppat part converts 4'-phosphopantetheine into dephospho-CoA and subsequently the Dpck part phosphorylates dephospho-CoA to form CoA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

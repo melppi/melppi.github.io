@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0086812",
+    "proB": "FBpp0303635",
+    "geneA": "Drk",
+    "geneB": "Pi3K21B",
+    "annotationA": "Protein enhancer of sevenless 2B; Required for proper signaling by sevenless. May act to stimulate the ability of Sos to catalyze Ras1 activation by linking sevenless and Sos in a signaling complex; Belongs to the GRB2/sem-5/DRK family",
+    "annotationB": "Pi3K21B, isoform B; Insulin receptor substrate binding; phosphatidylinositol 3-kinase regulator activity; kinase binding. It is involved in the biological process described with: regulation of cell proliferation; regulation of cell size; insulin receptor signaling pathway; protein phosphorylation; phosphatidylinositol phosphorylation; positive regulation of growth; lipid phosphorylation; regulation of organ growth; positive regulation of cell size",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

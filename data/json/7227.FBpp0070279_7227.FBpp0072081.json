@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 12.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070279",
+    "proB": "FBpp0072081",
+    "geneA": "Sta",
+    "geneB": "eIF-5A",
+    "annotationA": "40S ribosomal protein SA; Required for the assembly and/or stability of the 40S ribosomal subunit. Required for the processing of the 20S rRNA- precursor to mature 18S rRNA in a late step of the maturation of 40S ribosomal subunits. Required during oogenesis and imaginal development",
+    "annotationB": "Eukaryotic translation initiation factor 5A; mRNA-binding protein involved in translation elongation. Has an important function at the level of mRNA turnover, probably acting downstream of decapping. Involved in actin dynamics and cell cycle progression, mRNA decay and probably in a pathway involved in stress response and maintenance of cell wall integrity. Functions as a regulator of apoptosis; Belongs to the eIF-5A family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 11.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0082314",
+    "proB": "FBpp0293948",
+    "geneA": "CG9588",
+    "geneB": "Rpt4",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 9; Acts as a chaperone during the assembly of the 26S proteasome, specifically of the base subcomplex of the PA700/19S regulatory complex (RC)",
+    "annotationB": "Regulatory particle triple-A ATPase 4 (Rpt4) is the 19S proteasomal ATPase, which is a component of the 26S proteosome complex. Rpt4 localizes to the nucleolus and participates in regulating rRNA transcription. Rpt4 physically interacts with the BHD tumor suppressor",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

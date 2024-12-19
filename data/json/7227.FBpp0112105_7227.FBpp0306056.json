@@ -1,0 +1,16 @@
+{
+    "pae": 15.6,
+    "iptm": 28.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0112105",
+    "proB": "FBpp0306056",
+    "geneA": "Orco",
+    "geneB": "Snmp1",
+    "annotationA": "Odorant receptor coreceptor; Odorant coreceptor which complexes with conventional odorant receptors (ORs) to form odorant-sensing units, providing sensitive and prolonged odorant signaling and calcium permeability. Orco is a universal and integral part of the functional odorant receptor, involved in the dendritic localization of other olfactory receptors. Expression of Orco alone leads to formation of rapid and transient ion channels not directly responding to odorants, but directly activated by intracellular cAMP or cGMP. Snmp, Or67d and lush act in concert to capture fatty-acid-deriv [...] ",
+    "annotationB": "Sensory neuron membrane protein 1; Plays an olfactory role that is not restricted to pheromone sensitivity. Has a role in detection and signal transduction of the fatty-acid-derived male pheromone 11-cis vaccenyl acetate (cVA). Not required for sensitivity to general odorants. Acts in concert with Or67d and lush to capture cVA molecules on the surface of Or67d expressing olfactory dendrites and facilitate their transfer to the odorant-receptor Orco complex. Essential for the electrophysiological responses of these olfactory sensory neurons (OSNs) to cVA. Not required for the developmen [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

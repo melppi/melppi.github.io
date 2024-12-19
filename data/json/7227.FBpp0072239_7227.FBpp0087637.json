@@ -1,0 +1,104 @@
+{
+    "pae": 8.9,
+    "iptm": 26.6,
+    "pdockq": 0.134,
+    "proA": "FBpp0072239",
+    "proB": "FBpp0087637",
+    "geneA": "CG4806",
+    "geneB": "Non1",
+    "annotationA": "LD27920p; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: neurogenesis",
+    "annotationB": "Nucleolar GTP-binding protein 1; Involved in the biogenesis of the 60S ribosomal subunit (By similarity). Required for normal assembly of the mitotic spindle. May be involved in both centrosome- dependent and centrosome-independent spindle assembly programs",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 359,
+            "end_residue_number": 369,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 373,
+            "end_residue_number": 373,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 413,
+            "end_residue_number": 416,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 427,
+            "end_residue_number": 429,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 570,
+            "end_residue_number": 574,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 461,
+            "end_residue_number": 482,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "359-369",
+        "373-373",
+        "413-416",
+        "427-429",
+        "570-574"
+    ],
+    "interfaceB": [
+        "461-482"
+    ]
+}

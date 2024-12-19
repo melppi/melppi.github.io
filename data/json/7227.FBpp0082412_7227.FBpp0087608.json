@@ -1,0 +1,48 @@
+{
+    "pae": 14.2,
+    "iptm": 24.0,
+    "pdockq": 0.04,
+    "proA": "FBpp0082412",
+    "proB": "FBpp0087608",
+    "geneA": "mRpL11",
+    "geneB": "RpL31",
+    "annotationA": "39S ribosomal protein L11, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uL11 family",
+    "annotationB": "60S ribosomal protein L31; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL31 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 45,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 62,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "45-47"
+    ],
+    "interfaceB": [
+        "62-67"
+    ]
+}

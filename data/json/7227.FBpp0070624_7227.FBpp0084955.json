@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 26.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070624",
+    "proB": "FBpp0084955",
+    "geneA": "mei-9",
+    "geneB": "spn-A",
+    "annotationA": "DNA repair endonuclease XPF; Implicated in recombination events during meiosis, mostly in meiotic exchange. May directly resolve Holliday junctions within recombination intermediates leading to DNA exchange. Also required for the repair of mismatches within meiotic heteroduplex DNA and for nucleotide excision repair",
+    "annotationB": "DNA repair protein Rad51 homolog; Spindle A forms a filament on single-stranded DNA, does a homology search of double-stranded DNA, and catalyzes strand exchange, swapping the single-strand DNA in and displacing the partner of the complementary strand",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

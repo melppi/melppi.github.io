@@ -1,0 +1,48 @@
+{
+    "pae": 14.2,
+    "iptm": 14.4,
+    "pdockq": 0.048,
+    "proA": "FBpp0072233",
+    "proB": "FBpp0081947",
+    "geneA": "ND-19",
+    "geneB": "COX5A",
+    "annotationA": "NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8; Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone",
+    "annotationB": "Cytochrome c oxidase subunit 5A, mitochondrial; This is the heme A-containing chain of cytochrome c oxidase, the terminal oxidase in mitochondrial electron transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 171,
+            "end_residue_number": 173,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 68,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "171-173"
+    ],
+    "interfaceB": [
+        "60-68"
+    ]
+}

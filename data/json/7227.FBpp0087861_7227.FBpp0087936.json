@@ -1,0 +1,16 @@
+{
+    "pae": 17.7,
+    "iptm": 21.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0087861",
+    "proB": "FBpp0087936",
+    "geneA": "Nup50",
+    "geneB": "Nup44A",
+    "annotationA": "Nuclear pore complex protein Nup50; Component of the nuclear pore complex that has a direct role in nuclear protein import (By similarity). Actively displaces NLSs from importin-alpha, and facilitates disassembly of the importin-alpha:beta-cargo complex and importin recycling (By similarity). Binds to transcriptionally active chromatin sites when located in the nucleoplasm and is involved in transcriptional activation",
+    "annotationB": "Nucleoporin at 44A, isoform A; Structural constituent of nuclear pore. It is involved in the biological process described with: oogenesis; regulation of mitotic cell cycle; regulation of meiotic cell cycle; Belongs to the WD repeat SEC13 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

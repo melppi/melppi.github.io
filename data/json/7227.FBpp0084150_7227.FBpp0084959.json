@@ -1,0 +1,48 @@
+{
+    "pae": 16.4,
+    "iptm": 13.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0084150",
+    "proB": "FBpp0084959",
+    "geneA": "vig2",
+    "geneB": "RpL32",
+    "annotationA": "Vig2, isoform B; It is involved in the biological process described with: regulation of chromatin silencing; histone H3-K9 methylation; heterochromatin organization",
+    "annotationB": "60S ribosomal protein L32; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle organization; mitotic spindle elongation; translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 180,
+            "end_residue_number": 180,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 53,
+            "end_residue_number": 53,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "180-180"
+    ],
+    "interfaceB": [
+        "53-53"
+    ]
+}

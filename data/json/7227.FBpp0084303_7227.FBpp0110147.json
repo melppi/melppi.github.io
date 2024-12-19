@@ -1,0 +1,16 @@
+{
+    "pae": 16.2,
+    "iptm": 20.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0084303",
+    "proB": "FBpp0110147",
+    "geneA": "CLS",
+    "geneB": "CG32699",
+    "annotationA": "Probable cardiolipin synthase (CMP-forming); Catalyzes the synthesis of cardiolipin (CL) (diphosphatidylglycerol) by specifically transferring a phosphatidyl group from CDP-diacylglycerol to phosphatidylglycerol (PG). CL is a key phospholipid in mitochondrial membranes and plays important roles in maintaining the functional integrity and dynamics of mitochondria under both optimal and stress conditions",
+    "annotationB": "Lysophosphatidylcholine acyltransferase; Acetyltransferase which mediates the conversion of 1- acyl-sn-glycero-3-phosphocholine (LPC) into phosphatidylcholine (PC) (By similarity). Has a calcium-independent activity (By similarity). Displays a clear preference for saturated fatty acyl- CoAs, and 1-myristoyl or 1-palmitoyl LPC as acyl donors and acceptors, respectively (By similarity). Involved in the regulation of lipid droplet number and size",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

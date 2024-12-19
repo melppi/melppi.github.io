@@ -1,0 +1,76 @@
+{
+    "pae": 16.6,
+    "iptm": 25.7,
+    "pdockq": 0.035,
+    "proA": "FBpp0289500",
+    "proB": "FBpp0304028",
+    "geneA": "Pop2",
+    "geneB": "Cnot4",
+    "annotationA": "Pop2, isoform E; Protein binding; poly(A)-specific ribonuclease activity; nucleic acid binding. It is involved in the biological process described with: mRNA catabolic process; neuron development; muscle organ development; regulation of transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint; neurogenesis; nuclear-transcribed mRNA poly(A) tail shortening; negative regulation of translation",
+    "annotationB": "CCR4-NOT transcription complex subunit 4 is a positive regulator of the Jak/Stat pathway which acts by stabilizing Stat92E DNA binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 54,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 121,
+            "end_residue_number": 125,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 234,
+            "end_residue_number": 234,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 976,
+            "end_residue_number": 979,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "54-55",
+        "121-125",
+        "234-234"
+    ],
+    "interfaceB": [
+        "976-979"
+    ]
+}

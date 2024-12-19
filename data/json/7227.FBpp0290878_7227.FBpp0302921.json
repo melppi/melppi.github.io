@@ -1,0 +1,16 @@
+{
+    "pae": 20.3,
+    "iptm": 23.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0290878",
+    "proB": "FBpp0302921",
+    "geneA": "veli",
+    "geneB": "aPKC",
+    "annotationA": "Veli, isoform C; It is involved in the biological process described with: border follicle cell migration; regulation of synaptic growth at neuromuscular junction; establishment or maintenance of cell polarity",
+    "annotationB": "Atypical protein kinase C; Serine/threonine protein kinase which is required for apico-basal cell polarity in the germ line as well as in epithelial and neural precursor cells, for epithelial planar cell polarity and for cell proliferation. During oocyte development, required for the posterior translocation of oocyte specification factors and for the posterior establishment of the microtubule organizing center within the presumptive oocyte. Phosphorylates l(2)gl which restricts l(2)gl activity to the oocyte posterior and regulates posterior enrichment of par-1, leading to establishment [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.6,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0075618",
+    "proB": "FBpp0075754",
+    "geneA": "RpS4",
+    "geneB": "CG5642",
+    "annotationA": "40S ribosomal protein S4; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: mitotic spindle elongation; centrosome organization; translation; centrosome duplication; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eS4 family",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit L; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

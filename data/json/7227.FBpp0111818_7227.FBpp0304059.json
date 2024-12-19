@@ -1,0 +1,16 @@
+{
+    "pae": 26.4,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0111818",
+    "proB": "FBpp0304059",
+    "geneA": "TER94",
+    "geneB": "Usp14",
+    "annotationA": "Transitional endoplasmic reticulum ATPase TER94; Necessary for the fragmentation of Golgi stacks during mitosis and for their reassembly after mitosis. Involved in the formation of the transitional endoplasmic reticulum (tER). The transfer of membranes from the endoplasmic reticulum to the Golgi apparatus occurs via 50-70 nm transition vesicles which derive from part-rough, part-smooth transitional elements of the endoplasmic reticulum (tER). Vesicle budding from the tER is an ATP-dependent process. Involved in the ubiquitin-proteasome system. Important for oskar mRNA localization and/ [...] ",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

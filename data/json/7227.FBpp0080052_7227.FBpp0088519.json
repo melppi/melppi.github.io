@@ -1,0 +1,76 @@
+{
+    "pae": 16.2,
+    "iptm": 22.7,
+    "pdockq": 0.037,
+    "proA": "FBpp0080052",
+    "proB": "FBpp0088519",
+    "geneA": "Nnp-1",
+    "geneB": "CG5033",
+    "annotationA": "Ribosomal RNA processing protein 1 homolog; May be involved in the generation of 28S rRNA",
+    "annotationB": "Ribosome biogenesis protein BOP1 homolog; Required for maturation of ribosomal RNAs and formation of the large ribosomal subunit",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 585,
+            "end_residue_number": 588,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 583,
+            "end_residue_number": 583,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 610,
+            "end_residue_number": 610,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 645,
+            "end_residue_number": 648,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "585-588"
+    ],
+    "interfaceB": [
+        "583-583",
+        "610-610",
+        "645-648"
+    ]
+}

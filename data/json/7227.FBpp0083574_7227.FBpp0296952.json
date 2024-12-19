@@ -1,0 +1,16 @@
+{
+    "pae": 25.7,
+    "iptm": 11.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0083574",
+    "proB": "FBpp0296952",
+    "geneA": "Fadd",
+    "geneB": "key",
+    "annotationA": "Fas-associated death domain protein; Component of the IMD signaling pathway and is required for the host defense against Gram-negative bacteria. Interacts with Dredd, promotes cleavage of Dredd and is necessary and sufficient for enhancing Dredd-induced apoptosis",
+    "annotationB": "NF-kappa-B essential modulator; The scaffold protein Kenny is, together with IKKbeta, a component of the IKK (IkappaB Kinase) complex, which participates in the activation of the transcription factor Rel in the Imd pathway. This pathway regulates the antibacterial response and other less characterized cellular processes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

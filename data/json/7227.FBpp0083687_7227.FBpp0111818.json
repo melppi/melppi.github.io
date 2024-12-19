@@ -1,0 +1,16 @@
+{
+    "pae": 25.1,
+    "iptm": 15.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0083687",
+    "proB": "FBpp0111818",
+    "geneA": "Rpn7",
+    "geneB": "TER94",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 6; Acts as a regulatory subunit of the 26S proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "annotationB": "Transitional endoplasmic reticulum ATPase TER94; Necessary for the fragmentation of Golgi stacks during mitosis and for their reassembly after mitosis. Involved in the formation of the transitional endoplasmic reticulum (tER). The transfer of membranes from the endoplasmic reticulum to the Golgi apparatus occurs via 50-70 nm transition vesicles which derive from part-rough, part-smooth transitional elements of the endoplasmic reticulum (tER). Vesicle budding from the tER is an ATP-dependent process. Involved in the ubiquitin-proteasome system. Important for oskar mRNA localization and/ [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 24.7,
+    "iptm": 12.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0071808",
+    "proB": "FBpp0087511",
+    "geneA": "RpL23",
+    "geneB": "RpLP0-like",
+    "annotationA": "60S ribosomal protein L23; Structural constituent of ribosome; myosin binding. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; neurogenesis; Belongs to the universal ribosomal protein uL14 family",
+    "annotationB": "Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

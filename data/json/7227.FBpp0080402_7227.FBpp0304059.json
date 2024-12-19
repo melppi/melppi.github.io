@@ -1,0 +1,16 @@
+{
+    "pae": 15.4,
+    "iptm": 24.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0080402",
+    "proB": "FBpp0304059",
+    "geneA": "cact",
+    "geneB": "Usp14",
+    "annotationA": "NF-kappa-B inhibitor cactus; Involved in the formation of the dorsoventral pattern. It inhibits nuclear translocation of the dorsal morphogen in the dorsal region of the embryo. Acts as a negative regulator of the NF-kappa-B (rel) signaling pathway. Cact is degraded by ird5, this is essential for NF-kappa-B (rel) activation",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

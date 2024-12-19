@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 17.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0087704",
+    "proB": "FBpp0088692",
+    "geneA": "shrb",
+    "geneB": "Hrs",
+    "annotationA": "GH13992p; Shrub encodes Vps32/Snf7, a filament-forming subunit of the ESCRT-III complex involved in inward membrane budding. The Shrub gene product regulates multiple cellular processes involving ESCRTs activity including multivesicular body biogenesis, cytokinesis, membrane repair and regulation of membrane associated signaling",
+    "annotationB": "Hepatocyte growth factor-regulated tyrosine kinase substrate; Essential role in endosome membrane invagination and formation of multivesicular bodies, MVBs. Required during gastrulation and appears to regulate early embryonic signaling pathways. Inhibits tyrosine kinase receptor signaling by promoting degradation of the tyrosine-phosphorylated, active receptor, potentially by sorting activated receptors into MVBs. The MVBs are then trafficked to the lysosome where their contents are degraded",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

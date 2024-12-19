@@ -1,0 +1,16 @@
+{
+    "pae": 25.2,
+    "iptm": 15.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0082647",
+    "proB": "FBpp0084348",
+    "geneA": "rec",
+    "geneB": "Sld5",
+    "annotationA": "DNA replication licensing factor REC; Recombination-defective interacts with other Mini-Chromosome Maintenance (MCM)-related proteins (mei-217 and mei-218) to make meiotic crossovers",
+    "annotationB": "DNA replication complex GINS protein SLD5; The GINS complex plays an essential role in the initiation of DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

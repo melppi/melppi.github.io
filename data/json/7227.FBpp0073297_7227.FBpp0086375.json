@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 19.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073297",
+    "proB": "FBpp0086375",
+    "geneA": "Dlic",
+    "geneB": "Lis-1",
+    "annotationA": "Dynein light intermediate chain, isoform A; Microtubule motor activity; motor activity; ATPase activity, coupled. It is involved in the biological process described with: mitotic nuclear division; axonogenesis; oogenesis; regulation of dendrite morphogenesis; mRNA transport; mitotic spindle organization; axon cargo transport; microtubule cytoskeleton organization; dendrite morphogenesis; microtubule-based movement",
+    "annotationB": "Lissencephaly-1 homolog; Positively regulates the activity of the minus-end directed microtubule motor protein dynein. May enhance dynein- mediated microtubule sliding by targeting dynein to the microtubule plus end. Required for several dynein- and microtubule-dependent processes such as nuclear migration during cell division, mitotic spindle formation and the removal of mitotic checkpoint proteins from kinetochores at the metaphase to anaphase transition. Required for several aspects of neurogenesis including neuroblast proliferation, neuronal cell differentiation, dendritic growth,  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

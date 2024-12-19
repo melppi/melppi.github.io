@@ -1,0 +1,146 @@
+{
+    "pae": 1.5,
+    "iptm": 89.5,
+    "pdockq": 0.393,
+    "proA": "FBpp0070652",
+    "proB": "FBpp0071497",
+    "geneA": "Cbp80",
+    "geneB": "mago",
+    "annotationA": "Nuclear cap-binding protein subunit 1; Component of the cap-binding complex (CBC), which binds cotranscriptionally to the 5'-cap of pre-mRNAs and is involved in various processes such as pre-mRNA splicing and RNA-mediated gene silencing (RNAi). The CBC complex is involved in miRNA-mediated RNA interference via its interaction with Ars2 and is required for primary microRNAs (miRNAs) processing. Also involved in innate immunity via the short interfering RNAs (siRNAs) processing machinery by restricting the viral RNA production. In the CBC complex, Cbp80 does not bind directly capped RNAs [...] ",
+    "annotationB": "Protein mago nashi; Core component of the splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junctions on mRNAs. Involved in exon definition of genes containing long introns, including the rolled/MAPK gene. The mago-tsu heterodimer interacts with the EJC key regulator Pym leading to EJC disassembly in the cytoplasm. Has a role in oskar mRNA localization to the posterior pole of the developing oocyte, and may also be involved in polarization of the oocyte microtubule cytoskeleton",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 417,
+            "end_residue_number": 422,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 458,
+            "end_residue_number": 462,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 560,
+            "end_residue_number": 562,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 566,
+            "end_residue_number": 566,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 602,
+            "end_residue_number": 602,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 606,
+            "end_residue_number": 606,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 642,
+            "end_residue_number": 642,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 43,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 144,
+            "end_residue_number": 147,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "417-422",
+        "458-462",
+        "560-562",
+        "566-566",
+        "602-602",
+        "606-606",
+        "642-642"
+    ],
+    "interfaceB": [
+        "43-45",
+        "144-147"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "pae": 11.4,
+    "iptm": 26.0,
+    "pdockq": 0.219,
+    "proA": "FBpp0072687",
+    "proB": "FBpp0081820",
+    "geneA": "RpL23A",
+    "geneB": "Tctp",
+    "annotationA": "Ribosomal protein L23A; Structural constituent of ribosome; nucleotide binding. It is involved in the biological process described with: translation; centrosome duplication; Belongs to the universal ribosomal protein uL23 family",
+    "annotationB": "Translationally controlled tumor protein (Tctp) belongs to the TCTP family. It interacts with the GTPase Rheb to regulate organ growth. Tctp is required for DNA damage response and genome stability",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 190,
+            "end_residue_number": 197,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 224,
+            "end_residue_number": 236,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 74,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 85,
+            "end_residue_number": 86,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 134,
+            "end_residue_number": 142,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "190-197",
+        "224-236"
+    ],
+    "interfaceB": [
+        "74-80",
+        "85-86",
+        "134-142"
+    ]
+}

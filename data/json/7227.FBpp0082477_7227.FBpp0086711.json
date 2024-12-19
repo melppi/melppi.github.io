@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0082477",
+    "proB": "FBpp0086711",
+    "geneA": "eff",
+    "geneB": "Uba3",
+    "annotationA": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Mediates the selective degradation of short-lived and abnormal proteins. Required for proper telomere behavior during cell divisions and possibly for ubiquitination of proteins involved in postmeiotic stages of spermatogenesis. Deletion mutations are lethal in homozygotes",
+    "annotationB": "Nedd8-activating enzyme E1 catalytic subunit; Catalytic subunit of the dimeric Uba3-APP-BP1 E1 enzyme. E1 activates Nedd8 by first adenylating its C-terminal glycine residue with ATP, thereafter linking this residue to the side chain of the catalytic cysteine, yielding a Nedd8-Uba3 thioester and free AMP. E1 finally transfers Nedd8 to the catalytic cysteine of Ubc12. Required for Cul1 and Cul3 neddylation. Negatively regulates full-length ci stability and hedgehog signaling",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

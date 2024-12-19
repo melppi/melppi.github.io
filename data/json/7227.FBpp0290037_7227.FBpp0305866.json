@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 16.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0290037",
+    "proB": "FBpp0305866",
+    "geneA": "Clc",
+    "geneB": "shi",
+    "annotationA": "Clathrin light chain; Clathrin is the major protein of the polyhedral coat of coated pits and vesicles",
+    "annotationB": "Dynamin; Microtubule-associated force-producing protein which is involved in the production of microtubule bundles and which is able to bind and hydrolyze GTP. Implicated in endocytic protein sorting; Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

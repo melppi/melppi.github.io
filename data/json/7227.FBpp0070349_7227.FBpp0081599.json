@@ -1,0 +1,48 @@
+{
+    "pae": 11.0,
+    "iptm": 21.4,
+    "pdockq": 0.063,
+    "proA": "FBpp0070349",
+    "proB": "FBpp0081599",
+    "geneA": "CG14817",
+    "geneB": "mRpL47",
+    "annotationA": "annotation not available",
+    "annotationB": "Mitochondrial ribosomal protein L47; Structural constituent of ribosome. It is involved in the biological process described with: mitochondrial translation; translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 82,
+            "end_residue_number": 95,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 256,
+            "end_residue_number": 267,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "82-95"
+    ],
+    "interfaceB": [
+        "256-267"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "pae": 11.0,
+    "iptm": 50.7,
+    "pdockq": 0.141,
+    "proA": "FBpp0078013",
+    "proB": "FBpp0086953",
+    "geneA": "Cdk12",
+    "geneB": "spt4",
+    "annotationA": "Cyclin-dependent kinase 12; Cyclin-dependent kinase which displays CTD kinase activity: hyperphosphorylates the C-terminal heptapeptide repeat domain (CTD) of the largest RNA polymerase II subunit, thereby acting as a key regulator of transcription elongation",
+    "annotationB": "Transcription elongation factor SPT4; Component of the DRB sensitivity-inducing factor complex (DSIF complex), which regulates transcription elongation by RNA polymerase II. DSIF enhances transcriptional pausing at sites proximal to the promoter, which may facilitate the assembly of an elongation competent RNA polymerase II complex. DSIF may also promote transcriptional elongation within coding regions. DSIF is required for the transcriptional induction of heat shock response genes and regulation of genes which control anterior-posterior patterning during embryonic development (By simi [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 841,
+            "end_residue_number": 846,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 989,
+            "end_residue_number": 989,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 11,
+            "end_residue_number": 14,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 25,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 46,
+            "end_residue_number": 56,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "841-846",
+        "989-989"
+    ],
+    "interfaceB": [
+        "11-14",
+        "25-25",
+        "46-56"
+    ]
+}

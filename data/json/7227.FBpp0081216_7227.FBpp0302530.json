@@ -1,0 +1,16 @@
+{
+    "pae": 15.4,
+    "iptm": 28.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0081216",
+    "proB": "FBpp0302530",
+    "geneA": "TfIIFalpha",
+    "geneB": "Rpb4",
+    "annotationA": "General transcription factor IIF subunit 1; TFIIF is a general transcription initiation factor that binds to RNA polymerase II and helps to recruit it to the initiation complex in collaboration with TFIIB. It promotes transcription elongation; Belongs to the TFIIF alpha subunit family",
+    "annotationB": "DNA-directed RNA polymerase II 16 kDa polypeptide; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Associates with POLR2G; Belongs to the eukaryotic RPB4 RNA polymerase subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

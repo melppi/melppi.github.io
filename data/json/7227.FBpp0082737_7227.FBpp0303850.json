@@ -1,0 +1,16 @@
+{
+    "pae": 5.3,
+    "iptm": 69.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0082737",
+    "proB": "FBpp0303850",
+    "geneA": "CG17565",
+    "geneB": "CG10778",
+    "annotationA": "LD36454p; Rab geranylgeranyltransferase activity. It is involved in the biological process described with: regulation of cell proliferation; protein farnesylation",
+    "annotationB": "Ditrans,polycis-polyprenyl diphosphate synthase ((2E,6E)-farnesyl diphosphate specific); Adds multiple copies of isopentenyl pyrophosphate (IPP) to farnesyl pyrophosphate (FPP) to produce dehydrodolichyl diphosphate (Dedol-PP), a precursor of dolichol which is utilized as a sugar carrier in protein glycosylation in the endoplasmic reticulum (ER)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

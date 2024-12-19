@@ -1,0 +1,16 @@
+{
+    "pae": 21.3,
+    "iptm": 17.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0072557",
+    "proB": "FBpp0079203",
+    "geneA": "Rabex-5",
+    "geneB": "Rbsn-5",
+    "annotationA": "Rabaptin-5-associated exchange factor for Rab5; Rab guanyl-nucleotide exchange factor activity; guanyl-nucleotide exchange factor activity; DNA binding; zinc ion binding. It is involved in the biological process described with: regulation of endosome size; positive regulation of protein ubiquitination; eye-antennal disc development; regulation of Rab protein signal transduction; imaginal disc-derived wing vein specification; negative regulation of multicellular organism growth",
+    "annotationB": "Rabenosyn-5 is a Rab5-binding effector that controls entry of endocytosed cargo into the early endosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

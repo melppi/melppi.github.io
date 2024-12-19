@@ -1,0 +1,104 @@
+{
+    "pae": 15.4,
+    "iptm": 22.2,
+    "pdockq": 0.089,
+    "proA": "FBpp0071222",
+    "proB": "FBpp0099891",
+    "geneA": "APC4",
+    "geneB": "CG8188",
+    "annotationA": "Anaphase promoting complex subunit 4, isoform A; Ubiquitin-protein transferase activity. It is involved in the biological process described with: regulation of mitotic metaphase/anaphase transition; anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process",
+    "annotationB": "Ubiquitin-conjugating enzyme E2 S; Catalyzes the covalent attachment of ubiquitin to other proteins. Acts as an essential factor of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated ubiquitin ligase that controls progression through mitosis. Acts by specifically elongating polyubiquitin chains initiated by the E2 enzyme vih/UbcH10 on APC/C substrates, enhancing the degradation of APC/C substrates by the proteasome and promoting mitotic exit",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 10,
+            "end_residue_number": 10,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 27,
+            "end_residue_number": 29,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 45,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 720,
+            "end_residue_number": 723,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 737,
+            "end_residue_number": 739,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 204,
+            "end_residue_number": 208,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "10-10",
+        "27-29",
+        "45-45",
+        "720-723",
+        "737-739"
+    ],
+    "interfaceB": [
+        "204-208"
+    ]
+}

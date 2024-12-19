@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 25.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070862",
+    "proB": "FBpp0077965",
+    "geneA": "wuho",
+    "geneB": "CG12975",
+    "annotationA": "tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit wuho; Required for the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA. In the complex, it is required to stabilize and induce conformational changes of the catalytic subunit. Required during gametogenesis; Belongs to the WD repeat TRM82 family",
+    "annotationB": "Multifunctional methyltransferase subunit TRM112-like protein; Acts as an activator of both RNA and protein methyltransferases",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

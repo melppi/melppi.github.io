@@ -1,0 +1,104 @@
+{
+    "pae": 5.1,
+    "iptm": 27.2,
+    "pdockq": 0.116,
+    "proA": "FBpp0079417",
+    "proB": "FBpp0086294",
+    "geneA": "borr",
+    "geneB": "Nup62",
+    "annotationA": "Borealin-related is one of the three targeting subunits for aurB kinase in the Chromosomal passenger complex. It helps to target the complex to the centromere region of chromosomes and the cleavage furrow during cytokinesis. At centromeres the complex is involved both in pausing mitotic progression when there are chromosome mis-attachments and in correcting those mis-attachments. At the cleavage furrow, the complex is involved in regulating the process of abscission (cell separation)",
+    "annotationB": "Nuclear pore glycoprotein p62; Essential component of the nuclear pore complex (By similarity). The N-terminal is probably involved in nucleocytoplasmic transport (By similarity). The C-terminal is involved in protein-protein interaction probably via coiled-coil formation, promotes its association with centrosomes and may function in anchorage of Nup62 to the pore complex (By similarity). Binds to transcriptionally active genes. Negatively regulates chromatin attachment to the nuclear envelope, probably by preventing chromatin tethering by Nup154",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 44,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 48,
+            "end_residue_number": 59,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 72,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 208,
+            "end_residue_number": 218,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 222,
+            "end_residue_number": 222,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 229,
+            "end_residue_number": 229,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "44-44",
+        "48-59",
+        "72-83"
+    ],
+    "interfaceB": [
+        "208-218",
+        "222-222",
+        "229-229"
+    ]
+}

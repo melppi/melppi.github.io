@@ -1,0 +1,16 @@
+{
+    "pae": 26.2,
+    "iptm": 12.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0078984",
+    "proB": "FBpp0083195",
+    "geneA": "smt3",
+    "geneB": "Nup58",
+    "annotationA": "Small ubiquitin-related modifier; Smt3 is the only Drosophila SUMO family protein. It is required for embryonic patterning and mitosis. It may also have roles in wing patterning, Dpp signaling, and Ras/MAPK signaling. It localizes to the nucleus during interphase  and to the kinetochores and midbodies during mitosis",
+    "annotationB": "Probable nucleoporin Nup58; Probable component of the nuclear pore complex, a complex required for the trafficking across the nuclear membrane",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

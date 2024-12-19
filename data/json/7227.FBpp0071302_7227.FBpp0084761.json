@@ -1,0 +1,16 @@
+{
+    "pae": 23.9,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071302",
+    "proB": "FBpp0084761",
+    "geneA": "Aats-lys",
+    "geneB": "Ef1gamma",
+    "annotationA": "ATP binding; lysine-tRNA ligase activity; nucleic acid binding. It is involved in the biological process described with: lysyl-tRNA aminoacylation",
+    "annotationB": "Elongation factor 1-gamma; Ef1gamma associates with other EF1 subunits (alpha/beta/delta). It binds tubulin and Doa protein kinase, which in turns phosphorylates Ef1gamma. Ef1gamma regulates organelle movement along microtubules",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,104 @@
+{
+    "pae": 15.9,
+    "iptm": 32.5,
+    "pdockq": 0.125,
+    "proA": "FBpp0071974",
+    "proB": "FBpp0112713",
+    "geneA": "CG30184",
+    "geneB": "CG41099",
+    "annotationA": "annotation not available",
+    "annotationB": "Uncharacterized protein, isoform C; Metal ion binding. It is involved in the biological process described with: epithelial cell morphogenesis; embryonic morphogenesis; endocytosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 150,
+            "end_residue_number": 158,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 671,
+            "end_residue_number": 675,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 686,
+            "end_residue_number": 688,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 707,
+            "end_residue_number": 707,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 717,
+            "end_residue_number": 723,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 728,
+            "end_residue_number": 732,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "150-158"
+    ],
+    "interfaceB": [
+        "671-675",
+        "686-688",
+        "707-707",
+        "717-723",
+        "728-732"
+    ]
+}

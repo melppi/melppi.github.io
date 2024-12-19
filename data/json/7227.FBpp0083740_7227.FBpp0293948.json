@@ -1,0 +1,16 @@
+{
+    "pae": 24.0,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0083740",
+    "proB": "FBpp0293948",
+    "geneA": "Ublcp1",
+    "geneB": "Rpt4",
+    "annotationA": "Ubiquitin-like domain-containing C-terminal domain phosphatase 1 is a nuclear HAD family phospho-Ser/Thr phosphatase that binds and dephosphorylates the nuclear 26S proteasome and inhibits proteasome activity",
+    "annotationB": "Regulatory particle triple-A ATPase 4 (Rpt4) is the 19S proteasomal ATPase, which is a component of the 26S proteosome complex. Rpt4 localizes to the nucleolus and participates in regulating rRNA transcription. Rpt4 physically interacts with the BHD tumor suppressor",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

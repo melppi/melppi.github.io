@@ -1,0 +1,16 @@
+{
+    "pae": 17.3,
+    "iptm": 18.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0075068",
+    "proB": "FBpp0304059",
+    "geneA": "Rpn12",
+    "geneB": "Usp14",
+    "annotationA": "26S proteasome regulatory complex subunit p30; Endopeptidase activity. It is involved in the biological process described with: proteolysis; cell proliferation; mitotic spindle elongation; cellular process; proteasome-mediated ubiquitin-dependent protein catabolic process; ubiquitin-dependent protein catabolic process; mitotic spindle organization; neurogenesis",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

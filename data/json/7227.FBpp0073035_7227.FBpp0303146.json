@@ -1,0 +1,16 @@
+{
+    "pae": 21.5,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0073035",
+    "proB": "FBpp0303146",
+    "geneA": "Ubi-p63E",
+    "geneB": "sip3",
+    "annotationA": "Polyubiquitin; Ubiquitin exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involved in protein degradatio [...] ",
+    "annotationB": "E3 ubiquitin-protein ligase HRD1; Acts as an E3 ubiquitin-protein ligase which accepts ubiquitin specifically from endoplasmic reticulum-associated UBC7 E2 ligase and transfers it to substrates, promoting their degradation. Component of the endoplasmic reticulum quality control (ERQC) system also called ER-associated degradation (ERAD) involved in ubiquitin-dependent degradation of misfolded endoplasmic reticulum proteins. Also promotes the degradation of normal but naturally short-lived proteins. Protects cells from ER stress-induced apoptosis. Sequesters p53 in the cytoplasm and prom [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

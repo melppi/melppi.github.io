@@ -1,0 +1,132 @@
+{
+    "pae": 2.2,
+    "iptm": 76.0,
+    "pdockq": 0.269,
+    "proA": "FBpp0070652",
+    "proB": "FBpp0075684",
+    "geneA": "Cbp80",
+    "geneB": "SmD1",
+    "annotationA": "Nuclear cap-binding protein subunit 1; Component of the cap-binding complex (CBC), which binds cotranscriptionally to the 5'-cap of pre-mRNAs and is involved in various processes such as pre-mRNA splicing and RNA-mediated gene silencing (RNAi). The CBC complex is involved in miRNA-mediated RNA interference via its interaction with Ars2 and is required for primary microRNAs (miRNAs) processing. Also involved in innate immunity via the short interfering RNAs (siRNAs) processing machinery by restricting the viral RNA production. In the CBC complex, Cbp80 does not bind directly capped RNAs [...] ",
+    "annotationB": "Small ribonucleoprotein particle protein SmD1 (SmD1) is an RNA binding protein that forms a heterodimeric sub-complex with SmD2. They function as part of the heteroheptameric ring complex Sm core, which is involved in the formation of spliceosomal small nuclear RNPs (U1, U2, U4 and U5), which together catalyze pre-mRNA splicing",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 331,
+            "end_residue_number": 333,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 381,
+            "end_residue_number": 384,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 463,
+            "end_residue_number": 464,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 470,
+            "end_residue_number": 470,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 18,
+            "end_residue_number": 22,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 48,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 66,
+            "end_residue_number": 66,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 72,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "331-333",
+        "381-384",
+        "463-464",
+        "470-470"
+    ],
+    "interfaceB": [
+        "18-22",
+        "48-48",
+        "66-66",
+        "72-77"
+    ]
+}

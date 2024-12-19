@@ -1,0 +1,16 @@
+{
+    "pae": 19.8,
+    "iptm": 31.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0072340",
+    "proB": "FBpp0086507",
+    "geneA": "Eps-15",
+    "geneB": "Arf51F",
+    "annotationA": "Epidermal growth factor receptor pathway substrate clone 15, isoform A; Calcium ion binding. It is involved in the biological process described with: regulation of synaptic growth at neuromuscular junction; receptor-mediated endocytosis; negative regulation of Notch signaling pathway; vesicle-mediated transport; synaptic vesicle endocytosis; neurotransmitter secretion",
+    "annotationB": "ADP-ribosylation factor 6; ADP ribosylation factor at 51F (Arf51F) belongs to the Arf family, which are members of the Ras superfamily of small GTPases. Arf proteins are involved in the regulation of vesicular trafficking mediating processes such as cargo-sorting, vesicle assembly and membrane fusion. Arf proteins regulate cell shape changes and cell movements in multiple organs",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.3,
+    "iptm": 17.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0084761",
+    "proB": "FBpp0303680",
+    "geneA": "Ef1gamma",
+    "geneB": "Rack1",
+    "annotationA": "Elongation factor 1-gamma; Ef1gamma associates with other EF1 subunits (alpha/beta/delta). It binds tubulin and Doa protein kinase, which in turns phosphorylates Ef1gamma. Ef1gamma regulates organelle movement along microtubules",
+    "annotationB": "Guanine nucleotide-binding protein subunit beta-like protein; Involved in the recruitment, assembly and/or regulation of a variety of signaling molecules. Interacts with a wide variety of proteins and plays a role in many cellular processes (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

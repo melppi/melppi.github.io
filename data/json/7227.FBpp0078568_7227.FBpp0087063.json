@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 15.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0078568",
+    "proB": "FBpp0087063",
+    "geneA": "Fip1",
+    "geneB": "Nup54",
+    "annotationA": "Factor interacting with poly(A) polymerase 1; Myosin binding. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; histone mRNA 3'-end processing",
+    "annotationB": "Probable nucleoporin Nup54; Probable component of the nuclear pore complex, a complex required for the trafficking across the nuclear membrane (By similarity). May have a role in the organization of the inner nuclear membrane proteins at the nuclear envelope together with Nup154; Belongs to the NUP54 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.6,
+    "iptm": 13.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0075068",
+    "proB": "FBpp0304481",
+    "geneA": "Rpn12",
+    "geneB": "Rpt3R",
+    "annotationA": "26S proteasome regulatory complex subunit p30; Endopeptidase activity. It is involved in the biological process described with: proteolysis; cell proliferation; mitotic spindle elongation; cellular process; proteasome-mediated ubiquitin-dependent protein catabolic process; ubiquitin-dependent protein catabolic process; mitotic spindle organization; neurogenesis",
+    "annotationB": "Regulatory particle triple-A ATPase 3-related, isoform C; ATP binding; ATPase activity. It is involved in the biological process described with: proteolysis; cellular response to DNA damage stimulus; protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

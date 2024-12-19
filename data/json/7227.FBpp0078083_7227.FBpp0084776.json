@@ -1,0 +1,16 @@
+{
+    "pae": 25.3,
+    "iptm": 15.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0078083",
+    "proB": "FBpp0084776",
+    "geneA": "CG11249",
+    "geneB": "Mesh1",
+    "annotationA": "Uncharacterized protein; Potassium ion binding; magnesium ion binding; pyruvate kinase activity. It is involved in the biological process described with: glycolytic process",
+    "annotationB": "Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase MESH1; Metazoan SpoT homolog-1 is a structural and functional ortholog of bacterial protein SpoT. It hydrolyzes ppGpp to GDP. Its mutants show retarded growth in amino acid-starved media, suggesting the conserved role in stringent responses; Belongs to the MESH1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 23.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0082320",
+    "proB": "FBpp0086066",
+    "geneA": "sqd",
+    "geneB": "Prosalpha5",
+    "annotationA": "RNA-binding protein squid; This protein is a component of ribonucleosomes. Could be needed to organize a concentration gradient of a dorsalizing morphogen (Dm) originating in the germinal vesicle. At least one of the isoforms is essential in somatic tissues",
+    "annotationB": "Proteasome subunit alpha type-5; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity; Belongs to the peptidase T1A family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.8,
+    "iptm": 20.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0070873",
+    "proB": "FBpp0271716",
+    "geneA": "Marf",
+    "geneB": "Fis1",
+    "annotationA": "Transmembrane GTPase Marf; Essential transmembrane GTPase, which mediates mitochondrial fusion. Fusion of mitochondria occurs in many cell types and constitutes an important step in mitochondria morphology, which is balanced between fusion and fission (By similarity); Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family. Mitofusin subfamily",
+    "annotationB": "Mitochondrial fission 1 protein; Involved in the fragmentation of the mitochondrial network and its perinuclear clustering. Functions downstream of Pink1 and upstream of Drp1 to regulate mitochondrial fission",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

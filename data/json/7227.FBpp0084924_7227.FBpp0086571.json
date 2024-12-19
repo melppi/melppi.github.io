@@ -1,0 +1,104 @@
+{
+    "pae": 12.9,
+    "iptm": 16.8,
+    "pdockq": 0.083,
+    "proA": "FBpp0084924",
+    "proB": "FBpp0086571",
+    "geneA": "Sry-delta",
+    "geneB": "BEAF-32",
+    "annotationA": "Serendipity locus protein delta; Transcriptional activator that controls bicoid gene expression during oogenesis. Found in transcriptionally active cells. Binds to specific sites on polytene chromosomes of third instar larvae. Binds to the consensus DNA sequence 5'- YTAGAGATGGRAA-3'",
+    "annotationB": "Boundary element-associated factor of 32kD (BEAF-32) is a DNA-binding protein with binding sites near transcription start sites. BEAF-32 roles include chromatin domain insulator function, gene regulation and genome organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 5,
+            "end_residue_number": 7,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 41,
+            "end_residue_number": 50,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 63,
+            "end_residue_number": 74,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 78,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 251,
+            "end_residue_number": 251,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 256,
+            "end_residue_number": 267,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "5-7",
+        "41-50",
+        "63-74",
+        "78-78"
+    ],
+    "interfaceB": [
+        "251-251",
+        "256-267"
+    ]
+}

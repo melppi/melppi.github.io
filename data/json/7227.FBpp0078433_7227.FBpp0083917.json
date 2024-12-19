@@ -1,0 +1,16 @@
+{
+    "pae": 16.0,
+    "iptm": 20.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0078433",
+    "proB": "FBpp0083917",
+    "geneA": "RpII18",
+    "geneB": "Ime4",
+    "annotationA": "DNA-directed RNA polymerases I, II, and III subunit RPABC2; DNA-dependent RNA polymerases catalyze the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I, II and III which synthesize ribosomal RNA precursors, mRNA precursors and many functional non-coding RNAs, and small RNAs, such as 5S rRNA and tRNAs, respectively. Pol II is the central component of the basal RNA polymerase II transcription machinery. Pols are composed of mobile elements that move relative to each other. In Pol II, RPB6 is part of the clamp e [...] ",
+    "annotationB": "Probable N6-adenosine-methyltransferase MT-A70-like protein; Probable N6-methyltransferase that methylates adenosine residues of some mRNAs. N6-methyladenosine (m6A), which is present at internal sites in mRNA isolated, may play a role in the efficiency of mRNA splicing, transport or translation (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

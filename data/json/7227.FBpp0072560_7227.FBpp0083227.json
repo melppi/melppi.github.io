@@ -1,0 +1,16 @@
+{
+    "pae": 13.5,
+    "iptm": 28.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072560",
+    "proB": "FBpp0083227",
+    "geneA": "CG9149",
+    "geneB": "Arc42",
+    "annotationA": "CG9149; acetyl-CoA C-acyltransferase activity. It is involved in the biological process described with: fatty acid beta-oxidation; Belongs to the thiolase family",
+    "annotationB": "SD24551p; acyl-CoA dehydrogenase activity; flavin adenine dinucleotide binding; RNA polymerase II transcription cofactor activity. It is involved in the biological process described with: oxidation-reduction process; dendrite morphogenesis; transcription initiation from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

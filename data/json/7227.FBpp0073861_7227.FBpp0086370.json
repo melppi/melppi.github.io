@@ -1,0 +1,16 @@
+{
+    "pae": 25.4,
+    "iptm": 13.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0073861",
+    "proB": "FBpp0086370",
+    "geneA": "CG7860",
+    "geneB": "Got1",
+    "annotationA": "Probable isoaspartyl peptidase/L-asparaginase CG7860; Has both L-asparaginase and beta-aspartyl peptidase activity. Does not have aspartylglucosaminidase activity and is inactive toward GlcNAc-L-Asn. Likewise, has no activity toward glutamine",
+    "annotationB": "Glutamate oxaloacetate transaminase 1, isoform B; L-aspartate:2-oxoglutarate aminotransferase activity; pyridoxal phosphate binding. It is involved in the biological process described with: aspartate metabolic process; imaginal disc-derived wing morphogenesis; glutamate biosynthetic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

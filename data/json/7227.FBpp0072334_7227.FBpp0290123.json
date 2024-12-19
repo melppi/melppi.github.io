@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0072334",
+    "proB": "FBpp0290123",
+    "geneA": "Aats-tyr-m",
+    "geneB": "CG18643",
+    "annotationA": "Tyrosine--tRNA ligase, mitochondrial; Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction: tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr); Belongs to the class-I aminoacyl-tRNA synthetase family",
+    "annotationB": "D-aminoacyl-tRNA deacylase; An aminoacyl-tRNA editing enzyme that deacylates mischarged D-aminoacyl-tRNAs (By similarity). Hydrolyzes correctly charged, achiral, glycyl-tRNA(Gly). Deacylates mischarged endogenous and E.coli glycyl-tRNA(Ala), protecting cells against glycine mischarging by AlaRS. Acts via tRNA-based rather than protein-based catalysis; rejects L- amino acids rather than detecting D-amino acids in the active site (By similarity). By recycling D-aminoacyl-tRNA to D-amino acids and free tRNA molecules, this enzyme counteracts the toxicity associated with the formation of D [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

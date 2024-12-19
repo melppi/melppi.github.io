@@ -1,0 +1,16 @@
+{
+    "pae": 18.4,
+    "iptm": 19.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0075994",
+    "proB": "FBpp0084776",
+    "geneA": "CG11811",
+    "geneB": "Mesh1",
+    "annotationA": "GH06691p; Guanylate kinase activity. It is involved in the biological process described with: purine nucleotide metabolic process",
+    "annotationB": "Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase MESH1; Metazoan SpoT homolog-1 is a structural and functional ortholog of bacterial protein SpoT. It hydrolyzes ppGpp to GDP. Its mutants show retarded growth in amino acid-starved media, suggesting the conserved role in stringent responses; Belongs to the MESH1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 16.1,
+    "iptm": 29.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070165",
+    "proB": "FBpp0070624",
+    "geneA": "mus81",
+    "geneB": "mei-9",
+    "annotationA": "EG:BACR7A4.16 protein; Mus81 is the catalytic subunit of the Mus81-mms4 structure-selective endonuclease that functions in DNA repair",
+    "annotationB": "DNA repair endonuclease XPF; Implicated in recombination events during meiosis, mostly in meiotic exchange. May directly resolve Holliday junctions within recombination intermediates leading to DNA exchange. Also required for the repair of mismatches within meiotic heteroduplex DNA and for nucleotide excision repair",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

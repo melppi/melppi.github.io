@@ -1,0 +1,48 @@
+{
+    "pae": 11.1,
+    "iptm": 29.9,
+    "pdockq": 0.024,
+    "proA": "FBpp0071087",
+    "proB": "FBpp0081845",
+    "geneA": "RpS6",
+    "geneB": "RpS25",
+    "annotationA": "40S ribosomal protein S6; May play an important role in controlling cell growth and proliferation through the selective translation of particular classes of mRNA",
+    "annotationB": "40S ribosomal protein S25; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eS25 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 210,
+            "end_residue_number": 210,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 48,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "210-210"
+    ],
+    "interfaceB": [
+        "48-48"
+    ]
+}

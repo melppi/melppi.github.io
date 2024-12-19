@@ -1,0 +1,48 @@
+{
+    "pae": 15.5,
+    "iptm": 18.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0083376",
+    "proB": "FBpp0085166",
+    "geneA": "RpS30",
+    "geneB": "RpL6",
+    "annotationA": "40S ribosomal protein S30; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eS30 family",
+    "annotationB": "Ribosomal protein L6, isoform B; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; centrosome organization; translation; centrosome duplication; mitotic spindle organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 45,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 91,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "45-45"
+    ],
+    "interfaceB": [
+        "91-91"
+    ]
+}

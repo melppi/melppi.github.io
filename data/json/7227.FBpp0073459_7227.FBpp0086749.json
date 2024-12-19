@@ -1,0 +1,62 @@
+{
+    "pae": 15.4,
+    "iptm": 30.9,
+    "pdockq": 0.034,
+    "proA": "FBpp0073459",
+    "proB": "FBpp0086749",
+    "geneA": "Tango4",
+    "geneB": "fand",
+    "annotationA": "Transport and golgi organization 4; It is involved in the biological process described with: protein secretion; mRNA splicing, via spliceosome; Golgi organization",
+    "annotationB": "FI18620p1; It is involved in the biological process described with: phagocytosis; RNA splicing; regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 167,
+            "end_residue_number": 170,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 203,
+            "end_residue_number": 206,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 793,
+            "end_residue_number": 795,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "167-170",
+        "203-206"
+    ],
+    "interfaceB": [
+        "793-795"
+    ]
+}

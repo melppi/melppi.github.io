@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 12.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0082384",
+    "proB": "FBpp0111294",
+    "geneA": "RpII15",
+    "geneB": "Rpb12",
+    "annotationA": "DNA-directed RNA polymerase II subunit RPB9; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Component of RNA polymerase II which synthesizes mRNA precursors and many functional non-coding RNAs. Pol II is the central component of the basal RNA polymerase II transcription machinery. It is composed of mobile elements that move relative to each other. RPB9 is part of the upper jaw surrounding the central large cleft and thought to grab the incoming DNA template (By similarity); Belongs to the archaeal RpoM [...] ",
+    "annotationB": "GEO11084p1; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; transcription, DNA-templated",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

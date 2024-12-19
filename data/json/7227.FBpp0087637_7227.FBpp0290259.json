@@ -1,0 +1,48 @@
+{
+    "pae": 14.1,
+    "iptm": 22.0,
+    "pdockq": 0.026,
+    "proA": "FBpp0087637",
+    "proB": "FBpp0290259",
+    "geneA": "Non1",
+    "geneB": "CG33228",
+    "annotationA": "Nucleolar GTP-binding protein 1; Involved in the biogenesis of the 60S ribosomal subunit (By similarity). Required for normal assembly of the mitotic spindle. May be involved in both centrosome- dependent and centrosome-independent spindle assembly programs",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 601,
+            "end_residue_number": 605,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 107,
+            "end_residue_number": 110,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "601-605"
+    ],
+    "interfaceB": [
+        "107-110"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.7,
+    "iptm": 18.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0079949",
+    "proB": "FBpp0087045",
+    "geneA": "CG6388",
+    "geneB": "CG8545",
+    "annotationA": "Probable tRNA (guanine(26)-N(2))-dimethyltransferase; Dimethylates a single guanine residue at position 26 of most tRNAs using S-adenosyl-L-methionine as donor of the methyl groups",
+    "annotationB": "LD11307p; RNA binding; S-adenosylmethionine-dependent methyltransferase activity. It is involved in the biological process described with: rRNA processing; Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB/NOP family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

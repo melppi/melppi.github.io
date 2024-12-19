@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 15.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0079609",
+    "proB": "FBpp0081356",
+    "geneA": "RfC3",
+    "geneB": "RpA-70",
+    "annotationA": "Replication factor C subunit 3; ATP binding; DNA binding. It is involved in the biological process described with: lateral inhibition; DNA replication; neurogenesis",
+    "annotationB": "Replication protein A 70 kDa DNA-binding subunit; As part of the heterotrimeric replication protein A complex (RPA/RP-A), binds and stabilizes single-stranded DNA intermediates, that form during DNA replication or upon DNA stress. It prevents their reannealing and in parallel, recruits and activates different proteins and complexes involved in DNA metabolism. Thereby, it plays an essential role both in DNA replication and the cellular response to DNA damage",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

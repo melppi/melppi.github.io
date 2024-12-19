@@ -1,0 +1,48 @@
+{
+    "pae": 17.3,
+    "iptm": 17.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072852",
+    "proB": "FBpp0292397",
+    "geneA": "Jafrac2",
+    "geneB": "prtp",
+    "annotationA": "Thioredoxin peroxidase 2, isoform A; Protein binding; peroxidase activity; antioxidant activity; thioredoxin peroxidase activity. It is involved in the biological process described with: response to oxidative stress; positive regulation of JAK-STAT cascade; oxidation-reduction process; cellular response to DNA damage stimulus; positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway; apoptotic signaling pathway; cellular response to cold; hydrogen peroxide catabolic process; defense response to bacterium",
+    "annotationB": "Thioredoxin domain-containing protein 5 homolog; Possesses thioredoxin activity (By similarity). Acts as a ligand for Drpr and is required for the phagocytosis of apoptotic cells. Binds to the extracellular region of Drpr and augments Drpr tyrosine phosphorylation; Belongs to the protein disulfide isomerase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 26,
+            "end_residue_number": 26,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 193,
+            "end_residue_number": 193,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "26-26"
+    ],
+    "interfaceB": [
+        "193-193"
+    ]
+}

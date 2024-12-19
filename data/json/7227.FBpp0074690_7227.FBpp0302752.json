@@ -1,0 +1,16 @@
+{
+    "pae": 18.4,
+    "iptm": 22.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0074690",
+    "proB": "FBpp0302752",
+    "geneA": "Rab8",
+    "geneB": "Rop",
+    "annotationA": "Rab8, isoform A; GTPase activity; GTP binding. It is involved in the biological process described with: vesicle-mediated transport; Rab protein signal transduction; protein transport",
+    "annotationB": "Protein ROP; May be a component of one of the vesicle trafficking pathways. May interact functionally with Ras2 protein",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

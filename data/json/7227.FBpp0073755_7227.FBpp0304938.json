@@ -1,0 +1,48 @@
+{
+    "pae": 14.9,
+    "iptm": 25.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0073755",
+    "proB": "FBpp0304938",
+    "geneA": "Ag5r2",
+    "geneB": "CG17145",
+    "annotationA": "Antigen 5-related 2; Belongs to the CRISP family",
+    "annotationB": "Uncharacterized protein, isoform A; Chitin binding; structural constituent of peritrophic membrane. It is involved in the biological process described with: chitin metabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 177,
+            "end_residue_number": 177,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 2,
+            "end_residue_number": 2,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "177-177"
+    ],
+    "interfaceB": [
+        "2-2"
+    ]
+}

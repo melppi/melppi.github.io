@@ -1,0 +1,48 @@
+{
+    "pae": 16.3,
+    "iptm": 24.9,
+    "pdockq": 0.028,
+    "proA": "FBpp0079874",
+    "proB": "FBpp0304862",
+    "geneA": "CG12264",
+    "geneB": "l(1)G0136",
+    "annotationA": "Probable cysteine desulfurase, mitochondrial; Catalyzes the removal of elemental sulfur from cysteine to produce alanine. It supplies the inorganic sulfur for iron- sulfur (Fe-S) clusters (By similarity); Belongs to the class-V pyridoxal-phosphate-dependent aminotransferase family. NifS/IscS subfamily",
+    "annotationB": "Iron-sulfur cluster assembly 1 homolog, mitochondrial; Involved in the assembly of mitochondrial iron-sulfur proteins. Probably involved in the binding of an intermediate of Fe/S cluster assembly (By similarity). Required for maintenance of circadian rhythms under constant darkness",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 79,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 94,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "79-80"
+    ],
+    "interfaceB": [
+        "94-97"
+    ]
+}

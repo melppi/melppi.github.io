@@ -1,0 +1,16 @@
+{
+    "pae": 24.0,
+    "iptm": 9.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0079735",
+    "proB": "FBpp0087765",
+    "geneA": "YL-1",
+    "geneB": "MrgBP",
+    "annotationA": "Vacuolar protein sorting-associated protein 72 homolog; Part of the Tip60 chromatin-remodeling complex which is involved in DNA repair. Upon induction of DNA double-strand breaks, this complex acetylates phosphorylated H2AV in nucleosomes and exchanges it with unmodified H2AV",
+    "annotationB": "MRG/MORF4L binding protein; It is involved in the biological process described with: regulation of transcription, DNA-templated; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

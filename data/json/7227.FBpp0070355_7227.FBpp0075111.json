@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 17.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070355",
+    "proB": "FBpp0075111",
+    "geneA": "deltaCOP",
+    "geneB": "zetaCOP",
+    "annotationA": "Coatomer subunit delta; The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins",
+    "annotationB": "Coat protein (Coatomer) zeta, isoform A; Structural molecule activity; transporter activity; oxidoreductase activity. It is involved in the biological process described with: phagocytosis; oxidation-reduction process; retrograde vesicle-mediated transport, Golgi to ER; regulation of lipid storage",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

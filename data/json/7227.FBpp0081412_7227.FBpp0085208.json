@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 15.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0081412",
+    "proB": "FBpp0085208",
+    "geneA": "CG9836",
+    "geneB": "FeCH",
+    "annotationA": "Iron-sulfur cluster assembly enzyme; Scaffold protein for the de novo synthesis of iron- sulfur (Fe-S) clusters within mitochondria, which is required for maturation of both mitochondrial and cytoplasmic [2Fe-2S] and [4Fe-4S] proteins",
+    "annotationB": "Ferrochelatase, mitochondrial; Catalyzes the ferrous insertion into protoporphyrin IX; Belongs to the ferrochelatase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

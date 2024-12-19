@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 22.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0080261",
+    "proB": "FBpp0089035",
+    "geneA": "Su(H)",
+    "geneB": "arm",
+    "annotationA": "Suppressor of hairless protein; Transcriptional regulator that plays a central role in Notch signaling, a signaling pathway involved in cell-cell communication that regulates a broad spectrum of cell-fate determinations. Binds directly the 5'-GTGRGAR-3' DNA consensus sequence, which is present in the regulatory region of several genes. Required for neurogenesis in imaginal disks. Acts as a transcriptional repressor when it is not associated with Notch proteins. When associated with some Notch protein, it acts as a transcriptional activator that activates transcription of Notch target g [...] ",
+    "annotationB": "Armadillo segment polarity protein; Isoform neural may associate with CadN and participate in the transmission of developmental information. Can associate with alpha-catenin. Isoform cytoplasmic accumulates through wg signaling; arm function in wg signal transduction is required early in development for determination of neuroblast fate. Arm and Abl proteins function cooperatively at adherens junctions in both the CNS and epidermis; Belongs to the beta-catenin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

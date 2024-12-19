@@ -1,0 +1,16 @@
+{
+    "pae": 15.8,
+    "iptm": 22.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0303629",
+    "proB": "FBpp0303878",
+    "geneA": "VGlut",
+    "geneB": "nSyb",
+    "annotationA": "Vesicular glutamate transporter, isoform A; L-glutamate transmembrane transporter activity; high-affinity inorganic phosphate:sodium symporter activity; neurotransmitter transporter activity. It is involved in the biological process described with: transmembrane transport; synaptic transmission, glutamatergic; L-glutamate transport",
+    "annotationB": "Neuronal synaptobrevin, isoform J; SNAP receptor activity; protein binding; SNARE binding. It is involved in the biological process described with: vesicle-mediated transport; synaptic vesicle docking involved in exocytosis; vesicle fusion; neurotransmitter secretion",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 15.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0073608",
+    "proB": "FBpp0083729",
+    "geneA": "CG1673",
+    "geneB": "Gclm",
+    "annotationA": "Branched-chain-amino-acid transaminase activity. It is involved in the biological process described with: branched-chain amino acid biosynthetic process; Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family",
+    "annotationB": "Glutamate-cysteine ligase catalytic subunit binding; enzyme regulator activity; enzyme binding. It is involved in the biological process described with: detoxification of arsenic-containing substance; learning or memory; cellular response to DNA damage stimulus; positive regulation of glutamate-cysteine ligase activity; behavioral response to ethanol; long-term memory; olfactory learning; glutathione biosynthetic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

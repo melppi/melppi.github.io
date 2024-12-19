@@ -1,0 +1,48 @@
+{
+    "pae": 15.5,
+    "iptm": 12.3,
+    "pdockq": 0.029,
+    "proA": "FBpp0079733",
+    "proB": "FBpp0079764",
+    "geneA": "CG12517",
+    "geneB": "CG14069",
+    "annotationA": "GEO10377p1; Cytokine activity. It is involved in the biological process described with: chorion-containing eggshell formation; signal transduction",
+    "annotationB": "Uncharacterized protein, isoform A; Cytokine activity. It is involved in the biological process described with: signal transduction",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 59,
+            "end_residue_number": 66,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 42,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "59-66"
+    ],
+    "interfaceB": [
+        "42-45"
+    ]
+}

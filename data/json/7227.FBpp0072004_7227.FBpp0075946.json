@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 19.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0072004",
+    "proB": "FBpp0075946",
+    "geneA": "l(2)not",
+    "geneB": "Alg10",
+    "annotationA": "Lethal(2)neighbour of tid protein; Transferase activity, transferring hexosyl groups",
+    "annotationB": "Putative Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase; Adds the third glucose residue to the lipid-linked oligosaccharide precursor for N-linked glycosylation. Transfers glucose from dolichyl phosphate glucose (Dol-P-Glc) onto the lipid-linked oligosaccharide Glc(2)Man(9)GlcNAc(2)-PP-Dol (By similarity); Belongs to the ALG10 glucosyltransferase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

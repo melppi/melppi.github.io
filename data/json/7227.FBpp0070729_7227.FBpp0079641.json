@@ -1,0 +1,16 @@
+{
+    "pae": 17.8,
+    "iptm": 31.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0070729",
+    "proB": "FBpp0079641",
+    "geneA": "Mcm3",
+    "geneB": "Cdk1",
+    "annotationA": "DNA replication licensing factor Mcm3; Acts as component of the Mcm2-7 complex (Mcm complex) (Mcm complex) which is the putative replicative helicase essential for 'once per cell cycle' DNA replication initiation and elongation in eukaryotic cells. The active ATPase sites in the Mcm2-7 ring are formed through the interaction surfaces of two neighboring subunits such that a critical structure of a conserved arginine finger motif is provided in trans relative to the ATP- binding site of the Walker A box of the adjacent subunit. The six ATPase active sites, however, are likely to contribu [...] ",
+    "annotationB": "Cyclin-dependent kinase (Cdk1) is a catalytic protein kinase subunit that can only become active after association with either CycA, CycB or CycB3. The protein kinase activities of these complexes (CycA-Cdk1, CycB-Cdk1, CycB3-Cdk1) control important aspects of progression through the cell cycle. Functionally, the different Cdk1 complexes are partially redundant. They phosphorylate hundreds of target proteins and are most important for progression into and through mitotic and meiotic M phases; Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

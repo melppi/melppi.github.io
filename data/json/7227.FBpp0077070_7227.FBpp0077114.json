@@ -1,0 +1,174 @@
+{
+    "pae": 1.8,
+    "iptm": 59.7,
+    "pdockq": 0.189,
+    "proA": "FBpp0077070",
+    "proB": "FBpp0077114",
+    "geneA": "Elba3",
+    "geneB": "Bsg25A",
+    "annotationA": "Early boundary activity protein 3; The heterotrimeric Elba complex is required for chromatin domain boundary function during early embryogenesis. It binds to a 8-bp sequence 5'-CCAATAAG-3' in the Fab-7 insulator or boundary element in the bithorax complex and contributes to its insulator or boundary activity. Elba3 lacks DNA-binding activity and plays the role of an adapter protein, bringing Elba1 and 2 together, thereby establishing a complex that recognizes the asymmetric sequence motif through the BEN domains of Elba1 and 2",
+    "annotationB": "Early boundary activity protein 1; The heterotrimeric Elba complex is required for chromatin domain boundary function during early embryogenesis. It binds to a 8-bp sequence 5'-CCAATAAG-3' in the Fab-7 insulator or boundary element in the bithorax complex and contributes to its insulator or boundary activity. Elba1 may act as a transcriptional repressor and binds the palindromic sequence 5'- CCAATTGG-3' to mediate transcriptional repression",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 28,
+            "end_residue_number": 32,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 63,
+            "end_residue_number": 71,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 93,
+            "end_residue_number": 98,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 187,
+            "end_residue_number": 202,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 234,
+            "end_residue_number": 234,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 238,
+            "end_residue_number": 246,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 257,
+            "end_residue_number": 263,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 303,
+            "end_residue_number": 305,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 322,
+            "end_residue_number": 362,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 21,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 112,
+            "end_residue_number": 152,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "28-32",
+        "63-71",
+        "93-98",
+        "187-202",
+        "234-234",
+        "238-246",
+        "257-263",
+        "303-305",
+        "322-362"
+    ],
+    "interfaceB": [
+        "1-21",
+        "112-152"
+    ]
+}

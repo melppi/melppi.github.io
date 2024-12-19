@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 22.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0081333",
+    "proB": "FBpp0304068",
+    "geneA": "Atg13",
+    "geneB": "Atg18b",
+    "annotationA": "Autophagy-related protein 13 homolog; Autophagy factor required for autophagosome formation. Target of the TOR kinase signaling pathway that regulates autophagy through the control of the phosphorylation status of Atg13 and Atg1. The Atg1-Atg13 complex functions at multiple levels to mediate and adjust nutrient-dependent autophagic signaling. Involved in the autophagic degradation of dBruce which controls DNA fragmentation in nurse cells",
+    "annotationB": "Autophagy-related 18b, isoform A; Phosphatidylinositol-3,5-bisphosphate binding; phosphatidylinositol-3-phosphate binding. It is involved in the biological process described with: cellular response to oxidative stress; autophagic vacuole assembly",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

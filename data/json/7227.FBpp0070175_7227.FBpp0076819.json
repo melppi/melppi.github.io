@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 23.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070175",
+    "proB": "FBpp0076819",
+    "geneA": "CDC45L",
+    "geneB": "mad2",
+    "annotationA": "EG:BACR7A4.11 protein; DNA binding; 3'-5' DNA helicase activity; chromatin binding. It is involved in the biological process described with: DNA amplification; DNA replication initiation; chromosome condensation; DNA replication; positive regulation of G1/S transition of mitotic cell cycle; mitotic G2 DNA damage checkpoint; neurogenesis; neuron projection morphogenesis",
+    "annotationB": "RE72064p; Mad2 is a conserved component of the spindle checkpoint. During mitosis, it is recruited to unattached kinetochores, where it binds Mad1 and fzy, promoting the assembly of the mitotic checkpoint complex. During interphase, Mad2 is intranuclear, bound to Mad1, and associated primarily with the nuclear pore complex",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

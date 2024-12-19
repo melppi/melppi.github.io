@@ -1,0 +1,16 @@
+{
+    "pae": 25.0,
+    "iptm": 11.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070279",
+    "proB": "FBpp0082994",
+    "geneA": "Sta",
+    "geneB": "eIF-1A",
+    "annotationA": "40S ribosomal protein SA; Required for the assembly and/or stability of the 40S ribosomal subunit. Required for the processing of the 20S rRNA- precursor to mature 18S rRNA in a late step of the maturation of 40S ribosomal subunits. Required during oogenesis and imaginal development",
+    "annotationB": "Eukaryotic initiation factor 1A, isoform A; Seems to be required for maximal rate of protein biosynthesis. Enhances ribosome dissociation into subunits and stabilizes the binding of the initiator Met-tRNA(I) to 40 S ribosomal subunits",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

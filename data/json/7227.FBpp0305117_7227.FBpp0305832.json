@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 16.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0305117",
+    "proB": "FBpp0305832",
+    "geneA": "ATPsyndelta",
+    "geneB": "ND-49",
+    "annotationA": "ATP synthase, delta subunit, isoform A; Proton-transporting ATP synthase activity, rotational mechanism; proton-transporting ATPase activity, rotational mechanism; hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "annotationB": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity; quinone binding; NAD binding. It is involved in the biological process described with: lateral inhibition; mitochondrial electron transport, NADH to ubiquinone; neuron projection morphogenesis; Belongs to the complex I 49 kDa subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

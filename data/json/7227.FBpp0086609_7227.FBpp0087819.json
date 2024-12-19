@@ -1,0 +1,48 @@
+{
+    "pae": 8.0,
+    "iptm": 15.2,
+    "pdockq": 0.042,
+    "proA": "FBpp0086609",
+    "proB": "FBpp0087819",
+    "geneA": "CG12860",
+    "geneB": "CG8701",
+    "annotationA": "annotation not available",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 261,
+            "end_residue_number": 286,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 190,
+            "end_residue_number": 218,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "261-286"
+    ],
+    "interfaceB": [
+        "190-218"
+    ]
+}

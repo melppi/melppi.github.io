@@ -1,0 +1,16 @@
+{
+    "pae": 17.5,
+    "iptm": 15.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0078086",
+    "proB": "FBpp0081639",
+    "geneA": "Rpb8",
+    "geneB": "MED6",
+    "annotationA": "GM03174p; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "annotationB": "Mediator of RNA polymerase II transcription subunit 6; Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors. Required for activated tra [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

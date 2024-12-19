@@ -1,0 +1,62 @@
+{
+    "pae": 17.3,
+    "iptm": 19.0,
+    "pdockq": 0.034,
+    "proA": "FBpp0083802",
+    "proB": "FBpp0084150",
+    "geneA": "RpS3",
+    "geneB": "vig2",
+    "annotationA": "Ribosomal protein S3 (RpS3) is a component of the small subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles. RpS3 also contains a DNA lyase activity and functions in DNA repair",
+    "annotationB": "Vig2, isoform B; It is involved in the biological process described with: regulation of chromatin silencing; histone H3-K9 methylation; heterochromatin organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 134,
+            "end_residue_number": 134,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 156,
+            "end_residue_number": 158,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 179,
+            "end_residue_number": 181,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "134-134",
+        "156-158"
+    ],
+    "interfaceB": [
+        "179-181"
+    ]
+}

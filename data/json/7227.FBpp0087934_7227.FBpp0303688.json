@@ -1,0 +1,90 @@
+{
+    "pae": 11.1,
+    "iptm": 19.7,
+    "pdockq": 0.064,
+    "proA": "FBpp0087934",
+    "proB": "FBpp0303688",
+    "geneA": "nito",
+    "geneB": "Hakai",
+    "annotationA": "Spenito, isoform A; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: wing disc pattern formation; mRNA splicing, via spliceosome; compound eye development; positive regulation of Wnt signaling pathway; neurogenesis",
+    "annotationB": "Hakai, isoform F; Hakai is a ring finger type E3 ubiquitin ligase that associates with the cadherin shg. It is essential for organismal viability and embryonic morphogenesis, but is dispensable for cell viability and proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 640,
+            "end_residue_number": 642,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 675,
+            "end_residue_number": 679,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 730,
+            "end_residue_number": 730,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 738,
+            "end_residue_number": 739,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 53,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "640-642",
+        "675-679",
+        "730-730",
+        "738-739"
+    ],
+    "interfaceB": [
+        "48-53"
+    ]
+}

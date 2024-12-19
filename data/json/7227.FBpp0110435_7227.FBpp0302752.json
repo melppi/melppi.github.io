@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0110435",
+    "proB": "FBpp0302752",
+    "geneA": "Snap25",
+    "geneB": "Rop",
+    "annotationA": "Synaptosomal-associated protein 25kDa (Snap25) is a synaptic target SNARE protein and a component of SNARE protein complexes known to function in neurotransmitter release. Snap25 functions in synaptic transmission in larvae and is essential in adults; Belongs to the SNAP-25 family",
+    "annotationB": "Protein ROP; May be a component of one of the vesicle trafficking pathways. May interact functionally with Ras2 protein",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

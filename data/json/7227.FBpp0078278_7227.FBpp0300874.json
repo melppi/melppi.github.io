@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 18.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078278",
+    "proB": "FBpp0300874",
+    "geneA": "Rpn5",
+    "geneB": "Roc1a",
+    "annotationA": "Regulatory particle non-ATPase 5; Endopeptidase activity. It is involved in the biological process described with: proteolysis; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "Regulator of cullins 1a (Roc1a) is a C2H2 type zinc finger protein and component of several Cullin-Ring E3 ubiquitin ligase complexes. Roc1a binds directly to the Cullin subunit within the CRL complex and functions to recruit ubiquitin-charged E2 proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

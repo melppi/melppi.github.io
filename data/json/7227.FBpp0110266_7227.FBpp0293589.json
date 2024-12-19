@@ -1,0 +1,16 @@
+{
+    "pae": 13.3,
+    "iptm": 20.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0110266",
+    "proB": "FBpp0293589",
+    "geneA": "Hsf",
+    "geneB": "foxo",
+    "annotationA": "Heat shock factor protein; DNA-binding protein that specifically binds heat shock promoter elements (HSE) and activates transcription. In higher eukaryotes, HSF is unable to bind to the HSE unless the cells are heat shocked",
+    "annotationB": "Forkhead box protein O; Transcription factor involved in the regulation of the insulin signaling pathway. Consistently activates both the downstream target Thord4EBP and the feedback control target InR. Involved in negative regulation of the cell cycle, modulating cell growth and proliferation. In response to cellular stresses, such as nutrient deprivation or increased levels of reactive oxygen species, foxo is activated and inhibits growth through the action of target genes such as Thor. Foxo activated in the adult fat body can regulate lifespan in adults; an insulin peptide itself ma [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

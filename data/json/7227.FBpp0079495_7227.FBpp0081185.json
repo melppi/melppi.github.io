@@ -1,0 +1,76 @@
+{
+    "pae": 14.7,
+    "iptm": 18.2,
+    "pdockq": 0.032,
+    "proA": "FBpp0079495",
+    "proB": "FBpp0081185",
+    "geneA": "CG5885",
+    "geneB": "twr",
+    "annotationA": "CG5885, isoform A; It is involved in the biological process described with: cotranslational protein targeting to membrane",
+    "annotationB": "Signal peptidase complex catalytic subunit SEC11; Peptidase activity; serine-type peptidase activity. It is involved in the biological process described with: signal peptide processing",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 44,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 141,
+            "end_residue_number": 145,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 149,
+            "end_residue_number": 149,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 32,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "44-47",
+        "141-145",
+        "149-149"
+    ],
+    "interfaceB": [
+        "32-41"
+    ]
+}

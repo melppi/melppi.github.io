@@ -1,0 +1,118 @@
+{
+    "pae": 11.6,
+    "iptm": 25.2,
+    "pdockq": 0.157,
+    "proA": "FBpp0112131",
+    "proB": "FBpp0304299",
+    "geneA": "cu",
+    "geneB": "Not3",
+    "annotationA": "Curled, isoform D; It is involved in the biological process described with: locomotor rhythm; nuclear-transcribed mRNA poly(A) tail shortening; response to light stimulus",
+    "annotationB": "Not3, isoform A; Protein binding. It is involved in the biological process described with: mRNA catabolic process; transcription, DNA-templated; regulation of transcription, DNA-templated; neurogenesis; nuclear-transcribed mRNA poly(A) tail shortening; negative regulation of translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 227,
+            "end_residue_number": 227,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 425,
+            "end_residue_number": 425,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 455,
+            "end_residue_number": 465,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 767,
+            "end_residue_number": 769,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 793,
+            "end_residue_number": 797,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 815,
+            "end_residue_number": 820,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 826,
+            "end_residue_number": 831,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "227-227",
+        "425-425",
+        "455-465"
+    ],
+    "interfaceB": [
+        "767-769",
+        "793-797",
+        "815-820",
+        "826-831"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 15.5,
+    "iptm": 23.0,
+    "pdockq": 0.025,
+    "proA": "FBpp0087651",
+    "proB": "FBpp0088035",
+    "geneA": "CG8068",
+    "geneB": "Incenp",
+    "annotationA": "Suppressor of variegation 2-10, isoform I; DNA binding; DEAD/H-box RNA helicase binding; zinc ion binding",
+    "annotationB": "Inner centromere protein, isoform A; Protein binding; microtubule binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 362,
+            "end_residue_number": 363,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 741,
+            "end_residue_number": 743,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "362-363"
+    ],
+    "interfaceB": [
+        "741-743"
+    ]
+}

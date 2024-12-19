@@ -1,0 +1,16 @@
+{
+    "pae": 21.9,
+    "iptm": 12.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0084729",
+    "proB": "FBpp0305289",
+    "geneA": "CG11837",
+    "geneB": "NHP2",
+    "annotationA": "Probable dimethyladenosine transferase; Specifically dimethylates two adjacent adenosines in the loop of a conserved hairpin near the 3'-end of 18S rRNA in the 40S particle",
+    "annotationB": "H/ACA ribonucleoprotein complex subunit 2-like protein; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

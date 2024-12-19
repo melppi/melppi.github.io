@@ -1,0 +1,104 @@
+{
+    "pae": 10.7,
+    "iptm": 31.7,
+    "pdockq": 0.417,
+    "proA": "FBpp0077141",
+    "proB": "FBpp0082547",
+    "geneA": "mRpL27",
+    "geneB": "CG5044",
+    "annotationA": "Mitochondrial ribosomal protein L27, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: mitochondrial translation; translation",
+    "annotationB": "3-hydroxyisobutyryl-CoA hydrolase, mitochondrial; Hydrolyzes 3-hydroxyisobutyryl-CoA (HIBYL-CoA), a saline catabolite; Belongs to the enoyl-CoA hydratase/isomerase family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 128,
+            "end_residue_number": 137,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 133,
+            "end_residue_number": 136,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 157,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 187,
+            "end_residue_number": 193,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 212,
+            "end_residue_number": 220,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 316,
+            "end_residue_number": 323,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "128-137"
+    ],
+    "interfaceB": [
+        "133-136",
+        "157-162",
+        "187-193",
+        "212-220",
+        "316-323"
+    ]
+}

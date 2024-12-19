@@ -1,0 +1,90 @@
+{
+    "pae": 5.3,
+    "iptm": 59.1,
+    "pdockq": 0.306,
+    "proA": "FBpp0071563",
+    "proB": "FBpp0074690",
+    "geneA": "Rbpn-5",
+    "geneB": "Rab8",
+    "annotationA": "Rabaptin-5; Zinc ion binding; Rab GTPase binding. It is involved in the biological process described with: regulation of endosome size",
+    "annotationB": "Rab8, isoform A; GTPase activity; GTP binding. It is involved in the biological process described with: vesicle-mediated transport; Rab protein signal transduction; protein transport",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 520,
+            "end_residue_number": 553,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 10,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 40,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 58,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 77,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "520-553"
+    ],
+    "interfaceB": [
+        "1-10",
+        "40-47",
+        "58-72",
+        "77-77"
+    ]
+}

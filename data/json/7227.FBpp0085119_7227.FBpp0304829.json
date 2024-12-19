@@ -1,0 +1,76 @@
+{
+    "pae": 16.0,
+    "iptm": 16.5,
+    "pdockq": 0.031,
+    "proA": "FBpp0085119",
+    "proB": "FBpp0304829",
+    "geneA": "CG1542",
+    "geneB": "l(2)37Cg",
+    "annotationA": "Probable rRNA-processing protein EBP2 homolog; Required for the processing of the 27S pre-rRNA",
+    "annotationB": "Probable DNA-directed RNA polymerases I and III subunit RPAC2; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common core component of RNA polymerases I and III which synthesize ribosomal RNA precursors and small RNAs, such as 5S rRNA and tRNAs, respectively (By similarity); Belongs to the archaeal RpoL/eukaryotic RPB11/RPC19 RNA polymerase subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 11,
+            "end_residue_number": 13,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 38,
+            "end_residue_number": 38,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 42,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 59,
+            "end_residue_number": 59,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "11-13"
+    ],
+    "interfaceB": [
+        "38-38",
+        "42-45",
+        "59-59"
+    ]
+}

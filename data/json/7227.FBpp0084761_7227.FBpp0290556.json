@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 21.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0084761",
+    "proB": "FBpp0290556",
+    "geneA": "Ef1gamma",
+    "geneB": "bur",
+    "annotationA": "Elongation factor 1-gamma; Ef1gamma associates with other EF1 subunits (alpha/beta/delta). It binds tubulin and Doa protein kinase, which in turns phosphorylates Ef1gamma. Ef1gamma regulates organelle movement along microtubules",
+    "annotationB": "Burgundy, isoform B; GMP synthase activity; ATP binding; pyrophosphatase activity; deubiquitinase activator activity; GMP synthase (glutamine-hydrolyzing) activity. It is involved in the biological process described with: histone deubiquitination; regulation of ubiquitin-specific protease activity; axon guidance; GMP biosynthetic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

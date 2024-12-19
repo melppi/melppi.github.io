@@ -1,0 +1,16 @@
+{
+    "pae": 18.5,
+    "iptm": 19.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0088268",
+    "proB": "FBpp0306192",
+    "geneA": "pho",
+    "geneB": "E(z)",
+    "annotationA": "Polycomb protein PHO; Polycomb group (PcG) protein that binds to the 5'- CNGCCATNNNNG-3' sequence found in the regulatory regions of many genes. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility. Probably targets the Esc/E(z) complex to DNA. Necessary but no [...] ",
+    "annotationB": "Histone-lysine N-methyltransferase E(z); Polycomb group (PcG) protein. Catalytic subunit of the Esc/E(z) complex, which methylates 'Lys-9' and 'Lys-27' of histone H3, leading to transcriptional repression of the affected target gene. While PcG proteins are generally required to maintain the transcriptionally repressive state of homeotic genes throughout development, this protein is specifically required during the first 6 hours of embryogenesis to establish the repressed state. The Esc/E(z) complex is necessary but not sufficient for the repression of homeotic target genes, suggesting  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

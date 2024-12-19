@@ -1,0 +1,16 @@
+{
+    "pae": 20.3,
+    "iptm": 26.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078568",
+    "proB": "FBpp0304467",
+    "geneA": "Fip1",
+    "geneB": "Nup37",
+    "annotationA": "Factor interacting with poly(A) polymerase 1; Myosin binding. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; histone mRNA 3'-end processing",
+    "annotationB": "As part of the nuclear pore complex (NPC), has a role in its assembly and function",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

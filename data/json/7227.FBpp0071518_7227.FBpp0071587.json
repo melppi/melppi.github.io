@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 11.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0071518",
+    "proB": "FBpp0071587",
+    "geneA": "RpL29",
+    "geneB": "CG10306",
+    "annotationA": "60S ribosomal protein L29; Structural constituent of ribosome; chromatin binding. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eL29 family",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit K; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

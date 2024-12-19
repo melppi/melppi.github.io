@@ -1,0 +1,48 @@
+{
+    "pae": 14.5,
+    "iptm": 17.2,
+    "pdockq": 0.029,
+    "proA": "FBpp0083753",
+    "proB": "FBpp0304060",
+    "geneA": "p53",
+    "geneB": "Cdk5alpha",
+    "annotationA": "P53 protein long form variant 1; P53 is a transcriptional factor required for adaptive responses to genotoxic stress, including cell death, compensatory proliferation and DNA repair",
+    "annotationB": "Cdk5 activator-like protein (Cdk5alpha) is the sole, essential stimulatory subunit for the Cdk5 kinase. The Cdk5/Cdk5alpha complex is active in post-mitotic neurons. It is required for synaptic homeostasis and fidelity of axon patterning, and altered activity causes adult-onset neurodegeneration",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 340,
+            "end_residue_number": 344,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 407,
+            "end_residue_number": 407,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "340-344"
+    ],
+    "interfaceB": [
+        "407-407"
+    ]
+}

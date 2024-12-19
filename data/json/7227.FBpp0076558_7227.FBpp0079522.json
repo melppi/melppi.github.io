@@ -1,0 +1,16 @@
+{
+    "pae": 16.2,
+    "iptm": 23.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0076558",
+    "proB": "FBpp0079522",
+    "geneA": "Sec63",
+    "geneB": "Trp1",
+    "annotationA": "Secretory 63; Signal recognition particle binding; protein transporter activity. It is involved in the biological process described with: posttranslational protein targeting to membrane, translocation",
+    "annotationB": "Translocation protein 1, isoform B; Protein transporter activity. It is involved in the biological process described with: SRP-dependent cotranslational protein targeting to membrane",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

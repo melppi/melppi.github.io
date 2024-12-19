@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0085517",
+    "proB": "FBpp0086402",
+    "geneA": "CG30157",
+    "geneB": "CG8386",
+    "annotationA": "Probable Ufm1-specific protease 1; Thiol protease which recognizes and hydrolyzes the peptide bond at the C-terminal Gly of UFM1, a ubiquitin-like modifier protein bound to a number of target proteins",
+    "annotationB": "Ubiquitin-fold modifier-conjugating enzyme 1; E2-like enzyme which forms an intermediate with UFM1 via a thioester linkage",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

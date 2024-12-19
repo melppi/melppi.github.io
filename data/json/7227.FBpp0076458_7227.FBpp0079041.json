@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 17.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0076458",
+    "proB": "FBpp0079041",
+    "geneA": "mRpL36",
+    "geneB": "ico",
+    "annotationA": "Ribosomal protein; Structural constituent of ribosome. It is involved in the biological process described with: mitochondrial translation; translation; Belongs to the bacterial ribosomal protein bL36 family",
+    "annotationB": "Elongation factor G, mitochondrial; Mitochondrial GTPase that catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post-translocational (POST) state as the newly formed A- site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity). Essential during development as it acts as a retrograde signal from mitoch [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

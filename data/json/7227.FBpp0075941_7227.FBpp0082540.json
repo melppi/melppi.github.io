@@ -1,0 +1,48 @@
+{
+    "pae": 10.0,
+    "iptm": 26.2,
+    "pdockq": 0.029,
+    "proA": "FBpp0075941",
+    "proB": "FBpp0082540",
+    "geneA": "mRpL2",
+    "geneB": "mRpL9",
+    "annotationA": "Mitochondrial ribosomal protein L2; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "annotationB": "39S ribosomal protein L9, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the bacterial ribosomal protein bL9 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 273,
+            "end_residue_number": 276,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 225,
+            "end_residue_number": 228,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "273-276"
+    ],
+    "interfaceB": [
+        "225-228"
+    ]
+}

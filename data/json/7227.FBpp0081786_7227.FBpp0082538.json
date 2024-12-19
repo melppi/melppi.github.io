@@ -1,0 +1,90 @@
+{
+    "pae": 3.2,
+    "iptm": 36.4,
+    "pdockq": 0.447,
+    "proA": "FBpp0081786",
+    "proB": "FBpp0082538",
+    "geneA": "TfIIFbeta",
+    "geneB": "ear",
+    "annotationA": "General transcription factor IIF subunit 2; TFIIF is a general transcription initiation factor that binds to RNA polymerase II and helps to recruit it to the initiation complex in collaboration with TFIIB. It promotes transcription elongation. This subunit shows ATP-dependent DNA- helicase activity (By similarity)",
+    "annotationB": "ENL/AF9-related, isoform A; ENL/AF9-related is a transcription factor that is a component of the super elongation complex (SEC), which regulates transcription by RNA Polymerase II. It also interacts with the histone methyltransferase gpp in the Dot1 complex (DotCom), which modifies chromatin structure by methylating histone H3 on lysine 79",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 161,
+            "end_residue_number": 189,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 861,
+            "end_residue_number": 882,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 887,
+            "end_residue_number": 887,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 891,
+            "end_residue_number": 891,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 901,
+            "end_residue_number": 913,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "161-189"
+    ],
+    "interfaceB": [
+        "861-882",
+        "887-887",
+        "891-891",
+        "901-913"
+    ]
+}

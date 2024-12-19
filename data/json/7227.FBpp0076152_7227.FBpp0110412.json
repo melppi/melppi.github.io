@@ -1,0 +1,62 @@
+{
+    "pae": 12.6,
+    "iptm": 29.2,
+    "pdockq": 0.029,
+    "proA": "FBpp0076152",
+    "proB": "FBpp0110412",
+    "geneA": "RpS9",
+    "geneB": "RpL38",
+    "annotationA": "40S ribosomal protein S9; Structural constituent of ribosome; rRNA binding. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization",
+    "annotationB": "Ribosomal protein L38 is a component of the large subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 178,
+            "end_residue_number": 181,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 51,
+            "end_residue_number": 51,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 55,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "178-181"
+    ],
+    "interfaceB": [
+        "51-51",
+        "55-55"
+    ]
+}

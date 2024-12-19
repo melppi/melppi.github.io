@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070045",
+    "proB": "FBpp0084899",
+    "geneA": "CG32350",
+    "geneB": "Vps16B",
+    "annotationA": "Vacuolar protein sorting 11 (Vps11) is a Class C Vps core subunit of HOPS, a heterohexameric tethering complex that consists of car, dor, lt, Vps11, Vps16A and Vps39. HOPS tethers autophagosomes or late endosomes with lysosomes to facilitate fusion. Vps11 roles include autophagosome-lysosome fusion, late endosome-lysosome fusion and biosynthetic trafficking to lysosomes",
+    "annotationB": "Vacuolar protein sorting-associated protein 16B; Essential for phagosome maturation and the innate immune response to bacteria. During phagosome maturation it is required for the fusion of late endosomes/lysosomes and phagosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

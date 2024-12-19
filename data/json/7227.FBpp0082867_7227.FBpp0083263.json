@@ -1,0 +1,48 @@
+{
+    "pae": 14.6,
+    "iptm": 24.4,
+    "pdockq": 0.026,
+    "proA": "FBpp0082867",
+    "proB": "FBpp0083263",
+    "geneA": "Ns1",
+    "geneB": "Surf6",
+    "annotationA": "Guanine nucleotide-binding protein-like 3 homolog; May play a role in regulating cellular proliferation; Belongs to the TRAFAC class YlqF/YawG GTPase family",
+    "annotationB": "Surfeit locus protein 6 homolog; Involved in a nucleolar function",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 291,
+            "end_residue_number": 292,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 98,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "291-292"
+    ],
+    "interfaceB": [
+        "98-102"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 16.7,
+    "iptm": 13.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0084778",
+    "proB": "FBpp0086294",
+    "geneA": "Slbp",
+    "geneB": "Nup62",
+    "annotationA": "Histone RNA hairpin-binding protein; Involved in histone pre-mRNA 3' processing and couples histone mRNA production with the cell cycle. Both maternal and zygotic proteins play an essential and vital function for development; Belongs to the SLBP family",
+    "annotationB": "Nuclear pore glycoprotein p62; Essential component of the nuclear pore complex (By similarity). The N-terminal is probably involved in nucleocytoplasmic transport (By similarity). The C-terminal is involved in protein-protein interaction probably via coiled-coil formation, promotes its association with centrosomes and may function in anchorage of Nup62 to the pore complex (By similarity). Binds to transcriptionally active genes. Negatively regulates chromatin attachment to the nuclear envelope, probably by preventing chromatin tethering by Nup154",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

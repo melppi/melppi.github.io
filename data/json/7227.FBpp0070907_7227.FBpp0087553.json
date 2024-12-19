@@ -1,0 +1,76 @@
+{
+    "pae": 11.1,
+    "iptm": 39.4,
+    "pdockq": 0.245,
+    "proA": "FBpp0070907",
+    "proB": "FBpp0087553",
+    "geneA": "APC7",
+    "geneB": "dap",
+    "annotationA": "Anaphase Promoting Complex subunit 7 (Apc7) associates with the anaphase promoting complex/cyclosome (APC/C). It shows synergistic genetic interaction with the essential APC/C subunit, Cdc23. Apc7-APC/C association may be either transient or occurs only in certain forms of the APC/C complex",
+    "annotationB": "RE12958p; Dacapo (Dap) is a Cyclin-dependent kinase inhibitor in the CIP/KIP family. It binds to CycE-Cdk2 complexes and thereby inhibits their protein kinase activity. Upregulation of Dap is required after the last mitosis for arresting cells in G1/G0 before terminal differentiation in many post-mitotic cell types",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 303,
+            "end_residue_number": 319,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 324,
+            "end_residue_number": 339,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 343,
+            "end_residue_number": 346,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 55,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "303-319",
+        "324-339",
+        "343-346"
+    ],
+    "interfaceB": [
+        "55-77"
+    ]
+}

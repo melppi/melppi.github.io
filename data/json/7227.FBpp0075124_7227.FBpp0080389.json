@@ -1,0 +1,104 @@
+{
+    "pae": 3.5,
+    "iptm": 38.8,
+    "pdockq": 0.463,
+    "proA": "FBpp0075124",
+    "proB": "FBpp0080389",
+    "geneA": "Syx8",
+    "geneB": "Syx5",
+    "annotationA": "Syntaxin 8; SNAP receptor activity. It is involved in the biological process described with: vesicle-mediated transport; synaptic vesicle docking involved in exocytosis; neurogenesis; vesicle fusion; neurotransmitter secretion",
+    "annotationB": "Syntaxin-5; Syntaxin 5 is a type II transmembrane protein in the Q-SNARE family that forms hetero tetramers required for membrane function in the early secretory pathway (ER and Golgi). It has been involved in cytokinesis during spermatogenesis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 139,
+            "end_residue_number": 139,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 143,
+            "end_residue_number": 230,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 372,
+            "end_residue_number": 434,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 438,
+            "end_residue_number": 441,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 445,
+            "end_residue_number": 463,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 467,
+            "end_residue_number": 467,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "139-139",
+        "143-230"
+    ],
+    "interfaceB": [
+        "372-434",
+        "438-441",
+        "445-463",
+        "467-467"
+    ]
+}

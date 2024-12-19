@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 17.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0079309",
+    "proB": "FBpp0290084",
+    "geneA": "Bace",
+    "geneB": "Spn47C",
+    "annotationA": "Beta-site APP-cleaving enzyme (Bace) is an aspartic protease that cleaves amyloid precursor proteins. In humans, Bace, together with the gamma-secretase complex, generates the toxic Abeta peptide that accumulates in Alzheimer's disease. Drosophila Bace contributes to glial cell survival and enhances neuronal degeneration caused by expression of Appl; Belongs to the peptidase A1 family",
+    "annotationB": "Serpin 47C, isoform A; Serine-type endopeptidase inhibitor activity. It is involved in the biological process described with: multicellular organism reproduction; negative regulation of endopeptidase activity; regulation of proteolysis; Belongs to the serpin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

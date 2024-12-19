@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 17.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071045",
+    "proB": "FBpp0083076",
+    "geneA": "p115",
+    "geneB": "Gos28",
+    "annotationA": "General vesicular transport factor p115; Essential for maintaining the architecture of the Golgi stacks and for normal organization of the transitional endoplasmic reticulum (tER). Required for both the formation of the Golgi stacks and the maintenance of the individual cisternae; Belongs to the VDP/USO1/EDE1 family",
+    "annotationB": "Golgi SNAP receptor complex member 1; Involved in transport from the ER to the Golgi apparatus as well as in intra-Golgi transport. It belongs to a super-family of proteins called t-SNAREs or soluble NSF (N-ethylmaleimide- sensitive factor) attachment protein receptor (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

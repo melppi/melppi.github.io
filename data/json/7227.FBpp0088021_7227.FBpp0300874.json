@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 15.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0088021",
+    "proB": "FBpp0300874",
+    "geneA": "Rpt1",
+    "geneB": "Roc1a",
+    "annotationA": "26S proteasome regulatory complex subunit p48B; Regulatory particle triple-A ATPase 1 is an AAA-type ATPase protein that forms part of the heterohexameric ATPase ring of the regulatory complex of the 26S proteasome",
+    "annotationB": "Regulator of cullins 1a (Roc1a) is a C2H2 type zinc finger protein and component of several Cullin-Ring E3 ubiquitin ligase complexes. Roc1a binds directly to the Cullin subunit within the CRL complex and functions to recruit ubiquitin-charged E2 proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

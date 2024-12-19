@@ -1,0 +1,16 @@
+{
+    "pae": 20.8,
+    "iptm": 24.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0079148",
+    "proB": "FBpp0112426",
+    "geneA": "mts",
+    "geneB": "rl",
+    "annotationA": "Serine/threonine-protein phosphatase PP2A; Protein serine/threonine phosphatase activity; phosphatase regulator activity",
+    "annotationB": "Mitogen-activated protein kinase ERK-A; Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway to regulate poliferation, differentiation and effect cell fate decisions in various tissues. Required downstream of phl/Raf in the sev/sevenless, tor/torso, and EGF receptor homolog Egfr signal transduction pathways. Required for embryonic epithelial tissue repair. During larval development, mediates Ptth/tor signaling leading to the production of ecdysone, a hormone required for the initiation of metamorphosis; Belongs to the protein kinase [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

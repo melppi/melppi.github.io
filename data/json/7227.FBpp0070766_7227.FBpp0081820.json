@@ -1,0 +1,16 @@
+{
+    "pae": 21.0,
+    "iptm": 10.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0070766",
+    "proB": "FBpp0081820",
+    "geneA": "RpL35",
+    "geneB": "Tctp",
+    "annotationA": "Ribosomal protein L35, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization",
+    "annotationB": "Translationally controlled tumor protein (Tctp) belongs to the TCTP family. It interacts with the GTPase Rheb to regulate organ growth. Tctp is required for DNA damage response and genome stability",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

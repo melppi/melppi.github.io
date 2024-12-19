@@ -1,0 +1,48 @@
+{
+    "pae": 16.7,
+    "iptm": 22.9,
+    "pdockq": 0.024,
+    "proA": "FBpp0070382",
+    "proB": "FBpp0073651",
+    "geneA": "CG3071",
+    "geneB": "Rtc1",
+    "annotationA": "LD43561p; snoRNA binding. It is involved in the biological process described with: positive regulation of transcription from RNA polymerase I promoter; maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+    "annotationB": "Probable RNA 3'-terminal phosphate cyclase-like protein; Does not have cyclase activity. Plays a role in 40S- ribosomal-subunit biogenesis in the early pre-rRNA processing steps at sites A0, A1 and A2 that are required for proper maturation of the 18S RNA (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 355,
+            "end_residue_number": 356,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 129,
+            "end_residue_number": 129,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "355-356"
+    ],
+    "interfaceB": [
+        "129-129"
+    ]
+}

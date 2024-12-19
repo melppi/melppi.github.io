@@ -1,0 +1,16 @@
+{
+    "pae": 21.9,
+    "iptm": 18.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0073310",
+    "proB": "FBpp0086197",
+    "geneA": "dsh",
+    "geneB": "Pkc53E",
+    "annotationA": "Segment polarity protein dishevelled; Required to establish coherent arrays of polarized cells and segments in embryos. Plays a role in wingless (wg) signaling, possibly through the reception of the wg signal by target cells and subsequent redistribution of arm protein in response to that signal in embryos. This signal seems to be required to establish planar cell polarity and identity",
+    "annotationB": "Protein kinase C, brain isozyme; PKC is activated by diacylglycerol which in turn phosphorylates a range of cellular proteins (By similarity). PKC also serves as the receptor for phorbol esters, a class of tumor promoters (By similarity). Acts in a hh-signaling pathway which regulates the Duox-dependent gut immune response to bacterial uracil; required for the activation of Cad99C and consequently Cad99C-dependent endosome formation, which is essential for the Duox-dependent production of reactive oxygen species (ROS) in response to intestinal bacterial infection",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

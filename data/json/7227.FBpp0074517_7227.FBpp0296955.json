@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 22.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0074517",
+    "proB": "FBpp0296955",
+    "geneA": "Zw",
+    "geneB": "Rpi",
+    "annotationA": "Glucose-6-phosphate 1-dehydrogenase; Catalyzes the rate-limiting step of the oxidative pentose-phosphate pathway, which represents a route for the dissimilation of carbohydrates besides glycolysis. The main function of this enzyme is to provide reducing power (NADPH) and pentose phosphates for fatty acid and nucleic acid synthesis (By similarity); Belongs to the glucose-6-phosphate dehydrogenase family",
+    "annotationB": "Ribose-5-phosphate isomerase activity. It is involved in the biological process described with: age-dependent response to reactive oxygen species; pentose-phosphate shunt, non-oxidative branch",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

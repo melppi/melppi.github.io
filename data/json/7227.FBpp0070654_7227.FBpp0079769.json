@@ -1,0 +1,76 @@
+{
+    "pae": 13.6,
+    "iptm": 27.2,
+    "pdockq": 0.039,
+    "proA": "FBpp0070654",
+    "proB": "FBpp0079769",
+    "geneA": "rap",
+    "geneB": "aurB",
+    "annotationA": "Retina aberrant in pattern (Rap) binds to the Anaphase-Promoting Complex/Cyclosome (APC/C) ubiquitin ligase to stimulate its activity during G1 phase",
+    "annotationB": "Aurora B (AurB) is a serine-threonine kinase and member of the chromosomal passenger complex. AurB plays multiple roles in mitosis including the correction of erroneous chromosome-spindle interactions, chromosome condensation, kinetochore assembly, spindle assembly checkpoint and cytokinesis; Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Aurora subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 21,
+            "end_residue_number": 22,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 85,
+            "end_residue_number": 90,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 95,
+            "end_residue_number": 95,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 125,
+            "end_residue_number": 126,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "21-22"
+    ],
+    "interfaceB": [
+        "85-90",
+        "95-95",
+        "125-126"
+    ]
+}

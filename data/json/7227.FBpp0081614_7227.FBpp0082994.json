@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 8.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0081614",
+    "proB": "FBpp0082994",
+    "geneA": "RpS29",
+    "geneB": "eIF-1A",
+    "annotationA": "40S ribosomal protein S29; Structural constituent of ribosome. It is involved in the biological process described with: neuron development; translation; neurogenesis",
+    "annotationB": "Eukaryotic initiation factor 1A, isoform A; Seems to be required for maximal rate of protein biosynthesis. Enhances ribosome dissociation into subunits and stabilizes the binding of the initiator Met-tRNA(I) to 40 S ribosomal subunits",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

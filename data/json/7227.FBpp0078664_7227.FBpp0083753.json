@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 19.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0078664",
+    "proB": "FBpp0083753",
+    "geneA": "Rpn11",
+    "geneB": "p53",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "annotationB": "P53 protein long form variant 1; P53 is a transcriptional factor required for adaptive responses to genotoxic stress, including cell death, compensatory proliferation and DNA repair",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

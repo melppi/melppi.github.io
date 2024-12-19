@@ -1,0 +1,76 @@
+{
+    "pae": 15.2,
+    "iptm": 23.1,
+    "pdockq": 0.035,
+    "proA": "FBpp0070402",
+    "proB": "FBpp0072720",
+    "geneA": "crn",
+    "geneB": "Mfap1",
+    "annotationA": "Protein crooked neck; May be involved in pre-mRNA splicing process. Involved in neurogenesis; Belongs to the crooked-neck family",
+    "annotationB": "Microfibrillar-associated protein 1; Required for pre-mRNA splicing",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 323,
+            "end_residue_number": 323,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 356,
+            "end_residue_number": 356,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 363,
+            "end_residue_number": 363,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 276,
+            "end_residue_number": 283,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "323-323",
+        "356-356",
+        "363-363"
+    ],
+    "interfaceB": [
+        "276-283"
+    ]
+}

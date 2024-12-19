@@ -1,0 +1,16 @@
+{
+    "pae": 25.6,
+    "iptm": 13.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0077363",
+    "proB": "FBpp0087152",
+    "geneA": "Ts",
+    "geneB": "RnrS",
+    "annotationA": "Thymidylate synthase activity. It is involved in the biological process described with: dTMP biosynthetic process; deoxyribonucleotide biosynthetic process; neurogenesis",
+    "annotationB": "Ribonucleoside-diphosphate reductase subunit M2; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides; Belongs to the ribonucleoside diphosphate reductase small chain family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

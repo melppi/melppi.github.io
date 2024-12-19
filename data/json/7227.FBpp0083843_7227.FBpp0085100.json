@@ -1,0 +1,16 @@
+{
+    "pae": 15.9,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0083843",
+    "proB": "FBpp0085100",
+    "geneA": "Rpt5",
+    "geneB": "CG1736",
+    "annotationA": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "annotationB": "Proteasome subunit alpha type-4-like; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

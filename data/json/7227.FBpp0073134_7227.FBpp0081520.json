@@ -1,0 +1,16 @@
+{
+    "pae": 18.3,
+    "iptm": 18.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0073134",
+    "proB": "FBpp0081520",
+    "geneA": "Faa",
+    "geneB": "GstZ2",
+    "annotationA": "Fumarylacetoacetase activity. It is involved in the biological process described with: aromatic amino acid family metabolic process",
+    "annotationB": "Probable maleylacetoacetate isomerase 2; Catalyzes the glutathione dependent oxygenation of dichloroacetic acid to glyoxylic acid in vitro. Has no glutathione thioltransferase activity with 4-hydroxynonenal (4-HNE), adrenochrome, phenethyl isothiocyanate (PEITC), 5- hydroperoxyeicosatetraenoic acid ((5S)-HpETE), prostaglandin A2 (PGA2) or 2-hydroxyethyldisulfide (HED); Belongs to the GST superfamily. Zeta family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

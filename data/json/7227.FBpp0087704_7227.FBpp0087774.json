@@ -1,0 +1,62 @@
+{
+    "pae": 10.2,
+    "iptm": 27.6,
+    "pdockq": 0.089,
+    "proA": "FBpp0087704",
+    "proB": "FBpp0087774",
+    "geneA": "shrb",
+    "geneB": "Vps25",
+    "annotationA": "GH13992p; Shrub encodes Vps32/Snf7, a filament-forming subunit of the ESCRT-III complex involved in inward membrane budding. The Shrub gene product regulates multiple cellular processes involving ESCRTs activity including multivesicular body biogenesis, cytokinesis, membrane repair and regulation of membrane associated signaling",
+    "annotationB": "Vacuolar protein-sorting-associated protein 25; Component of the ESCRT-II complex (ensodomal sorting complex required for transport II), which is required for multivesicular body (MVB) formation and sorting of endosomal cargo proteins into MVBs. The MVB pathway mediates delivery of transmembrane proteins into the lumen of the lysosome for degradation. The ESCRT-II complex is probably involved in the recruitment of the ESCRT-III complex (By similarity). Seems to function as a tumor suppressor by regulating Notch trafficking, hence preventing non-autonomous overproliferation. May be invo [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 220,
+            "end_residue_number": 226,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 8,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 24,
+            "end_residue_number": 32,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "220-226"
+    ],
+    "interfaceB": [
+        "8-15",
+        "24-32"
+    ]
+}

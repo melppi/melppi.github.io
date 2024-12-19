@@ -1,0 +1,16 @@
+{
+    "pae": 18.1,
+    "iptm": 27.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0080412",
+    "proB": "FBpp0080490",
+    "geneA": "twe",
+    "geneB": "Prosbeta4",
+    "annotationA": "Cdc25-like protein phosphatase twine; Required during meiosis. Regulates the transition from the extended G2 phase to the onset of the first meiotic division; Belongs to the MPI phosphatase family",
+    "annotationB": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; cellular process; multicellular organism reproduction; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

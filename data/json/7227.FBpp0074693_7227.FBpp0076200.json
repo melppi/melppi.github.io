@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 20.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0074693",
+    "proB": "FBpp0076200",
+    "geneA": "cyc",
+    "geneB": "Uch-L5",
+    "annotationA": "Protein cycle; Putative transcription factor involved in the generation of biological rhythms. Activates cycling transcription of Period (PER) and Timeless (TIM) by binding to the E-box (5'-CACGTG-3') present in their promoters",
+    "annotationB": "Ubiquitin carboxyl-terminal hydrolase; Ubiquitin-specific protease activity; omega peptidase activity; endopeptidase activity. It is involved in the biological process described with: protein deubiquitination; proteasome-mediated ubiquitin-dependent protein catabolic process; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

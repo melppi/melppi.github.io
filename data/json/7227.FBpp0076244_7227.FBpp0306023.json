@@ -1,0 +1,16 @@
+{
+    "pae": 25.9,
+    "iptm": 12.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0076244",
+    "proB": "FBpp0306023",
+    "geneA": "Srp68",
+    "geneB": "SrpRbeta",
+    "annotationA": "Signal recognition particle subunit SRP68; Signal-recognition-particle assembly has a crucial role in targeting secretory proteins to the rough endoplasmic reticulum membrane. Srp68 binds the 7S RNA, Srp72 binds to this complex subsequently. This ribonucleoprotein complex might interact directly with the docking protein in the ER membrane and possibly participate in the elongation arrest function (By similarity)",
+    "annotationB": "Signal recognition particle receptor beta (SrpRbeta) contibutes to cuticle secretion by epidermal cells",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

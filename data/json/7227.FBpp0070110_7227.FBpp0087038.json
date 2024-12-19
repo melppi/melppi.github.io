@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 13.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0070110",
+    "proB": "FBpp0087038",
+    "geneA": "CG13369",
+    "geneB": "CG8525",
+    "annotationA": "Ribokinase; Catalyzes the phosphorylation of ribose at O-5 in a reaction requiring ATP and magnesium. The resulting D-ribose-5- phosphate can then be used either for sythesis of nucleotides, histidine, and tryptophan, or as a component of the pentose phosphate pathway",
+    "annotationB": "CG8525, isoform A; Deoxyribose-phosphate aldolase activity. It is involved in the biological process described with: deoxyribonucleotide catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

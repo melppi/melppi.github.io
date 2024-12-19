@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 13.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071808",
+    "proB": "FBpp0083802",
+    "geneA": "RpL23",
+    "geneB": "RpS3",
+    "annotationA": "60S ribosomal protein L23; Structural constituent of ribosome; myosin binding. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; neurogenesis; Belongs to the universal ribosomal protein uL14 family",
+    "annotationB": "Ribosomal protein S3 (RpS3) is a component of the small subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles. RpS3 also contains a DNA lyase activity and functions in DNA repair",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

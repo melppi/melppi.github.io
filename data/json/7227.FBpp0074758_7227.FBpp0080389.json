@@ -1,0 +1,48 @@
+{
+    "pae": 6.5,
+    "iptm": 42.5,
+    "pdockq": 0.409,
+    "proA": "FBpp0074758",
+    "proB": "FBpp0080389",
+    "geneA": "Bet1",
+    "geneB": "Syx5",
+    "annotationA": "Blocked early in transport 1, isoform A; SNAP receptor activity; syntaxin binding. It is involved in the biological process described with: vesicle-mediated transport; ER to Golgi vesicle-mediated transport; neurogenesis",
+    "annotationB": "Syntaxin-5; Syntaxin 5 is a type II transmembrane protein in the Q-SNARE family that forms hetero tetramers required for membrane function in the early secretory pathway (ER and Golgi). It has been involved in cytokinesis during spermatogenesis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 26,
+            "end_residue_number": 117,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 374,
+            "end_residue_number": 467,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "26-117"
+    ],
+    "interfaceB": [
+        "374-467"
+    ]
+}

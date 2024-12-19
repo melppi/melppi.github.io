@@ -1,0 +1,48 @@
+{
+    "pae": 14.4,
+    "iptm": 22.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0076666",
+    "proB": "FBpp0089042",
+    "geneA": "ple",
+    "geneB": "Tbh",
+    "annotationA": "Pale is a tyrosine hydroxylase, the first and rate-limiting step in the synthesis of dopamine (and eventually, melanin). Dopamine has critical roles in system development",
+    "annotationB": "Tyramine beta hydroxylase (Tbh) is a monooxygenase and the key limiting enzyme in octopamine synthesis. Tbh regulates egg laying, positive associative olfactory learning and memory, aggression, flight initiation and maintenance, locomotor activity and attraction to ethanol containing food sources; Belongs to the copper type II ascorbate-dependent monooxygenase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 33,
+            "end_residue_number": 33,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 314,
+            "end_residue_number": 314,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "33-33"
+    ],
+    "interfaceB": [
+        "314-314"
+    ]
+}

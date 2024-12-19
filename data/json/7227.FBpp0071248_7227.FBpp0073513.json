@@ -1,0 +1,16 @@
+{
+    "pae": 22.8,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0071248",
+    "proB": "FBpp0073513",
+    "geneA": "Dsor1",
+    "geneB": "CkIalpha",
+    "annotationA": "Dual specificity mitogen-activated protein kinase kinase dSOR1; Required downstream of Raf in the sevenless (sev), torso (tor), and Drosophila EGF receptor homolog (DER) signal transduction pathways. Involved in both positive regulation (at the posterior terminus) and negative regulation (at the anterior domain) of tll, as in other terminal class gene products, maybe via the ERK-A kinase",
+    "annotationB": "Casein kinase I isoform alpha; Casein kinases are operationally defined by their preferential utilization of acidic proteins such as caseins as substrates. Can phosphorylate a large number of proteins. Negative regulator of wg signaling. Phosphorylates arm directly or indirectly and stimulates its degradation which prevents inappropriate wg signaling. Phosphorylates smo which promotes its accumulation at the cell surface and its signaling activity in response to hh. Together with dco, regulates proteolytic processing of ci by phosphorylating it which promotes its binding to slmb, the F [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,90 @@
+{
+    "pae": 5.2,
+    "iptm": 54.7,
+    "pdockq": 0.178,
+    "proA": "FBpp0073530",
+    "proB": "FBpp0073568",
+    "geneA": "CG32649",
+    "geneB": "CG2453",
+    "annotationA": "LD23884p; Protein kinase activity; transferase activity, transferring phosphorus-containing groups. It is involved in the biological process described with: mitochondrial electron transport, ubiquinol to cytochrome c",
+    "annotationB": "2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial; Methyltransferase required for the conversion of 2- polyprenyl-6-methoxy-1,4-benzoquinol (DDMQH2) to 2-polyprenyl-3- methyl-6-methoxy-1,4-benzoquinol (DMQH2)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 29,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 82,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 83,
+            "end_residue_number": 95,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 116,
+            "end_residue_number": 125,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 155,
+            "end_residue_number": 155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "29-45",
+        "82-82"
+    ],
+    "interfaceB": [
+        "83-95",
+        "116-125",
+        "155-155"
+    ]
+}

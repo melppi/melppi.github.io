@@ -1,0 +1,48 @@
+{
+    "pae": 17.5,
+    "iptm": 24.4,
+    "pdockq": 0.025,
+    "proA": "FBpp0080628",
+    "proB": "FBpp0288481",
+    "geneA": "CG15161",
+    "geneB": "Oseg5",
+    "annotationA": "FI02828p; It is involved in the biological process described with: cilium assembly; intraciliary transport",
+    "annotationB": "Outer segment 5; It is involved in the biological process described with: nonmotile primary cilium assembly; cilium assembly",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 406,
+            "end_residue_number": 406,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 600,
+            "end_residue_number": 602,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "406-406"
+    ],
+    "interfaceB": [
+        "600-602"
+    ]
+}

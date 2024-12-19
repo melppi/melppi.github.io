@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 18.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078093",
+    "proB": "FBpp0304504",
+    "geneA": "CycH",
+    "geneB": "da",
+    "annotationA": "Cyclin H homolog; RNA polymerase II carboxy-terminal domain kinase activity; protein kinase binding; core RNA polymerase binding transcription factor activity; cyclin-dependent protein serine/threonine kinase activity; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; regulation of transcription, DNA-templated; regulation of cyclin-dependent protein serine/threonine kinase activity; transcription initiation from RNA polymerase II promoter",
+    "annotationB": "Daughterless is a class I bHLH protein important for sex determination and dosage compensation by controlling the feminizing switch gene Sxl. It participates in transcriptional regulation of a wide variety processes, including oogenesis, neurogenesis, myogenesis and cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

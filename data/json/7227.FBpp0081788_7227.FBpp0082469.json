@@ -1,0 +1,16 @@
+{
+    "pae": 16.1,
+    "iptm": 27.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0081788",
+    "proB": "FBpp0082469",
+    "geneA": "CG31272",
+    "geneB": "CycC",
+    "annotationA": "FI03320p; Lipase activity; transporter activity. It is involved in the biological process described with: transport; transmembrane transport; lipid metabolic process",
+    "annotationB": "Cyclin-C; Component of the Mediator complex, a coactivator involved in regulated gene transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors. Binds to and activates cyclin-dependent kinase Cdk8 that phosphorylate [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

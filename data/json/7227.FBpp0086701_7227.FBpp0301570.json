@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 32.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0086701",
+    "proB": "FBpp0301570",
+    "geneA": "RpS23",
+    "geneB": "eIF5B",
+    "annotationA": "40S ribosomal protein S23; Structural constituent of ribosome. It is involved in the biological process described with: centrosome organization; translation; centrosome duplication",
+    "annotationB": "eIF5B, isoform B; Protein binding; GTPase activity; translation initiation factor activity; DEAD/H-box RNA helicase binding; GTP binding. It is involved in the biological process described with: translational initiation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

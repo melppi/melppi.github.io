@@ -1,0 +1,16 @@
+{
+    "pae": 22.9,
+    "iptm": 23.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0074009",
+    "proB": "FBpp0086812",
+    "geneA": "sl",
+    "geneB": "Drk",
+    "annotationA": "Phosphoinositide phospholipase C; Small wing is a phosphatidylinositol-specific phospholiase type C that is required as a general modulator for growth downstream of the insulin pathway, and interacts with the Ras-MAPK pathway",
+    "annotationB": "Protein enhancer of sevenless 2B; Required for proper signaling by sevenless. May act to stimulate the ability of Sos to catalyze Ras1 activation by linking sevenless and Sos in a signaling complex; Belongs to the GRB2/sem-5/DRK family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

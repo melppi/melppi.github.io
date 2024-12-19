@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 16.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0086041",
+    "proB": "FBpp0088995",
+    "geneA": "sub",
+    "geneB": "CG32318",
+    "annotationA": "Subito (Sub) is a kinesin-6 homolog. Kinesin-6 proteins are known to bundle antiparallel microtubules. Sub is required for cytokinesis in mitosis and spindle organization and chromosome segregation in female meiosis; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family",
+    "annotationB": "RT07324p; ATP binding; microtubule binding; microtubule motor activity. It is involved in the biological process described with: microtubule-based movement; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

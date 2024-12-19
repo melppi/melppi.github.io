@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073530",
+    "proB": "FBpp0081347",
+    "geneA": "CG32649",
+    "geneB": "Coq2",
+    "annotationA": "LD23884p; Protein kinase activity; transferase activity, transferring phosphorus-containing groups. It is involved in the biological process described with: mitochondrial electron transport, ubiquinol to cytochrome c",
+    "annotationB": "4-hydroxybenzoate polyprenyltransferase, mitochondrial; Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of coenzyme Q (CoQ) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate; Belongs to the UbiA prenyltransferase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

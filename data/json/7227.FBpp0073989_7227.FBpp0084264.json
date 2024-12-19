@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 22.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0073989",
+    "proB": "FBpp0084264",
+    "geneA": "Prosalpha4",
+    "geneB": "Tnks",
+    "annotationA": "Proteasome subunit alpha type-7-1; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity; Belongs to the peptidase T1A family",
+    "annotationB": "Tankyrase; Stimulates proteasome activity, probably by ADP- ribosylation of PI31. Modulates 26S proteasome assembly",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

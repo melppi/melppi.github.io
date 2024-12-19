@@ -1,0 +1,76 @@
+{
+    "pae": 3.6,
+    "iptm": 46.1,
+    "pdockq": 0.176,
+    "proA": "FBpp0079680",
+    "proB": "FBpp0086284",
+    "geneA": "CG6094",
+    "geneB": "CG30100",
+    "annotationA": "CG6094, isoform A; Translation release factor activity. It is involved in the biological process described with: translational termination",
+    "annotationB": "Uncharacterized protein, isoform A; Translation release factor activity. It is involved in the biological process described with: translational termination",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 190,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 37,
+            "end_residue_number": 39,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 53,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 74,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "190-199"
+    ],
+    "interfaceB": [
+        "37-39",
+        "53-55",
+        "74-80"
+    ]
+}

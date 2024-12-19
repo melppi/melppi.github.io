@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0079168",
+    "proB": "FBpp0081820",
+    "geneA": "RpL36A",
+    "geneB": "Tctp",
+    "annotationA": "Ribosomal protein L36A, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL42 family",
+    "annotationB": "Translationally controlled tumor protein (Tctp) belongs to the TCTP family. It interacts with the GTPase Rheb to regulate organ growth. Tctp is required for DNA damage response and genome stability",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

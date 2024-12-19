@@ -1,0 +1,104 @@
+{
+    "pae": 4.4,
+    "iptm": 39.5,
+    "pdockq": 0.144,
+    "proA": "FBpp0083749",
+    "proB": "FBpp0305795",
+    "geneA": "sav",
+    "geneB": "Diap1",
+    "annotationA": "Scaffold protein salvador; Plays a key role in the Hippo/SWH (Sav/Wts/Hpo) signaling pathway, a signaling pathway that plays a pivotal role in organ size control and tumor suppression by restricting proliferation and promoting apoptosis. The core of this pathway is composed of a kinase cascade wherein Hippo (Hpo), in complex with its regulatory protein Salvador (Sav), phosphorylates and activates Warts (Wts) in complex with its regulatory protein Mats, which in turn phosphorylates and inactivates the Yorkie (Yki) oncoprotein. The Hippo/SWH signaling pathway inhibits the activity of the [...] ",
+    "annotationB": "Death-associated inhibitor of apoptosis 1; Anti-apoptotic protein which functions as a caspase regulator, using its E3 ubiquitin-protein ligase activity to smother caspase activity. Binds, ubiquitinates and inactivates initiator caspase Dronc, and effector caspases Drice and Dcp-1. Acts as a Nedd8-E3 ubiquitin-protein ligase for Drice. Suppresses apoptosis by targeting the apoptosome for ubiquitination and inactivation. Plays an important role in cell motility. Overexpression suppresses rpr and hid-dependent cell death in the eye. Interaction of Diap1 with Dronc is required to suppress [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 92,
+            "end_residue_number": 93,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 555,
+            "end_residue_number": 564,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 260,
+            "end_residue_number": 262,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 392,
+            "end_residue_number": 395,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 410,
+            "end_residue_number": 410,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 422,
+            "end_residue_number": 426,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "92-93",
+        "555-564"
+    ],
+    "interfaceB": [
+        "260-262",
+        "392-395",
+        "410-410",
+        "422-426"
+    ]
+}

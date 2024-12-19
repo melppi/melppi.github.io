@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 16.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0077740",
+    "proB": "FBpp0080395",
+    "geneA": "Spp",
+    "geneB": "CaBP1",
+    "annotationA": "Signal peptide peptidase; Aspartic endopeptidase activity, intramembrane cleaving. It is involved in the biological process described with: signal peptide processing; cellular response to unfolded protein; open tracheal system development",
+    "annotationB": "Protein disulfide-isomerase A6 homolog; Calcium-binding protein 1 (CaBP1) resides in the lumen of the endoplasmic reticulum. CaBP1 seems to be relocated outside cells during apoptosis and involved in the phagocytosis of apoptotic cells",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

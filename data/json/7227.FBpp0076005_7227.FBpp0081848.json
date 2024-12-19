@@ -1,0 +1,48 @@
+{
+    "pae": 7.1,
+    "iptm": 31.2,
+    "pdockq": 0.078,
+    "proA": "FBpp0076005",
+    "proB": "FBpp0081848",
+    "geneA": "ND-13B",
+    "geneB": "SdhC",
+    "annotationA": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "annotationB": "Succinate dehydrogenase, subunit C, isoform A; Succinate dehydrogenase (ubiquinone) activity; succinate dehydrogenase activity; electron carrier activity. It is involved in the biological process described with: response to oxidative stress; succinate metabolic process; determination of adult lifespan; mitochondrial electron transport, succinate to ubiquinone; tricarboxylic acid cycle",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 114,
+            "end_residue_number": 119,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 139,
+            "end_residue_number": 146,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "114-119"
+    ],
+    "interfaceB": [
+        "139-146"
+    ]
+}

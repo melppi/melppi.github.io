@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 22.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0074715",
+    "proB": "FBpp0113035",
+    "geneA": "asf1",
+    "geneB": "CG5923",
+    "annotationA": "Histone chaperone asf1; Histone chaperone that facilitates histone deposition and histone exchange and removal during nucleosome assembly and disassembly. Cooperates with chromatin assembly factor 1 (CAF-1) to promote replication-dependent chromatin assembly. Plays a role in the formation of silent heterochromatin",
+    "annotationB": "DNA polymerase alpha subunit B; May play an essential role at the early stage of chromosomal DNA replication by coupling the polymerase alpha/primase complex to the cellular replication machinery",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

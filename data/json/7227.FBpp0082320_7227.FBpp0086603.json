@@ -1,0 +1,16 @@
+{
+    "pae": 23.0,
+    "iptm": 12.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0082320",
+    "proB": "FBpp0086603",
+    "geneA": "sqd",
+    "geneB": "Rpn6",
+    "annotationA": "RNA-binding protein squid; This protein is a component of ribonucleosomes. Could be needed to organize a concentration gradient of a dorsalizing morphogen (Dm) originating in the germinal vesicle. At least one of the isoforms is essential in somatic tissues",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 11; Component of the lid subcomplex of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. In the complex, RPN6 is required for proteasome assembly (By similarity). May act as linker between 19S regulatory subunit and the 20S proteasome core",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

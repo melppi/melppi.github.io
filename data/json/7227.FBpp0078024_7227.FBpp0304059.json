@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 16.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0078024",
+    "proB": "FBpp0304059",
+    "geneA": "Rpn10",
+    "geneB": "Usp14",
+    "annotationA": "Regulatory particle non-ATPase 10 (Rpn10) is one of the polyubiquitin receptor subunits of the 26S proteasome. Rpn10 recognizes and binds the polyubiquitin moiety of proteins intended for proteasomal degradation or the ubiquitin-like domain of extraproteasomal ubiquitin receptors",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

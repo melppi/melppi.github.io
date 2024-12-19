@@ -1,0 +1,118 @@
+{
+    "pae": 11.5,
+    "iptm": 34.5,
+    "pdockq": 0.168,
+    "proA": "FBpp0077676",
+    "proB": "FBpp0079710",
+    "geneA": "Clp",
+    "geneB": "Nup107",
+    "annotationA": "Cleavage and polyadenylation specificity factor subunit 4; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Has endonuclease activity. Binds RNA polymers with a preference for G- and/or C-rich clusters. Binds single-stranded DNA non-specifically",
+    "annotationB": "Nuclear pore complex protein Nup107; Plays a role in nuclear pore complex (NPC) assembly and maintenance. Required for nuclear import of Mad. Plays a role in double strand break repair by relocalizing the heterochromatic double strain breaks (DSBs) to the nuclear periphery as part of the homologous recombination (HR) repair process. Regulates cytokinesis during spermatocyte meiosis by maintaining type-B lamin Lam localization to the spindle envelope. Regulates female gonad development and oogenesis; Belongs to the nucleoporin Nup84/Nup107 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 26,
+            "end_residue_number": 37,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 100,
+            "end_residue_number": 100,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 562,
+            "end_residue_number": 562,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 606,
+            "end_residue_number": 615,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 761,
+            "end_residue_number": 772,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 776,
+            "end_residue_number": 776,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 813,
+            "end_residue_number": 816,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "26-37",
+        "100-100"
+    ],
+    "interfaceB": [
+        "562-562",
+        "606-615",
+        "761-772",
+        "776-776",
+        "813-816"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "pae": 9.0,
+    "iptm": 21.2,
+    "pdockq": 0.138,
+    "proA": "FBpp0072145",
+    "proB": "FBpp0082123",
+    "geneA": "Snap29",
+    "geneB": "Past1",
+    "annotationA": "Synaptosomal-associated protein 29kDa; SNAP receptor activity; SNARE binding. It is involved in the biological process described with: vesicle-mediated transport; autophagic vacuole fusion; autophagic vacuole maturation; neurotransmitter secretion",
+    "annotationB": "Putative Achaete Scute Target (Past1) is a protein that associates predominantly with the plasma membrane and genetically interacts with N. Past1 contributes to endocytosis, male sterility, temperature sensitivity, life span and differentiation of photoreceptors R1/R6/R7 and cone cells; Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 44,
+            "end_residue_number": 48,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 471,
+            "end_residue_number": 479,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 485,
+            "end_residue_number": 501,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "44-48"
+    ],
+    "interfaceB": [
+        "471-479",
+        "485-501"
+    ]
+}

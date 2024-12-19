@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 19.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0070175",
+    "proB": "FBpp0070911",
+    "geneA": "CDC45L",
+    "geneB": "l(1)G0148",
+    "annotationA": "EG:BACR7A4.11 protein; DNA binding; 3'-5' DNA helicase activity; chromatin binding. It is involved in the biological process described with: DNA amplification; DNA replication initiation; chromosome condensation; DNA replication; positive regulation of G1/S transition of mitotic cell cycle; mitotic G2 DNA damage checkpoint; neurogenesis; neuron projection morphogenesis",
+    "annotationB": "Cdc7 kinase (Cdc7) is a conserved protein kinase that is activated by the regulatory subunit chif during late G1/S of the cell cycle. Activated Cdc7 promotes the initiation of DNA replication through phosphorylation, and thereby activation, of the Mcm2 DNA helicase",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

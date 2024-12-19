@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 19.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0080860",
+    "proB": "FBpp0301208",
+    "geneA": "lok",
+    "geneB": "spel1",
+    "annotationA": "Ovarian-specific serine/threonine-protein kinase Lok; May have a role in germline establishment; Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CDS1 subfamily",
+    "annotationB": "DNA mismatch repair protein spellchecker 1; Involved in postreplication mismatch repair. Binds specifically to DNA containing mismatched nucleotides thus providing a target for the excision repair processes characteristic of postreplication mismatch repair (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

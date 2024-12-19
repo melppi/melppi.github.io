@@ -1,0 +1,16 @@
+{
+    "pae": 19.8,
+    "iptm": 17.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070723",
+    "proB": "FBpp0082591",
+    "geneA": "Cdk7",
+    "geneB": "Rpb7",
+    "annotationA": "Cyclin-dependent kinase 7 (Cdk) is a serine/threonine protein kinase whose activity depends on the regulatory CycH and Mat1 subunits. This trimeric Cdk complex activates other Cdks by phosphorylation in their T-loop and is called Cdk activating kinase (CAK). CAK can also be part of TFIIH, where Cdk7 phosphorylates different transcription substrates (e.g. CTD of Pol II)",
+    "annotationB": "IP02321p; Protein binding; DNA-directed RNA polymerase activity; nucleic acid binding. It is involved in the biological process described with: transcription from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

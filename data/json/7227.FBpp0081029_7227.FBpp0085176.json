@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 18.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081029",
+    "proB": "FBpp0085176",
+    "geneA": "E2f2",
+    "geneB": "Med",
+    "annotationA": "Transcription factor E2F2; Transcriptional repressor that binds to E2f sites and represses E2f-regulated target genes. Binding to E2f sites requires transcription factor Dp. Acts synergistically with Rbf2 to antagonize E2f1-mediated transcriptional activation. Component of the DREAM complex, a multiprotein complex that can both act as a transcription activator or repressor depending on the context. The DREAM complex is required for recruiting E2f2 at differentiation-specific promoters and for stabilizing E2f2-Rbf complexes during S phase. During development, the complex represses trans [...] ",
+    "annotationB": "Mothers against decapentaplegic homolog; Medea (Med) belongs to the highly conserved Smad family. Med can bind its siblings Mad or Smox to facilitate signal transduction for dpp or Activin ligands in the TGF-beta family. Med-complexes function as transcriptional regulators. Many developmental roles include dorsal-ventral patterning, patterning and proliferation of the wing disc and gene expression in the mushroom body of the larval brain",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

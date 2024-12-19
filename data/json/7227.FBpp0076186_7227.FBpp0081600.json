@@ -1,0 +1,16 @@
+{
+    "pae": 15.2,
+    "iptm": 26.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0076186",
+    "proB": "FBpp0081600",
+    "geneA": "Shc",
+    "geneB": "Ras85D",
+    "annotationA": "SHC-adaptor protein; It is involved in the biological process described with: epidermal growth factor receptor signaling pathway; melanotic encapsulation of foreign target; tracheal outgrowth, open tracheal system; torso signaling pathway; TORC1 signaling",
+    "annotationB": "Ras-like protein 1; Ras proteins bind GDP/GTP and possess intrinsic GTPase activity (By similarity). Plays a role in eye development by regulating cell growth, survival of postmitotic ommatidial cells and differentiation of photoreceptor cells. During larval development, mediates Ptth/tor signaling leading to the production of ecdysone, a hormone required for the initiation of metamorphosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

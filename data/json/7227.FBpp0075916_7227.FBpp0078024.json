@@ -1,0 +1,132 @@
+{
+    "pae": 1.9,
+    "iptm": 44.2,
+    "pdockq": 0.459,
+    "proA": "FBpp0075916",
+    "proB": "FBpp0078024",
+    "geneA": "Ube3a",
+    "geneB": "Rpn10",
+    "annotationA": "Ubiquitin-protein transferase activity. It is involved in the biological process described with: locomotion; peripheral nervous system neuron development; protein ubiquitination involved in ubiquitin-dependent protein catabolic process; circadian rhythm; positive regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process; positive regulation of protein ubiquitination; dendrite morphogenesis; long-term memory",
+    "annotationB": "Regulatory particle non-ATPase 10 (Rpn10) is one of the polyubiquitin receptor subunits of the 26S proteasome. Rpn10 recognizes and binds the polyubiquitin moiety of proteins intended for proteasomal degradation or the ubiquitin-like domain of extraproteasomal ubiquitin receptors",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 31,
+            "end_residue_number": 48,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 52,
+            "end_residue_number": 52,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 75,
+            "end_residue_number": 90,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 543,
+            "end_residue_number": 554,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 585,
+            "end_residue_number": 597,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 299,
+            "end_residue_number": 299,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 304,
+            "end_residue_number": 316,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 344,
+            "end_residue_number": 380,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "31-48",
+        "52-52",
+        "75-90",
+        "543-554",
+        "585-597"
+    ],
+    "interfaceB": [
+        "299-299",
+        "304-316",
+        "344-380"
+    ]
+}

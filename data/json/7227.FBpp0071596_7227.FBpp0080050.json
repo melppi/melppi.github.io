@@ -1,0 +1,16 @@
+{
+    "pae": 16.4,
+    "iptm": 18.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0071596",
+    "proB": "FBpp0080050",
+    "geneA": "Tbp",
+    "geneB": "CG9305",
+    "annotationA": "TATA binding protein is a basal transcription factor required at most RNA Pol I and Pol II-transcribed genes in Drosophila. Traditionally thought to be recruited only to TATA box containing promoters, recent work shows that promoters with very weak TATA box consensus sequences also recruit TBP as a part of the multisubunit TFIID basal transcription factor or via the SAGA histone acetyltransferase complex",
+    "annotationB": "CG9305, isoform A; Sequence-specific DNA binding transcription factor activity; DNA binding; chromatin binding. It is involved in the biological process described with: neurogenesis; neuron projection morphogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

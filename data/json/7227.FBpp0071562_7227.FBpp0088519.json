@@ -1,0 +1,16 @@
+{
+    "pae": 15.5,
+    "iptm": 22.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0071562",
+    "proB": "FBpp0088519",
+    "geneA": "CG4038",
+    "geneB": "CG5033",
+    "annotationA": "Probable H/ACA ribonucleoprotein complex subunit 1; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "annotationB": "Ribosome biogenesis protein BOP1 homolog; Required for maturation of ribosomal RNAs and formation of the large ribosomal subunit",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

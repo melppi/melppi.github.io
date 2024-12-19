@@ -1,0 +1,62 @@
+{
+    "pae": 15.8,
+    "iptm": 24.9,
+    "pdockq": 0.026,
+    "proA": "FBpp0070911",
+    "proB": "FBpp0080441",
+    "geneA": "l(1)G0148",
+    "geneB": "grp",
+    "annotationA": "Cdc7 kinase (Cdc7) is a conserved protein kinase that is activated by the regulatory subunit chif during late G1/S of the cell cycle. Activated Cdc7 promotes the initiation of DNA replication through phosphorylation, and thereby activation, of the Mcm2 DNA helicase",
+    "annotationB": "Serine/threonine-protein kinase grp; Serine/threonine-protein kinase which is required for checkpoint-mediated cell cycle arrest and activation of DNA repair in response to the presence of DNA damage or unreplicated DNA. May also negatively regulate cell cycle progression during unperturbed cell cycles. May phosphorylate the CDC25 phosphatase stg, which promotes its degradation. This results in increased inhibitory tyrosine phosphorylation of Cdk1-cyclin complexes and consequent inhibition of cell cycle progression",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 344,
+            "end_residue_number": 346,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 164,
+            "end_residue_number": 164,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 179,
+            "end_residue_number": 180,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "344-346"
+    ],
+    "interfaceB": [
+        "164-164",
+        "179-180"
+    ]
+}

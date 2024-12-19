@@ -1,0 +1,16 @@
+{
+    "pae": 17.2,
+    "iptm": 19.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070205",
+    "proB": "FBpp0070719",
+    "geneA": "CG11417",
+    "geneB": "Sas10",
+    "annotationA": "EG:8D8.4 protein; It is involved in the biological process described with: neurogenesis",
+    "annotationB": "Something about silencing protein 10; Essential for gene silencing: has a role in the structure of silenced chromatin. May be involved in gene regulation during development. Binds RNA; Belongs to the SAS10 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

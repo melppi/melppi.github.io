@@ -1,0 +1,16 @@
+{
+    "pae": 25.0,
+    "iptm": 18.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0079538",
+    "proB": "FBpp0088375",
+    "geneA": "Prosalpha6",
+    "geneB": "Rel",
+    "annotationA": "Proteasome subunit alpha type-1; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity; Belongs to the peptidase T1A family",
+    "annotationB": "Nuclear factor NF-kappa-B p110 subunit; Plays a key role in the humoral immune response. Rel-p68 subunit translocates to the nucleus where it binds to the promoter of the Cecropin A1 gene and probably other antimicrobial peptide genes. I-kappa-B kinase complex (ird5 and key) and PGRP-LC are essential signaling components in transmitting the lipopolysaccharide (LPS) signal leading to cact degradation for NF-kappa-B (rel) activation. Part of a Toll-related receptor pathway that functions in the apoptosis of unfit cells during cell competition. May be part of a NF- kappa-B and Tollo signa [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

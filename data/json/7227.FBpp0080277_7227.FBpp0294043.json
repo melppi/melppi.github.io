@@ -1,0 +1,16 @@
+{
+    "pae": 16.6,
+    "iptm": 22.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0080277",
+    "proB": "FBpp0294043",
+    "geneA": "vig",
+    "geneB": "AGO1",
+    "annotationA": "Vasa intronic gene, isoform A; mRNA binding. It is involved in the biological process described with: heterochromatin organization; RNA interference",
+    "annotationB": "Argonaute-1, isoform A; Argonaute-1 is an Argonaute/Piwi family protein, which interacts with microRNAs to form miRNA-induced silencing complexes (miRISCs). miRISCs are guided to target and repress mRNAs either by transcript destabilisation, translational inhibition, or both",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

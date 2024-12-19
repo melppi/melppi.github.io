@@ -1,0 +1,16 @@
+{
+    "pae": 17.0,
+    "iptm": 27.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072056",
+    "proB": "FBpp0081324",
+    "geneA": "thoc5",
+    "geneB": "eIF4AIII",
+    "annotationA": "THO complex subunit 5; The THO complex is required for cell proliferation and for proper export of heat-shock mRNAs under heat stress",
+    "annotationB": "Eukaryotic initiation factor 4A-III; ATP-dependent RNA helicase. Core component of the splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junctions on mRNAs. Involved in exon definition of genes containing long introns, including the rolled/MAPK gene. Has a role in oskar mRNA localization at the posterior pole of the developing oocyte",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

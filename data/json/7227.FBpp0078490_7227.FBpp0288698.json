@@ -1,0 +1,16 @@
+{
+    "pae": 14.7,
+    "iptm": 36.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078490",
+    "proB": "FBpp0288698",
+    "geneA": "Ubc6",
+    "geneB": "not",
+    "annotationA": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Required for postreplication repair of UV-damaged DNA. Involved in the negative regulation of the Ras/MAPK signaling pathway in the wing by acting with the putative E3 ligases poe, Kcmf1 and Ufd4 to mediate the ubiquitination and proteasomal degradation of rl/MAPK; Belongs to the ubiquitin-conjugating enzyme family",
+    "annotationB": "Ubiquitin carboxyl-terminal hydrolase nonstop; Histone deubiquitinating component of the transcription regulatory histone acetylation (HAT) complex SAGA. Catalyzes the deubiquitination of histone H2B, thereby acting as a coactivator in a large subset of genes. Required to counteract heterochromatin silencing. Controls the development of neuronal connectivity in visual system by being required for accurate axon targeting in the optic lobe. Required for expression of ecdysone-induced genes such as br/broad; Belongs to the peptidase C19 family. UBP8 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

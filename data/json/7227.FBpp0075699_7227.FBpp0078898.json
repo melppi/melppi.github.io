@@ -1,0 +1,132 @@
+{
+    "pae": 5.3,
+    "iptm": 63.9,
+    "pdockq": 0.321,
+    "proA": "FBpp0075699",
+    "proB": "FBpp0078898",
+    "geneA": "nst",
+    "geneB": "mmy",
+    "annotationA": "Nesthocker (Nst) is a phospho-acetylglucosamine mutase, an essential enzyme in the biosynthetic pathway of N-Acetylglucosamine (GlcNAc). In the embryo Nst is required for normal GlcNAc levels and affects Fibroblast-Growth-Factor signaling",
+    "annotationB": "Mummy, isoform A; Mummy (Mmy) is an UDP-N-acetylglucosamine diphosphorylase. It functions in apical extracellular matrix formation by producing GlcNAc residues needed for chitin synthesis and protein glycosylation. Mmy regulates cuticle production, tracheal morphogenesis, and axon guidance",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 14,
+            "end_residue_number": 14,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 39,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 72,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 135,
+            "end_residue_number": 142,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 246,
+            "end_residue_number": 249,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 321,
+            "end_residue_number": 323,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 346,
+            "end_residue_number": 352,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 463,
+            "end_residue_number": 463,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "14-14",
+        "35-39",
+        "72-72",
+        "135-142",
+        "246-249"
+    ],
+    "interfaceB": [
+        "321-323",
+        "346-352",
+        "463-463"
+    ]
+}

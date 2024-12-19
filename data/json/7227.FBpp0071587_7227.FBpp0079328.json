@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 11.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071587",
+    "proB": "FBpp0079328",
+    "geneA": "CG10306",
+    "geneB": "RpS13",
+    "annotationA": "Eukaryotic translation initiation factor 3 subunit K; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "annotationB": "40S ribosomal protein S13; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the universal ribosomal protein uS15 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

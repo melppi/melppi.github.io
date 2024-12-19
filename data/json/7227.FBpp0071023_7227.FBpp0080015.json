@@ -1,0 +1,16 @@
+{
+    "pae": 24.8,
+    "iptm": 20.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0071023",
+    "proB": "FBpp0080015",
+    "geneA": "Atg5",
+    "geneB": "Sir2",
+    "annotationA": "Autophagy protein 5; Involved in autophagic vesicle formation. Conjugation with Atg12, through a ubiquitin-like conjugating system involving Atg7 as an E1-like activating enzyme and Atg10 as an E2-like conjugating enzyme, is essential for its function. The Atg12-Atg5 conjugate acts as an E3-like enzyme which is required for lipidation of Atg8 and its association to the vesicle membranes (By similarity)",
+    "annotationB": "NAD-dependent histone deacetylase Sir2; NAD-dependent histone deacetylase involved in heterochromatic silencing. Mildly suppresses the heterochromatin- mediated silencing phenomenon known as position-effect variegation (PEV). Required for epigenetic silencing of the polycomb group proteins. Has histone H4 deacetylase activity in vitro. Required maternally for establishing proper segmentation of the embryo. Involved in sex determination. May be involved in the regulation of life span",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

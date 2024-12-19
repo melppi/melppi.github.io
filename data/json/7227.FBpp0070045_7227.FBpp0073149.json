@@ -1,0 +1,16 @@
+{
+    "pae": 17.4,
+    "iptm": 24.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070045",
+    "proB": "FBpp0073149",
+    "geneA": "CG32350",
+    "geneB": "Syx17",
+    "annotationA": "Vacuolar protein sorting 11 (Vps11) is a Class C Vps core subunit of HOPS, a heterohexameric tethering complex that consists of car, dor, lt, Vps11, Vps16A and Vps39. HOPS tethers autophagosomes or late endosomes with lysosomes to facilitate fusion. Vps11 roles include autophagosome-lysosome fusion, late endosome-lysosome fusion and biosynthetic trafficking to lysosomes",
+    "annotationB": "Syntaxin 17, isoform B; Syntaxin 17 (Syx17) is a Qa type SNARE protein localizing to ER, mitochondria and autophagosomes. It mediates the fusion of autophagosomes with endosomes and lysosomes by forming a SNARE complex with Snap29 (Qbc) and Vamp7 (R). Syx17 roles include autophagosome clearance and neuromuscular function",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

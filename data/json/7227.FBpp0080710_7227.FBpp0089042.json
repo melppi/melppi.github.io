@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0080710",
+    "proB": "FBpp0089042",
+    "geneA": "Ddc",
+    "geneB": "Tbh",
+    "annotationA": "Aromatic-L-amino-acid decarboxylase; Catalyzes the decarboxylation of L-3,4- dihydroxyphenylalanine (DOPA) to dopamine, L-5-hydroxytryptophan to serotonin and L-tryptophan to tryptamine. Variation in the synthesis of bioamines may be a factor contributing to natural variation in life span; Belongs to the group II decarboxylase family",
+    "annotationB": "Tyramine beta hydroxylase (Tbh) is a monooxygenase and the key limiting enzyme in octopamine synthesis. Tbh regulates egg laying, positive associative olfactory learning and memory, aggression, flight initiation and maintenance, locomotor activity and attraction to ethanol containing food sources; Belongs to the copper type II ascorbate-dependent monooxygenase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

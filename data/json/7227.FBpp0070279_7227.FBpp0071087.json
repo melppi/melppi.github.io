@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 10.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0070279",
+    "proB": "FBpp0071087",
+    "geneA": "Sta",
+    "geneB": "RpS6",
+    "annotationA": "40S ribosomal protein SA; Required for the assembly and/or stability of the 40S ribosomal subunit. Required for the processing of the 20S rRNA- precursor to mature 18S rRNA in a late step of the maturation of 40S ribosomal subunits. Required during oogenesis and imaginal development",
+    "annotationB": "40S ribosomal protein S6; May play an important role in controlling cell growth and proliferation through the selective translation of particular classes of mRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

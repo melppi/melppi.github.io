@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 16.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071562",
+    "proB": "FBpp0083625",
+    "geneA": "CG4038",
+    "geneB": "Nop56",
+    "annotationA": "Probable H/ACA ribonucleoprotein complex subunit 1; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "annotationB": "Nucleolar KKE/D repeat protein; It is involved in the biological process described with: neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.5,
+    "iptm": 31.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0082541",
+    "proB": "FBpp0084713",
+    "geneA": "Sra-1",
+    "geneB": "eIF4E-6",
+    "annotationA": "Cytoplasmic FMR1-interacting protein; Specifically Rac1-associated protein 1 (Sra-1) is an essential protein that is a component of the WAVE actin nucleator complex that controls actin cytoskeleton remodeling and also interacts with Fmr1 and Rac1. Sra-1 controls morphogenesis and synapse organization",
+    "annotationB": "eIF4E-6, isoform A; RNA 7-methylguanosine cap binding; translation repressor activity; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation; negative regulation of translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

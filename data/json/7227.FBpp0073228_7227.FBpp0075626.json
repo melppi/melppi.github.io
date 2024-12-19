@@ -1,0 +1,48 @@
+{
+    "pae": 12.2,
+    "iptm": 14.5,
+    "pdockq": 0.034,
+    "proA": "FBpp0073228",
+    "proB": "FBpp0075626",
+    "geneA": "ATPsynCF6L",
+    "geneB": "CG17300",
+    "annotationA": "ATP synthase, coupling factor 6-like; Hydrogen ion transmembrane transporter activity; hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: ATP synthesis coupled proton transport",
+    "annotationB": "GEO09554p1; Proton-transporting ATP synthase activity, rotational mechanism. It is involved in the biological process described with: ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 31,
+            "end_residue_number": 40,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 102,
+            "end_residue_number": 113,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "31-40"
+    ],
+    "interfaceB": [
+        "102-113"
+    ]
+}

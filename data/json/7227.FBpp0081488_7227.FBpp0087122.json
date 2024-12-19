@@ -1,0 +1,16 @@
+{
+    "pae": 19.7,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081488",
+    "proB": "FBpp0087122",
+    "geneA": "Prosbeta3",
+    "geneB": "Oda",
+    "annotationA": "Proteasome subunit beta type-3; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "annotationB": "Ornithine decarboxylase (ODC) antizyme protein that negatively regulates ODC activity and intracellular polyamine biosynthesis and uptake in response to increased intracellular polyamine levels. Binds to ODC monomers, inhibiting the assembly of the functional ODC homodimer, and targets the monomers for ubiquitin- independent proteolytic destruction by the 26S proteasome (By similarity). Required for cellular differentiation in neuronal and myogenic lineages during embryonic development . ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

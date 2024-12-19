@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 7.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0076359",
+    "proB": "FBpp0305165",
+    "geneA": "RpL14",
+    "geneB": "Ef1beta",
+    "annotationA": "Ribosomal protein L14 is a component of the large subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles",
+    "annotationB": "Probable elongation factor 1-beta; EF-1-beta and EF-1-delta stimulate the exchange of GDP bound to EF-1-alpha to GTP",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

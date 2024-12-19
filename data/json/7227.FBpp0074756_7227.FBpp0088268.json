@@ -1,0 +1,16 @@
+{
+    "pae": 17.7,
+    "iptm": 21.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0074756",
+    "proB": "FBpp0088268",
+    "geneA": "rept",
+    "geneB": "pho",
+    "annotationA": "RuvB-like helicase 2; Acts as a transcriptional coactivator in Wg signaling caused by altered arm signaling. Pont and rept interfere antagonistically with nuclear arm signaling function, and are required to enhance or reduce arm activity, respectively. Also an essential cofactor for the normal function of Myc; required for cellular proliferation and growth",
+    "annotationB": "Polycomb protein PHO; Polycomb group (PcG) protein that binds to the 5'- CNGCCATNNNNG-3' sequence found in the regulatory regions of many genes. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility. Probably targets the Esc/E(z) complex to DNA. Necessary but no [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

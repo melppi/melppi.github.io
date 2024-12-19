@@ -1,0 +1,16 @@
+{
+    "pae": 23.9,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0070045",
+    "proB": "FBpp0073036",
+    "geneA": "CG32350",
+    "geneB": "Ccz1",
+    "annotationA": "Vacuolar protein sorting 11 (Vps11) is a Class C Vps core subunit of HOPS, a heterohexameric tethering complex that consists of car, dor, lt, Vps11, Vps16A and Vps39. HOPS tethers autophagosomes or late endosomes with lysosomes to facilitate fusion. Vps11 roles include autophagosome-lysosome fusion, late endosome-lysosome fusion and biosynthetic trafficking to lysosomes",
+    "annotationB": "Caffeine, calcium, zinc sensitivity 1 (Ccz1) forms a complex with Mon1 and acts as an exchange factor of the small G-protein Rab7. The Ccz1/Mon1 complex activates and recruits Rab7 to the maturing endosome, where Rab7 organizes the fusion of the matured endosome with the lysosome. Ccz1/Mon1 complex loss of function results in Rab7 phenotypes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 19.1,
+    "iptm": 18.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0073267",
+    "proB": "FBpp0087775",
+    "geneA": "sbr",
+    "geneB": "CG14749",
+    "annotationA": "Nuclear RNA export factor 1; Mediates the export of the majority of mRNAs from the nucleus to the cytoplasm",
+    "annotationB": "Nucleoporin GLE1; Required for the export of mRNAs containing poly(A) tails from the nucleus into the cytoplasm. May be involved in the terminal step of the mRNA transport through the nuclear pore complex (NPC) (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

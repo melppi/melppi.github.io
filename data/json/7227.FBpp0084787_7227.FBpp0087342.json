@@ -1,0 +1,90 @@
+{
+    "pae": 7.2,
+    "iptm": 30.0,
+    "pdockq": 0.133,
+    "proA": "FBpp0084787",
+    "proB": "FBpp0087342",
+    "geneA": "Slu7",
+    "geneB": "CG12343",
+    "annotationA": "Pre-mRNA-splicing factor Slu7; Participates in the second catalytic step of pre-mRNA splicing, when the free hydroxyl group of exon I attacks the 3'- splice site to generate spliced mRNA and the excised lariat intron",
+    "annotationB": "Pre-mRNA-splicing factor Syf2; May be involved in pre-mRNA splicing",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 542,
+            "end_residue_number": 551,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 559,
+            "end_residue_number": 559,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 565,
+            "end_residue_number": 574,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 104,
+            "end_residue_number": 121,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 201,
+            "end_residue_number": 209,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "542-551",
+        "559-559",
+        "565-574"
+    ],
+    "interfaceB": [
+        "104-121",
+        "201-209"
+    ]
+}

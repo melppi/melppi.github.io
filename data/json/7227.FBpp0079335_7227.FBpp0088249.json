@@ -1,0 +1,90 @@
+{
+    "pae": 7.8,
+    "iptm": 27.8,
+    "pdockq": 0.137,
+    "proA": "FBpp0079335",
+    "proB": "FBpp0088249",
+    "geneA": "SoxN",
+    "geneB": "toy",
+    "annotationA": "SoxNeuro, isoform B; Sequence-specific DNA binding transcription factor activity; protein binding; chromatin DNA binding; RNA polymerase II distal enhancer sequence-specific DNA binding transcription factor activity. It is involved in the biological process described with: nervous system development; regulation of Wnt signaling pathway; positive regulation of transcription from RNA polymerase II promoter; central nervous system development; regulation of transcription, DNA-templated; axon guidance",
+    "annotationB": "Twin of eyeless, isoform A; Sequence-specific DNA binding transcription factor activity; sequence-specific DNA binding; RNA polymerase II distal enhancer sequence-specific DNA binding transcription factor activity. It is involved in the biological process described with: positive regulation of transcription from RNA polymerase II promoter; brain morphogenesis; ocellus development; compound eye development; positive regulation of gene expression; eye-antennal disc development; regulation of transcription, DNA-templated; mushroom body development",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 222,
+            "end_residue_number": 222,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 226,
+            "end_residue_number": 237,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 292,
+            "end_residue_number": 296,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 305,
+            "end_residue_number": 306,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 310,
+            "end_residue_number": 310,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "222-222",
+        "226-237"
+    ],
+    "interfaceB": [
+        "292-296",
+        "305-306",
+        "310-310"
+    ]
+}

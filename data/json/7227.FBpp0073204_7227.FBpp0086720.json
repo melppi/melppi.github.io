@@ -1,0 +1,16 @@
+{
+    "pae": 23.7,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073204",
+    "proB": "FBpp0086720",
+    "geneA": "Aats-leu",
+    "geneB": "Aats-phe",
+    "annotationA": "Leucyl-tRNA synthetase, mitochondrial; aminoacyl-tRNA editing activity; ATP binding; leucine-tRNA ligase activity. It is involved in the biological process described with: leucyl-tRNA aminoacylation; Belongs to the class-I aminoacyl-tRNA synthetase family",
+    "annotationB": "Probable phenylalanine--tRNA ligase, mitochondrial; Is responsible for the charging of tRNA(Phe) with phenylalanine in mitochondrial translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

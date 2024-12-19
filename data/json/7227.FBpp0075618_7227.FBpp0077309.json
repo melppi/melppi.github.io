@@ -1,0 +1,48 @@
+{
+    "pae": 11.2,
+    "iptm": 40.0,
+    "pdockq": 0.094,
+    "proA": "FBpp0075618",
+    "proB": "FBpp0077309",
+    "geneA": "RpS4",
+    "geneB": "RpS21",
+    "annotationA": "40S ribosomal protein S4; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: mitotic spindle elongation; centrosome organization; translation; centrosome duplication; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eS4 family",
+    "annotationB": "40S ribosomal protein S21; May be an associated component of the ribosome rather than a core structural subunit. May act as a translation initiation factor. Has a role in regulation of cell proliferation in the hematopoietic organs and the imaginal disks of larva",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 248,
+            "end_residue_number": 256,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "248-256"
+    ],
+    "interfaceB": [
+        "60-67"
+    ]
+}

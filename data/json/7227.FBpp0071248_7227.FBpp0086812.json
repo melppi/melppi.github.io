@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0071248",
+    "proB": "FBpp0086812",
+    "geneA": "Dsor1",
+    "geneB": "Drk",
+    "annotationA": "Dual specificity mitogen-activated protein kinase kinase dSOR1; Required downstream of Raf in the sevenless (sev), torso (tor), and Drosophila EGF receptor homolog (DER) signal transduction pathways. Involved in both positive regulation (at the posterior terminus) and negative regulation (at the anterior domain) of tll, as in other terminal class gene products, maybe via the ERK-A kinase",
+    "annotationB": "Protein enhancer of sevenless 2B; Required for proper signaling by sevenless. May act to stimulate the ability of Sos to catalyze Ras1 activation by linking sevenless and Sos in a signaling complex; Belongs to the GRB2/sem-5/DRK family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,146 @@
+{
+    "pae": 1.7,
+    "iptm": 72.3,
+    "pdockq": 0.672,
+    "proA": "FBpp0079919",
+    "proB": "FBpp0289508",
+    "geneA": "Gr33a",
+    "geneB": "Gr66a",
+    "annotationA": "Gustatory and pheromone receptor 33a; Gustatory receptor which mediates acceptance or avoidance behavior, depending on its substrates. Required for sensing all nonvolatile repulsive chemicals, including tastants, pheromones, and especially N,N-Diethyl-meta-toluamide (DEET), the most widely used insect repellent worldwide. Functions also as a pheromone receptor for a male inhibitory pheromone leading to male-male courtship suppression; Belongs to the insect chemoreceptor superfamily. Gustatory receptor (GR) family. Gr66a subfamily",
+    "annotationB": "Gustatory receptor for bitter taste 66a; Gustatory receptor required for response to the bitter in taste neurons. Gr66a cells respond to bitter compounds such as caffeine, theophylline, threonine or valine. Flies avoid bitter substances, suggesting that Gr66a neuron activity is sufficient to mediate avoidance behavior. Required for sensing and avoiding N,N- Diethyl-meta-toluamide (DEET), the most widely used insect repellent worldwide, as well as to L-canavanine, a plant-derived insecticide. Gr66a neurons are also involved in the sex-specific perception of molecules inducing male avoid [...] ",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 300,
+            "end_residue_number": 307,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 311,
+            "end_residue_number": 311,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 410,
+            "end_residue_number": 438,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 444,
+            "end_residue_number": 451,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 455,
+            "end_residue_number": 469,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 474,
+            "end_residue_number": 475,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 402,
+            "end_residue_number": 405,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 409,
+            "end_residue_number": 442,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 457,
+            "end_residue_number": 491,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "300-307",
+        "311-311",
+        "410-438",
+        "444-451",
+        "455-469",
+        "474-475"
+    ],
+    "interfaceB": [
+        "402-405",
+        "409-442",
+        "457-491"
+    ]
+}

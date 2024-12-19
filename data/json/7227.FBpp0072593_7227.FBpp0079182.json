@@ -1,0 +1,16 @@
+{
+    "pae": 18.5,
+    "iptm": 28.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0072593",
+    "proB": "FBpp0079182",
+    "geneA": "pUf68",
+    "geneB": "SmE",
+    "annotationA": "Poly(U)-binding-splicing factor half pint; Splicing factor that regulates oogenesis and controls both mitosis and mRNA localization in the germline by regulating mRNA splicing of a subset of genes within the ovary. Probably acts by regulating the alternative splice site selection of the otu transcript. Also regulates the alternative splicing of eIF-4E and grk, while it is not involved in the splicing of par-1, sqd and psq; Belongs to the RRM half pint family",
+    "annotationB": "Probable small nuclear ribonucleoprotein E; Associated with the spliceosome snRNP U1, U2, U4/U6 and U5",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

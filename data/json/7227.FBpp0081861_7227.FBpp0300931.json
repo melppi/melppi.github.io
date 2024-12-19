@@ -1,0 +1,16 @@
+{
+    "pae": 17.7,
+    "iptm": 18.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0081861",
+    "proB": "FBpp0300931",
+    "geneA": "Irbp",
+    "geneB": "Mre11",
+    "annotationA": "ATP-dependent DNA helicase 2 subunit 1; Single-stranded DNA-dependent ATP-dependent helicase. Involved in non-homologous end joining (NHEJ) DNA double strand break repair (By similarity). Sequence-specific DNA-binding protein that has a high affinity for a 31 bp sequence in the Yp1 gene. Site-specific DNA binding to 31 bp P element inverted repeats",
+    "annotationB": "Meiotic recombination 11; Belongs to the MRE11/RAD32 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

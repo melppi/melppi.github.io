@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 19.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0077694",
+    "proB": "FBpp0087511",
+    "geneA": "dbe",
+    "geneB": "RpLP0-like",
+    "annotationA": "KRR1 small subunit processome component homolog; Required for 40S ribosome biogenesis. Involved in nucleolar processing of pre-18S ribosomal RNA and ribosome assembly. Binds to RNA. Required for female germline development, cell viability during eye development and for survival of dividing cells and epithelial cells during early wing disk development",
+    "annotationB": "Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

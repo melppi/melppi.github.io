@@ -1,0 +1,16 @@
+{
+    "pae": 16.9,
+    "iptm": 21.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070175",
+    "proB": "FBpp0084348",
+    "geneA": "CDC45L",
+    "geneB": "Sld5",
+    "annotationA": "EG:BACR7A4.11 protein; DNA binding; 3'-5' DNA helicase activity; chromatin binding. It is involved in the biological process described with: DNA amplification; DNA replication initiation; chromosome condensation; DNA replication; positive regulation of G1/S transition of mitotic cell cycle; mitotic G2 DNA damage checkpoint; neurogenesis; neuron projection morphogenesis",
+    "annotationB": "DNA replication complex GINS protein SLD5; The GINS complex plays an essential role in the initiation of DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

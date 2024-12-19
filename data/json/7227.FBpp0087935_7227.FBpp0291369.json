@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 17.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0087935",
+    "proB": "FBpp0291369",
+    "geneA": "CSN4",
+    "geneB": "Cul3",
+    "annotationA": "COP9 signalosome complex subunit 4; Component of the COP9 signalosome complex (CSN), a complex involved in various cellular and developmental processes. The CSN complex is an essential regulator of the ubiquitin (Ubl) conjugation pathway by mediating the deneddylation of the cullin subunits of the SCF-type E3 ligase complexes, leading to decrease the Ubl ligase activity of SCF. The CSN complex plays an essential role in oogenesis and embryogenesis and is required for proper photoreceptor R cell differentiation and promote lamina glial cell migration or axon targeting. It also promotes  [...] ",
+    "annotationB": "Cullin 3, isoform F; Ubiquitin-protein transferase activity; ubiquitin protein ligase binding; Belongs to the cullin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

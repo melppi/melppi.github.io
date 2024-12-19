@@ -1,0 +1,16 @@
+{
+    "pae": 26.3,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0082979",
+    "proB": "FBpp0087897",
+    "geneA": "Arp5",
+    "geneB": "Cul4",
+    "annotationA": "Actin-related protein 5; Proposed core component of the chromatin remodeling Ino80 complex which is involved in transcriptional regulation, DNA replication and probably DNA repair",
+    "annotationB": "Cullin 4 is the molecular scaffold for the CRL4 E3 ubiquitin ligase complex, which catalyzes the ubiquitylation and subsequent destruction of proteins that function in cell growth and proliferation as well as transcription, replication and repair of the genome; Belongs to the cullin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

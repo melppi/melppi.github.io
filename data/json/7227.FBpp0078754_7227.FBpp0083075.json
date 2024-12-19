@@ -1,0 +1,16 @@
+{
+    "pae": 22.9,
+    "iptm": 15.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0078754",
+    "proB": "FBpp0083075",
+    "geneA": "Hel25E",
+    "geneB": "CstF-64",
+    "annotationA": "ATP-dependent RNA helicase WM6; Required for mRNA export out of the nucleus. Probable RNA helicase that may regulate entry into mitosis by down- regulating the expression of other genes whose activity may be rate-limiting for entry into mitosis during embryogenesis. Binds to salivary gland chromosomes and modifies position effect variegation. Promotes an open chromatin structure that favors transcription during development by regulating the spread of heterochromatin",
+    "annotationB": "Cleavage stimulation factor 64 kilodalton subunit; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: mRNA cleavage; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

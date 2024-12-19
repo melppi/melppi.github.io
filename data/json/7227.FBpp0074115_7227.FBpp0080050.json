@@ -1,0 +1,90 @@
+{
+    "pae": 13.7,
+    "iptm": 21.8,
+    "pdockq": 0.131,
+    "proA": "FBpp0074115",
+    "proB": "FBpp0080050",
+    "geneA": "Rcp",
+    "geneB": "CG9305",
+    "annotationA": "Receptor component protein, isoform B; G-protein coupled receptor activity; DNA-directed RNA polymerase activity; nucleotide binding. It is involved in the biological process described with: transcription, DNA-templated; positive regulation of G-protein coupled receptor protein signaling pathway; neuron projection morphogenesis",
+    "annotationB": "CG9305, isoform A; Sequence-specific DNA binding transcription factor activity; DNA binding; chromatin binding. It is involved in the biological process described with: neurogenesis; neuron projection morphogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 8,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 56,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 67,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 71,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 604,
+            "end_residue_number": 609,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "8-15",
+        "56-63",
+        "67-67",
+        "71-81"
+    ],
+    "interfaceB": [
+        "604-609"
+    ]
+}

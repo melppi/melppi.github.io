@@ -1,0 +1,48 @@
+{
+    "pae": 14.0,
+    "iptm": 24.9,
+    "pdockq": 0.024,
+    "proA": "FBpp0072239",
+    "proB": "FBpp0078997",
+    "geneA": "CG4806",
+    "geneB": "nop5",
+    "annotationA": "LD27920p; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: neurogenesis",
+    "annotationB": "CG10206-PA; It is involved in the biological process described with: rRNA processing",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 266,
+            "end_residue_number": 266,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 137,
+            "end_residue_number": 137,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "266-266"
+    ],
+    "interfaceB": [
+        "137-137"
+    ]
+}

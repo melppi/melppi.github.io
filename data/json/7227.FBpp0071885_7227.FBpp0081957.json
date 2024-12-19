@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 19.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0071885",
+    "proB": "FBpp0081957",
+    "geneA": "Klp59C",
+    "geneB": "aurA",
+    "annotationA": "Kinesin-like protein Klp59C; Required during anaphase to drive sister chromatid separation to actively depolymerize kinetochore microtubules at their kinetochore-associated plus ends, thereby contributing to chromatid mobility through a \"Pac-man\" mechanism",
+    "annotationB": "Aurora A; Protein serine/threonine kinase activity; protein kinase activity; ATP binding; Belongs to the protein kinase superfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

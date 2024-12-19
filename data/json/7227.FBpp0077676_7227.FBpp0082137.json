@@ -1,0 +1,16 @@
+{
+    "pae": 22.8,
+    "iptm": 17.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0077676",
+    "proB": "FBpp0082137",
+    "geneA": "Clp",
+    "geneB": "mbo",
+    "annotationA": "Cleavage and polyadenylation specificity factor subunit 4; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Has endonuclease activity. Binds RNA polymers with a preference for G- and/or C-rich clusters. Binds single-stranded DNA non-specifically",
+    "annotationB": "Nuclear pore complex protein Nup88; Essential component of nuclear pore complex. Selectively required for the nuclear import of the Rel family transcription factors dorsal (dl) and Dorsal-related immunity factor (Dif) and the activation of an immune response. Required for the anchoring of Nup214 and emb on the nuclear envelope and thereby attenuates nuclear export signal (NES)-mediated nuclear export",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

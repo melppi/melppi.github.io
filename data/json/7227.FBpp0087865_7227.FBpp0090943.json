@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 19.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0087865",
+    "proB": "FBpp0090943",
+    "geneA": "Rs1",
+    "geneB": "U3-55K",
+    "annotationA": "Rs1, isoform A; ATP binding; ATP-dependent RNA helicase activity; nucleic acid binding; RNA helicase activity. It is involved in the biological process described with: ribosome biogenesis; Belongs to the DEAD box helicase family",
+    "annotationB": "U3 small nuclear riboprotein factor 55K; mRNA binding; U3 snoRNA binding. It is involved in the biological process described with: rRNA processing; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

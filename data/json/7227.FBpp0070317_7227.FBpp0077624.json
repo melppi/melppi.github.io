@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0070317",
+    "proB": "FBpp0077624",
+    "geneA": "CG4045",
+    "geneB": "CG4749",
+    "annotationA": "tRNA (guanine-N(7)-)-methyltransferase; Catalyzes the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA; Belongs to the class I-like SAM-binding methyltransferase superfamily. TrmB family",
+    "annotationB": "Lethal (2) 10685; Methyltransferase activity; Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB/NOP family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 20.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0074496",
+    "proB": "FBpp0074609",
+    "geneA": "car",
+    "geneB": "alphaSnap",
+    "annotationA": "Vacuolar protein sorting-associated protein 33A; Required for the biogenesis of eye pigment granules. Plays a role in vesicle-mediated protein trafficking to lysosomal compartments and in membrane docking/fusion reactions of late endosomes/lysosomes; Belongs to the STXBP/unc-18/SEC1 family",
+    "annotationB": "Alpha-soluble NSF attachment protein; Required for vesicular transport between the endoplasmic reticulum and the Golgi apparatus. Also between the endosome and phagosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

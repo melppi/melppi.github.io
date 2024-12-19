@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 19.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0305676",
+    "proB": "FBpp0305866",
+    "geneA": "Ubc2",
+    "geneB": "shi",
+    "annotationA": "Ubiquitin-conjugating enzyme E2-24 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins",
+    "annotationB": "Dynamin; Microtubule-associated force-producing protein which is involved in the production of microtubule bundles and which is able to bind and hydrolyze GTP. Implicated in endocytic protein sorting; Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

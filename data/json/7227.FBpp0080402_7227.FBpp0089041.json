@@ -1,0 +1,16 @@
+{
+    "pae": 19.5,
+    "iptm": 22.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0080402",
+    "proB": "FBpp0089041",
+    "geneA": "cact",
+    "geneB": "Prosalpha7",
+    "annotationA": "NF-kappa-B inhibitor cactus; Involved in the formation of the dorsoventral pattern. It inhibits nuclear translocation of the dorsal morphogen in the dorsal region of the embryo. Acts as a negative regulator of the NF-kappa-B (rel) signaling pathway. Cact is degraded by ird5, this is essential for NF-kappa-B (rel) activation",
+    "annotationB": "Proteasome subunit alpha type-3; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity); Belongs to the peptidase T1A family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

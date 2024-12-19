@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 33.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0086507",
+    "proB": "FBpp0297159",
+    "geneA": "Arf51F",
+    "geneB": "Dap160",
+    "annotationA": "ADP-ribosylation factor 6; ADP ribosylation factor at 51F (Arf51F) belongs to the Arf family, which are members of the Ras superfamily of small GTPases. Arf proteins are involved in the regulation of vesicular trafficking mediating processes such as cargo-sorting, vesicle assembly and membrane fusion. Arf proteins regulate cell shape changes and cell movements in multiple organs",
+    "annotationB": "Dynamin associated protein 160, isoform D; Protein binding; calcium ion binding. It is involved in the biological process described with: positive regulation of protein kinase activity; protein localization; negative regulation of Notch signaling pathway; synaptic vesicle endocytosis; positive regulation of neuroblast proliferation; synaptic growth at neuromuscular junction; neurotransmitter secretion",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

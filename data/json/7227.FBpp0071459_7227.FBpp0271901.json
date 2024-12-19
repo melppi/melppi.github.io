@@ -1,0 +1,48 @@
+{
+    "pae": 14.7,
+    "iptm": 22.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0071459",
+    "proB": "FBpp0271901",
+    "geneA": "ND-B14.7",
+    "geneB": "ND-B17.2",
+    "annotationA": "annotation not available",
+    "annotationB": "NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12; Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 135,
+            "end_residue_number": 135,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 25,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "135-135"
+    ],
+    "interfaceB": [
+        "25-25"
+    ]
+}

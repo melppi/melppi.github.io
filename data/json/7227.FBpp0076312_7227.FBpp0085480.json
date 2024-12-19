@@ -1,0 +1,16 @@
+{
+    "pae": 22.6,
+    "iptm": 13.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0076312",
+    "proB": "FBpp0085480",
+    "geneA": "Mcm7",
+    "geneB": "geminin",
+    "annotationA": "DNA replication licensing factor Mcm7; Acts as component of the Mcm2-7 complex (Mcm complex) which is the putative replicative helicase essential for 'once per cell cycle' DNA replication initiation and elongation in eukaryotic cells. The active ATPase sites in the Mcm2-7 ring are formed through the interaction surfaces of two neighboring subunits such that a critical structure of a conserved arginine finger motif is provided in trans relative to the ATP-binding site of the Walker A box of the adjacent subunit. The six ATPase active sites, however, are likely to contribute differential [...] ",
+    "annotationB": "Geminin, isoform A; DNA binding. It is involved in the biological process described with: eggshell chorion gene amplification; regulation of syncytial blastoderm mitotic cell cycle; endomitotic cell cycle; regulation of cell cycle; negative regulation of epidermal growth factor receptor signaling pathway; negative regulation of DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

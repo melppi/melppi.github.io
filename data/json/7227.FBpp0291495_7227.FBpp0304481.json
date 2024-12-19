@@ -1,0 +1,16 @@
+{
+    "pae": 25.8,
+    "iptm": 13.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0291495",
+    "proB": "FBpp0304481",
+    "geneA": "Rpn3",
+    "geneB": "Rpt3R",
+    "annotationA": "Probable 26S proteasome non-ATPase regulatory subunit 3; Acts as a regulatory subunit of the 26 proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "annotationB": "Regulatory particle triple-A ATPase 3-related, isoform C; ATP binding; ATPase activity. It is involved in the biological process described with: proteolysis; cellular response to DNA damage stimulus; protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

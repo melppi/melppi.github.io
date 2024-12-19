@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 13.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0081234",
+    "proB": "FBpp0292041",
+    "geneA": "SmD2",
+    "geneB": "SC35",
+    "annotationA": "Small ribonucleoprotein particle protein SmD2 (SmD2) is an RNA binding protein that forms a heterodimeric sub-complex with SmD1. They function as part of the heteroheptameric ring complex Sm core, which is involved in the formation of spliceosomal small nuclear RNPs (U1, U2, U4 and U5), which together catalyze pre-mRNA splicing",
+    "annotationB": "SR family splicing factor SC35, isoform B; mRNA binding; protein binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome; mRNA splice site selection",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

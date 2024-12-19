@@ -1,0 +1,104 @@
+{
+    "pae": 2.0,
+    "iptm": 64.1,
+    "pdockq": 0.524,
+    "proA": "FBpp0084894",
+    "proB": "FBpp0304068",
+    "geneA": "Atg16",
+    "geneB": "Atg18b",
+    "annotationA": "Autophagy-related 16, isoform C; Atg8 ligase activity. It is involved in the biological process described with: regulation of autophagy; macroautophagy; autophagy; larval midgut cell programmed cell death",
+    "annotationB": "Autophagy-related 18b, isoform A; Phosphatidylinositol-3,5-bisphosphate binding; phosphatidylinositol-3-phosphate binding. It is involved in the biological process described with: cellular response to oxidative stress; autophagic vacuole assembly",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 208,
+            "end_residue_number": 222,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 11,
+            "end_residue_number": 11,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 51,
+            "end_residue_number": 57,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 71,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 96,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 111,
+            "end_residue_number": 115,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "208-222"
+    ],
+    "interfaceB": [
+        "11-11",
+        "51-57",
+        "71-81",
+        "96-96",
+        "111-115"
+    ]
+}

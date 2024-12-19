@@ -1,0 +1,16 @@
+{
+    "pae": 22.4,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0081491",
+    "proB": "FBpp0112554",
+    "geneA": "RagA-B",
+    "geneB": "Maf1",
+    "annotationA": "Ras-related GTP binding A/B (RagA-B) is a Ras family GTPase that forms a heterodimer with RagC-D.  The heterodimer localizes on the lysosome surface and functions to relay amino acid signals to Tor activation by recruiting it to the lysosome",
+    "annotationB": "Repressor of RNA polymerase III transcription MAF1; Element of the TORC1 signaling pathway that acts as a mediator of diverse signals and that represses RNA polymerase III transcription. Inhibits the de novo assembly of TFIIIB onto DNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

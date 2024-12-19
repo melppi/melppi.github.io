@@ -1,0 +1,62 @@
+{
+    "pae": 9.8,
+    "iptm": 25.8,
+    "pdockq": 0.052,
+    "proA": "FBpp0078144",
+    "proB": "FBpp0082916",
+    "geneA": "Ddx1",
+    "geneB": "CG31249",
+    "annotationA": "ATP-dependent RNA helicase Ddx1; Acts as an ATP-dependent RNA helicase, able to unwind both RNA-RNA and RNA-DNA duplexes. Possesses 5' single-stranded RNA overhang nuclease activity (By similarity)",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 710,
+            "end_residue_number": 725,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 187,
+            "end_residue_number": 195,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 208,
+            "end_residue_number": 219,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "710-725"
+    ],
+    "interfaceB": [
+        "187-195",
+        "208-219"
+    ]
+}

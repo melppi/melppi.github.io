@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 8.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0079746",
+    "proB": "FBpp0079812",
+    "geneA": "dUTPase",
+    "geneB": "RfC38",
+    "annotationA": "Deoxyuridine triphosphatase, isoform A; dUTP diphosphatase activity. It is involved in the biological process described with: dUTP metabolic process",
+    "annotationB": "Replication factor C 38kD subunit, isoform A; DNA clamp loader activity; ATPase activity. It is involved in the biological process described with: DNA replication; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

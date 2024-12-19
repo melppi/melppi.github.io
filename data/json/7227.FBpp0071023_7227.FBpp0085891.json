@@ -1,0 +1,16 @@
+{
+    "pae": 25.0,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0071023",
+    "proB": "FBpp0085891",
+    "geneA": "Atg5",
+    "geneB": "Atg7",
+    "annotationA": "Autophagy protein 5; Involved in autophagic vesicle formation. Conjugation with Atg12, through a ubiquitin-like conjugating system involving Atg7 as an E1-like activating enzyme and Atg10 as an E2-like conjugating enzyme, is essential for its function. The Atg12-Atg5 conjugate acts as an E3-like enzyme which is required for lipidation of Atg8 and its association to the vesicle membranes (By similarity)",
+    "annotationB": "Autophagy-related 7 is an E1-type ligase for the autophagic ubiquitin-like proteins Atg8a and Atg12. Its roles include autophagosome formation, maintaining neuromuscular function and normal lifespan",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

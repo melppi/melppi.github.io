@@ -1,0 +1,16 @@
+{
+    "pae": 17.3,
+    "iptm": 19.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0073863",
+    "proB": "FBpp0083968",
+    "geneA": "CG8097",
+    "geneB": "Slimp",
+    "annotationA": "CG8097, isoform A; ATP binding; arginine-tRNA ligase activity. It is involved in the biological process described with: arginyl-tRNA aminoacylation",
+    "annotationB": "Serine--tRNA synthetase-like protein Slimp; Essential protein which may play a role in mitochondrial morphogenesis and function. Has transfer RNA (tRNA)-binding activity and can bind tRNA(Ser) but does not have serine--tRNA ligase activity and does not bind ATP",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

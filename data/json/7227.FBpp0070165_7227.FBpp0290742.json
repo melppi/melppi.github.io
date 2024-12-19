@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070165",
+    "proB": "FBpp0290742",
+    "geneA": "mus81",
+    "geneB": "Rad51C",
+    "annotationA": "EG:BACR7A4.16 protein; Mus81 is the catalytic subunit of the Mus81-mms4 structure-selective endonuclease that functions in DNA repair",
+    "annotationB": "Rad51C; Rad51 recombinase D (Rad51D) is a spn-A paralog involved in homologous recombination in the repair of double-strand breaks. Rad51D is likely important for regulating spn-A",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

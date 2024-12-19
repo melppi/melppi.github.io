@@ -1,0 +1,48 @@
+{
+    "pae": 15.3,
+    "iptm": 19.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0071046",
+    "proB": "FBpp0087437",
+    "geneA": "bys",
+    "geneB": "CG12909",
+    "annotationA": "Bystin; Required for processing of 20S pre-rRNA precursor and biogenesis of 40S ribosomal subunits",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 368,
+            "end_residue_number": 368,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 56,
+            "end_residue_number": 56,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "368-368"
+    ],
+    "interfaceB": [
+        "56-56"
+    ]
+}

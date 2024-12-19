@@ -1,0 +1,16 @@
+{
+    "pae": 24.8,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0082123",
+    "proB": "FBpp0086941",
+    "geneA": "Past1",
+    "geneB": "Amph",
+    "annotationA": "Putative Achaete Scute Target (Past1) is a protein that associates predominantly with the plasma membrane and genetically interacts with N. Past1 contributes to endocytosis, male sterility, temperature sensitivity, life span and differentiation of photoreceptors R1/R6/R7 and cone cells; Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family",
+    "annotationB": "Amphiphysin, isoform A; Phospholipid binding. It is involved in the biological process described with: exocytosis; protein localization; rhabdomere development; synaptic vesicle endocytosis; endocytosis; neurotransmitter secretion; rhabdomere membrane biogenesis; regulation of muscle contraction",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

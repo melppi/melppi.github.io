@@ -1,0 +1,132 @@
+{
+    "pae": 3.2,
+    "iptm": 72.3,
+    "pdockq": 0.5,
+    "proA": "FBpp0070954",
+    "proB": "FBpp0079943",
+    "geneA": "CG4557",
+    "geneB": "Rab6",
+    "annotationA": "FI19713p1; Sequence-specific DNA binding transcription factor activity; Rab GTPase binding",
+    "annotationB": "Ras-related protein Rab6; Protein transport. Regulator of membrane traffic from the Golgi apparatus towards the endoplasmic reticulum (ER). Mediates membrane trafficking during egg chamber growth and organization, possibly upstream of exocyst component Sec5. Also during oogenesis, plays a role, together with BicD but independently of Sec5, in the polarization of the oocyte microtubule cytoskeleton, in the localization of oskar mRNA and in the anterodorsal secretion of grk. Required for anterograde opsin transport through the ER-Golgi complex. Plays a role, together with Rich, in regula [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 494,
+            "end_residue_number": 494,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 498,
+            "end_residue_number": 523,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 527,
+            "end_residue_number": 527,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 7,
+            "end_residue_number": 12,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 45,
+            "end_residue_number": 52,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 62,
+            "end_residue_number": 66,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 73,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 81,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "494-494",
+        "498-523",
+        "527-527"
+    ],
+    "interfaceB": [
+        "7-12",
+        "45-52",
+        "62-66",
+        "73-77",
+        "81-81"
+    ]
+}

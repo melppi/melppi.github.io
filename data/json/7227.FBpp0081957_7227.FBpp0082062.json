@@ -1,0 +1,16 @@
+{
+    "pae": 21.5,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0081957",
+    "proB": "FBpp0082062",
+    "geneA": "aurA",
+    "geneB": "Prosalpha2",
+    "annotationA": "Aurora A; Protein serine/threonine kinase activity; protein kinase activity; ATP binding; Belongs to the protein kinase superfamily",
+    "annotationB": "Proteasome subunit alpha type-2; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.9,
+    "iptm": 15.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0072052",
+    "proB": "FBpp0087359",
+    "geneA": "Galphas",
+    "geneB": "Galphao",
+    "annotationA": "G protein alpha s subunit; Guanine nucleotide-binding proteins (G proteins) are involved as modulators or transducers in various transmembrane signaling systems. The G(s) protein is involved in hormonal regulation of adenylate cyclase: it activates the cyclase (By similarity); Belongs to the G-alpha family. G(s) subfamily",
+    "annotationB": "G protein alpha o subunit (Galphao) is the most abundant G protein in the nervous tissue and is involved in signaling by a variety of GPCRs. Galphao functions include heart development, axonogenesis, neuro-muscular junction formation, asymmetric cell division, planar cell polarity, blood-brain barrier establishment, Wnt signaling, and gustatory and olfactory sensory perception; Belongs to the G-alpha family. G(i/o/t/z) subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

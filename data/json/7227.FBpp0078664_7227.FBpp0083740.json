@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 16.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0078664",
+    "proB": "FBpp0083740",
+    "geneA": "Rpn11",
+    "geneB": "Ublcp1",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "annotationB": "Ubiquitin-like domain-containing C-terminal domain phosphatase 1 is a nuclear HAD family phospho-Ser/Thr phosphatase that binds and dephosphorylates the nuclear 26S proteasome and inhibits proteasome activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

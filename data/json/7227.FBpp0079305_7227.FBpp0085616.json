@@ -1,0 +1,118 @@
+{
+    "pae": 12.2,
+    "iptm": 32.6,
+    "pdockq": 0.129,
+    "proA": "FBpp0079305",
+    "proB": "FBpp0085616",
+    "geneA": "CG13097",
+    "geneB": "CG9143",
+    "annotationA": "U3 small nucleolar ribonucleoprotein protein MPP10; Involved in nucleolar processing of pre-18S ribosomal RNA",
+    "annotationB": "LD11580p; mRNA binding; ATP binding; ATP-dependent RNA helicase activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 598,
+            "end_residue_number": 612,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 632,
+            "end_residue_number": 636,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 259,
+            "end_residue_number": 259,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 508,
+            "end_residue_number": 510,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 525,
+            "end_residue_number": 530,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 649,
+            "end_residue_number": 654,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 667,
+            "end_residue_number": 672,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "598-612",
+        "632-636"
+    ],
+    "interfaceB": [
+        "259-259",
+        "508-510",
+        "525-530",
+        "649-654",
+        "667-672"
+    ]
+}

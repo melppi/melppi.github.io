@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 31.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0291631",
+    "proB": "FBpp0301731",
+    "geneA": "EcR",
+    "geneB": "lwr",
+    "annotationA": "Ecdysone receptor (EcR) interacts with usp to form the nuclear ecdysone receptor heterodimer, which modulates, in conjunction with co-activators and co-repressors, the activities of hundreds of genes in a tissue- and stage-specific way. EcR is widely expressed in embryonic and larval tissues and in some adult tissues where its activities (modulated by the hormone ecdysone) trigger both molting and metamorphosis",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

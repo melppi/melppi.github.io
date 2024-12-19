@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 16.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0083802",
+    "proB": "FBpp0086971",
+    "geneA": "RpS3",
+    "geneB": "Nacalpha",
+    "annotationA": "Ribosomal protein S3 (RpS3) is a component of the small subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles. RpS3 also contains a DNA lyase activity and functions in DNA repair",
+    "annotationB": "Nascent polypeptide-associated complex subunit alpha; May promote appropriate targeting of ribosome-nascent polypeptide complexes (By similarity). Required for correct localization of the osk/oskar protein to the posterior pole during embryonic development. The osk protein directs the recruitment of molecules responsible for posterior body patterning and germline formation in the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

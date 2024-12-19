@@ -1,0 +1,16 @@
+{
+    "pae": 19.5,
+    "iptm": 10.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0304416",
+    "proB": "FBpp0305385",
+    "geneA": "wac",
+    "geneB": "dgt4",
+    "annotationA": "Augmin complex subunit wac; As part of the augmin complex, plays a role in centrosome-independent generation of spindle microtubules. The complex is required for mitotic spindle assembly through its involvement in localizing gamma-tubulin to spindle microtubules. wac is dispensable for somatic mitosis and for assembly of spindle microtubules in oocytes during female meiosis but is required during female meiosis for chromosome alignment and segregation. It is required for microtubule assembly near spindle poles in oocytes. It is also required for acentrosomal microtubule nucleation and  [...] ",
+    "annotationB": "Augmin complex subunit dgt4; As part of the augmin complex, plays a role in centrosome-independent generation of spindle microtubules. The complex is required for mitotic spindle assembly through its involvement in localizing gamma-tubulin to spindle microtubules",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

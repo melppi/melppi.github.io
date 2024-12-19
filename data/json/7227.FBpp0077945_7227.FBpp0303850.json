@@ -1,0 +1,48 @@
+{
+    "pae": 3.6,
+    "iptm": 74.0,
+    "pdockq": 0.024,
+    "proA": "FBpp0077945",
+    "proB": "FBpp0303850",
+    "geneA": "CG10585",
+    "geneB": "CG10778",
+    "annotationA": "Uncharacterized protein, isoform A; Trans-hexaprenyltranstransferase activity; Belongs to the FPP/GGPP synthase family",
+    "annotationB": "Ditrans,polycis-polyprenyl diphosphate synthase ((2E,6E)-farnesyl diphosphate specific); Adds multiple copies of isopentenyl pyrophosphate (IPP) to farnesyl pyrophosphate (FPP) to produce dehydrodolichyl diphosphate (Dedol-PP), a precursor of dolichol which is utilized as a sugar carrier in protein glycosylation in the endoplasmic reticulum (ER)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 206,
+            "end_residue_number": 206,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 210,
+            "end_residue_number": 210,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "206-206"
+    ],
+    "interfaceB": [
+        "210-210"
+    ]
+}

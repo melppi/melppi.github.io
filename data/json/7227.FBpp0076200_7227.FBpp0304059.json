@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 17.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0076200",
+    "proB": "FBpp0304059",
+    "geneA": "Uch-L5",
+    "geneB": "Usp14",
+    "annotationA": "Ubiquitin carboxyl-terminal hydrolase; Ubiquitin-specific protease activity; omega peptidase activity; endopeptidase activity. It is involved in the biological process described with: protein deubiquitination; proteasome-mediated ubiquitin-dependent protein catabolic process; neurogenesis",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

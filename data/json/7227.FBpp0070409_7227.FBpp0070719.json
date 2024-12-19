@@ -1,0 +1,104 @@
+{
+    "pae": 2.6,
+    "iptm": 57.2,
+    "pdockq": 0.467,
+    "proA": "FBpp0070409",
+    "proB": "FBpp0070719",
+    "geneA": "Nmd3",
+    "geneB": "Sas10",
+    "annotationA": "60S ribosomal export protein NMD3; Acts as an adapter for the XPO1/CRM1-mediated export of the 60S ribosomal subunit",
+    "annotationB": "Something about silencing protein 10; Essential for gene silencing: has a role in the structure of silenced chromatin. May be involved in gene regulation during development. Binds RNA; Belongs to the SAS10 family",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 324,
+            "end_residue_number": 330,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 361,
+            "end_residue_number": 368,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 382,
+            "end_residue_number": 386,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 421,
+            "end_residue_number": 421,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 234,
+            "end_residue_number": 250,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 254,
+            "end_residue_number": 264,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "324-330",
+        "361-368",
+        "382-386",
+        "421-421"
+    ],
+    "interfaceB": [
+        "234-250",
+        "254-264"
+    ]
+}

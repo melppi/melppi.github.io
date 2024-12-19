@@ -1,0 +1,104 @@
+{
+    "pae": 5.3,
+    "iptm": 60.7,
+    "pdockq": 0.191,
+    "proA": "FBpp0074805",
+    "proB": "FBpp0099733",
+    "geneA": "Acp76A",
+    "geneB": "Ance-3",
+    "annotationA": "Accessory gland protein 76A is a protein that shows homology to the serpin serine endopeptidase inhibitor family but is predicted to be non-inhibitory. It is produced in the male accessory glands and transferred to females during mating",
+    "annotationB": "Angiotensin-converting enzyme; Peptidyl-dipeptidase activity. It is involved in the biological process described with: proteolysis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 50,
+            "end_residue_number": 50,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 54,
+            "end_residue_number": 54,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 128,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 135,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 169,
+            "end_residue_number": 169,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 804,
+            "end_residue_number": 820,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "50-50",
+        "54-54",
+        "91-128",
+        "135-162",
+        "169-169"
+    ],
+    "interfaceB": [
+        "804-820"
+    ]
+}

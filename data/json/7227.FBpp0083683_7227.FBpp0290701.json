@@ -1,0 +1,48 @@
+{
+    "pae": 17.5,
+    "iptm": 17.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0083683",
+    "proB": "FBpp0290701",
+    "geneA": "T-cp1",
+    "geneB": "CG7048",
+    "annotationA": "T-complex protein 1 subunit alpha; Molecular chaperone; assists the folding of proteins upon ATP hydrolysis. Known to play a role, in vitro, in the folding of actin and tubulin",
+    "annotationB": "Probable prefoldin subunit 5; Binds specifically to cytosolic chaperonin (c-CPN) and transfers target proteins to it. Binds to nascent polypeptide chain and promotes folding in an environment in which there are many competing pathways for nonnative proteins (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 248,
+            "end_residue_number": 248,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 99,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "248-248"
+    ],
+    "interfaceB": [
+        "99-99"
+    ]
+}

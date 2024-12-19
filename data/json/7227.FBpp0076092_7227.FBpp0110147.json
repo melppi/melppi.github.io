@@ -1,0 +1,16 @@
+{
+    "pae": 18.3,
+    "iptm": 20.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0076092",
+    "proB": "FBpp0110147",
+    "geneA": "iPLA2-VIA",
+    "geneB": "CG32699",
+    "annotationA": "Calcium-independent phospholipase A2 VIA (IPLA2-VIA) localizes to cytosol and mitochondria. IPLA2-VIA has a role in repairing oxidized mitochondrial lipids, such as cardiolipin, and thus preventing cytochrome c release. IPLA2-VIA is partially responsible for cardiolipin depletion and monolysocardiolipin accumulation in Taz-deficient flies, which is a model of Barth syndrome",
+    "annotationB": "Lysophosphatidylcholine acyltransferase; Acetyltransferase which mediates the conversion of 1- acyl-sn-glycero-3-phosphocholine (LPC) into phosphatidylcholine (PC) (By similarity). Has a calcium-independent activity (By similarity). Displays a clear preference for saturated fatty acyl- CoAs, and 1-myristoyl or 1-palmitoyl LPC as acyl donors and acceptors, respectively (By similarity). Involved in the regulation of lipid droplet number and size",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.4,
+    "iptm": 10.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0072687",
+    "proB": "FBpp0300988",
+    "geneA": "RpL23A",
+    "geneB": "tko",
+    "annotationA": "Ribosomal protein L23A; Structural constituent of ribosome; nucleotide binding. It is involved in the biological process described with: translation; centrosome duplication; Belongs to the universal ribosomal protein uL23 family",
+    "annotationB": "40S ribosomal protein S12, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: sensory perception of sound; response to mechanical stimulus; mechanosensory behavior; translation; male courtship behavior; response to hypoxia; courtship behavior",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 24.7,
+    "iptm": 21.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0079648",
+    "proB": "FBpp0304733",
+    "geneA": "RnrL",
+    "geneB": "NTPase",
+    "annotationA": "Ribonucleoside-diphosphate reductase large subunit; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides",
+    "annotationB": "NTPase, isoform F; Nucleoside-triphosphatase activity; uridine-diphosphatase activity; nucleoside-diphosphatase activity; guanosine-diphosphatase activity; Belongs to the GDA1/CD39 NTPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

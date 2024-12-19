@@ -1,0 +1,62 @@
+{
+    "pae": 4.2,
+    "iptm": 45.8,
+    "pdockq": 0.136,
+    "proA": "FBpp0070766",
+    "proB": "FBpp0076207",
+    "geneA": "RpL35",
+    "geneB": "RpS17",
+    "annotationA": "Ribosomal protein L35, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization",
+    "annotationB": "Ribosomal protein S17 (RpS17) is an essential component of the ribosomal 40S subunit. RpS17 mutants have dominant, haploinsufficient effects on cellular and organismal growth rate, and on bristle size; Belongs to the eukaryotic ribosomal protein eS17 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 73,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 84,
+            "end_residue_number": 84,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 100,
+            "end_residue_number": 110,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "73-78",
+        "84-84"
+    ],
+    "interfaceB": [
+        "100-110"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.7,
+    "iptm": 14.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0081458",
+    "proB": "FBpp0083214",
+    "geneA": "VhaM8.9",
+    "geneB": "Vha13",
+    "annotationA": "Vacuolar H[+] ATPase M8.9 accessory subunit; Frizzled-2 binding; frizzled binding; receptor activity. It is involved in the biological process described with: Wnt signaling pathway; endosomal transport; Wnt signaling pathway, planar cell polarity pathway; ATP hydrolysis coupled proton transport; imaginal disc-derived wing hair organization; establishment of body hair or bristle planar orientation; protein localization involved in establishment of planar polarity; establishment of imaginal disc-derived wing hair orientation",
+    "annotationB": "V-type proton ATPase subunit G; Catalytic subunit of the peripheral V1 complex of vacuolar ATPase (V-ATPase). V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

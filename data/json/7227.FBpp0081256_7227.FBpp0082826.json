@@ -1,0 +1,16 @@
+{
+    "pae": 15.5,
+    "iptm": 17.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0081256",
+    "proB": "FBpp0082826",
+    "geneA": "dsx",
+    "geneB": "Abd-B",
+    "annotationA": "Protein doublesex; Controls somatic sexual differentiation. Binds directly and specifically to the FBE (fat body enhancer) of the yolk protein 1 and 2 genes (Yp1 and Yp2). This enhancer is sufficient to direct the female-specific transcription characteristic of the Yp genes in adult fat bodies. Involved in regulation of male- specific expression of takeout in brain-associated fat body",
+    "annotationB": "Homeobox protein abdominal-B; Abdominal B is one of the 3 hox genes of the bithorax complex, specifying the identity of the posterior abdominal segments, the external genitalia and the gonads. It is also involved in regulating the post-mating-response",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

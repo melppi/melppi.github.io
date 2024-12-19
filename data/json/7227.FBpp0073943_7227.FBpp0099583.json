@@ -1,0 +1,16 @@
+{
+    "pae": 21.3,
+    "iptm": 21.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0073943",
+    "proB": "FBpp0099583",
+    "geneA": "CG8939",
+    "geneB": "Nop60B",
+    "annotationA": "Putative rRNA methyltransferase; Probable methyltransferase involved in the maturation of rRNA and in the biogenesis of ribosomal subunits",
+    "annotationB": "H/ACA ribonucleoprotein complex subunit 4; Plays a central role in ribosomal RNA processing. Probable catalytic subunit of H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex, which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine ('psi') residues may serve to stabilize the conformation of rRNAs. Required for maintenance of the germline stem cell lineage during spermatogenesis; Belongs to the pseudouridine synthase TruB family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

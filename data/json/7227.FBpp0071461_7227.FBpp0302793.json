@@ -1,0 +1,16 @@
+{
+    "pae": 18.4,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0071461",
+    "proB": "FBpp0302793",
+    "geneA": "cpa",
+    "geneB": "Arp2",
+    "annotationA": "F-actin-capping protein subunit alpha; F-actin-capping proteins bind in a Ca(2+)-independent manner to the fast growing ends of actin filaments (barbed end) thereby blocking the exchange of subunits at these ends. Unlike other capping proteins (such as gelsolin and severin), these proteins do not sever actin filaments (By similarity)",
+    "annotationB": "Actin-related protein 2; Functions as ATP-binding component of the Arp2/3 complex which is involved in regulation of actin polymerization and together with an activating nucleation-promoting factor (NPF) mediates the formation of branched actin networks. Seems to contact the pointed end of the daughter actin filament (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

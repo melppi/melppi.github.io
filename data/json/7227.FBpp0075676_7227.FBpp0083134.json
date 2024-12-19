@@ -1,0 +1,62 @@
+{
+    "pae": 13.0,
+    "iptm": 16.1,
+    "pdockq": 0.033,
+    "proA": "FBpp0075676",
+    "proB": "FBpp0083134",
+    "geneA": "CG10754",
+    "geneB": "snRNP-U1-C",
+    "annotationA": "LD47455p; Zinc ion binding; nucleic acid binding. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; mRNA splicing, via spliceosome; mitotic spindle organization; neurogenesis",
+    "annotationB": "U1 small nuclear ribonucleoprotein C; Component of the spliceosomal U1 snRNP, which is essential for recognition of the pre-mRNA 5' splice-site and the subsequent assembly of the spliceosome. U1-C is directly involved in initial 5' splice-site recognition for both constitutive and regulated alternative splicing. The interaction with the 5' splice-site seems to precede base-pairing between the pre-mRNA and the U1 snRNA. Stimulates commitment or early (E) complex formation by stabilizing the base pairing of the 5' end of the U1 snRNA and the 5' splice-site region (By similarity). Regulat [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 221,
+            "end_residue_number": 225,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 5,
+            "end_residue_number": 7,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 37,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "221-225"
+    ],
+    "interfaceB": [
+        "5-7",
+        "37-44"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.4,
+    "iptm": 19.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070419",
+    "proB": "FBpp0306192",
+    "geneA": "z",
+    "geneB": "E(z)",
+    "annotationA": "Zeste is a sequence-specific DNA-binding protein. It is often found in the proximal promoter region of many genes where it helps to recruit the BRM nucleosome remodeling complex. It is best known for the pairing-dependent repressive effects produced by some of its mutants on target genes, especially the w gene",
+    "annotationB": "Histone-lysine N-methyltransferase E(z); Polycomb group (PcG) protein. Catalytic subunit of the Esc/E(z) complex, which methylates 'Lys-9' and 'Lys-27' of histone H3, leading to transcriptional repression of the affected target gene. While PcG proteins are generally required to maintain the transcriptionally repressive state of homeotic genes throughout development, this protein is specifically required during the first 6 hours of embryogenesis to establish the repressed state. The Esc/E(z) complex is necessary but not sufficient for the repression of homeotic target genes, suggesting  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

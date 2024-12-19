@@ -1,0 +1,48 @@
+{
+    "pae": 8.2,
+    "iptm": 47.5,
+    "pdockq": 0.024,
+    "proA": "FBpp0073010",
+    "proB": "FBpp0074906",
+    "geneA": "Scsalpha",
+    "geneB": "CG7430",
+    "annotationA": "Succinate--CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial; Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and specificity for either ATP or GTP is provided by different beta subunits",
+    "annotationB": "Dihydrolipoyl dehydrogenase activity; flavin adenine dinucleotide binding. It is involved in the biological process described with: tricarboxylic acid cycle; lipoamide metabolic process; cell redox homeostasis; glycine catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 277,
+            "end_residue_number": 277,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 378,
+            "end_residue_number": 378,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "277-277"
+    ],
+    "interfaceB": [
+        "378-378"
+    ]
+}

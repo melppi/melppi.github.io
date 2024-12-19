@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 18.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0078854",
+    "proB": "FBpp0303635",
+    "geneA": "mtm",
+    "geneB": "Pi3K21B",
+    "annotationA": "Myotubularin, isoform A; Phosphatidylinositol-3-phosphatase activity; protein binding; protein tyrosine/serine/threonine phosphatase activity; protein tyrosine phosphatase activity. It is involved in the biological process described with: dephosphorylation; protein dephosphorylation; cortical actin cytoskeleton organization; endocytic recycling; mitotic cell cycle; cell projection assembly; chromosome segregation; response to wounding; Belongs to the protein-tyrosine phosphatase family. Non-receptor class myotubularin subfamily",
+    "annotationB": "Pi3K21B, isoform B; Insulin receptor substrate binding; phosphatidylinositol 3-kinase regulator activity; kinase binding. It is involved in the biological process described with: regulation of cell proliferation; regulation of cell size; insulin receptor signaling pathway; protein phosphorylation; phosphatidylinositol phosphorylation; positive regulation of growth; lipid phosphorylation; regulation of organ growth; positive regulation of cell size",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

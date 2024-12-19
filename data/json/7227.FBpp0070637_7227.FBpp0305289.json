@@ -1,0 +1,16 @@
+{
+    "pae": 17.5,
+    "iptm": 28.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0070637",
+    "proB": "FBpp0305289",
+    "geneA": "Nsun2",
+    "geneB": "NHP2",
+    "annotationA": "tRNA (cytosine(34)-C(5))-methyltransferase; RNA methyltransferase that methylates tRNAs. Methylates cytosine to 5-methylcytosine (m5C) at position 34 of intron- containing tRNA(Leu)(CAA) precursors. Required for short-term memory",
+    "annotationB": "H/ACA ribonucleoprotein complex subunit 2-like protein; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

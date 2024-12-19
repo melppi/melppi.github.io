@@ -1,0 +1,48 @@
+{
+    "pae": 5.1,
+    "iptm": 44.7,
+    "pdockq": 0.151,
+    "proA": "FBpp0086578",
+    "proB": "FBpp0087317",
+    "geneA": "Ercc1",
+    "geneB": "mms4",
+    "annotationA": "Nucleotide excision repair protein ERCC1; Ercc1 is the non-catalytic partner of the mei-9 nuclease that cuts structures formed during DNA repair. The mei-9-Ercc1 heterodimer interacts with mus312 to make meiotic crossovers. Ercc1 functions include repair of UV-induced DNA damage, repair of base adducts, a backup pathway for mismatch repair and meiotic recombination",
+    "annotationB": "Methyl methanesulfonate sensitivity 4 is the non-catalytic subunit of the mus81-mms4 structure-selective endonuclease that functions in DNA repair",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 143,
+            "end_residue_number": 154,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 156,
+            "end_residue_number": 164,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "143-154"
+    ],
+    "interfaceB": [
+        "156-164"
+    ]
+}

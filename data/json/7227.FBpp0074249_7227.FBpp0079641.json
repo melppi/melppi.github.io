@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0074249",
+    "proB": "FBpp0079641",
+    "geneA": "CG8173",
+    "geneB": "Cdk1",
+    "annotationA": "RE25723p; ATP binding; protein serine/threonine kinase activity. It is involved in the biological process described with: protein phosphorylation",
+    "annotationB": "Cyclin-dependent kinase (Cdk1) is a catalytic protein kinase subunit that can only become active after association with either CycA, CycB or CycB3. The protein kinase activities of these complexes (CycA-Cdk1, CycB-Cdk1, CycB3-Cdk1) control important aspects of progression through the cell cycle. Functionally, the different Cdk1 complexes are partially redundant. They phosphorylate hundreds of target proteins and are most important for progression into and through mitotic and meiotic M phases; Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

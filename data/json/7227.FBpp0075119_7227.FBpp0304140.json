@@ -1,0 +1,16 @@
+{
+    "pae": 18.1,
+    "iptm": 27.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0075119",
+    "proB": "FBpp0304140",
+    "geneA": "Prosbeta6",
+    "geneB": "sgg",
+    "annotationA": "Proteasome subunit beta type-1; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity; Belongs to the peptidase T1B family",
+    "annotationB": "Protein kinase shaggy; Required for several developmental events such as syncytial blastoderm formation and embryonic segmentation. Is involved in transcriptional regulation. Required for arm phosphorylation. Wg signaling operates by inactivating the sgg repression of en autoactivation. Negatively controls the neuromuscular junction (NMJ) growth in presynaptic motoneurons. Plays a role in the regulation of microtubule dynamics and actin cytoskeleton during embryogenesis. Required for phosphorylation of sra in activated eggs. Essential for completion of meiosis, possibly by triggering c [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

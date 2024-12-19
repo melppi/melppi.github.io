@@ -1,0 +1,76 @@
+{
+    "pae": 11.3,
+    "iptm": 30.7,
+    "pdockq": 0.295,
+    "proA": "FBpp0081848",
+    "proB": "FBpp0302939",
+    "geneA": "SdhC",
+    "geneB": "ND-B14.5B",
+    "annotationA": "Succinate dehydrogenase, subunit C, isoform A; Succinate dehydrogenase (ubiquinone) activity; succinate dehydrogenase activity; electron carrier activity. It is involved in the biological process described with: response to oxidative stress; succinate metabolic process; determination of adult lifespan; mitochondrial electron transport, succinate to ubiquinone; tricarboxylic acid cycle",
+    "annotationB": "NADH dehydrogenase [ubiquinone] 1 subunit C2; Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 116,
+            "end_residue_number": 120,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 151,
+            "end_residue_number": 171,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 26,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 75,
+            "end_residue_number": 75,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "116-120",
+        "151-171"
+    ],
+    "interfaceB": [
+        "26-46",
+        "75-75"
+    ]
+}

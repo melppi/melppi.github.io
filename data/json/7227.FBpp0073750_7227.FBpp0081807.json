@@ -1,0 +1,16 @@
+{
+    "pae": 15.1,
+    "iptm": 19.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0073750",
+    "proB": "FBpp0081807",
+    "geneA": "nmdyn-D6",
+    "geneB": "Adk3",
+    "annotationA": "ATP binding; nucleoside diphosphate kinase activity. It is involved in the biological process described with: nucleoside diphosphate phosphorylation; CTP biosynthetic process; UTP biosynthetic process; GTP biosynthetic process",
+    "annotationB": "GTP:AMP phosphotransferase, mitochondrial; Involved in maintaining the homeostasis of cellular nucleotides by catalyzing the interconversion of nucleoside phosphates. Has GTP:AMP phosphotransferase and ITP:AMP phosphotransferase activities",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

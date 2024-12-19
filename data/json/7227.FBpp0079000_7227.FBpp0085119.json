@@ -1,0 +1,48 @@
+{
+    "pae": 13.8,
+    "iptm": 20.3,
+    "pdockq": 0.029,
+    "proA": "FBpp0079000",
+    "proB": "FBpp0085119",
+    "geneA": "CG13773",
+    "geneB": "CG1542",
+    "annotationA": "annotation not available",
+    "annotationB": "Probable rRNA-processing protein EBP2 homolog; Required for the processing of the 27S pre-rRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 86,
+            "end_residue_number": 88,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 69,
+            "end_residue_number": 71,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "86-88"
+    ],
+    "interfaceB": [
+        "69-71"
+    ]
+}

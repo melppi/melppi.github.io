@@ -1,0 +1,62 @@
+{
+    "pae": 9.6,
+    "iptm": 45.7,
+    "pdockq": 0.038,
+    "proA": "FBpp0078448",
+    "proB": "FBpp0088021",
+    "geneA": "Prosbeta7",
+    "geneB": "Rpt1",
+    "annotationA": "Proteasome subunit beta type-4; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity); Belongs to the peptidase T1B family",
+    "annotationB": "26S proteasome regulatory complex subunit p48B; Regulatory particle triple-A ATPase 1 is an AAA-type ATPase protein that forms part of the heterohexameric ATPase ring of the regulatory complex of the 26S proteasome",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 121,
+            "end_residue_number": 127,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 40,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 48,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "121-127"
+    ],
+    "interfaceB": [
+        "40-44",
+        "48-48"
+    ]
+}

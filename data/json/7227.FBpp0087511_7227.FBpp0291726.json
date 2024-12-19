@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 11.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0087511",
+    "proB": "FBpp0291726",
+    "geneA": "RpLP0-like",
+    "geneB": "RpL37A",
+    "annotationA": "Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes",
+    "annotationB": "60S ribosomal protein L37a; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL43 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

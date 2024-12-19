@@ -1,0 +1,16 @@
+{
+    "pae": 21.0,
+    "iptm": 12.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0074800",
+    "proB": "FBpp0288673",
+    "geneA": "CG10424",
+    "geneB": "CG2974",
+    "annotationA": "ATP-dependent (S)-NAD(P)H-hydrate dehydratase; Catalyzes the dehydration of the S-form of NAD(P)HX at the expense of ATP, which is converted to ADP. Together with NAD(P)HX epimerase, which catalyzes the epimerization of the S- and R-forms, the enzyme allows the repair of both epimers of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration; Belongs to the NnrD/CARKD family",
+    "annotationB": "NAD(P)H-hydrate epimerase; Catalyzes the epimerization of the S- and R-forms of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration. This is a prerequisite for the S- specific NAD(P)H-hydrate dehydratase to allow the repair of both epimers of NAD(P)HX; Belongs to the NnrE/AIBP family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

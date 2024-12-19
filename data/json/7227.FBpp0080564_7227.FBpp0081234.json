@@ -1,0 +1,16 @@
+{
+    "pae": 17.7,
+    "iptm": 9.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0080564",
+    "proB": "FBpp0081234",
+    "geneA": "Rpb11",
+    "geneB": "SmD2",
+    "annotationA": "DNA-directed RNA polymerase II subunit RPB11; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Component of RNA polymerase II which synthesizes mRNA precursors and many functional non-coding RNAs. Pol II is the central component of the basal RNA polymerase II transcription machinery. It is composed of mobile elements that move relative to each other. RPB11 is part of the core element with the central large cleft (By similarity)",
+    "annotationB": "Small ribonucleoprotein particle protein SmD2 (SmD2) is an RNA binding protein that forms a heterodimeric sub-complex with SmD1. They function as part of the heteroheptameric ring complex Sm core, which is involved in the formation of spliceosomal small nuclear RNPs (U1, U2, U4 and U5), which together catalyze pre-mRNA splicing",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

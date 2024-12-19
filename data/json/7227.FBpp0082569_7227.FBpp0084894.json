@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0082569",
+    "proB": "FBpp0084894",
+    "geneA": "Atg4b",
+    "geneB": "Atg16",
+    "annotationA": "Cysteine protease; Cysteine protease required for the cytoplasm to vacuole transport (Cvt) and autophagy",
+    "annotationB": "Autophagy-related 16, isoform C; Atg8 ligase activity. It is involved in the biological process described with: regulation of autophagy; macroautophagy; autophagy; larval midgut cell programmed cell death",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

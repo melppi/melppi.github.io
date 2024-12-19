@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 22.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0071222",
+    "proB": "FBpp0084831",
+    "geneA": "APC4",
+    "geneB": "Bub3",
+    "annotationA": "Anaphase promoting complex subunit 4, isoform A; Ubiquitin-protein transferase activity. It is involved in the biological process described with: regulation of mitotic metaphase/anaphase transition; anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process",
+    "annotationB": "Bub3, isoform A; Bub3 functions in the \"spindle assembly checkpoint (SAC)\" pathway. This mitotic checkpoint pathway inhibits the APC/C complex and hence the transition from metaphase to anaphase, as long as there are free kinetochores that are not yet attached to the mitotic spindle in the cell. Bub3 is localized at the kinetochore during mitosis with maximal levels observed at free kinetochores. Together with other SAC proteins it forms mitotic checkpoint complexes that bind and inhibit the APC/C",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

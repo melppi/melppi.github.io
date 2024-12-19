@@ -1,0 +1,48 @@
+{
+    "pae": 11.8,
+    "iptm": 17.3,
+    "pdockq": 0.027,
+    "proA": "FBpp0077157",
+    "proB": "FBpp0079837",
+    "geneA": "CG2955",
+    "geneB": "CG4983",
+    "annotationA": "GH14206p; Microtubule binding; structural constituent of cytoskeleton",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 526,
+            "end_residue_number": 537,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 319,
+            "end_residue_number": 326,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "526-537"
+    ],
+    "interfaceB": [
+        "319-326"
+    ]
+}

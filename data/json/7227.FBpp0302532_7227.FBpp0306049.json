@@ -1,0 +1,16 @@
+{
+    "pae": 26.1,
+    "iptm": 13.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0302532",
+    "proB": "FBpp0306049",
+    "geneA": "Ada2a",
+    "geneB": "MRG15",
+    "annotationA": "Transcriptional adapter 2A; GCN5-independent Rpb4 complexes are highly enriched in decondensed chromosome puffs so may play a role in RNA polymerase II-dependent transcription",
+    "annotationB": "NuA4 complex subunit EAF3 homolog; Part of the Tip60 chromatin-remodeling complex which is involved in DNA repair. Upon induction of DNA double-strand breaks, this complex acetylates phosphorylated H2AV in nucleosomes and exchanges it with unmodified H2AV",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

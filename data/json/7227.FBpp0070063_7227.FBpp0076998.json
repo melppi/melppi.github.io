@@ -1,0 +1,16 @@
+{
+    "pae": 24.1,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070063",
+    "proB": "FBpp0076998",
+    "geneA": "cin",
+    "geneB": "mal",
+    "annotationA": "Molybdenum cofactor synthesis protein cinnamon; Catalyzes two steps in the biosynthesis of the molybdenum cofactor. In the first step, molybdopterin is adenylated. Subsequently, molybdate is inserted into adenylated molybdopterin and AMP is released; In the N-terminal section; belongs to the MoaB/Mog family",
+    "annotationB": "Molybdenum cofactor sulfurase; Sulfurates the molybdenum cofactor. Sulfation of molybdenum is essential for xanthine dehydrogenase (XDH) and aldehyde oxidase (ADO) enzymes in which molybdenum cofactor is liganded by 1 oxygen and 1 sulfur atom in active form",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

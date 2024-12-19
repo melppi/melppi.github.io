@@ -1,0 +1,48 @@
+{
+    "pae": 17.3,
+    "iptm": 16.2,
+    "pdockq": 0.028,
+    "proA": "FBpp0086705",
+    "proB": "FBpp0088441",
+    "geneA": "Tango7",
+    "geneB": "RpS7",
+    "annotationA": "Eukaryotic translation initiation factor 3 subunit M; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation (Potential)",
+    "annotationB": "Ribosomal protein S7; Belongs to the eukaryotic ribosomal protein eS7 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 352,
+            "end_residue_number": 362,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 224,
+            "end_residue_number": 227,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "352-362"
+    ],
+    "interfaceB": [
+        "224-227"
+    ]
+}

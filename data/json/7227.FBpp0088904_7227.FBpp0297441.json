@@ -1,0 +1,90 @@
+{
+    "pae": 12.2,
+    "iptm": 18.5,
+    "pdockq": 0.299,
+    "proA": "FBpp0088904",
+    "proB": "FBpp0297441",
+    "geneA": "Tm1",
+    "geneB": "Cortactin",
+    "annotationA": "Tropomyosin, in association with the troponin complex, plays a central role in the calcium dependent regulation of muscle contraction",
+    "annotationB": "Cortactin, isoform A; Proline-rich region binding. It is involved in the biological process described with: border follicle cell migration; regulation of cell shape; female germline ring canal formation; cytoskeleton organization; positive regulation of receptor-mediated endocytosis",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 1,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 481,
+            "end_residue_number": 506,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 510,
+            "end_residue_number": 531,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 19,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 50,
+            "end_residue_number": 71,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "1-16",
+        "481-506",
+        "510-531"
+    ],
+    "interfaceB": [
+        "19-44",
+        "50-71"
+    ]
+}

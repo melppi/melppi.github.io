@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0075946",
+    "proB": "FBpp0079234",
+    "geneA": "Alg10",
+    "geneB": "wol",
+    "annotationA": "Putative Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase; Adds the third glucose residue to the lipid-linked oligosaccharide precursor for N-linked glycosylation. Transfers glucose from dolichyl phosphate glucose (Dol-P-Glc) onto the lipid-linked oligosaccharide Glc(2)Man(9)GlcNAc(2)-PP-Dol (By similarity); Belongs to the ALG10 glucosyltransferase family",
+    "annotationB": "Dolichyl-phosphate beta-glucosyltransferase; Required for normal production of N-glycosylated proteins in the endoplasmic reticulum (ER). Required for embryonic segmentation, dorsal-ventral patterning and gastrulation. Required for chitin orientation and shaping of the apical and lateral plasma membranes of epidermal cells during cuticle differentiation. Also required for correctly shaping apical membrane topology of the epithelia of other organs such as the midgut and the hindgut",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

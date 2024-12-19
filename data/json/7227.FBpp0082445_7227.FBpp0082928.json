@@ -1,0 +1,90 @@
+{
+    "pae": 7.8,
+    "iptm": 36.3,
+    "pdockq": 0.154,
+    "proA": "FBpp0082445",
+    "proB": "FBpp0082928",
+    "geneA": "CG8461",
+    "geneB": "l(3)07882",
+    "annotationA": "LD29276p; It is involved in the biological process described with: neurogenesis",
+    "annotationB": "Nucleolar protein 14 homolog; Involved in nucleolar processing of pre-18S ribosomal RNA. Has a role in the nuclear export of 40S pre-ribosomal subunit to the cytoplasm (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 189,
+            "end_residue_number": 189,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 194,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 203,
+            "end_residue_number": 217,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 222,
+            "end_residue_number": 230,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 200,
+            "end_residue_number": 233,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "189-189",
+        "194-199",
+        "203-217",
+        "222-230"
+    ],
+    "interfaceB": [
+        "200-233"
+    ]
+}

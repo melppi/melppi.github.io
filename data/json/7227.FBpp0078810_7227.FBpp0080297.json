@@ -1,0 +1,48 @@
+{
+    "pae": 14.5,
+    "iptm": 26.3,
+    "pdockq": 0.024,
+    "proA": "FBpp0078810",
+    "proB": "FBpp0080297",
+    "geneA": "ifc",
+    "geneB": "lace",
+    "annotationA": "Sphingolipid delta-4 desaturase activity; stearoyl-CoA 9-desaturase activity. It is involved in the biological process described with: spermatogenesis; sphingolipid biosynthetic process; spindle assembly involved in male meiosis",
+    "annotationB": "Lace, isoform A; Pyridoxal phosphate binding; serine C-palmitoyltransferase activity. It is involved in the biological process described with: imaginal disc development; sphingolipid biosynthetic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 172,
+            "end_residue_number": 172,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 131,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "172-172"
+    ],
+    "interfaceB": [
+        "131-131"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "pae": 7.7,
+    "iptm": 42.8,
+    "pdockq": 0.215,
+    "proA": "FBpp0080860",
+    "proB": "FBpp0082392",
+    "geneA": "lok",
+    "geneB": "spn-B",
+    "annotationA": "Ovarian-specific serine/threonine-protein kinase Lok; May have a role in germline establishment; Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CDS1 subfamily",
+    "annotationB": "Spindle B is a member of the recA family. It is involved in double strand break repair in mitosis and meiosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 18,
+            "end_residue_number": 23,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 143,
+            "end_residue_number": 146,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 152,
+            "end_residue_number": 157,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 174,
+            "end_residue_number": 182,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 193,
+            "end_residue_number": 205,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "18-23"
+    ],
+    "interfaceB": [
+        "143-146",
+        "152-157",
+        "174-182",
+        "193-205"
+    ]
+}

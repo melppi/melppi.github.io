@@ -1,0 +1,48 @@
+{
+    "pae": 15.8,
+    "iptm": 30.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0082328",
+    "proB": "FBpp0288937",
+    "geneA": "Ipp",
+    "geneB": "5PtaseI",
+    "annotationA": "Inositol-1,4-bisphosphate 1-phosphatase activity. It is involved in the biological process described with: inositol phosphate dephosphorylation; phosphatidylinositol phosphorylation; synaptic transmission",
+    "annotationB": "5PtaseI, isoform F; Inositol-polyphosphate 5-phosphatase activity; inositol trisphosphate phosphatase activity. It is involved in the biological process described with: inositol phosphate dephosphorylation; dephosphorylation; phosphatidylinositol dephosphorylation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 175,
+            "end_residue_number": 175,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 520,
+            "end_residue_number": 520,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "175-175"
+    ],
+    "interfaceB": [
+        "520-520"
+    ]
+}

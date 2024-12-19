@@ -1,0 +1,16 @@
+{
+    "pae": 17.5,
+    "iptm": 21.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0088692",
+    "proB": "FBpp0300826",
+    "geneA": "Hrs",
+    "geneB": "Vps20",
+    "annotationA": "Hepatocyte growth factor-regulated tyrosine kinase substrate; Essential role in endosome membrane invagination and formation of multivesicular bodies, MVBs. Required during gastrulation and appears to regulate early embryonic signaling pathways. Inhibits tyrosine kinase receptor signaling by promoting degradation of the tyrosine-phosphorylated, active receptor, potentially by sorting activated receptors into MVBs. The MVBs are then trafficked to the lysosome where their contents are degraded",
+    "annotationB": "Vacuolar protein sorting 20 (Vps20) is a member of the ESCRT-III complex, which sorts certain endocytosed receptors for degradation via the multivesicular body. As part of this complex, Vps20 is also involved in abscission following cytokinesis; Belongs to the SNF7 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

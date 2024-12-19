@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 14.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0072061",
+    "proB": "FBpp0304594",
+    "geneA": "or",
+    "geneB": "cm",
+    "annotationA": "Adaptor protein complex AP-3 small chain sigma3; Protein transporter activity. It is involved in the biological process described with: lysosome organization; ommochrome biosynthetic process; eye pigment biosynthetic process; vesicle coating; synaptic vesicle coating; compound eye pigmentation; vesicle-mediated transport; intracellular transport; intracellular protein transport; neurotransmitter secretion",
+    "annotationB": "Mu3 subunit of clathrin-associated protein complex AP-3; Protein transporter activity; Belongs to the adaptor complexes medium subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

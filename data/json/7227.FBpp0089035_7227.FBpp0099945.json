@@ -1,0 +1,16 @@
+{
+    "pae": 20.3,
+    "iptm": 19.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0089035",
+    "proB": "FBpp0099945",
+    "geneA": "arm",
+    "geneB": "hh",
+    "annotationA": "Armadillo segment polarity protein; Isoform neural may associate with CadN and participate in the transmission of developmental information. Can associate with alpha-catenin. Isoform cytoplasmic accumulates through wg signaling; arm function in wg signal transduction is required early in development for determination of neuroblast fate. Arm and Abl proteins function cooperatively at adherens junctions in both the CNS and epidermis; Belongs to the beta-catenin family",
+    "annotationB": "Protein hedgehog; Intercellular signal essential for a variety of patterning events during development. Establishes the anterior- posterior axis of the embryonic segments and patterns the larval imaginal disks. Binds to the patched (ptc) receptor, which functions in association with smoothened (smo), to activate the transcription of target genes wingless (wg), decapentaplegic (dpp) and ptc. In the absence of hh, ptc represses the constitutive signaling activity of smo through fused (fu). Essential component of a signaling pathway which regulates the Duox-dependent gut immune response t [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,76 @@
+{
+    "pae": 8.2,
+    "iptm": 27.2,
+    "pdockq": 0.219,
+    "proA": "FBpp0070242",
+    "proB": "FBpp0078754",
+    "geneA": "eIF4E-7",
+    "geneB": "Hel25E",
+    "annotationA": "Protein binding; RNA 7-methylguanosine cap binding; eukaryotic initiation factor 4G binding; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation",
+    "annotationB": "ATP-dependent RNA helicase WM6; Required for mRNA export out of the nucleus. Probable RNA helicase that may regulate entry into mitosis by down- regulating the expression of other genes whose activity may be rate-limiting for entry into mitosis during embryogenesis. Binds to salivary gland chromosomes and modifies position effect variegation. Promotes an open chromatin structure that favors transcription during development by regulating the spread of heterochromatin",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 32,
+            "end_residue_number": 39,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 263,
+            "end_residue_number": 267,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 388,
+            "end_residue_number": 402,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 406,
+            "end_residue_number": 410,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "32-39"
+    ],
+    "interfaceB": [
+        "263-267",
+        "388-402",
+        "406-410"
+    ]
+}

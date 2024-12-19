@@ -1,0 +1,118 @@
+{
+    "pae": 3.9,
+    "iptm": 59.5,
+    "pdockq": 0.375,
+    "proA": "FBpp0084626",
+    "proB": "FBpp0303792",
+    "geneA": "CG4849",
+    "geneB": "snRNP70K",
+    "annotationA": "LD28793p; GTPase activity; translation elongation factor activity; GTP binding. It is involved in the biological process described with: translational elongation; positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; mRNA splicing, via spliceosome",
+    "annotationB": "U1 small nuclear ribonucleoprotein 70 kDa; Mediates the splicing of pre-mRNA by binding to the stem loop I region of U1-snRNA",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 101,
+            "end_residue_number": 101,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 109,
+            "end_residue_number": 111,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 117,
+            "end_residue_number": 126,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 505,
+            "end_residue_number": 505,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 532,
+            "end_residue_number": 534,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 541,
+            "end_residue_number": 546,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 48,
+            "end_residue_number": 65,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "101-101",
+        "109-111",
+        "117-126",
+        "505-505",
+        "532-534",
+        "541-546"
+    ],
+    "interfaceB": [
+        "48-65"
+    ]
+}

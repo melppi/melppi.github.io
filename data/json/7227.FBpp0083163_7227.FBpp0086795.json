@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 14.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0083163",
+    "proB": "FBpp0086795",
+    "geneA": "CG11779",
+    "geneB": "Roe1",
+    "annotationA": "Mitochondrial import inner membrane translocase subunit TIM44; Essential component of the PAM complex, a complex required for the translocation of transit peptide-containing proteins from the inner membrane into the mitochondrial matrix in an ATP-dependent manner",
+    "annotationB": "GrpE protein homolog, mitochondrial; Essential component of the PAM complex, a complex required for the translocation of transit peptide-containing proteins from the inner membrane into the mitochondrial matrix in an ATP-dependent manner. Seems to control the nucleotide-dependent binding of mitochondrial HSP70 to substrate proteins (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

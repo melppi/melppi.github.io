@@ -1,0 +1,132 @@
+{
+    "pae": 5.3,
+    "iptm": 57.7,
+    "pdockq": 0.47,
+    "proA": "FBpp0289893",
+    "proB": "FBpp0304097",
+    "geneA": "CG12173",
+    "geneB": "CG11134",
+    "annotationA": "Enolase-phosphatase E1; Bifunctional enzyme that catalyzes the enolization of 2,3-diketo-5-methylthiopentyl-1-phosphate (DK-MTP-1-P) into the intermediate 2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate (HK-MTPenyl-1-P), which is then dephosphorylated to form the acireductone 1,2-dihydroxy-3-keto-5-methylthiopentene (DHK- MTPene)",
+    "annotationB": "Probable methylthioribulose-1-phosphate dehydratase; Catalyzes the dehydration of methylthioribulose-1- phosphate (MTRu-1-P) into 2,3-diketo-5-methylthiopentyl-1- phosphate (DK-MTP-1-P)",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 175,
+            "end_residue_number": 179,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 203,
+            "end_residue_number": 211,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 225,
+            "end_residue_number": 235,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 9,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 13,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 42,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 65,
+            "end_residue_number": 65,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 71,
+            "end_residue_number": 80,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "175-179",
+        "203-211",
+        "225-235"
+    ],
+    "interfaceB": [
+        "1-9",
+        "13-15",
+        "42-47",
+        "65-65",
+        "71-80"
+    ]
+}

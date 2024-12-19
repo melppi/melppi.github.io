@@ -1,0 +1,16 @@
+{
+    "pae": 26.1,
+    "iptm": 14.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0072144",
+    "proB": "FBpp0081822",
+    "geneA": "eIF6",
+    "geneB": "RpL3",
+    "annotationA": "Eukaryotic translation initiation factor 6; Binds to the 60S ribosomal subunit and prevents its association with the 40S ribosomal subunit to form the 80S initiation complex in the cytoplasm. May also be involved in ribosome biogenesis",
+    "annotationB": "60S ribosomal protein L3; The L3 protein is a component of the large subunit of cytoplasmic ribosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

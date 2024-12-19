@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0070723",
+    "proB": "FBpp0078433",
+    "geneA": "Cdk7",
+    "geneB": "RpII18",
+    "annotationA": "Cyclin-dependent kinase 7 (Cdk) is a serine/threonine protein kinase whose activity depends on the regulatory CycH and Mat1 subunits. This trimeric Cdk complex activates other Cdks by phosphorylation in their T-loop and is called Cdk activating kinase (CAK). CAK can also be part of TFIIH, where Cdk7 phosphorylates different transcription substrates (e.g. CTD of Pol II)",
+    "annotationB": "DNA-directed RNA polymerases I, II, and III subunit RPABC2; DNA-dependent RNA polymerases catalyze the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I, II and III which synthesize ribosomal RNA precursors, mRNA precursors and many functional non-coding RNAs, and small RNAs, such as 5S rRNA and tRNAs, respectively. Pol II is the central component of the basal RNA polymerase II transcription machinery. Pols are composed of mobile elements that move relative to each other. In Pol II, RPB6 is part of the clamp e [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

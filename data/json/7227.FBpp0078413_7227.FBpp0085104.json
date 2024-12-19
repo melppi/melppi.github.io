@@ -1,0 +1,48 @@
+{
+    "pae": 15.9,
+    "iptm": 24.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0078413",
+    "proB": "FBpp0085104",
+    "geneA": "ksr",
+    "geneB": "dco",
+    "annotationA": "Kinase suppressor of ras, isoform A; Protein kinase activity; ATP binding; diacylglycerol binding; protein serine/threonine kinase activity. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; protein phosphorylation; tracheal outgrowth, open tracheal system; positive regulation of ERK1 and ERK2 cascade; imaginal disc-derived wing morphogenesis; torso signaling pathway; anterior/posterior axis specification, embryo; Ras protein signal transduction; signal transduction",
+    "annotationB": "Discs overgrown protein kinase; Involved in circadian rhythms, viability and molecular oscillations of the clock genes period (per) and timeless (tim). Dbt reduces the stability and thus the accumulation of monomeric per proteins, probably through phosphorylation. No evident circadian oscillation is detected in head. Together with CkIalpha, regulates processing of ci by phosphorylating it which promotes its binding to slmb, the F-box recognition component of the SCF(slmb) E3 ubiquitin-protein ligase; Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein k [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 634,
+            "end_residue_number": 634,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 225,
+            "end_residue_number": 225,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "634-634"
+    ],
+    "interfaceB": [
+        "225-225"
+    ]
+}

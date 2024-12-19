@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 12.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0071816",
+    "proB": "FBpp0075139",
+    "geneA": "Gmer",
+    "geneB": "CG4933",
+    "annotationA": "Probable GDP-L-fucose synthase; Catalyzes the two-step NADP-dependent conversion of GDP- 4-dehydro-6-deoxy-D-mannose to GDP-fucose, involving an epimerase and a reductase reaction; Belongs to the NAD(P)-dependent epimerase/dehydratase family. Fucose synthase subfamily",
+    "annotationB": "Probable tRNA N6-adenosine threonylcarbamoyltransferase; Component of the EKC/KEOPS complex that is required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine. The complex is probably involved in the transfer of the threonylcarbamoyl moiety of threonylcarbamoyl-AMP (TC-AMP) to the N6 group of A37. Likely plays a direct catalytic role in this reaction, but requires other protein(s) of the complex to fulfill this activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

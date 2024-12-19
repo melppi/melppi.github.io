@@ -1,0 +1,16 @@
+{
+    "pae": 16.5,
+    "iptm": 25.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0080490",
+    "proB": "FBpp0083687",
+    "geneA": "Prosbeta4",
+    "geneB": "Rpn7",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; cellular process; multicellular organism reproduction; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 6; Acts as a regulatory subunit of the 26S proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

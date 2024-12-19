@@ -1,0 +1,16 @@
+{
+    "pae": 17.2,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0083918",
+    "proB": "FBpp0084036",
+    "geneA": "spas",
+    "geneB": "atl",
+    "annotationA": "Spastin; ATP-dependent microtubule severing protein. Stimulates microtubule minus-end depolymerization and poleward microtubule flux in the mitotic spindle. Regulates microtubule stability in the neuromuscular junction synapse. Involved in lipid metabolism by regulating the size and distribution of lipid droplets. Involved in axon regeneration by regulating microtubule severing; Belongs to the AAA ATPase family. Spastin subfamily",
+    "annotationB": "Atlastin; GTPase tethering membranes through formation of trans- homooligomers and mediating homotypic fusion of endoplasmic reticulum membranes. Functions in endoplasmic reticulum tubular network biogenesis. May also regulate microtubule polymerization and Golgi biogenesis. Required for dopaminergic neurons survival and the growth of muscles and synapses at neuromuscular junctions",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

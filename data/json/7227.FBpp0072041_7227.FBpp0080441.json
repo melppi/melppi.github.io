@@ -1,0 +1,16 @@
+{
+    "pae": 16.7,
+    "iptm": 25.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072041",
+    "proB": "FBpp0080441",
+    "geneA": "DNA-ligI",
+    "geneB": "grp",
+    "annotationA": "DNA ligase 1; DNA ligase that seals nicks in double-stranded DNA during DNA replication, DNA recombination and DNA repair",
+    "annotationB": "Serine/threonine-protein kinase grp; Serine/threonine-protein kinase which is required for checkpoint-mediated cell cycle arrest and activation of DNA repair in response to the presence of DNA damage or unreplicated DNA. May also negatively regulate cell cycle progression during unperturbed cell cycles. May phosphorylate the CDC25 phosphatase stg, which promotes its degradation. This results in increased inhibitory tyrosine phosphorylation of Cdk1-cyclin complexes and consequent inhibition of cell cycle progression",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 9.8,
+    "iptm": 17.4,
+    "pdockq": 0.063,
+    "proA": "FBpp0088975",
+    "proB": "FBpp0301787",
+    "geneA": "Dup99B",
+    "geneB": "Acp98AB",
+    "annotationA": "Ductus ejaculatorius peptide 99B; Induces post-mating responses; increased oviposition and reduced receptivity",
+    "annotationB": "Responsible for physiological and behavioral changes in mated female flies",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 5,
+            "end_residue_number": 28,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 3,
+            "end_residue_number": 23,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "5-28"
+    ],
+    "interfaceB": [
+        "3-23"
+    ]
+}

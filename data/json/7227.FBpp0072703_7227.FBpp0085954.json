@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0072703",
+    "proB": "FBpp0085954",
+    "geneA": "CG13926",
+    "geneB": "Nup75",
+    "annotationA": "Belongs to the OPI10 family",
+    "annotationB": "Nuclear pore complex protein Nup75; Component of the nuclear pore complex (NPC) that seems to be required for NPC assembly and maintenance (By similarity). Required for nuclear import of phosphorylated Mad via importin msk. Has no role in classical nuclear localization signal (cNLS)-dependent nuclear import via importin-beta. Facilitates the interaction between Nup93 and sec13 with msk",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

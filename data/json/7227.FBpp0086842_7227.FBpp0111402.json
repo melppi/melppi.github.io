@@ -1,0 +1,48 @@
+{
+    "pae": 13.7,
+    "iptm": 22.6,
+    "pdockq": 0.028,
+    "proA": "FBpp0086842",
+    "proB": "FBpp0111402",
+    "geneA": "Spt-I",
+    "geneB": "CG34293",
+    "annotationA": "Pyridoxal phosphate binding; serine C-palmitoyltransferase activity. It is involved in the biological process described with: biosynthetic process",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 24,
+            "end_residue_number": 28,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 43,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "24-28"
+    ],
+    "interfaceB": [
+        "43-47"
+    ]
+}

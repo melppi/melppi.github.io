@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 35.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0087583",
+    "proB": "FBpp0304449",
+    "geneA": "Uba1",
+    "geneB": "UbcE2M",
+    "annotationA": "ATP binding; ubiquitin activating enzyme activity. It is involved in the biological process described with: cell proliferation; neuron remodeling; regulation of programmed cell death; regulation of Ras protein signal transduction; regulation of growth; autophagy; mushroom body development; larval midgut cell programmed cell death; protein ubiquitination; lipid storage; Belongs to the ubiquitin-activating E1 family",
+    "annotationB": "Nedd8-conjugating enzyme Ubc12; Accepts the ubiquitin-like protein Nedd8 from the Uba3- APP-BP1 E1 complex and catalyzes its covalent attachment to other proteins. Required for Cul1 and Cul3 neddylation. Negatively regulates full-length ci stability and hedgehog signaling; Belongs to the ubiquitin-conjugating enzyme family. UBC12 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

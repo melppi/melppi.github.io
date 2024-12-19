@@ -1,0 +1,104 @@
+{
+    "pae": 7.3,
+    "iptm": 22.8,
+    "pdockq": 0.055,
+    "proA": "FBpp0074686",
+    "proB": "FBpp0078059",
+    "geneA": "Su(z)12",
+    "geneB": "Pc",
+    "annotationA": "Polycomb protein Su(z)12; Polycomb group (PcG) protein. While PcG proteins are generally required to maintain the transcriptionally repressive state of homeotic genes throughout development, this protein is specifically required during the first 6 hours of embryogenesis to establish the repressed state. Component of the Esc/E(z) complex, which methylates 'Lys-9' (H3K9me) and 'Lys-27' (H3K27me) of histone H3, leading to transcriptional repression of the affected target gene. The Esc/E(z) complex is necessary but not sufficient for the repression of homeotic target genes, suggesting that [...] ",
+    "annotationB": "Polycomb group protein Pc; Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. Component of the PcG multiprotein PRC1 complex, a complex that acts via chromatin remodeling and modification of histones; it mediates monoubiquitination of histone H2A 'Lys-118', rendering chromatin heritably changed in its expressibility. Promotes locus-specif [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 594,
+            "end_residue_number": 594,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 625,
+            "end_residue_number": 629,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 634,
+            "end_residue_number": 639,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 337,
+            "end_residue_number": 337,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 341,
+            "end_residue_number": 344,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 353,
+            "end_residue_number": 353,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "594-594",
+        "625-629",
+        "634-639"
+    ],
+    "interfaceB": [
+        "337-337",
+        "341-344",
+        "353-353"
+    ]
+}

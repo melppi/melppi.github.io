@@ -1,0 +1,16 @@
+{
+    "pae": 24.4,
+    "iptm": 5.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071518",
+    "proB": "FBpp0292847",
+    "geneA": "RpL29",
+    "geneB": "ATPsynE",
+    "annotationA": "60S ribosomal protein L29; Structural constituent of ribosome; chromatin binding. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eL29 family",
+    "annotationB": "ATP synthase, subunit E, isoform A; Hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

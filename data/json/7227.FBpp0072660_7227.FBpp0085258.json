@@ -1,0 +1,90 @@
+{
+    "pae": 11.2,
+    "iptm": 18.0,
+    "pdockq": 0.093,
+    "proA": "FBpp0072660",
+    "proB": "FBpp0085258",
+    "geneA": "Cdc37",
+    "geneB": "CG1416",
+    "annotationA": "Hsp90 co-chaperone Cdc37; Co-chaperone that binds to numerous kinases and promotes their interaction with the Hsp90 complex, resulting in stabilization and promotion of their activity. Required for cytokinesis and chromosome segregation in mitosis and male meiosis; Belongs to the CDC37 family",
+    "annotationB": "CG1416, isoform A; Chaperone binding; ATPase activator activity. It is involved in the biological process described with: response to stress",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 285,
+            "end_residue_number": 285,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 290,
+            "end_residue_number": 290,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 304,
+            "end_residue_number": 313,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 335,
+            "end_residue_number": 343,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 8,
+            "end_residue_number": 13,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "285-285",
+        "290-290",
+        "304-313",
+        "335-343"
+    ],
+    "interfaceB": [
+        "8-13"
+    ]
+}

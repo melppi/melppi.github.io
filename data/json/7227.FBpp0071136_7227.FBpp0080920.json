@@ -1,0 +1,16 @@
+{
+    "pae": 24.4,
+    "iptm": 15.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0071136",
+    "proB": "FBpp0080920",
+    "geneA": "Traf6",
+    "geneB": "ik2",
+    "annotationA": "Tumor necrosis factor receptor-associated factor 6 belongs to a family of adaptor proteins involved in transducing downstream signaling by interacting with cell surface receptors. It mediates the pro-inflammatory effects of Toll and related receptor signaling, and the egr-induced JNK activation that induces cell death",
+    "annotationB": "I-kappaB kinase epsilon (IKKepsilon) is a serine-threonine kinase that targets the inhibitor of apoptosis Diap1 for degradation. It also negatively regulates protein kinase C and the dynein adaptor nuf. IKKepsilon roles include specification of bristle cells, bristle cell morphogenesis, oocyte polarity, and dendrite development",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

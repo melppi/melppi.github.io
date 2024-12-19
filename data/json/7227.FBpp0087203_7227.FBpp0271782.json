@@ -1,0 +1,48 @@
+{
+    "pae": 3.3,
+    "iptm": 44.5,
+    "pdockq": 0.656,
+    "proA": "FBpp0087203",
+    "proB": "FBpp0271782",
+    "geneA": "Syx6",
+    "geneB": "Syb",
+    "annotationA": "Syntaxin 6, isoform E; SNAP receptor activity. It is involved in the biological process described with: vesicle-mediated transport; synaptic vesicle docking involved in exocytosis; Golgi vesicle transport; neurotransmitter secretion",
+    "annotationB": "Synaptobrevin; Unknown, but synaptobrevins are presumed to be involved in targeting and fusion of synaptic vesicles with the presynaptic membrane as well as in neurotransmitter release",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 243,
+            "end_residue_number": 336,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 37,
+            "end_residue_number": 129,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "243-336"
+    ],
+    "interfaceB": [
+        "37-129"
+    ]
+}

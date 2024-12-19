@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 13.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070719",
+    "proB": "FBpp0087340",
+    "geneA": "Sas10",
+    "geneB": "CG7686",
+    "annotationA": "Something about silencing protein 10; Essential for gene silencing: has a role in the structure of silenced chromatin. May be involved in gene regulation during development. Binds RNA; Belongs to the SAS10 family",
+    "annotationB": "Necessary for the biogenesis of 40S ribosome subunits by regulating pre-rRNA processing. Non-ribosomal factor required for efficient nuclear export of the ribosomal 40S subunit. Necessary for endoreplication driven by Myc",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

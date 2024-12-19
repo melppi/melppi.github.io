@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 18.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0074608",
+    "proB": "FBpp0305095",
+    "geneA": "polo",
+    "geneB": "Hsp83",
+    "annotationA": "Serine/threonine-protein kinase polo; May play a role in regulating both nuclear and cytoplasmic aspects of the mitotic cycle. Regulates localization of the augmin complex during mitosis by ensuring its location on mitotic spindles. Also regulates augmin complex localization during male meiosis by promoting its placement at kinetochores while preventing its association with spindle microtubules",
+    "annotationB": "Heat shock protein 83; Molecular chaperone that promotes the maturation, structural maintenance and proper regulation of specific target proteins involved for instance in cell cycle control and signal transduction. Undergoes a functional cycle that is linked to its ATPase activity. This cycle probably induces conformational changes in the client proteins, thereby causing their activation. Interacts dynamically with various co-chaperones that modulate its substrate recognition, ATPase cycle and chaperone function. Together with Hop and piwi, mediates canalization, also known as developm [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

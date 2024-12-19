@@ -1,0 +1,62 @@
+{
+    "pae": 7.6,
+    "iptm": 30.3,
+    "pdockq": 0.147,
+    "proA": "FBpp0071213",
+    "proB": "FBpp0086065",
+    "geneA": "Moe",
+    "geneB": "Sip1",
+    "annotationA": "Moesin/ezrin/radixin homolog 1; Involved in connections of major cytoskeletal structures to the plasma membrane. Together with wgn, involved in control of axon targeting of R8 and R2-R5 photoreceptors, independent of egr. In the nucleus, recruited to sites of active transcription by RNA polymerase II where it has a role in nuclear mRNA export together with the mRNA export factor PCID2 and other messenger ribonucleoprotein (mRNP) particles",
+    "annotationB": "GH04176p; It is involved in the biological process described with: olfactory behavior; imaginal disc-derived wing morphogenesis; actin cytoskeleton organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 21,
+            "end_residue_number": 23,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 32,
+            "end_residue_number": 56,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 140,
+            "end_residue_number": 154,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "21-23",
+        "32-56"
+    ],
+    "interfaceB": [
+        "140-154"
+    ]
+}

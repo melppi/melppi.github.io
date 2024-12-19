@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 31.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0074662",
+    "proB": "FBpp0086400",
+    "geneA": "Rpn1",
+    "geneB": "Prosbeta1",
+    "annotationA": "26S proteasome regulatory complex subunit p97; Enzyme regulator activity; endopeptidase activity. It is involved in the biological process described with: proteolysis; cell proliferation; mitotic spindle elongation; proteasome-mediated ubiquitin-dependent protein catabolic process; regulation of protein catabolic process; mitotic spindle organization",
+    "annotationB": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

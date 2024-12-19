@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 19.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0080490",
+    "proB": "FBpp0081957",
+    "geneA": "Prosbeta4",
+    "geneB": "aurA",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; cellular process; multicellular organism reproduction; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "annotationB": "Aurora A; Protein serine/threonine kinase activity; protein kinase activity; ATP binding; Belongs to the protein kinase superfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

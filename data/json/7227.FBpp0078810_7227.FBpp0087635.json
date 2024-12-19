@@ -1,0 +1,48 @@
+{
+    "pae": 14.4,
+    "iptm": 26.7,
+    "pdockq": 0.036,
+    "proA": "FBpp0078810",
+    "proB": "FBpp0087635",
+    "geneA": "ifc",
+    "geneB": "wun",
+    "annotationA": "Sphingolipid delta-4 desaturase activity; stearoyl-CoA 9-desaturase activity. It is involved in the biological process described with: spermatogenesis; sphingolipid biosynthetic process; spindle assembly involved in male meiosis",
+    "annotationB": "Putative phosphatidate phosphatase; Wunen is a lipid phosphate phosphatase with 6 transmembrane domains and an active site that is predicted to face extracellularly. It is required for germ cell migration and survival, septate junction function in the tracheal system and for heart formation; Belongs to the PA-phosphatase related phosphoesterase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 285,
+            "end_residue_number": 291,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 19,
+            "end_residue_number": 21,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "285-291"
+    ],
+    "interfaceB": [
+        "19-21"
+    ]
+}

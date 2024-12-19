@@ -1,0 +1,90 @@
+{
+    "pae": 0.9,
+    "iptm": 63.8,
+    "pdockq": 0.718,
+    "proA": "FBpp0071583",
+    "proB": "FBpp0080256",
+    "geneA": "NC2alpha",
+    "geneB": "NC2beta",
+    "annotationA": "Negative Cofactor 2alpha and 2beta form the negative cofactor 2 complex (NC2), which represses transcription from TATA box-dependent core promoters and activates transcription from DPE-dependent core promoters",
+    "annotationB": "Protein Dr1; Bifunctional basic transcription factor. Activates transcription of DPE (Downstream Promoter Element) containing promoters while repressing transcription of promoters which contain TATA elements; Belongs to the NC2 beta/DR1 family",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 7,
+            "end_residue_number": 58,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 62,
+            "end_residue_number": 74,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 79,
+            "end_residue_number": 90,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 14,
+            "end_residue_number": 66,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 71,
+            "end_residue_number": 108,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "7-58",
+        "62-74",
+        "79-90"
+    ],
+    "interfaceB": [
+        "14-66",
+        "71-108"
+    ]
+}

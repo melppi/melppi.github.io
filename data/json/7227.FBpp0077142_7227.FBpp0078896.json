@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 12.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0077142",
+    "proB": "FBpp0078896",
+    "geneA": "RpL27A",
+    "geneB": "Sec61alpha",
+    "annotationA": "60S ribosomal protein L27a; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization; Belongs to the universal ribosomal protein uL15 family",
+    "annotationB": "Sec61 alpha subunit is a subunit of the the translocon, a protein-conducting channel that mediates the co-translational transport of nascent polypeptides into the endoplasmic reticulum. Sec61 alpha is a subunit of the Sec61 heterotrimer that forms the core of translocon channel",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

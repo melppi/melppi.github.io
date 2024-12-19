@@ -1,0 +1,16 @@
+{
+    "pae": 20.9,
+    "iptm": 14.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078093",
+    "proB": "FBpp0085295",
+    "geneA": "CycH",
+    "geneB": "CycK",
+    "annotationA": "Cyclin H homolog; RNA polymerase II carboxy-terminal domain kinase activity; protein kinase binding; core RNA polymerase binding transcription factor activity; cyclin-dependent protein serine/threonine kinase activity; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; regulation of transcription, DNA-templated; regulation of cyclin-dependent protein serine/threonine kinase activity; transcription initiation from RNA polymerase II promoter",
+    "annotationB": "Protein kinase binding; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: regulation of transcription, DNA-templated; neurogenesis; regulation of cyclin-dependent protein serine/threonine kinase activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

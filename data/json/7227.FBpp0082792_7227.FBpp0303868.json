@@ -1,0 +1,48 @@
+{
+    "pae": 0.8,
+    "iptm": 86.6,
+    "pdockq": 0.681,
+    "proA": "FBpp0082792",
+    "proB": "FBpp0303868",
+    "geneA": "CG31275",
+    "geneB": "robl22E",
+    "annotationA": "Dynein light chain roadblock; ATPase activity, coupled. It is involved in the biological process described with: lateral inhibition; microtubule-based movement",
+    "annotationB": "Dynein light chain roadblock; ATPase activity, coupled. It is involved in the biological process described with: microtubule-based movement",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 46,
+            "end_residue_number": 87,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 39,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "46-87"
+    ],
+    "interfaceB": [
+        "39-77"
+    ]
+}

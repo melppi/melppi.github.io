@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 10.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0087511",
+    "proB": "FBpp0304268",
+    "geneA": "RpLP0-like",
+    "geneB": "Rpb5",
+    "annotationA": "Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes",
+    "annotationB": "Rpb5, isoform A; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

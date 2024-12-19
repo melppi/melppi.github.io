@@ -1,0 +1,16 @@
+{
+    "pae": 12.9,
+    "iptm": 19.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071970",
+    "proB": "FBpp0083857",
+    "geneA": "levy",
+    "geneB": "SdhD",
+    "annotationA": "Levy, isoform A; Enzyme regulator activity; cytochrome-c oxidase activity. It is involved in the biological process described with: determination of adult lifespan; mitochondrial electron transport, cytochrome c to oxygen",
+    "annotationB": "Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial; Membrane-anchoring subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q); Belongs to the CybS family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

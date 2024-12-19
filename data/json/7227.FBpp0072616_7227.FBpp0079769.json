@@ -1,0 +1,16 @@
+{
+    "pae": 15.9,
+    "iptm": 30.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0072616",
+    "proB": "FBpp0079769",
+    "geneA": "Klp61F",
+    "geneB": "aurB",
+    "annotationA": "Kinesin-like protein Klp61F; Important role in mitotic dividing cells. Microtubule motor required for spindle body separation. Slow plus-end directed microtubule motor capable of cross-linking and sliding apart antiparallel microtubules, thereby pushing apart the associated spindle poles during spindle assembly and function. Forms cross-links between microtubules within interpolar microtubule bundles. Contributes to the length of the metaphase spindle, maintains the prometaphase spindle by antagonizing Ncd, drives anaphase B, and also contributes to normal chromosome congression, kinet [...] ",
+    "annotationB": "Aurora B (AurB) is a serine-threonine kinase and member of the chromosomal passenger complex. AurB plays multiple roles in mitosis including the correction of erroneous chromosome-spindle interactions, chromosome condensation, kinetochore assembly, spindle assembly checkpoint and cytokinesis; Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Aurora subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

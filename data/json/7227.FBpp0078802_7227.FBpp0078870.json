@@ -1,0 +1,48 @@
+{
+    "pae": 7.0,
+    "iptm": 12.9,
+    "pdockq": 0.035,
+    "proA": "FBpp0078802",
+    "proB": "FBpp0078870",
+    "geneA": "Vm26Ab",
+    "geneB": "Vm26Ac",
+    "annotationA": "Vitelline membrane protein Vm26Ab; Major early eggshell protein",
+    "annotationB": "Structural constituent of vitelline membrane. It is involved in the biological process described with: vitelline membrane formation involved in chorion-containing eggshell formation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 121,
+            "end_residue_number": 141,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 159,
+            "end_residue_number": 177,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "121-141"
+    ],
+    "interfaceB": [
+        "159-177"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 15.2,
+    "iptm": 32.0,
+    "pdockq": 0.049,
+    "proA": "FBpp0073316",
+    "proB": "FBpp0085902",
+    "geneA": "l(1)10Bb",
+    "geneB": "Prp19",
+    "annotationA": "L(1)10Bb protein; It is involved in the biological process described with: neurogenesis; mRNA splicing, via spliceosome",
+    "annotationB": "Pre-RNA processing factor 19; Ubiquitin-protein transferase activity. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; regulation of alternative mRNA splicing, via spliceosome; positive regulation of ERK1 and ERK2 cascade; mRNA splicing, via spliceosome; protein ubiquitination",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 38,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 254,
+            "end_residue_number": 260,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "38-44"
+    ],
+    "interfaceB": [
+        "254-260"
+    ]
+}

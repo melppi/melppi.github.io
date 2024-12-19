@@ -1,0 +1,16 @@
+{
+    "pae": 23.0,
+    "iptm": 20.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070432",
+    "proB": "FBpp0088995",
+    "geneA": "Klp3A",
+    "geneB": "CG32318",
+    "annotationA": "Kinesin-like protein at 3A, isoform A; ATP binding; microtubule binding; microtubule motor activity; plus-end-directed microtubule motor activity; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family",
+    "annotationB": "RT07324p; ATP binding; microtubule binding; microtubule motor activity. It is involved in the biological process described with: microtubule-based movement; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

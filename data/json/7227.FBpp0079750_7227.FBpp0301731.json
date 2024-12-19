@@ -1,0 +1,16 @@
+{
+    "pae": 17.3,
+    "iptm": 26.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0079750",
+    "proB": "FBpp0301731",
+    "geneA": "Samuel",
+    "geneB": "lwr",
+    "annotationA": "SAM-motif ubiquitously expressed punctatedly localized protein, isoform A; It is involved in the biological process described with: regulation of chromatin silencing; spermatogenesis; regulation of growth",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

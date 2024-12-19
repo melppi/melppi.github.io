@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 18.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0081820",
+    "proB": "FBpp0081822",
+    "geneA": "Tctp",
+    "geneB": "RpL3",
+    "annotationA": "Translationally controlled tumor protein (Tctp) belongs to the TCTP family. It interacts with the GTPase Rheb to regulate organ growth. Tctp is required for DNA damage response and genome stability",
+    "annotationB": "60S ribosomal protein L3; The L3 protein is a component of the large subunit of cytoplasmic ribosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

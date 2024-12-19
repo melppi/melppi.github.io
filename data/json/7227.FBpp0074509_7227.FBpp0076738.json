@@ -1,0 +1,48 @@
+{
+    "pae": 15.4,
+    "iptm": 14.6,
+    "pdockq": 0.029,
+    "proA": "FBpp0074509",
+    "proB": "FBpp0076738",
+    "geneA": "CG14210",
+    "geneB": "CG32409",
+    "annotationA": "Uncharacterized protein, isoform A; It is involved in the biological process described with: neurogenesis",
+    "annotationB": "Ribosome biogenesis regulatory protein; Involved in ribosomal large subunit assembly",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 38,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 98,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "35-38"
+    ],
+    "interfaceB": [
+        "98-99"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 17.2,
+    "iptm": 25.5,
+    "pdockq": 0.027,
+    "proA": "FBpp0070638",
+    "proB": "FBpp0076789",
+    "geneA": "Xpac",
+    "geneB": "DNApol-epsilon58",
+    "annotationA": "DNA repair protein complementing XP-A cells homolog; Involved in DNA excision repair. Initiates repair by binding to damaged sites with various affinities, depending on the photoproduct and the transcriptional state of the region (By similarity); Belongs to the XPA family",
+    "annotationB": "DNA polymerase epsilon subunit; Participates in DNA repair and in chromosomal DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 294,
+            "end_residue_number": 294,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 516,
+            "end_residue_number": 519,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "294-294"
+    ],
+    "interfaceB": [
+        "516-519"
+    ]
+}

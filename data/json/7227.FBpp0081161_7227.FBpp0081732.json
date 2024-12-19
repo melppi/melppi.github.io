@@ -1,0 +1,90 @@
+{
+    "pae": 4.0,
+    "iptm": 28.0,
+    "pdockq": 0.149,
+    "proA": "FBpp0081161",
+    "proB": "FBpp0081732",
+    "geneA": "Antp",
+    "geneB": "hth",
+    "annotationA": "Homeotic protein antennapedia; Antennapedia (Antp) is the distal-most member of the Antennapedia complex; one of two Hox gene complexes. Antp is a sequence-specific homeodomain transcription factor, which is part of a developmental regulatory system that specifies segmental identity in the pro- and mesothorax. In adults loss of function is associated with a transformation of leg into antenna while ectopic expression in the head is associated with antenna to leg and eye to wing transformations",
+    "annotationB": "Homeobox protein homothorax; All isoforms are required for patterning of the embryonic cuticle. Acts with exd to delimit the eye field and prevent inappropriate eye development. Isoforms that carry the homeodomain are required for proper localization of chordotonal organs within the peripheral nervous system and antennal identity; required to activate antennal-specific genes, such as sal and to repress the leg-like expression of dac. Necessary for the nuclear localization of the essential HOX cofactor, extradenticle (exd). Both necessary and sufficient for inner photoreceptors to adopt [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 280,
+            "end_residue_number": 288,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 354,
+            "end_residue_number": 354,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 387,
+            "end_residue_number": 395,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 420,
+            "end_residue_number": 420,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 424,
+            "end_residue_number": 435,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "280-288",
+        "354-354"
+    ],
+    "interfaceB": [
+        "387-395",
+        "420-420",
+        "424-435"
+    ]
+}

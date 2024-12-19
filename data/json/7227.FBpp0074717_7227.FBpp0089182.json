@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 11.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0074717",
+    "proB": "FBpp0089182",
+    "geneA": "Gbeta76C",
+    "geneB": "Gbeta13F",
+    "annotationA": "Guanine nucleotide-binding protein subunit beta-2; G protein beta-subunit 76C forms a Gbeta-gamma complex that is anchored to the plasma membrane via lipid modification of the gamma-subunit . The Gbeta-gamma complex plays an essential role in phototransduction by presenting the Gqalpha-subunit to rhodopsin GPCRs for efficient activation, and preventing spontaneous GDP-GTP exchange on the Gqalpha-subunit",
+    "annotationB": "Guanine nucleotide-binding protein subunit beta-1; Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein- effector interaction",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

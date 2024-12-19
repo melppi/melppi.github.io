@@ -1,0 +1,16 @@
+{
+    "pae": 15.7,
+    "iptm": 23.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0072801",
+    "proB": "FBpp0081820",
+    "geneA": "RpL8",
+    "geneB": "Tctp",
+    "annotationA": "60S ribosomal protein L8; Structural constituent of ribosome. It is involved in the biological process described with: regulation of cell size; insulin receptor signaling pathway; mitotic spindle elongation; translation; compound eye development; centrosome duplication; mitotic spindle organization",
+    "annotationB": "Translationally controlled tumor protein (Tctp) belongs to the TCTP family. It interacts with the GTPase Rheb to regulate organ growth. Tctp is required for DNA damage response and genome stability",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

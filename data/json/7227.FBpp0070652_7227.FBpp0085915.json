@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 20.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070652",
+    "proB": "FBpp0085915",
+    "geneA": "Cbp80",
+    "geneB": "pAbp",
+    "annotationA": "Nuclear cap-binding protein subunit 1; Component of the cap-binding complex (CBC), which binds cotranscriptionally to the 5'-cap of pre-mRNAs and is involved in various processes such as pre-mRNA splicing and RNA-mediated gene silencing (RNAi). The CBC complex is involved in miRNA-mediated RNA interference via its interaction with Ars2 and is required for primary microRNAs (miRNAs) processing. Also involved in innate immunity via the short interfering RNAs (siRNAs) processing machinery by restricting the viral RNA production. In the CBC complex, Cbp80 does not bind directly capped RNAs [...] ",
+    "annotationB": "Polyadenylate-binding protein; Binds the poly(A) tail of mRNA; Belongs to the polyadenylate-binding protein type-1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

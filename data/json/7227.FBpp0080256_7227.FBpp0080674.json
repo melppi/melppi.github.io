@@ -1,0 +1,16 @@
+{
+    "pae": 16.5,
+    "iptm": 20.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0080256",
+    "proB": "FBpp0080674",
+    "geneA": "NC2beta",
+    "geneB": "msl-1",
+    "annotationA": "Protein Dr1; Bifunctional basic transcription factor. Activates transcription of DPE (Downstream Promoter Element) containing promoters while repressing transcription of promoters which contain TATA elements; Belongs to the NC2 beta/DR1 family",
+    "annotationB": "Protein male-specific lethal-1; The Msl proteins are essential for elevating transcription of the single X chromosome in the male (X chromosome dosage compensation). Msl-1 is a pioneer protein. Mle, msl-1 and msl-3 are colocalized on the X chromosome. Each of the MSL proteins requires all the other MSLs for wild-type X-chromosome binding. In complex with msl-2, promotes ubiquitination of histone H2B",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

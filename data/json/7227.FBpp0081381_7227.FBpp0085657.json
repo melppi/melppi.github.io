@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 15.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0081381",
+    "proB": "FBpp0085657",
+    "geneA": "pch2",
+    "geneB": "mei-W68",
+    "annotationA": "Pachytene checkpoint 2 is inolved in a checkpoint pathway that monitors the Synaptonemal Complex (SC) assembly and recombination during female meiosis; Belongs to the AAA ATPase family",
+    "annotationB": "Meiotic recombination protein W68; Required for meiotic recombination. Together with mei-P22, mediates DNA cleavage that forms the double-strand breaks (DSB) that initiate meiotic recombination (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

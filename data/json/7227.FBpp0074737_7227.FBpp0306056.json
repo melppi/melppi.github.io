@@ -1,0 +1,132 @@
+{
+    "pae": 8.4,
+    "iptm": 41.8,
+    "pdockq": 0.429,
+    "proA": "FBpp0074737",
+    "proB": "FBpp0306056",
+    "geneA": "lush",
+    "geneB": "Snmp1",
+    "annotationA": "General odorant-binding protein lush; Odorant-binding protein required for olfactory behavior and for activity of pheromone-sensitive neurons. Binds to alcohols and mediates avoidance behavior to high concentrations of alcohols, the alcohol-binding possibly resulting in activation of receptors on T2B neurons, the activation of these receptors inhibiting these neurons. Acts in concert with Snmp and lush to capture cVA molecules on the surface of Or67d expressing olfactory dendrites and facilitate their transfer to the odorant-receptor Orco complex. Required for cVA response, probably by [...] ",
+    "annotationB": "Sensory neuron membrane protein 1; Plays an olfactory role that is not restricted to pheromone sensitivity. Has a role in detection and signal transduction of the fatty-acid-derived male pheromone 11-cis vaccenyl acetate (cVA). Not required for sensitivity to general odorants. Acts in concert with Or67d and lush to capture cVA molecules on the surface of Or67d expressing olfactory dendrites and facilitate their transfer to the odorant-receptor Orco complex. Essential for the electrophysiological responses of these olfactory sensory neurons (OSNs) to cVA. Not required for the developmen [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 29,
+            "end_residue_number": 49,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 82,
+            "end_residue_number": 92,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 97,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 101,
+            "end_residue_number": 105,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 148,
+            "end_residue_number": 155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 190,
+            "end_residue_number": 205,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 251,
+            "end_residue_number": 259,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 351,
+            "end_residue_number": 352,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "29-49",
+        "82-92",
+        "97-97",
+        "101-105"
+    ],
+    "interfaceB": [
+        "148-155",
+        "190-205",
+        "251-259",
+        "351-352"
+    ]
+}

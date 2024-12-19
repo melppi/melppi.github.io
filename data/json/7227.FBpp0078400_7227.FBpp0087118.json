@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 17.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0078400",
+    "proB": "FBpp0087118",
+    "geneA": "noi",
+    "geneB": "SmF",
+    "annotationA": "Splicing factor 3A subunit 3; Probable subunit of a splicing factor complex required for 'A' complex assembly formed by the stable binding of U2 snRNP to the branchpoint sequence (BPS) in pre-mRNA (By similarity). Involved in male fertility; Belongs to the SF3A3 family",
+    "annotationB": "Small ribonucleoprotein particle protein SmF (SmF) is an RNA binding protein that functions as part of a heteroheptameric ring structure called the Sm core. This complex binds to spliceosomal small nuclear RNAs (e.g. U1, U2, U4 and U5) and helps to carry out pre-mRNA splicing. SmF also forms a heterotrimeric sub-complex with SmE and SNRPG",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

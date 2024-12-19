@@ -1,0 +1,16 @@
+{
+    "pae": 27.1,
+    "iptm": 11.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0078733",
+    "proB": "FBpp0305308",
+    "geneA": "Lam",
+    "geneB": "baf",
+    "annotationA": "Lamin Dm0; Lamins are components of the nuclear lamina, a fibrous layer on the nucleoplasmic side of the inner nuclear membrane, which is thought to provide a framework for the nuclear envelope and may also interact with chromatin. May have a role in the localization of the LEM domain proteins Ote, bocks and MAN1 to the nuclear membrane. In spermatocytes, plays a role in maintaining type-A lamin LamC nuclear localization; regulates meiotic cytokinesis by maintaining the structure of the spindle envelope, and by contributing to the formation of the contractile ring and central spindle",
+    "annotationB": "Barrier-to-autointegration factor; Plays fundamental roles in nuclear assembly, chromatin organization, gene expression and gonad development. May potently compress chromatin structure and be involved in membrane recruitment and chromatin decondensation during nuclear assembly. Functions are required in both M phase and interphase of the cell cycle; Belongs to the BAF family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

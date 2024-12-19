@@ -1,0 +1,16 @@
+{
+    "pae": 23.4,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0084713",
+    "proB": "FBpp0300445",
+    "geneA": "eIF4E-6",
+    "geneB": "Fmr1",
+    "annotationA": "eIF4E-6, isoform A; RNA 7-methylguanosine cap binding; translation repressor activity; RNA cap binding; translation initiation factor activity. It is involved in the biological process described with: translational initiation; negative regulation of translation",
+    "annotationB": "Synaptic functional regulator FMR1; Polyribosome-associated RNA-binding protein that plays a role in neuronal development and synaptic plasticity through the regulation of protein synthesis of mRNAs. Plays a role as a negative translational regulator of specific mRNAs. Represses translation of the microtubule-associated protein futsch mRNA to regulate microtubule-dependent synaptic growth and function. May also be involved in microRNA (miRNA)-mediated translational suppression. Required for stability of the central pair of microtubules in the spermatid axoneme. Regulates photoreceptor  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

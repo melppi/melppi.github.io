@@ -1,0 +1,90 @@
+{
+    "pae": 4.0,
+    "iptm": 26.3,
+    "pdockq": 0.093,
+    "proA": "FBpp0082675",
+    "proB": "FBpp0083485",
+    "geneA": "pnr",
+    "geneB": "tin",
+    "annotationA": "GATA-binding factor A; Transcriptional regulator involved in several developmental processes during embryonic and imaginal disks development. Involved in determining dorsal cell fate. Acts as an essential transcriptional regulator of proneural achaete-scute complex (AS-C) and is required for its spatial regulation during development of the adult peripheral nervous system, and hence for the positioning of neural precursors. It is the only factor to directly activate AS-C genes",
+    "annotationB": "Muscle-specific homeobox protein tinman; Required for the development of heart and visceral muscle; for the formation of somatic muscles. Has a crucial function in the early mesodermal subdivisions",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 217,
+            "end_residue_number": 222,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 234,
+            "end_residue_number": 237,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 273,
+            "end_residue_number": 278,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 304,
+            "end_residue_number": 307,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 354,
+            "end_residue_number": 365,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "217-222",
+        "234-237",
+        "273-278"
+    ],
+    "interfaceB": [
+        "304-307",
+        "354-365"
+    ]
+}

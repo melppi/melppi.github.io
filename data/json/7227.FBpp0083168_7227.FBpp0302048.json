@@ -1,0 +1,90 @@
+{
+    "pae": 13.7,
+    "iptm": 20.7,
+    "pdockq": 0.181,
+    "proA": "FBpp0083168",
+    "proB": "FBpp0302048",
+    "geneA": "mRpL55",
+    "geneB": "MRpS16",
+    "annotationA": "Mitochondrial ribosomal protein L55 is involved in mitochondrial biogenesis and cell division; Belongs to the mitochondrion-specific ribosomal protein mL55 family",
+    "annotationB": "Mitochondrial ribosomal protein S16; Belongs to the bacterial ribosomal protein bS16 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 87,
+            "end_residue_number": 97,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 20,
+            "end_residue_number": 33,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 40,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 55,
+            "end_residue_number": 58,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 85,
+            "end_residue_number": 88,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "87-97"
+    ],
+    "interfaceB": [
+        "20-33",
+        "40-44",
+        "55-58",
+        "85-88"
+    ]
+}

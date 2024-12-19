@@ -1,0 +1,48 @@
+{
+    "pae": 16.9,
+    "iptm": 25.5,
+    "pdockq": 0.031,
+    "proA": "FBpp0073618",
+    "proB": "FBpp0083398",
+    "geneA": "CG1998",
+    "geneB": "CG17270",
+    "annotationA": "CG1998, isoform A; C-4 methylsterol oxidase activity; iron ion binding. It is involved in the biological process described with: oxidation-reduction process; fatty acid biosynthetic process; Belongs to the sterol desaturase family",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 251,
+            "end_residue_number": 255,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 123,
+            "end_residue_number": 126,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "251-255"
+    ],
+    "interfaceB": [
+        "123-126"
+    ]
+}

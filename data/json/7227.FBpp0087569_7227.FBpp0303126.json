@@ -1,0 +1,104 @@
+{
+    "pae": 12.9,
+    "iptm": 26.6,
+    "pdockq": 0.061,
+    "proA": "FBpp0087569",
+    "proB": "FBpp0303126",
+    "geneA": "Lsm11",
+    "geneB": "Gem2",
+    "annotationA": "FI05704p; Protein binding. It is involved in the biological process described with: regulation of alternative mRNA splicing, via spliceosome; histone mRNA 3'-end processing",
+    "annotationB": "Protein Gemin2; The SMN complex plays an essential role in spliceosomal snRNP assembly in the cytoplasm, is required for pre-mRNA splicing in the nucleus and acts as a chaperone that discriminates target and non-target RNAs of Sm proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 118,
+            "end_residue_number": 118,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 175,
+            "end_residue_number": 176,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 129,
+            "end_residue_number": 129,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 149,
+            "end_residue_number": 153,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 157,
+            "end_residue_number": 157,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 193,
+            "end_residue_number": 195,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "118-118",
+        "175-176"
+    ],
+    "interfaceB": [
+        "129-129",
+        "149-153",
+        "157-157",
+        "193-195"
+    ]
+}

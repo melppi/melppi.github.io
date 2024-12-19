@@ -1,0 +1,118 @@
+{
+    "pae": 1.2,
+    "iptm": 43.5,
+    "pdockq": 0.624,
+    "proA": "FBpp0078964",
+    "proB": "FBpp0089177",
+    "geneA": "eya",
+    "geneB": "so",
+    "annotationA": "Developmental protein eyes absent; Tyrosine phosphatase thought to play a role in transcription regulation during organogenesis through its intrinsic protein phosphatase activity. The phosphatase activity was shown in vitro. Appears to function together with So and Dac in eye development. Required for the survival of eye progenitor cells at a critical stage in morphogenesis; Belongs to the HAD-like hydrolase superfamily. EYA family",
+    "annotationB": "Sine Oculis is a homeobox-containing transcription factor that functions with eya as a transcriptional co-activator. Sine Oculis contributes to both cell and tissue fate specification, promotion of cell proliferation and suppression of apoptosis",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 493,
+            "end_residue_number": 494,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 722,
+            "end_residue_number": 727,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 735,
+            "end_residue_number": 735,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 742,
+            "end_residue_number": 747,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 752,
+            "end_residue_number": 766,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 97,
+            "end_residue_number": 119,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 123,
+            "end_residue_number": 130,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "493-494",
+        "722-727",
+        "735-735",
+        "742-747",
+        "752-766"
+    ],
+    "interfaceB": [
+        "97-119",
+        "123-130"
+    ]
+}

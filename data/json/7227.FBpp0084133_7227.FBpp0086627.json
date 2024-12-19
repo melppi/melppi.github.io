@@ -1,0 +1,48 @@
+{
+    "pae": 7.7,
+    "iptm": 20.1,
+    "pdockq": 0.209,
+    "proA": "FBpp0084133",
+    "proB": "FBpp0086627",
+    "geneA": "bai",
+    "geneB": "Sec61beta",
+    "annotationA": "Transmembrane emp24 domain-containing protein bai; Eca and bai are essential, though not redundant, for dorsoventral patterning of the embryo. Specifically required during early embryogenesis for the activity of maternal tkv, while the zygotic tkv is not affected; Belongs to the EMP24/GP25L family",
+    "annotationB": "Protein transport protein Sec61 subunit beta; Necessary for protein translocation in the endoplasmic reticulum",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 165,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 72,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "165-199"
+    ],
+    "interfaceB": [
+        "72-99"
+    ]
+}

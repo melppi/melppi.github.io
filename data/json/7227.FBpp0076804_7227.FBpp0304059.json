@@ -1,0 +1,16 @@
+{
+    "pae": 15.6,
+    "iptm": 20.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0076804",
+    "proB": "FBpp0304059",
+    "geneA": "Txl",
+    "geneB": "Usp14",
+    "annotationA": "Thioredoxin-like; Disulfide oxidoreductase activity; protein disulfide oxidoreductase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; cell redox homeostasis; glycerol ether metabolic process",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,62 @@
+{
+    "pae": 12.4,
+    "iptm": 16.9,
+    "pdockq": 0.032,
+    "proA": "FBpp0071779",
+    "proB": "FBpp0088268",
+    "geneA": "RYBP",
+    "geneB": "pho",
+    "annotationA": "Ring and YY1 Binding Protein (RYBP) is a ubiquitin interacting protein. It interacts with epigenetic regulators of the Polycomb and trithorax groups to control post-translational histone modifications. RYBP functions include regulation of the innate immune response and cell death/cell survival, and the control of morphogenesis",
+    "annotationB": "Polycomb protein PHO; Polycomb group (PcG) protein that binds to the 5'- CNGCCATNNNNG-3' sequence found in the regulatory regions of many genes. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility. Probably targets the Esc/E(z) complex to DNA. Necessary but no [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 118,
+            "end_residue_number": 126,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 150,
+            "end_residue_number": 158,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 166,
+            "end_residue_number": 166,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "118-126"
+    ],
+    "interfaceB": [
+        "150-158",
+        "166-166"
+    ]
+}

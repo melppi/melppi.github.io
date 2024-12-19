@@ -1,0 +1,16 @@
+{
+    "pae": 17.2,
+    "iptm": 25.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070719",
+    "proB": "FBpp0078973",
+    "geneA": "Sas10",
+    "geneB": "Rat1",
+    "annotationA": "Something about silencing protein 10; Essential for gene silencing: has a role in the structure of silenced chromatin. May be involved in gene regulation during development. Binds RNA; Belongs to the SAS10 family",
+    "annotationB": "Rat1 5'-3' exoribonuclease (Rat1) is a member of the 5'-3' exonuclease family. Rat1 is required for mRNA processing and mutations cause phenotypes in various cell types, including the nervous system",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

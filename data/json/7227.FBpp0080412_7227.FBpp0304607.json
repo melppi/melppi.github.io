@@ -1,0 +1,76 @@
+{
+    "pae": 6.6,
+    "iptm": 35.9,
+    "pdockq": 0.197,
+    "proA": "FBpp0080412",
+    "proB": "FBpp0304607",
+    "geneA": "twe",
+    "geneB": "Wee1",
+    "annotationA": "Cdc25-like protein phosphatase twine; Required during meiosis. Regulates the transition from the extended G2 phase to the onset of the first meiotic division; Belongs to the MPI phosphatase family",
+    "annotationB": "Wee1-like protein kinase; Could act as a negative regulator of entry into mitosis (G2 to M transition). This kinase specifically phosphorylates and inactivates cyclin B1-complexed CDC2; Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. WEE1 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 63,
+            "end_residue_number": 74,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 284,
+            "end_residue_number": 295,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 351,
+            "end_residue_number": 357,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 413,
+            "end_residue_number": 421,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "63-74"
+    ],
+    "interfaceB": [
+        "284-295",
+        "351-357",
+        "413-421"
+    ]
+}

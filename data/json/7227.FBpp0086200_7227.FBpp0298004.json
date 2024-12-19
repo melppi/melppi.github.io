@@ -1,0 +1,90 @@
+{
+    "pae": 13.2,
+    "iptm": 38.2,
+    "pdockq": 0.156,
+    "proA": "FBpp0086200",
+    "proB": "FBpp0298004",
+    "geneA": "PIG-V",
+    "geneB": "Gpi1",
+    "annotationA": "GPI mannosyltransferase 2; Mannosyltransferase involved in glycosylphosphatidylinositol-anchor biosynthesis. Transfers the second mannose to the glycosylphosphatidylinositol during GPI precursor assembly. Required for the GPI-mediated endoplasmic reticulum exit and proper targeting to the cell surface of chp. Required for GPI-mediated membrane attachment of chp, qsm and Cont. Essential for microvillar stability in the rhabdomere; Belongs to the PIGV family",
+    "annotationB": "Gpi1, isoform B; Gpi1 is required for the biosynthesis of glycosylphosphatidylinositol, which is a component for anchoring eukaryotic proteins to membranes",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 249,
+            "end_residue_number": 257,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 261,
+            "end_residue_number": 261,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 294,
+            "end_residue_number": 294,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 299,
+            "end_residue_number": 300,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 281,
+            "end_residue_number": 295,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "249-257",
+        "261-261",
+        "294-294",
+        "299-300"
+    ],
+    "interfaceB": [
+        "281-295"
+    ]
+}

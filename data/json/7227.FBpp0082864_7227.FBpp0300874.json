@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0082864",
+    "proB": "FBpp0300874",
+    "geneA": "Keap1",
+    "geneB": "Roc1a",
+    "annotationA": "Keap1, isoform B; Actin binding. It is involved in the biological process described with: response to oxidative stress",
+    "annotationB": "Regulator of cullins 1a (Roc1a) is a C2H2 type zinc finger protein and component of several Cullin-Ring E3 ubiquitin ligase complexes. Roc1a binds directly to the Cullin subunit within the CRL complex and functions to recruit ubiquitin-charged E2 proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

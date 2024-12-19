@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 17.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071063",
+    "proB": "FBpp0085889",
+    "geneA": "Gclc",
+    "geneB": "Eip55E",
+    "annotationA": "Protein binding; glutamate-cysteine ligase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; glutathione metabolic process; glutathione biosynthetic process; Belongs to the glutamate--cysteine ligase type 3 family",
+    "annotationB": "Eip55E, isoform A; Pyridoxal phosphate binding; catalytic activity; cystathionine gamma-lyase activity. It is involved in the biological process described with: glutathione biosynthetic process; sulfur amino acid metabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 26.3,
+    "iptm": 9.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0079946",
+    "proB": "FBpp0305289",
+    "geneA": "CG6712",
+    "geneB": "NHP2",
+    "annotationA": "Probable ribosome production factor 1; May be required for ribosome biogenesis",
+    "annotationB": "H/ACA ribonucleoprotein complex subunit 2-like protein; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

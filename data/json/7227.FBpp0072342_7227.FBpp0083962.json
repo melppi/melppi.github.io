@@ -1,0 +1,48 @@
+{
+    "pae": 6.6,
+    "iptm": 35.9,
+    "pdockq": 0.081,
+    "proA": "FBpp0072342",
+    "proB": "FBpp0083962",
+    "geneA": "CG12848",
+    "geneB": "mRpS24",
+    "annotationA": "annotation not available",
+    "annotationB": "28S ribosomal protein S24, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the universal ribosomal protein uS3 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 41,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 134,
+            "end_residue_number": 144,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "41-55"
+    ],
+    "interfaceB": [
+        "134-144"
+    ]
+}

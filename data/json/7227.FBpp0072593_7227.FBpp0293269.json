@@ -1,0 +1,76 @@
+{
+    "pae": 15.7,
+    "iptm": 22.5,
+    "pdockq": 0.04,
+    "proA": "FBpp0072593",
+    "proB": "FBpp0293269",
+    "geneA": "pUf68",
+    "geneB": "SF2",
+    "annotationA": "Poly(U)-binding-splicing factor half pint; Splicing factor that regulates oogenesis and controls both mitosis and mRNA localization in the germline by regulating mRNA splicing of a subset of genes within the ovary. Probably acts by regulating the alternative splice site selection of the otu transcript. Also regulates the alternative splicing of eIF-4E and grk, while it is not involved in the splicing of par-1, sqd and psq; Belongs to the RRM half pint family",
+    "annotationB": "SR family splicing factor SF2; mRNA binding; protein binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; mRNA splice site selection; mitotic G2 DNA damage checkpoint; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 139,
+            "end_residue_number": 139,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 171,
+            "end_residue_number": 173,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 199,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 129,
+            "end_residue_number": 133,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "139-139",
+        "171-173",
+        "199-199"
+    ],
+    "interfaceB": [
+        "129-133"
+    ]
+}

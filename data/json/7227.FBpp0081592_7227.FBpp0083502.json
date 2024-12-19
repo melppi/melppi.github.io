@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 16.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081592",
+    "proB": "FBpp0083502",
+    "geneA": "AP-1mu",
+    "geneB": "AP-2sigma",
+    "annotationA": "Clathrin-associated adaptor complex AP-1 medium chain; Clathrin binding; protein transporter activity. It is involved in the biological process described with: vesicle coating; synaptic vesicle coating; negative regulation of Notch signaling pathway; vesicle-mediated transport; intracellular transport; negative regulation of endocytic recycling; compound eye development; secretory granule organization; intracellular protein transport; neurotransmitter secretion; Belongs to the adaptor complexes medium subunit family",
+    "annotationB": "Adaptor Protein complex 2, sigma subunit is a component of the AP-2 adaptor complex, which recruits certain transmembrane proteins into clathrin-coated pits for endocytic internalization",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,62 @@
+{
+    "pae": 18.5,
+    "iptm": 14.3,
+    "pdockq": 0.025,
+    "proA": "FBpp0073149",
+    "proB": "FBpp0074609",
+    "geneA": "Syx17",
+    "geneB": "alphaSnap",
+    "annotationA": "Syntaxin 17, isoform B; Syntaxin 17 (Syx17) is a Qa type SNARE protein localizing to ER, mitochondria and autophagosomes. It mediates the fusion of autophagosomes with endosomes and lysosomes by forming a SNARE complex with Snap29 (Qbc) and Vamp7 (R). Syx17 roles include autophagosome clearance and neuromuscular function",
+    "annotationB": "Alpha-soluble NSF attachment protein; Required for vesicular transport between the endoplasmic reticulum and the Golgi apparatus. Also between the endosome and phagosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 15,
+            "end_residue_number": 15,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 70,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 26,
+            "end_residue_number": 27,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "15-15",
+        "70-70"
+    ],
+    "interfaceB": [
+        "26-27"
+    ]
+}

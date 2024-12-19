@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 21.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0076791",
+    "proB": "FBpp0086207",
+    "geneA": "Sras",
+    "geneB": "ste24a",
+    "annotationA": "CAAX prenyl protease 2; Proteolytically removes the C-terminal three residues of farnesylated and geranylated proteins",
+    "annotationB": "Ste24a prenyl protease type I (Ste24a), along with ste24b and ste24c, are paralogous (tandemly duplicated) type I prenyl proteases. Ste24a function, the most highly conserved of the three, is unknown",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

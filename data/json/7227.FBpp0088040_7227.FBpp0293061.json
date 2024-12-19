@@ -1,0 +1,48 @@
+{
+    "pae": 13.6,
+    "iptm": 23.3,
+    "pdockq": 0.025,
+    "proA": "FBpp0088040",
+    "proB": "FBpp0293061",
+    "geneA": "CG11107",
+    "geneB": "SmB",
+    "annotationA": "DHX15 ortholog, isoform A; ATP binding; ATP-dependent helicase activity; ATP-dependent RNA helicase activity; nucleic acid binding; RNA helicase activity. It is involved in the biological process described with: mRNA splicing, via spliceosome; neurogenesis",
+    "annotationB": "Small ribonucleoprotein particle protein SmB (SmB) is an RNA binding protein that forms a heterodimeric sub-complex with SmD3. They function as part of the heteroheptameric ring complex Sm core, which is involved in the formation of spliceosomal small nuclear RNPs (U1, U2, U4 and U5), which together catalyze pre-mRNA splicing; Belongs to the snRNP SmB/SmN family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 255,
+            "end_residue_number": 256,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 128,
+            "end_residue_number": 129,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "255-256"
+    ],
+    "interfaceB": [
+        "128-129"
+    ]
+}

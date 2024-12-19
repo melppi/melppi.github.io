@@ -1,0 +1,132 @@
+{
+    "pae": 8.3,
+    "iptm": 31.2,
+    "pdockq": 0.067,
+    "proA": "FBpp0099952",
+    "proB": "FBpp0271715",
+    "geneA": "sotv",
+    "geneB": "Sdc",
+    "annotationA": "Exostosin-2; Glycosyltransferase required for the biosynthesis of heparan-sulfate and responsible for the alternating addition of beta-1-4-linked glucuronic acid (GlcA) and alpha-1-4-linked N- acetylglucosamine (GlcNAc) units to nascent heparan sulfate chains. Plays a central role in diffusion of morphogens hedgehog (hh), wingless (wg) and Decapentaplegic (dpp) via its role in heparan sulfate proteoglycans (HSPGs) biosynthesis, HSPGs being required for movement of Hh, Dpp and wg morphogens",
+    "annotationB": "Syndecan; Cell surface proteoglycan that bears heparan sulfate. Required for axonal and myotube guidance, is a necessary component of slit/robo signaling and is required in the slit target cells",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 34,
+            "end_residue_number": 34,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 585,
+            "end_residue_number": 588,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 647,
+            "end_residue_number": 649,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 692,
+            "end_residue_number": 696,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 700,
+            "end_residue_number": 701,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 717,
+            "end_residue_number": 717,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 419,
+            "end_residue_number": 419,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 460,
+            "end_residue_number": 467,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "34-34",
+        "585-588",
+        "647-649",
+        "692-696",
+        "700-701",
+        "717-717"
+    ],
+    "interfaceB": [
+        "419-419",
+        "460-467"
+    ]
+}

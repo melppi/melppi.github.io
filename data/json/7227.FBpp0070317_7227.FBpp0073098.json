@@ -1,0 +1,48 @@
+{
+    "pae": 14.8,
+    "iptm": 26.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0070317",
+    "proB": "FBpp0073098",
+    "geneA": "CG4045",
+    "geneB": "CG11583",
+    "annotationA": "tRNA (guanine-N(7)-)-methyltransferase; Catalyzes the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA; Belongs to the class I-like SAM-binding methyltransferase superfamily. TrmB family",
+    "annotationB": "Ribosome biogenesis protein BRX1 homolog; Required for biogenesis of the 60S ribosomal subunit",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 187,
+            "end_residue_number": 187,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 294,
+            "end_residue_number": 294,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "187-187"
+    ],
+    "interfaceB": [
+        "294-294"
+    ]
+}

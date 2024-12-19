@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 13.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0074115",
+    "proB": "FBpp0304268",
+    "geneA": "Rcp",
+    "geneB": "Rpb5",
+    "annotationA": "Receptor component protein, isoform B; G-protein coupled receptor activity; DNA-directed RNA polymerase activity; nucleotide binding. It is involved in the biological process described with: transcription, DNA-templated; positive regulation of G-protein coupled receptor protein signaling pathway; neuron projection morphogenesis",
+    "annotationB": "Rpb5, isoform A; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

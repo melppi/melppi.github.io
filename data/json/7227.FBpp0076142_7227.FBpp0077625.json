@@ -1,0 +1,16 @@
+{
+    "pae": 15.3,
+    "iptm": 24.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0076142",
+    "proB": "FBpp0077625",
+    "geneA": "SH3PX1",
+    "geneB": "Vps29",
+    "annotationA": "Sorting nexin; Phosphatidylinositol-4,5-bisphosphate binding; phosphatidylinositol-3,4,5-trisphosphate binding. It is involved in the biological process described with: mitotic nuclear division; cellular response to hypoxia; phagosome-lysosome fusion involved in apoptotic cell clearance; autophagic vacuole assembly; intracellular protein transport; Belongs to the sorting nexin family",
+    "annotationB": "Vacuolar protein sorting-associated protein 29; Acts as component of the retromer cargo-selective complex (CSC). The CSC is believed to be the core functional component of retromer or respective retromer complex variants acting to prevent missorting of selected transmembrane cargo proteins into the lysosomal degradation pathway",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

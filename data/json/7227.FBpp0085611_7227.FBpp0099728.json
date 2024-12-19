@@ -1,0 +1,16 @@
+{
+    "pae": 15.8,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0085611",
+    "proB": "FBpp0099728",
+    "geneA": "CG11200",
+    "geneB": "fabp",
+    "annotationA": "Carbonyl reductase (NADPH) activity. It is involved in the biological process described with: metabolic process; Belongs to the short-chain dehydrogenases/reductases (SDR) family",
+    "annotationB": "Transporter activity; fatty acid binding. It is involved in the biological process described with: transport; long-term memory; Belongs to the calycin superfamily. Fatty-acid binding protein (FABP) family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

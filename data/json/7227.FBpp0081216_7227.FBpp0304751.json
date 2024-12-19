@@ -1,0 +1,16 @@
+{
+    "pae": 18.0,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0081216",
+    "proB": "FBpp0304751",
+    "geneA": "TfIIFalpha",
+    "geneB": "TfIIS",
+    "annotationA": "General transcription factor IIF subunit 1; TFIIF is a general transcription initiation factor that binds to RNA polymerase II and helps to recruit it to the initiation complex in collaboration with TFIIB. It promotes transcription elongation; Belongs to the TFIIF alpha subunit family",
+    "annotationB": "Transcription elongation factor S-II; Necessary for efficient RNA polymerase II transcription elongation past template-encoded arresting sites. The arresting sites in DNA have the property of trapping a certain fraction of elongating RNA polymerases that pass through, resulting in locked ternary complexes. Cleavage of the nascent transcript by S-II allows the resumption of elongation from the new 3'-terminus",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

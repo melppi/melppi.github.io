@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 18.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0070110",
+    "proB": "FBpp0075247",
+    "geneA": "CG13369",
+    "geneB": "Pgm",
+    "annotationA": "Ribokinase; Catalyzes the phosphorylation of ribose at O-5 in a reaction requiring ATP and magnesium. The resulting D-ribose-5- phosphate can then be used either for sythesis of nucleotides, histidine, and tryptophan, or as a component of the pentose phosphate pathway",
+    "annotationB": "Phosphoglucomutase; This enzyme participates in both the breakdown and synthesis of glucose; Belongs to the phosphohexose mutase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

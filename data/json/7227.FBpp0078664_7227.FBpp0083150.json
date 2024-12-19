@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 21.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0078664",
+    "proB": "FBpp0083150",
+    "geneA": "Rpn11",
+    "geneB": "cry",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "annotationB": "Cryptochrome-1; Blue light-dependent regulator that is the input of the circadian feedback loop. Has no photolyase activity for cyclobutane pyrimidine dimers or 6-4 photoproducts. Regulation of expression by light suggests a role in photoreception for locomotor activity rhythms. Functions, together with per, as a transcriptional repressor required for the oscillation of peripheral circadian clocks and for the correct specification of clock cells. Genes directly activated by the transcription factors Clock (Clk) and cycle (cyc) are repressed by cry. Necessary for light-dependent magneto [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

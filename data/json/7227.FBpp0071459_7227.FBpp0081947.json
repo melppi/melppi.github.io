@@ -1,0 +1,48 @@
+{
+    "pae": 13.8,
+    "iptm": 21.4,
+    "pdockq": 0.037,
+    "proA": "FBpp0071459",
+    "proB": "FBpp0081947",
+    "geneA": "ND-B14.7",
+    "geneB": "COX5A",
+    "annotationA": "annotation not available",
+    "annotationB": "Cytochrome c oxidase subunit 5A, mitochondrial; This is the heme A-containing chain of cytochrome c oxidase, the terminal oxidase in mitochondrial electron transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 163,
+            "end_residue_number": 163,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 84,
+            "end_residue_number": 93,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "163-163"
+    ],
+    "interfaceB": [
+        "84-93"
+    ]
+}

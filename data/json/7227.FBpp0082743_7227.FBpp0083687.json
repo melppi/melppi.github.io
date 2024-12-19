@@ -1,0 +1,48 @@
+{
+    "pae": 16.7,
+    "iptm": 23.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0082743",
+    "proB": "FBpp0083687",
+    "geneA": "CSN5",
+    "geneB": "Rpn7",
+    "annotationA": "COP9 signalosome complex subunit 5; Probable protease subunit of the COP9 signalosome complex (CSN), a complex involved in various cellular and developmental processes. The CSN complex is an essential regulator of the ubiquitin (Ubl) conjugation pathway by mediating the deneddylation of the cullin subunits of the SCF-type E3 ligase complexes, leading to decrease the Ubl ligase activity of SCF. In the complex, it probably acts as the catalytic center that mediates the cleavage of Nedd8 from cullins. It however has no metalloprotease activity by itself and requires the other subunits of  [...] ",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 6; Acts as a regulatory subunit of the 26S proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 266,
+            "end_residue_number": 266,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 379,
+            "end_residue_number": 379,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "266-266"
+    ],
+    "interfaceB": [
+        "379-379"
+    ]
+}

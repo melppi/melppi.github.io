@@ -1,0 +1,16 @@
+{
+    "pae": 23.0,
+    "iptm": 12.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0082062",
+    "proB": "FBpp0304481",
+    "geneA": "Prosalpha2",
+    "geneB": "Rpt3R",
+    "annotationA": "Proteasome subunit alpha type-2; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "annotationB": "Regulatory particle triple-A ATPase 3-related, isoform C; ATP binding; ATPase activity. It is involved in the biological process described with: proteolysis; cellular response to DNA damage stimulus; protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

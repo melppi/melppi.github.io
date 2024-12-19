@@ -1,0 +1,16 @@
+{
+    "pae": 18.2,
+    "iptm": 20.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0073922",
+    "proB": "FBpp0077572",
+    "geneA": "Gapdh2",
+    "geneB": "Eno",
+    "annotationA": "NADP binding; glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity; NAD binding. It is involved in the biological process described with: glycolytic process; oxidation-reduction process; glucose metabolic process",
+    "annotationB": "Enolase; Phosphopyruvate hydratase activity; magnesium ion binding. It is involved in the biological process described with: glycolytic process; Belongs to the enolase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

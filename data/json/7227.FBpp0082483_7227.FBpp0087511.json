@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 11.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0082483",
+    "proB": "FBpp0087511",
+    "geneA": "RpL10Aa",
+    "geneB": "RpLP0-like",
+    "annotationA": "Ribosomal protein L10Aa; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: phagocytosis; translation; neurogenesis",
+    "annotationB": "Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

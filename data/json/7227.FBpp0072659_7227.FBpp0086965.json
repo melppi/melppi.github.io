@@ -1,0 +1,48 @@
+{
+    "pae": 5.8,
+    "iptm": 39.5,
+    "pdockq": 0.038,
+    "proA": "FBpp0072659",
+    "proB": "FBpp0086965",
+    "geneA": "mRpL46",
+    "geneB": "mRpL18",
+    "annotationA": "Mitochondrial ribosomal protein L46; Structural constituent of ribosome; hydrolase activity. It is involved in the biological process described with: mitochondrial translation",
+    "annotationB": "Mitochondrial ribosomal protein L18; Structural constituent of ribosome. It is involved in the biological process described with: mitochondrial translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 60,
+            "end_residue_number": 62,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 91,
+            "end_residue_number": 93,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "60-62"
+    ],
+    "interfaceB": [
+        "91-93"
+    ]
+}

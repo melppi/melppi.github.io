@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 14.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0075068",
+    "proB": "FBpp0088021",
+    "geneA": "Rpn12",
+    "geneB": "Rpt1",
+    "annotationA": "26S proteasome regulatory complex subunit p30; Endopeptidase activity. It is involved in the biological process described with: proteolysis; cell proliferation; mitotic spindle elongation; cellular process; proteasome-mediated ubiquitin-dependent protein catabolic process; ubiquitin-dependent protein catabolic process; mitotic spindle organization; neurogenesis",
+    "annotationB": "26S proteasome regulatory complex subunit p48B; Regulatory particle triple-A ATPase 1 is an AAA-type ATPase protein that forms part of the heterohexameric ATPase ring of the regulatory complex of the 26S proteasome",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

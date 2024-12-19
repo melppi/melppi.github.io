@@ -1,0 +1,16 @@
+{
+    "pae": 17.5,
+    "iptm": 25.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0071279",
+    "proB": "FBpp0079613",
+    "geneA": "Ost48",
+    "geneB": "KdelR",
+    "annotationA": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit; Essential subunit of the N-oligosaccharyl transferase (OST) complex which catalyzes the transfer of a high mannose oligosaccharide from a lipid-linked oligosaccharide donor to an asparagine residue within an Asn-X-Ser/Thr consensus motif in nascent polypeptide chains",
+    "annotationB": "ER lumen protein-retaining receptor; Required for the retention of luminal endoplasmic reticulum proteins. Determines the specificity of the luminal ER protein retention system. Also required for normal vesicular traffic through the Golgi (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

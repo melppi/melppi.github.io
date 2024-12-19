@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 18.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0085717",
+    "proB": "FBpp0086705",
+    "geneA": "RpL11",
+    "geneB": "Tango7",
+    "annotationA": "60S ribosomal protein L11; Component of the ribosome, a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell. The small ribosomal subunit (SSU) binds messenger RNAs (mRNAs) and translates the encoded message by selecting cognate aminoacyl- transfer RNA (tRNA) molecules. The large subunit (LSU) contains the ribosomal catalytic site termed the peptidyl transferase center (PTC), which catalyzes the formation of peptide bonds, thereby polymerizing the amino acids delivered by tRNAs into a polypeptide chain. The nascent polypeptides leave the ribosome throug [...] ",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit M; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation (Potential)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

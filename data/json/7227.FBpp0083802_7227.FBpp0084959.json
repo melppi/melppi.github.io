@@ -1,0 +1,48 @@
+{
+    "pae": 11.2,
+    "iptm": 24.3,
+    "pdockq": 0.049,
+    "proA": "FBpp0083802",
+    "proB": "FBpp0084959",
+    "geneA": "RpS3",
+    "geneB": "RpL32",
+    "annotationA": "Ribosomal protein S3 (RpS3) is a component of the small subunit of cytoplasmic ribosomes, which translate mRNAs encoded by the nuclear genome. The gene is haploinsufficient - heterozygous mutants display the 'Minute' phenotype, characterized by a slower developmental rate and small adult bristles. RpS3 also contains a DNA lyase activity and functions in DNA repair",
+    "annotationB": "60S ribosomal protein L32; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle organization; mitotic spindle elongation; translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 147,
+            "end_residue_number": 148,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 53,
+            "end_residue_number": 59,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "147-148"
+    ],
+    "interfaceB": [
+        "53-59"
+    ]
+}

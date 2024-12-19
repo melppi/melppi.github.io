@@ -1,0 +1,48 @@
+{
+    "pae": 5.8,
+    "iptm": 29.4,
+    "pdockq": 0.118,
+    "proA": "FBpp0071193",
+    "proB": "FBpp0087637",
+    "geneA": "CG1785",
+    "geneB": "Non1",
+    "annotationA": "Ribosome biogenesis protein NOP53; May play a role in ribosome biogenesis, being required for integration of the 5S RNP into the ribosomal large subunit",
+    "annotationB": "Nucleolar GTP-binding protein 1; Involved in the biogenesis of the 60S ribosomal subunit (By similarity). Required for normal assembly of the mitotic spindle. May be involved in both centrosome- dependent and centrosome-independent spindle assembly programs",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 351,
+            "end_residue_number": 369,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 598,
+            "end_residue_number": 605,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "351-369"
+    ],
+    "interfaceB": [
+        "598-605"
+    ]
+}

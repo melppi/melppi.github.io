@@ -1,0 +1,118 @@
+{
+    "pae": 4.0,
+    "iptm": 68.9,
+    "pdockq": 0.495,
+    "proA": "FBpp0087883",
+    "proB": "FBpp0289083",
+    "geneA": "RagC-D",
+    "geneB": "CG5189",
+    "annotationA": "Ras-related GTP binding C/D ortholog; GTPase activity; protein heterodimerization activity; GTP binding. It is involved in the biological process described with: cellular response to amino acid stimulus; positive regulation of TOR signaling",
+    "annotationB": "Ragulator complex protein LAMTOR2 homolog; Regulator of the TOR pathway, a signaling cascade that promotes cell growth in response to growth factors, energy levels, and amino acids. As part of the Ragulator complex, may activate the TOR signaling cascade in response to amino acids",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 202,
+            "end_residue_number": 202,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 257,
+            "end_residue_number": 304,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 315,
+            "end_residue_number": 324,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 37,
+            "end_residue_number": 40,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 44,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 94,
+            "end_residue_number": 94,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 101,
+            "end_residue_number": 105,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "202-202",
+        "257-304",
+        "315-324"
+    ],
+    "interfaceB": [
+        "37-40",
+        "44-81",
+        "94-94",
+        "101-105"
+    ]
+}

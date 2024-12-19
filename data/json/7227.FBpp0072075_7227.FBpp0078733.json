@@ -1,0 +1,16 @@
+{
+    "pae": 16.8,
+    "iptm": 17.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0072075",
+    "proB": "FBpp0078733",
+    "geneA": "MAN1",
+    "geneB": "Lam",
+    "annotationA": "Inner nuclear membrane protein Man1; Inner nuclear membrane protein. Acts as a negative regulator of the BMP (Dpp) signaling cascade during crossvein development in pupal wings and possibly during synaptic transmission at the neuromuscular junction (NMJ). Appears to be required for pupal development and consequently transition to the adult stage. During pupal development, plays essential and redundant functions with the other LEM domain proteins; bocks and Ote",
+    "annotationB": "Lamin Dm0; Lamins are components of the nuclear lamina, a fibrous layer on the nucleoplasmic side of the inner nuclear membrane, which is thought to provide a framework for the nuclear envelope and may also interact with chromatin. May have a role in the localization of the LEM domain proteins Ote, bocks and MAN1 to the nuclear membrane. In spermatocytes, plays a role in maintaining type-A lamin LamC nuclear localization; regulates meiotic cytokinesis by maintaining the structure of the spindle envelope, and by contributing to the formation of the contractile ring and central spindle",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

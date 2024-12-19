@@ -1,0 +1,76 @@
+{
+    "pae": 5.6,
+    "iptm": 31.6,
+    "pdockq": 0.242,
+    "proA": "FBpp0086974",
+    "proB": "FBpp0302902",
+    "geneA": "ox",
+    "geneB": "UQCR-6.4",
+    "annotationA": "Cytochrome b-c1 complex subunit 9; This is a component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is part of the mitochondrial respiratory chain. This subunit interacts with cytochrome c1 (By similarity)",
+    "annotationB": "Ubiquinol-cytochrome-c reductase activity; electron carrier activity. It is involved in the biological process described with: mitochondrial electron transport, ubiquinol to cytochrome c",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 11,
+            "end_residue_number": 46,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 7,
+            "end_residue_number": 7,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 11,
+            "end_residue_number": 38,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 43,
+            "end_residue_number": 43,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "11-46"
+    ],
+    "interfaceB": [
+        "7-7",
+        "11-38",
+        "43-43"
+    ]
+}

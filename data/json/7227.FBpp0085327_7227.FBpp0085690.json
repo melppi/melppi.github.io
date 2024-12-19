@@ -1,0 +1,118 @@
+{
+    "pae": 3.4,
+    "iptm": 40.2,
+    "pdockq": 0.149,
+    "proA": "FBpp0085327",
+    "proB": "FBpp0085690",
+    "geneA": "Tbce",
+    "geneB": "TBCB",
+    "annotationA": "Tubulin-specific chaperone E; Tubulin-folding protein which is required for the development of the neuronal microtubule network. Essential for the development and function of neuromuscular synapses. Likely to promote microtubule formation by acting in the negative regulation of the microtubule-severing protein spas; Belongs to the TBCE family",
+    "annotationB": "Tubulin-binding cofactor B (TBCB) is one of the cofactors required for the assembly of functional alpha/beta-Tubulin dimers needed for microtubule assembly. TBCB is essential for microtubule-associated transport and cell polarity, but not for cell division",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 33,
+            "end_residue_number": 36,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 40,
+            "end_residue_number": 40,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 45,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 50,
+            "end_residue_number": 53,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 57,
+            "end_residue_number": 57,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 71,
+            "end_residue_number": 78,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 238,
+            "end_residue_number": 244,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "33-36",
+        "40-40",
+        "45-45",
+        "50-53",
+        "57-57",
+        "71-78"
+    ],
+    "interfaceB": [
+        "238-244"
+    ]
+}

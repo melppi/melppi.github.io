@@ -1,0 +1,16 @@
+{
+    "pae": 15.1,
+    "iptm": 18.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0082645",
+    "proB": "FBpp0112014",
+    "geneA": "ND-23",
+    "geneB": "ND-B12",
+    "annotationA": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity; 4 iron, 4 sulfur cluster binding. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "annotationB": "NADH dehydrogenase (Ubiquinone) B12 subunit, isoform A; NADH dehydrogenase activity. It is involved in the biological process described with: RNA import into nucleus; mitochondrial electron transport, NADH to ubiquinone",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

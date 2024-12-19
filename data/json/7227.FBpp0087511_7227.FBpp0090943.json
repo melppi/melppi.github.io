@@ -1,0 +1,16 @@
+{
+    "pae": 17.8,
+    "iptm": 19.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0087511",
+    "proB": "FBpp0090943",
+    "geneA": "RpLP0-like",
+    "geneB": "U3-55K",
+    "annotationA": "Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes",
+    "annotationB": "U3 small nuclear riboprotein factor 55K; mRNA binding; U3 snoRNA binding. It is involved in the biological process described with: rRNA processing; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

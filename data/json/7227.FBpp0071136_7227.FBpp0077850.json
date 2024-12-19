@@ -1,0 +1,16 @@
+{
+    "pae": 21.0,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071136",
+    "proB": "FBpp0077850",
+    "geneA": "Traf6",
+    "geneB": "Psn",
+    "annotationA": "Tumor necrosis factor receptor-associated factor 6 belongs to a family of adaptor proteins involved in transducing downstream signaling by interacting with cell surface receptors. It mediates the pro-inflammatory effects of Toll and related receptor signaling, and the egr-induced JNK activation that induces cell death",
+    "annotationB": "Presenilin homolog; Probable catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptor. Required for S3 cleavage of Notch, which releases activated Notch protein from the cell membrane. Involved in the patterning of the optic lobes; Belongs to the peptidase A22A family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

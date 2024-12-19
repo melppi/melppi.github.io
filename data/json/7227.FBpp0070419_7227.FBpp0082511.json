@@ -1,0 +1,16 @@
+{
+    "pae": 17.0,
+    "iptm": 24.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070419",
+    "proB": "FBpp0082511",
+    "geneA": "z",
+    "geneB": "Caf1",
+    "annotationA": "Zeste is a sequence-specific DNA-binding protein. It is often found in the proximal promoter region of many genes where it helps to recruit the BRM nucleosome remodeling complex. It is best known for the pairing-dependent repressive effects produced by some of its mutants on target genes, especially the w gene",
+    "annotationB": "Probable histone-binding protein Caf1; Core histone-binding subunit that may target chromatin assembly factors, chromatin remodeling factors and histone deacetylases to their histone substrates in a manner that is regulated by nucleosomal DNA. Component of several complexes which regulate chromatin metabolism. These include the chromatin assembly factor 1 (CAF-1) complex, which is required for chromatin assembly following DNA replication and DNA repair; the nucleosome remodeling and deacetylase complex (the NuRD complex), which promotes transcriptional repression by histone deacetylati [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

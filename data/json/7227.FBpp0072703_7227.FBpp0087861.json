@@ -1,0 +1,16 @@
+{
+    "pae": 17.0,
+    "iptm": 19.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0072703",
+    "proB": "FBpp0087861",
+    "geneA": "CG13926",
+    "geneB": "Nup50",
+    "annotationA": "Belongs to the OPI10 family",
+    "annotationB": "Nuclear pore complex protein Nup50; Component of the nuclear pore complex that has a direct role in nuclear protein import (By similarity). Actively displaces NLSs from importin-alpha, and facilitates disassembly of the importin-alpha:beta-cargo complex and importin recycling (By similarity). Binds to transcriptionally active chromatin sites when located in the nucleoplasm and is involved in transcriptional activation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.9,
+    "iptm": 19.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0076430",
+    "proB": "FBpp0086691",
+    "geneA": "Sbp2",
+    "geneB": "SelD",
+    "annotationA": "SECIS-binding protein 2; Selenocysteine insertion sequence binding; RNA stem-loop binding. It is involved in the biological process described with: selenocysteine incorporation",
+    "annotationB": "Selenide, water dikinase is a selenophosphate synthetase (SPS) that catalyzes the synthesis of selenophosphate from selenide, ATP, and water, producing AMP and inorganic phosphate as products. SPS are well conserved proteins involved in selenium metabolism; Belongs to the selenophosphate synthase 1 family. Class II subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

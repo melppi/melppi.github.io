@@ -1,0 +1,16 @@
+{
+    "pae": 16.7,
+    "iptm": 25.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0080010",
+    "proB": "FBpp0288461",
+    "geneA": "Vha68-1",
+    "geneB": "VhaPPA1-2",
+    "annotationA": "V-type proton ATPase catalytic subunit A isoform 1; Catalytic subunit of the peripheral V1 complex of vacuolar ATPase. V-ATPase vacuolar ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells",
+    "annotationB": "Vacuolar H[+] ATPase PPA1 subunit 2; Proton-transporting ATPase activity, rotational mechanism; hydrogen ion transmembrane transporter activity. It is involved in the biological process described with: ATP hydrolysis coupled proton transport; Belongs to the V-ATPase proteolipid subunit family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

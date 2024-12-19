@@ -1,0 +1,16 @@
+{
+    "pae": 24.8,
+    "iptm": 15.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0085657",
+    "proB": "FBpp0087867",
+    "geneA": "mei-W68",
+    "geneB": "Mlh1",
+    "annotationA": "Meiotic recombination protein W68; Required for meiotic recombination. Together with mei-P22, mediates DNA cleavage that forms the double-strand breaks (DSB) that initiate meiotic recombination (By similarity)",
+    "annotationB": "Mlh1, isoform A; Mismatched DNA binding; ATP binding; MutSalpha complex binding; single-stranded DNA binding; ATPase activity. It is involved in the biological process described with: reciprocal meiotic recombination; mismatch repair",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

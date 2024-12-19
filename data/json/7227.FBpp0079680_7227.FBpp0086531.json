@@ -1,0 +1,90 @@
+{
+    "pae": 14.3,
+    "iptm": 18.9,
+    "pdockq": 0.039,
+    "proA": "FBpp0079680",
+    "proB": "FBpp0086531",
+    "geneA": "CG6094",
+    "geneB": "mRpL41",
+    "annotationA": "CG6094, isoform A; Translation release factor activity. It is involved in the biological process described with: translational termination",
+    "annotationB": "39S ribosomal protein L41, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the mitochondrion-specific ribosomal protein mL41 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 33,
+            "end_residue_number": 33,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 145,
+            "end_residue_number": 145,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 149,
+            "end_residue_number": 153,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 69,
+            "end_residue_number": 72,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 164,
+            "end_residue_number": 164,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "33-33",
+        "145-145",
+        "149-153"
+    ],
+    "interfaceB": [
+        "69-72",
+        "164-164"
+    ]
+}

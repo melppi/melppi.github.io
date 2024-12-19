@@ -1,0 +1,16 @@
+{
+    "pae": 25.9,
+    "iptm": 12.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0083843",
+    "proB": "FBpp0305141",
+    "geneA": "Rpt5",
+    "geneB": "Rpn8",
+    "annotationA": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 7; Acts as a regulatory subunit of the 26S proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.0,
+    "iptm": 11.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0079746",
+    "proB": "FBpp0302815",
+    "geneA": "dUTPase",
+    "geneB": "dnk",
+    "annotationA": "Deoxyuridine triphosphatase, isoform A; dUTP diphosphatase activity. It is involved in the biological process described with: dUTP metabolic process",
+    "annotationB": "Deoxynucleoside kinase; Deoxyribonucleoside kinase that has a broad specificity phosphorylating thymidine, 2'-deoxyriboadenosine, 2'- deoxyribocytidine and 2'-deoxyriboguanosine. Specificity is higher for pyrimidine nucleosides. Several anti-viral and anti-cancer nucleoside analogs are also efficiently phosphorylated",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

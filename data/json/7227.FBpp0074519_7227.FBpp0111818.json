@@ -1,0 +1,48 @@
+{
+    "pae": 14.9,
+    "iptm": 22.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0074519",
+    "proB": "FBpp0111818",
+    "geneA": "Ubqn",
+    "geneB": "TER94",
+    "annotationA": "Ubiquilin, isoform A; Proteasome binding. It is involved in the biological process described with: amyloid precursor protein metabolic process",
+    "annotationB": "Transitional endoplasmic reticulum ATPase TER94; Necessary for the fragmentation of Golgi stacks during mitosis and for their reassembly after mitosis. Involved in the formation of the transitional endoplasmic reticulum (tER). The transfer of membranes from the endoplasmic reticulum to the Golgi apparatus occurs via 50-70 nm transition vesicles which derive from part-rough, part-smooth transitional elements of the endoplasmic reticulum (tER). Vesicle budding from the tER is an ATP-dependent process. Involved in the ubiquitin-proteasome system. Important for oskar mRNA localization and/ [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 277,
+            "end_residue_number": 277,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 777,
+            "end_residue_number": 777,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "277-277"
+    ],
+    "interfaceB": [
+        "777-777"
+    ]
+}

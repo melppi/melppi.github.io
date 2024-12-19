@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 14.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0073242",
+    "proB": "FBpp0078895",
+    "geneA": "v",
+    "geneB": "KFase",
+    "annotationA": "Tryptophan 2,3-dioxygenase; Heme-dependent dioxygenase that catalyzes the oxidative cleavage of the L-tryptophan (L-Trp) pyrrole ring and converts L- tryptophan to N-formyl-L-kynurenine. Catalyzes the oxidative cleavage of the indole moiety. Required during larval growth to control the level of potentially harmful free tryptophan in the hemolymph. In the adult the same reaction is the first step in the ommochrome biosynthetic pathway",
+    "annotationB": "Kynurenine formamidase; Catalyzes the hydrolysis of N-formyl-L-kynurenine to L- kynurenine, the second step in the kynurenine pathway of tryptophan degradation. Required for elimination of toxic metabolites",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

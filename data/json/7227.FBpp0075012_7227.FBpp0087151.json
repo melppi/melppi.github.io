@@ -1,0 +1,62 @@
+{
+    "pae": 9.1,
+    "iptm": 34.9,
+    "pdockq": 0.111,
+    "proA": "FBpp0075012",
+    "proB": "FBpp0087151",
+    "geneA": "CG6512",
+    "geneB": "rho-7",
+    "annotationA": "CG6512, isoform A; ATP binding; zinc ion binding; metalloendopeptidase activity; ATPase activity. It is involved in the biological process described with: proteolysis; lateral inhibition",
+    "annotationB": "Rhomboid-7, isoform A; Rhomboid-7 (Rho-7) is an intramembrane serine protease of the rhomboid family present in the inner membrane of mitochondria. It regulates mitochondrial fusion during spermatogenesis and muscle development. Rho-7 genetically interacts with fog, Opa1 and Pink1, which is also a substrate of Rho-7",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 57,
+            "end_residue_number": 74,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 97,
+            "end_residue_number": 108,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 336,
+            "end_residue_number": 350,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "57-74"
+    ],
+    "interfaceB": [
+        "97-108",
+        "336-350"
+    ]
+}

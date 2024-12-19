@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0079565",
+    "proB": "FBpp0288673",
+    "geneA": "me31B",
+    "geneB": "CG2974",
+    "annotationA": "Putative ATP-dependent RNA helicase me31b; Unwinds RNA in an ATP-dependent fashion (Potential). Involved in germ cell formation",
+    "annotationB": "NAD(P)H-hydrate epimerase; Catalyzes the epimerization of the S- and R-forms of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration. This is a prerequisite for the S- specific NAD(P)H-hydrate dehydratase to allow the repair of both epimers of NAD(P)HX; Belongs to the NnrE/AIBP family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

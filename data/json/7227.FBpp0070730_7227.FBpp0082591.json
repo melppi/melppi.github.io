@@ -1,0 +1,16 @@
+{
+    "pae": 15.7,
+    "iptm": 32.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070730",
+    "proB": "FBpp0082591",
+    "geneA": "XRCC1",
+    "geneB": "Rpb7",
+    "annotationA": "XRCC1 protein; Damaged DNA binding. It is involved in the biological process described with: nucleotide-excision repair; cellular response to DNA damage stimulus; lateral inhibition; base-excision repair, AP site formation; single strand break repair",
+    "annotationB": "IP02321p; Protein binding; DNA-directed RNA polymerase activity; nucleic acid binding. It is involved in the biological process described with: transcription from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

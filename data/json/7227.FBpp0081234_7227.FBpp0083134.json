@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 12.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0081234",
+    "proB": "FBpp0083134",
+    "geneA": "SmD2",
+    "geneB": "snRNP-U1-C",
+    "annotationA": "Small ribonucleoprotein particle protein SmD2 (SmD2) is an RNA binding protein that forms a heterodimeric sub-complex with SmD1. They function as part of the heteroheptameric ring complex Sm core, which is involved in the formation of spliceosomal small nuclear RNPs (U1, U2, U4 and U5), which together catalyze pre-mRNA splicing",
+    "annotationB": "U1 small nuclear ribonucleoprotein C; Component of the spliceosomal U1 snRNP, which is essential for recognition of the pre-mRNA 5' splice-site and the subsequent assembly of the spliceosome. U1-C is directly involved in initial 5' splice-site recognition for both constitutive and regulated alternative splicing. The interaction with the 5' splice-site seems to precede base-pairing between the pre-mRNA and the U1 snRNA. Stimulates commitment or early (E) complex formation by stabilizing the base pairing of the 5' end of the U1 snRNA and the 5' splice-site region (By similarity). Regulat [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 27.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0072198",
+    "proB": "FBpp0086200",
+    "geneA": "PIG-Z",
+    "geneB": "PIG-V",
+    "annotationA": "GPI mannosyltransferase 4; Mannosyltransferase involved in glycosylphosphatidylinositol-anchor biosynthesis. Transfers a fourth mannose to some trimannosyl-GPIs during GPI precursor assembly (By similarity)",
+    "annotationB": "GPI mannosyltransferase 2; Mannosyltransferase involved in glycosylphosphatidylinositol-anchor biosynthesis. Transfers the second mannose to the glycosylphosphatidylinositol during GPI precursor assembly. Required for the GPI-mediated endoplasmic reticulum exit and proper targeting to the cell surface of chp. Required for GPI-mediated membrane attachment of chp, qsm and Cont. Essential for microvillar stability in the rhabdomere; Belongs to the PIGV family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

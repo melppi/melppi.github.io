@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 17.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0071063",
+    "proB": "FBpp0112101",
+    "geneA": "Gclc",
+    "geneB": "CG11241",
+    "annotationA": "Protein binding; glutamate-cysteine ligase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; glutathione metabolic process; glutathione biosynthetic process; Belongs to the glutamate--cysteine ligase type 3 family",
+    "annotationB": "Uncharacterized protein, isoform B; Pyridoxal phosphate binding; alanine-glyoxylate transaminase activity; Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

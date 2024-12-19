@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 20.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0075068",
+    "proB": "FBpp0305371",
+    "geneA": "Rpn12",
+    "geneB": "Smurf",
+    "annotationA": "26S proteasome regulatory complex subunit p30; Endopeptidase activity. It is involved in the biological process described with: proteolysis; cell proliferation; mitotic spindle elongation; cellular process; proteasome-mediated ubiquitin-dependent protein catabolic process; ubiquitin-dependent protein catabolic process; mitotic spindle organization; neurogenesis",
+    "annotationB": "E3 ubiquitin-protein ligase Smurf1; E3 ubiquitin-protein ligase which accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates. Down-regulates Dpp signaling after gastrulation by promoting MAD ubiquitination and subsequent degradation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

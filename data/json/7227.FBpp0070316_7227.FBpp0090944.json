@@ -1,0 +1,16 @@
+{
+    "pae": 24.7,
+    "iptm": 12.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070316",
+    "proB": "FBpp0090944",
+    "geneA": "CG4061",
+    "geneB": "CG33506",
+    "annotationA": "RNA 3'-terminal phosphate cyclase; Catalyzes the conversion of 3'-phosphate to a 2',3'- cyclic phosphodiester at the end of RNA. The mechanism of action of the enzyme occurs in 3 steps: (A) adenylation of the enzyme by ATP; (B) transfer of adenylate to an RNA-N3'P to produce RNA- N3'PP5'A; (C) and attack of the adjacent 2'-hydroxyl on the 3'- phosphorus in the diester linkage to produce the cyclic end product. The biological role of this enzyme is unknown but it is likely to function in some aspects of cellular RNA processing (By similarity)",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

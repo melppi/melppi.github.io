@@ -1,0 +1,76 @@
+{
+    "pae": 14.6,
+    "iptm": 24.2,
+    "pdockq": 0.026,
+    "proA": "FBpp0071302",
+    "proB": "FBpp0073204",
+    "geneA": "Aats-lys",
+    "geneB": "Aats-leu",
+    "annotationA": "ATP binding; lysine-tRNA ligase activity; nucleic acid binding. It is involved in the biological process described with: lysyl-tRNA aminoacylation",
+    "annotationB": "Leucyl-tRNA synthetase, mitochondrial; aminoacyl-tRNA editing activity; ATP binding; leucine-tRNA ligase activity. It is involved in the biological process described with: leucyl-tRNA aminoacylation; Belongs to the class-I aminoacyl-tRNA synthetase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 43,
+            "end_residue_number": 43,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 47,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 812,
+            "end_residue_number": 812,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 816,
+            "end_residue_number": 816,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "43-43",
+        "47-47"
+    ],
+    "interfaceB": [
+        "812-812",
+        "816-816"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 19.8,
+    "iptm": 28.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071049",
+    "proB": "FBpp0087676",
+    "geneA": "Ykt6",
+    "geneB": "CG1968",
+    "annotationA": "YKT6 v-SNARE; SNAP receptor activity; protein-cysteine S-palmitoyltransferase activity. It is involved in the biological process described with: retrograde vesicle-mediated transport, Golgi to ER; vesicle-mediated transport; ER to Golgi vesicle-mediated transport; Belongs to the synaptobrevin family",
+    "annotationB": "Conserved oligomeric Golgi complex subunit 6; Required for normal Golgi function; Belongs to the COG6 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

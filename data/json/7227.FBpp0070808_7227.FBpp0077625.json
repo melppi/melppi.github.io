@@ -1,0 +1,16 @@
+{
+    "pae": 13.5,
+    "iptm": 44.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070808",
+    "proB": "FBpp0077625",
+    "geneA": "CG32758",
+    "geneB": "Vps29",
+    "annotationA": "Uncharacterized protein, isoform A; Phosphatidylinositol-3-phosphate binding. It is involved in the biological process described with: endosomal transport; intracellular protein transport; signal transduction",
+    "annotationB": "Vacuolar protein sorting-associated protein 29; Acts as component of the retromer cargo-selective complex (CSC). The CSC is believed to be the core functional component of retromer or respective retromer complex variants acting to prevent missorting of selected transmembrane cargo proteins into the lysosomal degradation pathway",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

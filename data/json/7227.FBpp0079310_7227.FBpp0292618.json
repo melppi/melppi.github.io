@@ -1,0 +1,62 @@
+{
+    "pae": 13.2,
+    "iptm": 43.8,
+    "pdockq": 0.048,
+    "proA": "FBpp0079310",
+    "proB": "FBpp0292618",
+    "geneA": "fu12",
+    "geneB": "Lpin",
+    "annotationA": "1-acylglycerol-3-phosphate O-acyltransferase activity. It is involved in the biological process described with: phospholipid biosynthetic process; behavioral response to ethanol",
+    "annotationB": "Lipin, isoform A; Lipin (Lpin) plays a central role in fat body function and energy metabolism. Lpin works as a phosphatidate phosphatase required for normal insulin pathway signaling",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 171,
+            "end_residue_number": 174,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 182,
+            "end_residue_number": 185,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 503,
+            "end_residue_number": 504,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "171-174",
+        "182-185"
+    ],
+    "interfaceB": [
+        "503-504"
+    ]
+}

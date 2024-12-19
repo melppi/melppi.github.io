@@ -1,0 +1,104 @@
+{
+    "pae": 0.9,
+    "iptm": 86.7,
+    "pdockq": 0.657,
+    "proA": "FBpp0083533",
+    "proB": "FBpp0087774",
+    "geneA": "lsn",
+    "geneB": "Vps25",
+    "annotationA": "Vacuolar-sorting protein SNF8; Larsen (Lsn), also known as Vacuolar protein sorting 22, is a member of the ESCRT-II complex, which sorts certain endocytosed receptors for degradation via the multivesicular body. As part of this complex, Lsn also has a role in bcd RNA localization",
+    "annotationB": "Vacuolar protein-sorting-associated protein 25; Component of the ESCRT-II complex (ensodomal sorting complex required for transport II), which is required for multivesicular body (MVB) formation and sorting of endosomal cargo proteins into MVBs. The MVB pathway mediates delivery of transmembrane proteins into the lumen of the lysosome for degradation. The ESCRT-II complex is probably involved in the recruitment of the ESCRT-III complex (By similarity). Seems to function as a tumor suppressor by regulating Notch trafficking, hence preventing non-autonomous overproliferation. May be invo [...] ",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 111,
+            "end_residue_number": 112,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 193,
+            "end_residue_number": 193,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 220,
+            "end_residue_number": 232,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 236,
+            "end_residue_number": 252,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 5,
+            "end_residue_number": 31,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 64,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "111-112",
+        "193-193",
+        "220-232",
+        "236-252"
+    ],
+    "interfaceB": [
+        "5-31",
+        "64-70"
+    ]
+}

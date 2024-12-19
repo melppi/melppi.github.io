@@ -1,0 +1,16 @@
+{
+    "pae": 15.7,
+    "iptm": 22.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0070719",
+    "proB": "FBpp0076990",
+    "geneA": "Sas10",
+    "geneB": "l(1)G0004",
+    "annotationA": "Something about silencing protein 10; Essential for gene silencing: has a role in the structure of silenced chromatin. May be involved in gene regulation during development. Binds RNA; Belongs to the SAS10 family",
+    "annotationB": "RNA-binding protein pno1; mRNA binding; RNA binding. It is involved in the biological process described with: neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

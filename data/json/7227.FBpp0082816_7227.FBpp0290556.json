@@ -1,0 +1,16 @@
+{
+    "pae": 25.3,
+    "iptm": 17.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0082816",
+    "proB": "FBpp0290556",
+    "geneA": "AdSL",
+    "geneB": "bur",
+    "annotationA": "N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity. It is involved in the biological process described with: purine ribonucleotide biosynthetic process; purine nucleotide metabolic process; Belongs to the lyase 1 family. Adenylosuccinate lyase subfamily",
+    "annotationB": "Burgundy, isoform B; GMP synthase activity; ATP binding; pyrophosphatase activity; deubiquitinase activator activity; GMP synthase (glutamine-hydrolyzing) activity. It is involved in the biological process described with: histone deubiquitination; regulation of ubiquitin-specific protease activity; axon guidance; GMP biosynthetic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

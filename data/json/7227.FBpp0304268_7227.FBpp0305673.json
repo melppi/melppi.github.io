@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 12.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0304268",
+    "proB": "FBpp0305673",
+    "geneA": "Rpb5",
+    "geneB": "TfIIB",
+    "annotationA": "Rpb5, isoform A; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "annotationB": "Transcription factor IIB (TFIIB) is a basal transcription factor that binds to the TATA box-binding protein. TFIIB is required for the initiation of transcription by RNA polymerase II",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

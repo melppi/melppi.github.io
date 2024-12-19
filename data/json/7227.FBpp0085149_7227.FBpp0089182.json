@@ -1,0 +1,16 @@
+{
+    "pae": 18.7,
+    "iptm": 23.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0085149",
+    "proB": "FBpp0089182",
+    "geneA": "Gprk2",
+    "geneB": "Gbeta13F",
+    "annotationA": "G protein-coupled receptor kinase 2 (Gprk2) is a member of a family of serine/threonine kinases that modulate G-protein coupled receptors. It is required for female fertility, normal egg shape, and normal egg cAMP levels. Gprk2 is also implicated in Hedgehog signaling and olfactory rhythmicity; Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. GPRK subfamily",
+    "annotationB": "Guanine nucleotide-binding protein subunit beta-1; Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein- effector interaction",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

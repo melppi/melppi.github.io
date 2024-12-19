@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 25.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0083753",
+    "proB": "FBpp0086400",
+    "geneA": "p53",
+    "geneB": "Prosbeta1",
+    "annotationA": "P53 protein long form variant 1; P53 is a transcriptional factor required for adaptive responses to genotoxic stress, including cell death, compensatory proliferation and DNA repair",
+    "annotationB": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

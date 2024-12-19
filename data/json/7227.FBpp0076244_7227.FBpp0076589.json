@@ -1,0 +1,48 @@
+{
+    "pae": 13.8,
+    "iptm": 30.8,
+    "pdockq": 0.031,
+    "proA": "FBpp0076244",
+    "proB": "FBpp0076589",
+    "geneA": "Srp68",
+    "geneB": "Srp19",
+    "annotationA": "Signal recognition particle subunit SRP68; Signal-recognition-particle assembly has a crucial role in targeting secretory proteins to the rough endoplasmic reticulum membrane. Srp68 binds the 7S RNA, Srp72 binds to this complex subsequently. This ribonucleoprotein complex might interact directly with the docking protein in the ER membrane and possibly participate in the elongation arrest function (By similarity)",
+    "annotationB": "Signal recognition particle 19 kDa protein; Signal-recognition-particle assembly, binds directly to 7S RNA and mediates binding of the 54 kDa subunit of the SRP",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 125,
+            "end_residue_number": 125,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 79,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "125-125"
+    ],
+    "interfaceB": [
+        "79-82"
+    ]
+}

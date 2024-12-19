@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 15.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0070638",
+    "proB": "FBpp0086676",
+    "geneA": "Xpac",
+    "geneB": "Tfb1",
+    "annotationA": "DNA repair protein complementing XP-A cells homolog; Involved in DNA excision repair. Initiates repair by binding to damaged sites with various affinities, depending on the photoproduct and the transcriptional state of the region (By similarity); Belongs to the XPA family",
+    "annotationB": "Transcription factor B1 (Tfb1) is a subunit of the Transcription factor II H complex (TFIIH). TFIIH operates in RNA polymerase I and II-mediated transcription, DNA repair and cell cycle regulation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

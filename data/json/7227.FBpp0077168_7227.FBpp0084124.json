@@ -1,0 +1,16 @@
+{
+    "pae": 26.3,
+    "iptm": 15.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0077168",
+    "proB": "FBpp0084124",
+    "geneA": "CG3714",
+    "geneB": "Nmnat",
+    "annotationA": "Nicotinate phosphoribosyltransferase; Catalyzes the conversion of nicotinic acid (NA) to NA mononucleotide (NaMN)",
+    "annotationB": "Nicotinamide mononucleotide adenylyltransferase (Nmnat) is an essential enzyme in the NAD salvage pathway, catalyzing the last step of NAD synthesis. Nmnat is also a neuronal maintenance factor that protects neurons from excitotoxicity, environmental stress and protein misfolding induced degeneration",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

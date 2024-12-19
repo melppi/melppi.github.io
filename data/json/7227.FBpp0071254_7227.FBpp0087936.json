@@ -1,0 +1,48 @@
+{
+    "pae": 15.4,
+    "iptm": 28.5,
+    "pdockq": 0.026,
+    "proA": "FBpp0071254",
+    "proB": "FBpp0087936",
+    "geneA": "CG16892",
+    "geneB": "Nup44A",
+    "annotationA": "Uncharacterized protein, isoform A; It is involved in the biological process described with: nucleocytoplasmic transport",
+    "annotationB": "Nucleoporin at 44A, isoform A; Structural constituent of nuclear pore. It is involved in the biological process described with: oogenesis; regulation of mitotic cell cycle; regulation of meiotic cell cycle; Belongs to the WD repeat SEC13 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 308,
+            "end_residue_number": 312,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 341,
+            "end_residue_number": 346,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "308-312"
+    ],
+    "interfaceB": [
+        "341-346"
+    ]
+}

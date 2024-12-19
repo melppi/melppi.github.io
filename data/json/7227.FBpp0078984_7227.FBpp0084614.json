@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 18.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0078984",
+    "proB": "FBpp0084614",
+    "geneA": "smt3",
+    "geneB": "Sce",
+    "annotationA": "Small ubiquitin-related modifier; Smt3 is the only Drosophila SUMO family protein. It is required for embryonic patterning and mitosis. It may also have roles in wing patterning, Dpp signaling, and Ras/MAPK signaling. It localizes to the nucleus during interphase  and to the kinetochores and midbodies during mitosis",
+    "annotationB": "E3 ubiquitin-protein ligase RING1; E3 ubiquitin-protein ligase that mediates monoubiquitination of 'Lys-118' of histone H2A, thereby playing a central role in histone code and gene regulation. H2A 'Lys-118' ubiquitination gives a specific tag for epigenetic transcriptional repression. Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. PcG [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

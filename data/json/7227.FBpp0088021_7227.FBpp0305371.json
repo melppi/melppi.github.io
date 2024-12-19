@@ -1,0 +1,16 @@
+{
+    "pae": 24.2,
+    "iptm": 19.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0088021",
+    "proB": "FBpp0305371",
+    "geneA": "Rpt1",
+    "geneB": "Smurf",
+    "annotationA": "26S proteasome regulatory complex subunit p48B; Regulatory particle triple-A ATPase 1 is an AAA-type ATPase protein that forms part of the heterohexameric ATPase ring of the regulatory complex of the 26S proteasome",
+    "annotationB": "E3 ubiquitin-protein ligase Smurf1; E3 ubiquitin-protein ligase which accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates. Down-regulates Dpp signaling after gastrulation by promoting MAD ubiquitination and subsequent degradation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,62 @@
+{
+    "pae": 7.9,
+    "iptm": 21.4,
+    "pdockq": 0.066,
+    "proA": "FBpp0070402",
+    "proB": "FBpp0083920",
+    "geneA": "crn",
+    "geneB": "CG5986",
+    "annotationA": "Protein crooked neck; May be involved in pre-mRNA splicing process. Involved in neurogenesis; Belongs to the crooked-neck family",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 18,
+            "end_residue_number": 35,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 80,
+            "end_residue_number": 93,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 97,
+            "end_residue_number": 98,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "18-35"
+    ],
+    "interfaceB": [
+        "80-93",
+        "97-98"
+    ]
+}

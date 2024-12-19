@@ -1,0 +1,16 @@
+{
+    "pae": 17.4,
+    "iptm": 31.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0079613",
+    "proB": "FBpp0080048",
+    "geneA": "KdelR",
+    "geneB": "beta'COP",
+    "annotationA": "ER lumen protein-retaining receptor; Required for the retention of luminal endoplasmic reticulum proteins. Determines the specificity of the luminal ER protein retention system. Also required for normal vesicular traffic through the Golgi (By similarity)",
+    "annotationB": "Coatomer subunit beta; The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

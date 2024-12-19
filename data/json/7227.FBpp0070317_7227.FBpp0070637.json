@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 24.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070317",
+    "proB": "FBpp0070637",
+    "geneA": "CG4045",
+    "geneB": "Nsun2",
+    "annotationA": "tRNA (guanine-N(7)-)-methyltransferase; Catalyzes the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA; Belongs to the class I-like SAM-binding methyltransferase superfamily. TrmB family",
+    "annotationB": "tRNA (cytosine(34)-C(5))-methyltransferase; RNA methyltransferase that methylates tRNAs. Methylates cytosine to 5-methylcytosine (m5C) at position 34 of intron- containing tRNA(Leu)(CAA) precursors. Required for short-term memory",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

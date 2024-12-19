@@ -1,0 +1,90 @@
+{
+    "pae": 14.1,
+    "iptm": 20.7,
+    "pdockq": 0.046,
+    "proA": "FBpp0079667",
+    "proB": "FBpp0083562",
+    "geneA": "trk",
+    "geneB": "tsl",
+    "annotationA": "Protein trunk; Required for activity of the tor receptor, could be a ligand of tor. Involved in specifying terminal body pattern",
+    "annotationB": "Torso-like is present in many organs of Drosophila. In particular it is produced and secreted by two cell clusters in the egg chamber, initially anchored at the vitelline membrane and then translocated to the oocyte plasma membrane where it is required for the trk-mediated activation of the tor receptor",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 139,
+            "end_residue_number": 142,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 172,
+            "end_residue_number": 172,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 34,
+            "end_residue_number": 37,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 121,
+            "end_residue_number": 121,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 342,
+            "end_residue_number": 342,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "139-142",
+        "172-172"
+    ],
+    "interfaceB": [
+        "34-37",
+        "121-121",
+        "342-342"
+    ]
+}

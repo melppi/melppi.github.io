@@ -1,0 +1,16 @@
+{
+    "pae": 27.1,
+    "iptm": 13.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0079444",
+    "proB": "FBpp0304202",
+    "geneA": "pelo",
+    "geneB": "eRF1",
+    "annotationA": "Protein pelota; Required prior to the first meiotic division for spindle formation and nuclear envelope breakdown during spermatogenesis. It is also required for normal eye patterning and for mitotic divisions in the ovary. Required for ovarian germ line stem cell self-renewal. May play a role in regulating translation. May function in recognizing stalled ribosomes and triggering endonucleolytic cleavage of the mRNA, a mechanism to release non- functional ribosomes and degrade damaged mRNAs. May have ribonuclease activity (Potential)",
+    "annotationB": "Eukaryotic peptide chain release factor subunit 1; Directs the termination of nascent peptide synthesis (translation) in response to the termination codons UAA, UAG and UGA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

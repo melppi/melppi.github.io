@@ -1,0 +1,16 @@
+{
+    "pae": 24.5,
+    "iptm": 16.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0088988",
+    "proB": "FBpp0305272",
+    "geneA": "Gdh",
+    "geneB": "Idh",
+    "annotationA": "Glutamate dehydrogenase, mitochondrial; Glutamate dehydrogenase (NAD+) activity; identical protein binding; glutamate dehydrogenase [NAD(P)+] activity. It is involved in the biological process described with: aerobic respiration; glutamate catabolic process to 2-oxoglutarate; glutamate metabolic process; NADH oxidation; Belongs to the Glu/Leu/Phe/Val dehydrogenases family",
+    "annotationB": "Isocitrate dehydrogenase (Idh) is a cytosolic enzyme that catalyzes the oxidative decarboxylation of isocitrate to 2-oxoglutarate, with the concomitant reduction of NADP(+) to NADPH. Idh functions, along with Men, Zw, and Pgd, in a small network of NADP reducing enzymes",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

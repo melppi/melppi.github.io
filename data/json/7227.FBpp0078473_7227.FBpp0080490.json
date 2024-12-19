@@ -1,0 +1,48 @@
+{
+    "pae": 13.1,
+    "iptm": 34.0,
+    "pdockq": 0.024,
+    "proA": "FBpp0078473",
+    "proB": "FBpp0080490",
+    "geneA": "CG12161",
+    "geneB": "Prosbeta4",
+    "annotationA": "Proteasome beta2 subunit-related 2; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; cellular process; multicellular organism reproduction; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 143,
+            "end_residue_number": 143,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 95,
+            "end_residue_number": 95,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "143-143"
+    ],
+    "interfaceB": [
+        "95-95"
+    ]
+}

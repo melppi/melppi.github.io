@@ -1,0 +1,16 @@
+{
+    "pae": 22.4,
+    "iptm": 10.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072081",
+    "proB": "FBpp0079752",
+    "geneA": "eIF-5A",
+    "geneB": "RpL9",
+    "annotationA": "Eukaryotic translation initiation factor 5A; mRNA-binding protein involved in translation elongation. Has an important function at the level of mRNA turnover, probably acting downstream of decapping. Involved in actin dynamics and cell cycle progression, mRNA decay and probably in a pathway involved in stress response and maintenance of cell wall integrity. Functions as a regulator of apoptosis; Belongs to the eIF-5A family",
+    "annotationB": "60S ribosomal protein L9; Structural constituent of ribosome; rRNA binding. It is involved in the biological process described with: mitotic spindle elongation; translation; centrosome duplication; mitotic spindle organization; Belongs to the universal ribosomal protein uL6 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

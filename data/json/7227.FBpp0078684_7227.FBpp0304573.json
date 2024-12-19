@@ -1,0 +1,16 @@
+{
+    "pae": 22.3,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078684",
+    "proB": "FBpp0304573",
+    "geneA": "CG8891",
+    "geneB": "ras",
+    "annotationA": "Inosine triphosphate pyrophosphatase; Pyrophosphatase that hydrolyzes non-canonical purine nucleotides such as inosine triphosphate (ITP), deoxyinosine triphosphate (dITP) or xanthosine 5'-triphosphate (XTP) to their respective monophosphate derivatives. The enzyme does not distinguish between the deoxy- and ribose forms. Probably excludes non-canonical purines from RNA and DNA precursor pools, thus preventing their incorporation into RNA and DNA and avoiding chromosomal lesions",
+    "annotationB": "Inosine-5'-monophosphate dehydrogenase; Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate- limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

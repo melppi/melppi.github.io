@@ -1,0 +1,16 @@
+{
+    "pae": 25.7,
+    "iptm": 17.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0082655",
+    "proB": "FBpp0293948",
+    "geneA": "Fbxl7",
+    "geneB": "Rpt4",
+    "annotationA": "F-box and leucine-rich repeat protein 7; Ubiquitin-protein transferase activity. It is involved in the biological process described with: proximal/distal pattern formation, imaginal disc; SCF-dependent proteasomal ubiquitin-dependent protein catabolic process; regulation of hippo signaling; regulation of protein localization; negative regulation of growth",
+    "annotationB": "Regulatory particle triple-A ATPase 4 (Rpt4) is the 19S proteasomal ATPase, which is a component of the 26S proteosome complex. Rpt4 localizes to the nucleolus and participates in regulating rRNA transcription. Rpt4 physically interacts with the BHD tumor suppressor",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

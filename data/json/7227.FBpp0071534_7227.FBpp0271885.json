@@ -1,0 +1,16 @@
+{
+    "pae": 25.3,
+    "iptm": 14.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0071534",
+    "proB": "FBpp0271885",
+    "geneA": "EfSec",
+    "geneB": "CG1427",
+    "annotationA": "RE67487p; GTPase activity; translation elongation factor activity; GTP binding. It is involved in the biological process described with: translational elongation; translational readthrough",
+    "annotationB": "O-phosphoseryl-tRNA(Sec) selenium transferase; Converts O-phosphoseryl-tRNA(Sec) to selenocysteinyl- tRNA(Sec) required for selenoprotein biosynthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

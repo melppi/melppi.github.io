@@ -1,0 +1,16 @@
+{
+    "pae": 26.3,
+    "iptm": 14.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0072560",
+    "proB": "FBpp0078067",
+    "geneA": "CG9149",
+    "geneB": "AcCoAS",
+    "annotationA": "CG9149; acetyl-CoA C-acyltransferase activity. It is involved in the biological process described with: fatty acid beta-oxidation; Belongs to the thiolase family",
+    "annotationB": "Acetyl-coenzyme A synthetase; Activates acetate so that it can be used for lipid synthesis or for energy generation; Belongs to the ATP-dependent AMP-binding enzyme family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

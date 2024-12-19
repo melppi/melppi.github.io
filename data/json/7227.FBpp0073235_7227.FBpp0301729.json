@@ -1,0 +1,76 @@
+{
+    "pae": 15.7,
+    "iptm": 26.9,
+    "pdockq": 0.047,
+    "proA": "FBpp0073235",
+    "proB": "FBpp0301729",
+    "geneA": "CG17333",
+    "geneB": "Rpe",
+    "annotationA": "Probable 6-phosphogluconolactonase; Hydrolysis of 6-phosphogluconolactone to 6- phosphogluconate",
+    "annotationB": "Belongs to the ribulose-phosphate 3-epimerase family. ",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 140,
+            "end_residue_number": 142,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 171,
+            "end_residue_number": 174,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 200,
+            "end_residue_number": 200,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 105,
+            "end_residue_number": 110,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "140-142",
+        "171-174",
+        "200-200"
+    ],
+    "interfaceB": [
+        "105-110"
+    ]
+}

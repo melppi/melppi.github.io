@@ -1,0 +1,48 @@
+{
+    "pae": 18.1,
+    "iptm": 18.1,
+    "pdockq": 0.026,
+    "proA": "FBpp0077125",
+    "proB": "FBpp0084140",
+    "geneA": "Dim1",
+    "geneB": "PQBP1",
+    "annotationA": "RE13747p; It is involved in the biological process described with: mitotic nuclear division; mRNA splicing, via spliceosome; mitotic spindle organization; neurogenesis",
+    "annotationB": "Poly-glutamine tract binding protein 1 is a component of nuclear speckles and cytoplasmic stress granules. It is involved in RNA transcription, RNA splicing, and possibly in protein translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 94,
+            "end_residue_number": 96,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "91-91"
+    ],
+    "interfaceB": [
+        "94-96"
+    ]
+}

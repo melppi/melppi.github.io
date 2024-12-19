@@ -1,0 +1,16 @@
+{
+    "pae": 21.0,
+    "iptm": 20.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0083071",
+    "proB": "FBpp0086468",
+    "geneA": "Vha100-2",
+    "geneB": "Vha36-1",
+    "annotationA": "V-type proton ATPase subunit a; Essential component of the vacuolar proton pump (V- ATPase), a multimeric enzyme that catalyzes the translocation of protons across the membranes. Required for assembly and activity of the V-ATPase",
+    "annotationB": "V-type proton ATPase subunit D 1; Subunit of the peripheral V1 complex of vacuolar ATPase. V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells, thus providing most of the energy required for transport processes in the vacuolar system (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

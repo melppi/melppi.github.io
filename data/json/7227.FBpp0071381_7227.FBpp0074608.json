@@ -1,0 +1,48 @@
+{
+    "pae": 15.4,
+    "iptm": 22.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0071381",
+    "proB": "FBpp0074608",
+    "geneA": "flw",
+    "geneB": "polo",
+    "annotationA": "Serine/threonine-protein phosphatase beta isoform; Required for cell adhesion in non-muscle tissues and in maintenance of muscle attachment. Vital for larval development",
+    "annotationB": "Serine/threonine-protein kinase polo; May play a role in regulating both nuclear and cytoplasmic aspects of the mitotic cycle. Regulates localization of the augmin complex during mitosis by ensuring its location on mitotic spindles. Also regulates augmin complex localization during male meiosis by promoting its placement at kinetochores while preventing its association with spindle microtubules",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 140,
+            "end_residue_number": 140,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 466,
+            "end_residue_number": 466,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "140-140"
+    ],
+    "interfaceB": [
+        "466-466"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 25.1,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0099992",
+    "proB": "FBpp0292309",
+    "geneA": "PIP4K",
+    "geneB": "Sac1",
+    "annotationA": "1-phosphatidylinositol-4-phosphate 5-kinase activity; 1-phosphatidylinositol-5-phosphate 4-kinase activity. It is involved in the biological process described with: actin filament organization; phosphatidylinositol phosphorylation; regulation of cell shape; regulation of TOR signaling; positive regulation of multicellular organism growth; cell adhesion; positive regulation of cell growth; phosphorylation",
+    "annotationB": "Phosphatidylinositide phosphatase SAC1; Phosphoinositide phosphatase that hydrolyzes PtdIns(3)P and PtdIns(4)P. Has low activity towards PtdIns(3,5)P2 (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

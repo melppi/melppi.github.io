@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 20.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0082065",
+    "proB": "FBpp0113022",
+    "geneA": "Aos1",
+    "geneB": "CG33276",
+    "annotationA": "Activator of SUMO 1 is one of two subunits (along with Uba2) of the heterodimeric SUMO activating enzyme",
+    "annotationB": "Ubiquitin-related modifier 1 homolog; Acts as a sulfur carrier required for 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of cytosolic tRNA(Lys), tRNA(Glu) and tRNA(Gln). Serves as sulfur donor in tRNA 2- thiolation reaction by being thiocarboxylated (-COSH) at its C- terminus by MOCS3. The sulfur is then transferred to tRNA to form 2-thiolation of mcm(5)S(2)U. Also acts as a ubiquitin-like protein (UBL) that is covalently conjugated via an isopeptide bond to lysine residues of target proteins. The thiocarboxylated form serves as substrate for conjugation and oxidative stress sp [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

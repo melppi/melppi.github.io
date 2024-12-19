@@ -1,0 +1,62 @@
+{
+    "pae": 14.7,
+    "iptm": 25.2,
+    "pdockq": 0.037,
+    "proA": "FBpp0070204",
+    "proB": "FBpp0074589",
+    "geneA": "Tsp2A",
+    "geneB": "Ssk",
+    "annotationA": "Tetraspanin-2A; Required for assembly of smooth septate junctions (sSJs), together with Ssk and mesh. Important for barrier function of the midgut epithelium; Belongs to the tetraspanin (TM4SF) family",
+    "annotationB": "Protein snakeskin; Required for assembly of smooth septate junctions (sSJs), together with mesh and Tsp2A. May be important for barrier function of the midgut epithelium",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 156,
+            "end_residue_number": 158,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 195,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 118,
+            "end_residue_number": 121,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "156-158",
+        "195-199"
+    ],
+    "interfaceB": [
+        "118-121"
+    ]
+}

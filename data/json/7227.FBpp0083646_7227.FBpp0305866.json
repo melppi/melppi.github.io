@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 25.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0083646",
+    "proB": "FBpp0305866",
+    "geneA": "AP-2mu",
+    "geneB": "shi",
+    "annotationA": "Adaptor Protein complex 2, mu subunit is a component of the AP-2 adaptor complex, which recruits certain transmembrane proteins into clathrin-coated pits for endocytic internalization",
+    "annotationB": "Dynamin; Microtubule-associated force-producing protein which is involved in the production of microtubule bundles and which is able to bind and hydrolyze GTP. Implicated in endocytic protein sorting; Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

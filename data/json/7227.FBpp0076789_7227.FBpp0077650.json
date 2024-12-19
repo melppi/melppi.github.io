@@ -1,0 +1,16 @@
+{
+    "pae": 19.8,
+    "iptm": 19.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0076789",
+    "proB": "FBpp0077650",
+    "geneA": "DNApol-epsilon58",
+    "geneB": "Tfb4",
+    "annotationA": "DNA polymerase epsilon subunit; Participates in DNA repair and in chromosomal DNA replication",
+    "annotationB": "Transcription factor B4; RNA polymerase II carboxy-terminal domain kinase activity; DNA-dependent ATPase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; transcriptional open complex formation at RNA polymerase II promoter; nucleotide-excision repair; promoter clearance from RNA polymerase II promoter; regulation of transcription, DNA-templated; response to UV; transcription initiation from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

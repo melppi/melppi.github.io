@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 14.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0077694",
+    "proB": "FBpp0088562",
+    "geneA": "dbe",
+    "geneB": "tra2",
+    "annotationA": "KRR1 small subunit processome component homolog; Required for 40S ribosome biogenesis. Involved in nucleolar processing of pre-18S ribosomal RNA and ribosome assembly. Binds to RNA. Required for female germline development, cell viability during eye development and for survival of dividing cells and epithelial cells during early wing disk development",
+    "annotationB": "Transformer-2 sex-determining protein; Required for female sex determination in somatic cells and for spermatogenesis in male germ cells. Positive regulator of female-specific splicing and/or polyadenylation of doublesex (dsx) pre-mRNA. Splicing requires an enhancer complex, dsxRE (dsx repeat element: which contains six copies of a 13-nucleotide repeat and a purine-rich enhancer (PRE)). DsxRE is formed through cooperative interactions between tra, tra2 and the sr proteins, and these interactions require both the repeat sequences and PRE. PRE is required for specific binding of tra2 to  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

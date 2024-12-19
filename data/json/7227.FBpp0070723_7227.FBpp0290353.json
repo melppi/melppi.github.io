@@ -1,0 +1,62 @@
+{
+    "pae": 11.8,
+    "iptm": 39.6,
+    "pdockq": 0.038,
+    "proA": "FBpp0070723",
+    "proB": "FBpp0290353",
+    "geneA": "Cdk7",
+    "geneB": "Tfb5",
+    "annotationA": "Cyclin-dependent kinase 7 (Cdk) is a serine/threonine protein kinase whose activity depends on the regulatory CycH and Mat1 subunits. This trimeric Cdk complex activates other Cdks by phosphorylation in their T-loop and is called Cdk activating kinase (CAK). CAK can also be part of TFIIH, where Cdk7 phosphorylates different transcription substrates (e.g. CTD of Pol II)",
+    "annotationB": "Transcription factor B5 is a subunit of the basal transcription and DNA repair factor TFIIH, which operates in transcription and DNA repair",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 351,
+            "end_residue_number": 353,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 8,
+            "end_residue_number": 20,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 49,
+            "end_residue_number": 58,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "351-353"
+    ],
+    "interfaceB": [
+        "8-20",
+        "49-58"
+    ]
+}

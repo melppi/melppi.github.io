@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 15.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0084124",
+    "proB": "FBpp0087714",
+    "geneA": "Nmnat",
+    "geneB": "CG8080",
+    "annotationA": "Nicotinamide mononucleotide adenylyltransferase (Nmnat) is an essential enzyme in the NAD salvage pathway, catalyzing the last step of NAD synthesis. Nmnat is also a neuronal maintenance factor that protects neurons from excitotoxicity, environmental stress and protein misfolding induced degeneration",
+    "annotationB": "NAD kinase 2, mitochondrial; Mitochondrial NAD(+) kinase that phosphorylates NAD(+) to yield NADP(+). Can use both ATP or inorganic polyphosphate as the phosphoryl donor",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

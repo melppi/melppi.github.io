@@ -1,0 +1,16 @@
+{
+    "pae": 24.3,
+    "iptm": 15.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0077618",
+    "proB": "FBpp0085891",
+    "geneA": "Atg4a",
+    "geneB": "Atg7",
+    "annotationA": "Cysteine protease; Cysteine protease required for the cytoplasm to vacuole transport (Cvt) and autophagy",
+    "annotationB": "Autophagy-related 7 is an E1-type ligase for the autophagic ubiquitin-like proteins Atg8a and Atg12. Its roles include autophagosome formation, maintaining neuromuscular function and normal lifespan",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 26.0,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0111818",
+    "proB": "FBpp0305835",
+    "geneA": "TER94",
+    "geneB": "Rad23",
+    "annotationA": "Transitional endoplasmic reticulum ATPase TER94; Necessary for the fragmentation of Golgi stacks during mitosis and for their reassembly after mitosis. Involved in the formation of the transitional endoplasmic reticulum (tER). The transfer of membranes from the endoplasmic reticulum to the Golgi apparatus occurs via 50-70 nm transition vesicles which derive from part-rough, part-smooth transitional elements of the endoplasmic reticulum (tER). Vesicle budding from the tER is an ATP-dependent process. Involved in the ubiquitin-proteasome system. Important for oskar mRNA localization and/ [...] ",
+    "annotationB": "DNA repair protein Rad23; Damaged DNA binding. It is involved in the biological process described with: nucleotide-excision repair; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

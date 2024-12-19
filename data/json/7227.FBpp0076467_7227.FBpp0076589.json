@@ -1,0 +1,16 @@
+{
+    "pae": 17.5,
+    "iptm": 12.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0076467",
+    "proB": "FBpp0076589",
+    "geneA": "Srp9",
+    "geneB": "Srp19",
+    "annotationA": "Signal recognition particle 9 kDa protein; Signal-recognition-particle assembly has a crucial role in targeting secretory proteins to the rough endoplasmic reticulum membrane. Srp9 together with Srp14 and the Alu portion of the SRP RNA, constitutes the elongation arrest domain of SRP. The complex of Srp9 and Srp14 is required for SRP RNA binding (By similarity)",
+    "annotationB": "Signal recognition particle 19 kDa protein; Signal-recognition-particle assembly, binds directly to 7S RNA and mediates binding of the 54 kDa subunit of the SRP",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

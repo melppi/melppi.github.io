@@ -1,0 +1,16 @@
+{
+    "pae": 24.2,
+    "iptm": 13.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0088021",
+    "proB": "FBpp0099945",
+    "geneA": "Rpt1",
+    "geneB": "hh",
+    "annotationA": "26S proteasome regulatory complex subunit p48B; Regulatory particle triple-A ATPase 1 is an AAA-type ATPase protein that forms part of the heterohexameric ATPase ring of the regulatory complex of the 26S proteasome",
+    "annotationB": "Protein hedgehog; Intercellular signal essential for a variety of patterning events during development. Establishes the anterior- posterior axis of the embryonic segments and patterns the larval imaginal disks. Binds to the patched (ptc) receptor, which functions in association with smoothened (smo), to activate the transcription of target genes wingless (wg), decapentaplegic (dpp) and ptc. In the absence of hh, ptc represses the constitutive signaling activity of smo through fused (fu). Essential component of a signaling pathway which regulates the Duox-dependent gut immune response t [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

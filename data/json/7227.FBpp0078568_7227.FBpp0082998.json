@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 30.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0078568",
+    "proB": "FBpp0082998",
+    "geneA": "Fip1",
+    "geneB": "Nup43",
+    "annotationA": "Factor interacting with poly(A) polymerase 1; Myosin binding. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; histone mRNA 3'-end processing",
+    "annotationB": "Nucleoporin 43kD; It is involved in the biological process described with: mitotic nuclear division",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

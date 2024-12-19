@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 23.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0075633",
+    "proB": "FBpp0304449",
+    "geneA": "CG11261",
+    "geneB": "UbcE2M",
+    "annotationA": "LD29662p; Ubiquitin protein ligase binding. It is involved in the biological process described with: protein catabolic process; ubiquitin-dependent protein catabolic process; Belongs to the cullin family",
+    "annotationB": "Nedd8-conjugating enzyme Ubc12; Accepts the ubiquitin-like protein Nedd8 from the Uba3- APP-BP1 E1 complex and catalyzes its covalent attachment to other proteins. Required for Cul1 and Cul3 neddylation. Negatively regulates full-length ci stability and hedgehog signaling; Belongs to the ubiquitin-conjugating enzyme family. UBC12 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

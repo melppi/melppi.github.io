@@ -1,0 +1,16 @@
+{
+    "pae": 18.9,
+    "iptm": 19.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0080013",
+    "proB": "FBpp0086853",
+    "geneA": "Pk34A",
+    "geneB": "Dp",
+    "annotationA": "RT06158p; Protein kinase activity; ATP binding; protein serine/threonine kinase activity. It is involved in the biological process described with: protein phosphorylation",
+    "annotationB": "Transcription factor Dp; Component of the DREAM complex, a multiprotein complex that can both act as a transcription activator or repressor depending on the context. In follicle cells, the complex plays a central role in the site-specific DNA replication at the chorion loci. During development, the complex represses transcription of developmentally controlled E2F target genes. Can stimulate E2F- dependent transcription",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

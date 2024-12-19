@@ -1,0 +1,16 @@
+{
+    "pae": 19.2,
+    "iptm": 20.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0078880",
+    "proB": "FBpp0087979",
+    "geneA": "Cpr",
+    "geneB": "Cyt-b5",
+    "annotationA": "NADPH--cytochrome P450 reductase; This enzyme is required for electron transfer from NADP to cytochrome p450 in microsomes. It can also provide electron transfer to heme oxygenase and cytochrome b5 (By similarity). May function to clear the olfactory organ (antennae) from accumulating chemicals; In the N-terminal section; belongs to the flavodoxin family",
+    "annotationB": "Cytochrome b5; Cytochrome b5 is a membrane-bound hemoprotein which functions as an electron carrier for several membrane-bound oxygenases",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

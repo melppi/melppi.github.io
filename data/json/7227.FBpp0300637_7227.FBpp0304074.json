@@ -1,0 +1,174 @@
+{
+    "pae": 1.5,
+    "iptm": 56.3,
+    "pdockq": 0.689,
+    "proA": "FBpp0300637",
+    "proB": "FBpp0304074",
+    "geneA": "NPFR",
+    "geneB": "NPF",
+    "annotationA": "Neuropeptide F receptor; Receptor for NPF. Integral part of the sensory system that mediates food signaling, providing the neural basis for the regulation of food response; coordinates larval foraging and social behavior changes during development. Required in dopaminergic (DA) neurons that innervate the mushroom body for satiety to suppress appetitive memory performance; a key factor in the internal state of hunger in the brain. NPF neurons coordinately modulate diverse sensory and motor neurons important for feeding, flight, and locomotion. NPF/NPFR pathway exerts its suppressive eff [...] ",
+    "annotationB": "Neuropeptide F; Integral part of the sensory system that mediates food signaling, providing the neural basis for the regulation of food response; coordinates larval foraging and social behavior changes during development. Required in dopaminergic (DA) neurons that innervate the mushroom body for satiety to suppress appetitive memory performance; a key factor in the internal state of hunger in the brain. NPF neurons coordinately modulate diverse sensory and motor neurons important for feeding, flight, and locomotion. NPF/NPFR pathway exerts its suppressive effect on larval aversion to d [...] ",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 65,
+            "end_residue_number": 75,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 134,
+            "end_residue_number": 154,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 164,
+            "end_residue_number": 173,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 184,
+            "end_residue_number": 184,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 221,
+            "end_residue_number": 221,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 225,
+            "end_residue_number": 279,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 330,
+            "end_residue_number": 347,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 351,
+            "end_residue_number": 355,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 359,
+            "end_residue_number": 359,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 363,
+            "end_residue_number": 363,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "65-75",
+        "134-154",
+        "164-173",
+        "184-184",
+        "221-221",
+        "225-279",
+        "330-347",
+        "351-355",
+        "359-359",
+        "363-363"
+    ],
+    "interfaceB": [
+        "1-67"
+    ]
+}

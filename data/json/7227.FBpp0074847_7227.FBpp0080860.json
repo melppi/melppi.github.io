@@ -1,0 +1,16 @@
+{
+    "pae": 23.1,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0074847",
+    "proB": "FBpp0080860",
+    "geneA": "Rad9",
+    "geneB": "lok",
+    "annotationA": "DNA repair protein Rad9; It is involved in the biological process described with: DNA damage checkpoint; DNA repair",
+    "annotationB": "Ovarian-specific serine/threonine-protein kinase Lok; May have a role in germline establishment; Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CDS1 subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

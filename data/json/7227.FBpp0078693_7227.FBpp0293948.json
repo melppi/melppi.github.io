@@ -1,0 +1,16 @@
+{
+    "pae": 24.2,
+    "iptm": 12.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0078693",
+    "proB": "FBpp0293948",
+    "geneA": "jet",
+    "geneB": "Rpt4",
+    "annotationA": "Jetlag, isoform A; Jetlag is an F-box protein that is a component of an SCF E3 ubiquitin ligase complex. It targets tim for degradation upon light exposure, and is essential for photic entrainment of the circadian clock",
+    "annotationB": "Regulatory particle triple-A ATPase 4 (Rpt4) is the 19S proteasomal ATPase, which is a component of the 26S proteosome complex. Rpt4 localizes to the nucleolus and participates in regulating rRNA transcription. Rpt4 physically interacts with the BHD tumor suppressor",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

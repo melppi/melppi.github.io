@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0073561",
+    "proB": "FBpp0085100",
+    "geneA": "REG",
+    "geneB": "CG1736",
+    "annotationA": "Proteasome regulator dREG; Endopeptidase activator activity; endopeptidase inhibitor activity. It is involved in the biological process described with: mRNA splicing, via spliceosome; regulation of proteasomal protein catabolic process; regulation of G1/S transition of mitotic cell cycle",
+    "annotationB": "Proteasome subunit alpha type-4-like; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 23.7,
+    "iptm": 12.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0077363",
+    "proB": "FBpp0077750",
+    "geneA": "Ts",
+    "geneB": "CG13690",
+    "annotationA": "Thymidylate synthase activity. It is involved in the biological process described with: dTMP biosynthetic process; deoxyribonucleotide biosynthetic process; neurogenesis",
+    "annotationB": "Ribonuclease H2 subunit A; Catalytic subunit of RNase HII, an endonuclease that specifically degrades the RNA of RNA:DNA hybrids. Participates in DNA replication, possibly by mediating the removal of lagging- strand Okazaki fragment RNA primers during DNA replication. Mediates the excision of single ribonucleotides from DNA:RNA duplexes (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

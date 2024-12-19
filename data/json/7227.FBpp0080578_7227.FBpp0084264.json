@@ -1,0 +1,48 @@
+{
+    "pae": 13.9,
+    "iptm": 39.1,
+    "pdockq": 0.024,
+    "proA": "FBpp0080578",
+    "proB": "FBpp0084264",
+    "geneA": "Prosbeta5R2",
+    "geneB": "Tnks",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "Tankyrase; Stimulates proteasome activity, probably by ADP- ribosylation of PI31. Modulates 26S proteasome assembly",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 140,
+            "end_residue_number": 140,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 783,
+            "end_residue_number": 785,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "140-140"
+    ],
+    "interfaceB": [
+        "783-785"
+    ]
+}

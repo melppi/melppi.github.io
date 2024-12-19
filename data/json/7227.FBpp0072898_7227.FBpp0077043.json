@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 18.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0072898",
+    "proB": "FBpp0077043",
+    "geneA": "CG32281",
+    "geneB": "CG14618",
+    "annotationA": "tRNA (guanine(37)-N1)-methyltransferase; Specifically methylates the N1 position of guanosine-37 in various cytoplasmic and mitochondrial tRNAs. Methylation is not dependent on the nature of the nucleoside 5' of the target nucleoside. This is the first step in the biosynthesis of wybutosine (yW), a modified base adjacent to the anticodon of tRNAs and required for accurate decoding; Belongs to the class I-like SAM-binding methyltransferase superfamily. TRM5/TYW2 family",
+    "annotationB": "tRNA methyltransferase 10 homolog A; S-adenosyl-L-methionine-dependent guanine N(1)- methyltransferase that catalyzes the formation of N(1)- methylguanine at position 9 (m1G9) in tRNAs",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

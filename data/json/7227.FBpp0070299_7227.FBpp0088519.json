@@ -1,0 +1,48 @@
+{
+    "pae": 17.0,
+    "iptm": 20.4,
+    "pdockq": 0.024,
+    "proA": "FBpp0070299",
+    "proB": "FBpp0088519",
+    "geneA": "CG14805",
+    "geneB": "CG5033",
+    "annotationA": "annotation not available",
+    "annotationB": "Ribosome biogenesis protein BOP1 homolog; Required for maturation of ribosomal RNAs and formation of the large ribosomal subunit",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 256,
+            "end_residue_number": 257,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 327,
+            "end_residue_number": 327,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "256-257"
+    ],
+    "interfaceB": [
+        "327-327"
+    ]
+}

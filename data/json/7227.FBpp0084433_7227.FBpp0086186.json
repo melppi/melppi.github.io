@@ -1,0 +1,16 @@
+{
+    "pae": 14.6,
+    "iptm": 19.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0084433",
+    "proB": "FBpp0086186",
+    "geneA": "IntS12",
+    "geneB": "IntS8",
+    "annotationA": "Integrator complex subunit 12; Component of the Integrator complex, a complex involved in the transcription of small nuclear RNAs (snRNA) and their 3'- box-dependent processing. Involved in the 3'-end processing of the U7 snRNA, and also the spliceosomal snRNAs U1, U2, U4 and U5. Required for the normal expression of the Integrator complex component IntS1. May mediate recruitment of cytoplasmic dynein to the nuclear envelope, probably as component of the INT complex (By similarity); Belongs to the Integrator subunit 12 family",
+    "annotationB": "Integrator complex subunit 8; Component of the Integrator complex, a complex involved in the transcription of small nuclear RNAs (snRNA) and their 3'- box-dependent processing. Involved in the 3'-end processing of the U7 snRNA, and also the spliceosomal snRNAs U1, U2, U4 and U5",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

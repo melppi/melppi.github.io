@@ -1,0 +1,16 @@
+{
+    "pae": 23.7,
+    "iptm": 17.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0084626",
+    "proB": "FBpp0293061",
+    "geneA": "CG4849",
+    "geneB": "SmB",
+    "annotationA": "LD28793p; GTPase activity; translation elongation factor activity; GTP binding. It is involved in the biological process described with: translational elongation; positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; mRNA splicing, via spliceosome",
+    "annotationB": "Small ribonucleoprotein particle protein SmB (SmB) is an RNA binding protein that forms a heterodimeric sub-complex with SmD3. They function as part of the heteroheptameric ring complex Sm core, which is involved in the formation of spliceosomal small nuclear RNPs (U1, U2, U4 and U5), which together catalyze pre-mRNA splicing; Belongs to the snRNP SmB/SmN family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

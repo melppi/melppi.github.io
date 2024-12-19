@@ -1,0 +1,16 @@
+{
+    "pae": 14.7,
+    "iptm": 23.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0085693",
+    "proB": "FBpp0302536",
+    "geneA": "CG7137",
+    "geneB": "Su(var)3-9",
+    "annotationA": "Ribosomal RNA-processing protein 8; Probable methyltransferase required to silence rDNA",
+    "annotationB": "Histone-lysine N-methyltransferase Su(var)3-9; Histone methyltransferase that specifically trimethylates 'Lys-9' of histone H3 using monomethylated H3 'Lys- 9' as substrate. H3 'Lys-9' trimethylation represents a specific tag for epigenetic transcriptional repression by recruiting Su(var)205/HP1 to methylated histones. Mainly functions in heterochromatin regions, thereby playing a central role in the establishment of constitutive heterochromatin at pericentric regions. Involved in heterochromatic gene silencing including the modification of position-effect-variegation; Belongs to the c [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.1,
+    "iptm": 18.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0074180",
+    "proB": "FBpp0084761",
+    "geneA": "RpS5a",
+    "geneB": "Ef1gamma",
+    "annotationA": "40S ribosomal protein S5a; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: mitotic spindle organization; mitotic spindle elongation; translation; Belongs to the universal ribosomal protein uS7 family",
+    "annotationB": "Elongation factor 1-gamma; Ef1gamma associates with other EF1 subunits (alpha/beta/delta). It binds tubulin and Doa protein kinase, which in turns phosphorylates Ef1gamma. Ef1gamma regulates organelle movement along microtubules",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 12.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0072975",
+    "proB": "FBpp0297136",
+    "geneA": "ND-30",
+    "geneB": "ATPsynG",
+    "annotationA": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity. It is involved in the biological process described with: oxidation-reduction process; Belongs to the complex I 30 kDa subunit family",
+    "annotationB": "Hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

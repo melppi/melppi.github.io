@@ -1,0 +1,16 @@
+{
+    "pae": 17.7,
+    "iptm": 18.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0076658",
+    "proB": "FBpp0087704",
+    "geneA": "CG10103",
+    "geneB": "shrb",
+    "annotationA": "Uncharacterized protein, isoform A; It is involved in the biological process described with: endosome transport via multivesicular body sorting pathway",
+    "annotationB": "GH13992p; Shrub encodes Vps32/Snf7, a filament-forming subunit of the ESCRT-III complex involved in inward membrane budding. The Shrub gene product regulates multiple cellular processes involving ESCRTs activity including multivesicular body biogenesis, cytokinesis, membrane repair and regulation of membrane associated signaling",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

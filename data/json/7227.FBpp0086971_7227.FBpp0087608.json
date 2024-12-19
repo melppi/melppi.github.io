@@ -1,0 +1,16 @@
+{
+    "pae": 20.2,
+    "iptm": 11.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0086971",
+    "proB": "FBpp0087608",
+    "geneA": "Nacalpha",
+    "geneB": "RpL31",
+    "annotationA": "Nascent polypeptide-associated complex subunit alpha; May promote appropriate targeting of ribosome-nascent polypeptide complexes (By similarity). Required for correct localization of the osk/oskar protein to the posterior pole during embryonic development. The osk protein directs the recruitment of molecules responsible for posterior body patterning and germline formation in the embryo",
+    "annotationB": "60S ribosomal protein L31; Structural constituent of ribosome. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; Belongs to the eukaryotic ribosomal protein eL31 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

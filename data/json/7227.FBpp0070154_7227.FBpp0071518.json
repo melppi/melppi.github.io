@@ -1,0 +1,48 @@
+{
+    "pae": 6.7,
+    "iptm": 26.7,
+    "pdockq": 0.08,
+    "proA": "FBpp0070154",
+    "proB": "FBpp0071518",
+    "geneA": "CG13364",
+    "geneB": "RpL29",
+    "annotationA": "annotation not available",
+    "annotationB": "60S ribosomal protein L29; Structural constituent of ribosome; chromatin binding. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eL29 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 21,
+            "end_residue_number": 32,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 12,
+            "end_residue_number": 22,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "21-32"
+    ],
+    "interfaceB": [
+        "12-22"
+    ]
+}

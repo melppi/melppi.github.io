@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0070719",
+    "proB": "FBpp0071087",
+    "geneA": "Sas10",
+    "geneB": "RpS6",
+    "annotationA": "Something about silencing protein 10; Essential for gene silencing: has a role in the structure of silenced chromatin. May be involved in gene regulation during development. Binds RNA; Belongs to the SAS10 family",
+    "annotationB": "40S ribosomal protein S6; May play an important role in controlling cell growth and proliferation through the selective translation of particular classes of mRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

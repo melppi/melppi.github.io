@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0087350",
+    "proB": "FBpp0304268",
+    "geneA": "Mat1",
+    "geneB": "Rpb5",
+    "annotationA": "CDK7/cyclin H assembly factor MAT1; RNA polymerase II carboxy-terminal domain kinase activity; zinc ion binding; core RNA polymerase binding transcription factor activity; cyclin-dependent protein serine/threonine kinase activity. It is involved in the biological process described with: cell cycle; transcription initiation from RNA polymerase II promoter",
+    "annotationB": "Rpb5, isoform A; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

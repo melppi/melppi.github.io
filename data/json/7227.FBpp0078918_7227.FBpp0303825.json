@@ -1,0 +1,16 @@
+{
+    "pae": 15.3,
+    "iptm": 15.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0078918",
+    "proB": "FBpp0303825",
+    "geneA": "COX5B",
+    "geneB": "ND-MLRQ",
+    "annotationA": "Cytochrome-c oxidase activity. It is involved in the biological process described with: mitochondrial electron transport, cytochrome c to oxygen",
+    "annotationB": "NADH dehydrogenase (Ubiquinone) MLRQ subunit, isoform A; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

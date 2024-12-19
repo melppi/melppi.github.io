@@ -1,0 +1,104 @@
+{
+    "pae": 4.3,
+    "iptm": 38.5,
+    "pdockq": 0.168,
+    "proA": "FBpp0080384",
+    "proB": "FBpp0087524",
+    "geneA": "pkaap",
+    "geneB": "Pka-R2",
+    "annotationA": "FI03282p; Protein kinase A binding. It is involved in the biological process described with: protein localization; termination of G-protein coupled receptor signaling pathway",
+    "annotationB": "cAMP-dependent protein kinase type II regulatory subunit; Type II regulatory chains mediate membrane association by binding to anchoring proteins, including the MAP2 kinase. The regulatory subunit may play an essential role in the regulation of neuronal activity in the brain. Has a role in circadian locomotor rhythm, and behavioral response to cocaine and ethanol",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 96,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 394,
+            "end_residue_number": 402,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 419,
+            "end_residue_number": 431,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 435,
+            "end_residue_number": 435,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 16,
+            "end_residue_number": 30,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 37,
+            "end_residue_number": 37,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "96-99",
+        "394-402",
+        "419-431",
+        "435-435"
+    ],
+    "interfaceB": [
+        "16-30",
+        "37-37"
+    ]
+}

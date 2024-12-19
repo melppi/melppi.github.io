@@ -1,0 +1,48 @@
+{
+    "pae": 15.3,
+    "iptm": 14.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0083502",
+    "proB": "FBpp0290349",
+    "geneA": "AP-2sigma",
+    "geneB": "CG8407",
+    "annotationA": "Adaptor Protein complex 2, sigma subunit is a component of the AP-2 adaptor complex, which recruits certain transmembrane proteins into clathrin-coated pits for endocytic internalization",
+    "annotationB": "CG8407, isoform A; ATPase activity, coupled. It is involved in the biological process described with: microtubule-based process; microtubule-based movement",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 62,
+            "end_residue_number": 62,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 94,
+            "end_residue_number": 94,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "62-62"
+    ],
+    "interfaceB": [
+        "94-94"
+    ]
+}

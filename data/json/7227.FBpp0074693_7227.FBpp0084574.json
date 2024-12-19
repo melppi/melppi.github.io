@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 14.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0074693",
+    "proB": "FBpp0084574",
+    "geneA": "cyc",
+    "geneB": "wdb",
+    "annotationA": "Protein cycle; Putative transcription factor involved in the generation of biological rhythms. Activates cycling transcription of Period (PER) and Timeless (TIM) by binding to the E-box (5'-CACGTG-3') present in their promoters",
+    "annotationB": "Protein serine/threonine phosphatase activity; protein phosphatase type 2A regulator activity. It is involved in the biological process described with: spindle assembly; determination of adult lifespan; regulation of cell cycle; autophagy; chromosome segregation; signal transduction",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

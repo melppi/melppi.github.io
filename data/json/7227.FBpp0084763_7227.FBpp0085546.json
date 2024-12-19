@@ -1,0 +1,16 @@
+{
+    "pae": 25.4,
+    "iptm": 16.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0084763",
+    "proB": "FBpp0085546",
+    "geneA": "Brd8",
+    "geneB": "DMAP1",
+    "annotationA": "Bromodomain containing 8; It is involved in the biological process described with: negative regulation of gene expression",
+    "annotationB": "DNA methyltransferase 1-associated protein 1; Involved in transcription repression and activation (By similarity). Required for larvae and pupal development, and for normal innate immune responses. Involved in modulating the activation of the immune deficiency pathway (Imd), acting either downstream of, or at the level of, the NF-kappa-B factor Rel. Possibly functions with akirin to regulate Rel, and its interaction with the Brahma complex protein Bap55 suggests that it may regulate the IMD pathway at the level of chromatin remodeling",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

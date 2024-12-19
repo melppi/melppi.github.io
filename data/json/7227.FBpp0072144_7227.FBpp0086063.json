@@ -1,0 +1,16 @@
+{
+    "pae": 21.2,
+    "iptm": 18.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0072144",
+    "proB": "FBpp0086063",
+    "geneA": "eIF6",
+    "geneB": "Ns2",
+    "annotationA": "Eukaryotic translation initiation factor 6; Binds to the 60S ribosomal subunit and prevents its association with the 40S ribosomal subunit to form the 80S initiation complex in the cytoplasm. May also be involved in ribosome biogenesis",
+    "annotationB": "Nucleolar GTP-binding protein 2; GTPase that associates with pre-60S ribosomal subunits in the nucleolus and is required for their nuclear export and maturation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

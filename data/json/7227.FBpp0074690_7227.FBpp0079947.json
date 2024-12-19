@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 19.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0074690",
+    "proB": "FBpp0079947",
+    "geneA": "Rab8",
+    "geneB": "Pkd2",
+    "annotationA": "Rab8, isoform A; GTPase activity; GTP binding. It is involved in the biological process described with: vesicle-mediated transport; Rab protein signal transduction; protein transport",
+    "annotationB": "Polycystic kidney disease 2; Cation channel activity. It is involved in the biological process described with: sperm storage; sperm motility; spermatogenesis; smooth muscle contraction; larval feeding behavior; sperm competition; cation transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

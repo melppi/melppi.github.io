@@ -1,0 +1,16 @@
+{
+    "pae": 23.5,
+    "iptm": 17.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0074662",
+    "proB": "FBpp0082314",
+    "geneA": "Rpn1",
+    "geneB": "CG9588",
+    "annotationA": "26S proteasome regulatory complex subunit p97; Enzyme regulator activity; endopeptidase activity. It is involved in the biological process described with: proteolysis; cell proliferation; mitotic spindle elongation; proteasome-mediated ubiquitin-dependent protein catabolic process; regulation of protein catabolic process; mitotic spindle organization",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 9; Acts as a chaperone during the assembly of the 26S proteasome, specifically of the base subcomplex of the PA700/19S regulatory complex (RC)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

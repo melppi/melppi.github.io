@@ -1,0 +1,16 @@
+{
+    "pae": 23.8,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0078664",
+    "proB": "FBpp0082655",
+    "geneA": "Rpn11",
+    "geneB": "Fbxl7",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 14; Metalloprotease component of the 26S proteasome that specifically cleaves 'Lys-63'-linked polyubiquitin chains. The 26S proteasome is involved in the ATP-dependent degradation of ubiquitinated proteins. The function of the 'Lys-63'-specific deubiquitination of the proteasome is unclear (By similarity)",
+    "annotationB": "F-box and leucine-rich repeat protein 7; Ubiquitin-protein transferase activity. It is involved in the biological process described with: proximal/distal pattern formation, imaginal disc; SCF-dependent proteasomal ubiquitin-dependent protein catabolic process; regulation of hippo signaling; regulation of protein localization; negative regulation of growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

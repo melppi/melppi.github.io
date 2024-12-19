@@ -1,0 +1,16 @@
+{
+    "pae": 23.9,
+    "iptm": 22.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0078473",
+    "proB": "FBpp0305371",
+    "geneA": "CG12161",
+    "geneB": "Smurf",
+    "annotationA": "Proteasome beta2 subunit-related 2; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "E3 ubiquitin-protein ligase Smurf1; E3 ubiquitin-protein ligase which accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates. Down-regulates Dpp signaling after gastrulation by promoting MAD ubiquitination and subsequent degradation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

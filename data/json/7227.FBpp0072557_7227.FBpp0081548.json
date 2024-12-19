@@ -1,0 +1,16 @@
+{
+    "pae": 16.5,
+    "iptm": 25.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072557",
+    "proB": "FBpp0081548",
+    "geneA": "Rabex-5",
+    "geneB": "Vps45",
+    "annotationA": "Rabaptin-5-associated exchange factor for Rab5; Rab guanyl-nucleotide exchange factor activity; guanyl-nucleotide exchange factor activity; DNA binding; zinc ion binding. It is involved in the biological process described with: regulation of endosome size; positive regulation of protein ubiquitination; eye-antennal disc development; regulation of Rab protein signal transduction; imaginal disc-derived wing vein specification; negative regulation of multicellular organism growth",
+    "annotationB": "Vacuolar protein sorting 45 is an SM protein that is activated by Rab5 and binds Rbsn-5 to control entry of endocytosed cargo into the early endosome; Belongs to the STXBP/unc-18/SEC1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

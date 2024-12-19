@@ -1,0 +1,104 @@
+{
+    "pae": 11.8,
+    "iptm": 28.7,
+    "pdockq": 0.103,
+    "proA": "FBpp0079835",
+    "proB": "FBpp0271767",
+    "geneA": "CG14926",
+    "geneB": "CG4836",
+    "annotationA": "annotation not available",
+    "annotationB": "CG4836, isoform E; L-iditol 2-dehydrogenase activity; zinc ion binding. It is involved in the biological process described with: oxidation-reduction process",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 9,
+            "end_residue_number": 11,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 37,
+            "end_residue_number": 44,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1093,
+            "end_residue_number": 1098,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1108,
+            "end_residue_number": 1109,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1123,
+            "end_residue_number": 1131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1146,
+            "end_residue_number": 1155,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "9-11",
+        "37-44"
+    ],
+    "interfaceB": [
+        "1093-1098",
+        "1108-1109",
+        "1123-1131",
+        "1146-1155"
+    ]
+}

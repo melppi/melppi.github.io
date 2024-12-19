@@ -1,0 +1,16 @@
+{
+    "pae": 25.2,
+    "iptm": 15.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0082404",
+    "proB": "FBpp0082793",
+    "geneA": "su(Hw)",
+    "geneB": "Ubx",
+    "annotationA": "Protein suppressor of hairy wing; Component of the gypsy chromatin insulator complex which is required for the function of the gypsy chromatin insulator and other endogenous chromatin insulators. Chromatin insulators are regulatory elements which establish independent domains of transcriptional activity within eukaryotic genomes. Insulators have two defining properties; they can block the communication between an enhancer and a promoter when placed between them and can also buffer transgenes from position effect variegation (PEV). Insulators are proposed to structure the chromatin fibe [...] ",
+    "annotationB": "Homeotic protein ultrabithorax; Sequence-specific transcription factor which is part of a developmental regulatory system that provides cells with specific positional identities on the anterior-posterior axis. Binds the consensus region 5'-TTAAT[GT][GA]-3'. This homeotic protein controls development of the cells in the posterior thoracic and first abdominal segments. It activates the synthesis of the decapentaplegic (DPP) growth factor; Belongs to the Antp homeobox family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

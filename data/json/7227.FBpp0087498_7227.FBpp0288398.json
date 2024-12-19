@@ -1,0 +1,90 @@
+{
+    "pae": 4.3,
+    "iptm": 25.3,
+    "pdockq": 0.171,
+    "proA": "FBpp0087498",
+    "proB": "FBpp0288398",
+    "geneA": "Jra",
+    "geneB": "Dsp1",
+    "annotationA": "Transcription factor AP-1; Transcription factor that recognizes and binds to the enhancer heptamer motif 5'-TGA[CG]TCA-3'. Plays a role in dorsal closure; Belongs to the bZIP family. Jun subfamily",
+    "annotationB": "High mobility group protein DSP1; Binds preferentially single-stranded DNA and unwinds double-stranded DNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 41,
+            "end_residue_number": 41,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 200,
+            "end_residue_number": 214,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 197,
+            "end_residue_number": 197,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 269,
+            "end_residue_number": 275,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 338,
+            "end_residue_number": 347,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "41-41",
+        "200-214"
+    ],
+    "interfaceB": [
+        "197-197",
+        "269-275",
+        "338-347"
+    ]
+}

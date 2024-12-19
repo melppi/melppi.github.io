@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0072446",
+    "proB": "FBpp0086603",
+    "geneA": "Roc1b",
+    "geneB": "Rpn6",
+    "annotationA": "RING-box protein 1B; Component of the SCF (SKP1-CUL1-F-box protein) E3 ubiquitin ligase complex, which mediates the ubiquitination and subsequent proteasomal degradation of target proteins. Through the RING-type zinc finger, seems to recruit the E2 ubiquitination enzyme to the complex and brings it into close proximity to the substrate (By similarity); Belongs to the RING-box family",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 11; Component of the lid subcomplex of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. In the complex, RPN6 is required for proteasome assembly (By similarity). May act as linker between 19S regulatory subunit and the 20S proteasome core",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

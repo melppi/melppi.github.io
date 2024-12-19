@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0075348",
+    "proB": "FBpp0078093",
+    "geneA": "mrn",
+    "geneB": "CycH",
+    "annotationA": "General transcription factor IIH subunit 4; Component of the core-TFIIH basal transcription factor involved in nucleotide excision repair (NER) of DNA",
+    "annotationB": "Cyclin H homolog; RNA polymerase II carboxy-terminal domain kinase activity; protein kinase binding; core RNA polymerase binding transcription factor activity; cyclin-dependent protein serine/threonine kinase activity; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; regulation of transcription, DNA-templated; regulation of cyclin-dependent protein serine/threonine kinase activity; transcription initiation from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

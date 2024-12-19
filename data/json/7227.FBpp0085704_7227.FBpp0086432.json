@@ -1,0 +1,16 @@
+{
+    "pae": 16.2,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0085704",
+    "proB": "FBpp0086432",
+    "geneA": "Tab2",
+    "geneB": "Diap2",
+    "annotationA": "TAK1-associated binding protein 2 is a protein with an ubiquitin binding domain. It interacts with Tak1, a MAP kinase kinase kinase involved the activation of the Immune Deficiency, JNK and Grunewald-Eiger pathways",
+    "annotationB": "Death-associated inhibitor of apoptosis 2; Required for activation of NF-kappaB transcription factors in the immune deficiency (Imd) signaling cascade which is essential for innate immune responses upon infection by Gram- negative bacteria. Promotes cytoplasmic cleavage of Rel and its translocation to the nucleus where it drives expression of antimicrobial peptides. Binds, polyubiquitinates and activates Dredd which is required for Rel-mediated induction of antimicrobial peptides. Anti-apoptotic protein which binds, ubiquitinates and inactivates the effector caspase Drice. Suppresses r [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

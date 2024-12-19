@@ -1,0 +1,16 @@
+{
+    "pae": 21.5,
+    "iptm": 13.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070709",
+    "proB": "FBpp0083843",
+    "geneA": "Rpn13R",
+    "geneB": "Rpt5",
+    "annotationA": "Regulatory particle non-ATPase 13-related; Ubiquitin binding. It is involved in the biological process described with: ubiquitin-dependent protein catabolic process",
+    "annotationB": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

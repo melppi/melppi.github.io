@@ -1,0 +1,160 @@
+{
+    "pae": 4.7,
+    "iptm": 54.6,
+    "pdockq": 0.467,
+    "proA": "FBpp0072446",
+    "proB": "FBpp0304507",
+    "geneA": "Roc1b",
+    "geneB": "Cand1",
+    "annotationA": "RING-box protein 1B; Component of the SCF (SKP1-CUL1-F-box protein) E3 ubiquitin ligase complex, which mediates the ubiquitination and subsequent proteasomal degradation of target proteins. Through the RING-type zinc finger, seems to recruit the E2 ubiquitination enzyme to the complex and brings it into close proximity to the substrate (By similarity); Belongs to the RING-box family",
+    "annotationB": "Cullin-associated NEDD8-dissociated protein 1; Key assembly factor of SCF (SKP1-CUL1-F-box protein) E3 ubiquitin ligase complexes that promotes the exchange of the substrate-recognition F-box subunit in SCF complexes, thereby playing a key role in the cellular repertoire of SCF complexes. Acts as a F-box protein exchange factor. Probably plays a similar role in other cullin-RING E3 ubiquitin ligase complexes (Probable)",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 76,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 88,
+            "end_residue_number": 90,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 95,
+            "end_residue_number": 106,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 113,
+            "end_residue_number": 122,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 661,
+            "end_residue_number": 666,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 701,
+            "end_residue_number": 709,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 743,
+            "end_residue_number": 750,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 805,
+            "end_residue_number": 807,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1011,
+            "end_residue_number": 1012,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1051,
+            "end_residue_number": 1052,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "76-83",
+        "88-90",
+        "95-106",
+        "113-122"
+    ],
+    "interfaceB": [
+        "661-666",
+        "701-709",
+        "743-750",
+        "805-807",
+        "1011-1012",
+        "1051-1052"
+    ]
+}

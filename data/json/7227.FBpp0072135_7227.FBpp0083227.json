@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 15.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0072135",
+    "proB": "FBpp0083227",
+    "geneA": "Thiolase",
+    "geneB": "Arc42",
+    "annotationA": "GH13256p; acetyl-CoA C-acyltransferase activity; long-chain-3-hydroxyacyl-CoA dehydrogenase activity. It is involved in the biological process described with: determination of adult lifespan; fatty acid beta-oxidation; Belongs to the thiolase family",
+    "annotationB": "SD24551p; acyl-CoA dehydrogenase activity; flavin adenine dinucleotide binding; RNA polymerase II transcription cofactor activity. It is involved in the biological process described with: oxidation-reduction process; dendrite morphogenesis; transcription initiation from RNA polymerase II promoter",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 11.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0085483",
+    "proB": "FBpp0305117",
+    "geneA": "Vha16-1",
+    "geneB": "ATPsyndelta",
+    "annotationA": "V-type proton ATPase 16 kDa proteolipid subunit; Proton-conducting pore forming subunit of the membrane integral V0 complex of vacuolar ATPase. V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells",
+    "annotationB": "ATP synthase, delta subunit, isoform A; Proton-transporting ATP synthase activity, rotational mechanism; proton-transporting ATPase activity, rotational mechanism; hydrogen-exporting ATPase activity, phosphorylative mechanism. It is involved in the biological process described with: proton transport; ATP synthesis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

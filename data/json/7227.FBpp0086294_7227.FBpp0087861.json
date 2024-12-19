@@ -1,0 +1,16 @@
+{
+    "pae": 24.1,
+    "iptm": 12.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0086294",
+    "proB": "FBpp0087861",
+    "geneA": "Nup62",
+    "geneB": "Nup50",
+    "annotationA": "Nuclear pore glycoprotein p62; Essential component of the nuclear pore complex (By similarity). The N-terminal is probably involved in nucleocytoplasmic transport (By similarity). The C-terminal is involved in protein-protein interaction probably via coiled-coil formation, promotes its association with centrosomes and may function in anchorage of Nup62 to the pore complex (By similarity). Binds to transcriptionally active genes. Negatively regulates chromatin attachment to the nuclear envelope, probably by preventing chromatin tethering by Nup154",
+    "annotationB": "Nuclear pore complex protein Nup50; Component of the nuclear pore complex that has a direct role in nuclear protein import (By similarity). Actively displaces NLSs from importin-alpha, and facilitates disassembly of the importin-alpha:beta-cargo complex and importin recycling (By similarity). Binds to transcriptionally active chromatin sites when located in the nucleoplasm and is involved in transcriptional activation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

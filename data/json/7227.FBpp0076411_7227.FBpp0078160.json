@@ -1,0 +1,16 @@
+{
+    "pae": 23.3,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0076411",
+    "proB": "FBpp0078160",
+    "geneA": "CdsA",
+    "geneB": "laza",
+    "annotationA": "Phosphatidate cytidylyltransferase, photoreceptor-specific; CDP diglyceride synthetase (CdsA) is an enzyme for the synthesis of cytidine diphosphate diacylglycerol (CDP-DAG) from phosphatidic acid. CDP-DAG is the precursor of two phospholipids, phosphatidylinositol and phosphatidylglycerol. CdsA has roles in cell growth and lipid storage",
+    "annotationB": "HL01743p; Phosphatidate phosphatase activity. It is involved in the biological process described with: thermotaxis; dephosphorylation; response to light intensity; phototransduction",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

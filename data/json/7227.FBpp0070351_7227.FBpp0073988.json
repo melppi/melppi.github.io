@@ -1,0 +1,16 @@
+{
+    "pae": 19.6,
+    "iptm": 18.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0070351",
+    "proB": "FBpp0073988",
+    "geneA": "Pex5",
+    "geneB": "Mfe2",
+    "annotationA": "Peroxin 5, isoform A; Peroxisome targeting sequence binding; peroxisome matrix targeting signal-1 binding. It is involved in the biological process described with: response to anesthetic; protein import into peroxisome matrix, docking; protein import into peroxisome matrix; peroxisome organization",
+    "annotationB": "Peroxisomal Multifunctional enzyme type 2 is a multifunctional protein harboring two separate enzyme activities: 2-enoyl-CoA hydratase 2 and 3-hydroxyacyl-CoA dehydrogenase. They function in the peroxisomal fatty acid breakdown spiral of beta-oxidation utilizing the (R)-isomer of the CoA-containing substrate; Belongs to the short-chain dehydrogenases/reductases (SDR) family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

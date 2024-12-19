@@ -1,0 +1,146 @@
+{
+    "pae": 1.9,
+    "iptm": 72.0,
+    "pdockq": 0.565,
+    "proA": "FBpp0079943",
+    "proB": "FBpp0087203",
+    "geneA": "Rab6",
+    "geneB": "Syx6",
+    "annotationA": "Ras-related protein Rab6; Protein transport. Regulator of membrane traffic from the Golgi apparatus towards the endoplasmic reticulum (ER). Mediates membrane trafficking during egg chamber growth and organization, possibly upstream of exocyst component Sec5. Also during oogenesis, plays a role, together with BicD but independently of Sec5, in the polarization of the oocyte microtubule cytoskeleton, in the localization of oskar mRNA and in the anterodorsal secretion of grk. Required for anterograde opsin transport through the ER-Golgi complex. Plays a role, together with Rich, in regula [...] ",
+    "annotationB": "Syntaxin 6, isoform E; SNAP receptor activity. It is involved in the biological process described with: vesicle-mediated transport; synaptic vesicle docking involved in exocytosis; Golgi vesicle transport; neurotransmitter secretion",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 5,
+            "end_residue_number": 14,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 32,
+            "end_residue_number": 34,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 44,
+            "end_residue_number": 66,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 74,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 81,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 162,
+            "end_residue_number": 162,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 166,
+            "end_residue_number": 170,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 19,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 90,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "5-14",
+        "32-34",
+        "44-66",
+        "74-77",
+        "81-81",
+        "162-162",
+        "166-170"
+    ],
+    "interfaceB": [
+        "1-19",
+        "60-90"
+    ]
+}

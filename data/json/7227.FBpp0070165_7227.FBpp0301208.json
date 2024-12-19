@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 21.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0070165",
+    "proB": "FBpp0301208",
+    "geneA": "mus81",
+    "geneB": "spel1",
+    "annotationA": "EG:BACR7A4.16 protein; Mus81 is the catalytic subunit of the Mus81-mms4 structure-selective endonuclease that functions in DNA repair",
+    "annotationB": "DNA mismatch repair protein spellchecker 1; Involved in postreplication mismatch repair. Binds specifically to DNA containing mismatched nucleotides thus providing a target for the excision repair processes characteristic of postreplication mismatch repair (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

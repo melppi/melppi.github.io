@@ -1,0 +1,16 @@
+{
+    "pae": 16.4,
+    "iptm": 22.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0080879",
+    "proB": "FBpp0084726",
+    "geneA": "vls",
+    "geneB": "Cpsf100",
+    "annotationA": "Protein valois; Involved in specific localization of cytoplasmic proteins during the formation of pole plasm. Required for synthesis and/or stability of oskar protein (osk) and localization of tudor (tud) in both the nuage and posterior pole of the oocyte. Required for normal posterior localization of osk in later stages of oogenesis and for posterior localization of the vasa (vas) protein during the entire process of pole plasm assembly. May act by regulating the complex that contains the arginine N- methyltransferase csul",
+    "annotationB": "Probable cleavage and polyadenylation specificity factor subunit 2; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Required for the cotranscriptional processing of 3'-ends of polyadenylated and histone pre-mRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

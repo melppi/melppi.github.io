@@ -1,0 +1,16 @@
+{
+    "pae": 21.7,
+    "iptm": 22.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0078086",
+    "proB": "FBpp0087085",
+    "geneA": "Rpb8",
+    "geneB": "RpIII128",
+    "annotationA": "GM03174p; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint",
+    "annotationB": "DNA-directed RNA polymerase III subunit RPC2; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Second largest core component of RNA polymerase III which synthesizes small RNAs, such as 5S rRNA and tRNAs. Proposed to contribute to the polymerase catalytic activity and forms the polymerase active center together with the largest subunit. Pol III is composed of mobile elements and RPC2 is part of the core element with the central large cleft and probably a clamp element that moves to open and close the clef [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

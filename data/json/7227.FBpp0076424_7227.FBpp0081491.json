@@ -1,0 +1,16 @@
+{
+    "pae": 15.5,
+    "iptm": 26.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0076424",
+    "proB": "FBpp0081491",
+    "geneA": "eIF4E-3",
+    "geneB": "RagA-B",
+    "annotationA": "Eukaryotic translation initiation factor 4E-3 (eIF4E-3) binds the 7-methyl-guanosine cap structure of mRNA. It is a component of the eIF4F cap-binding complex that is essential for cap-dependent translation of mRNA. eIF4E-3 is primarily expressed in testes and is required for male fertility, but not for viability",
+    "annotationB": "Ras-related GTP binding A/B (RagA-B) is a Ras family GTPase that forms a heterodimer with RagC-D.  The heterodimer localizes on the lysosome surface and functions to relay amino acid signals to Tor activation by recruiting it to the lysosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

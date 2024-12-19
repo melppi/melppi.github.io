@@ -1,0 +1,16 @@
+{
+    "pae": 21.3,
+    "iptm": 14.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0081754",
+    "proB": "FBpp0298005",
+    "geneA": "Rbp1",
+    "geneB": "U2af50",
+    "annotationA": "RNA-binding protein 1; Contributes to the activation of female-specific DSX splicing in vivo by recognizing the RBP1 target sequences within the purine-rich polypyrimidine tract of the female-specific 3' splice site; Belongs to the splicing factor SR family",
+    "annotationB": "Splicing factor U2AF 50 kDa subunit; Necessary for the splicing of pre-mRNA. Binds to the polypyrimidine tract of introns early during spliceosome assembly (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

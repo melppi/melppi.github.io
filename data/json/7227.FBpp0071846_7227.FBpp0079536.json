@@ -1,0 +1,48 @@
+{
+    "pae": 14.3,
+    "iptm": 27.3,
+    "pdockq": 0.024,
+    "proA": "FBpp0071846",
+    "proB": "FBpp0079536",
+    "geneA": "RpS24",
+    "geneB": "RpL7",
+    "annotationA": "40S ribosomal protein S24; Structural constituent of ribosome; nucleotide binding. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eS24 family",
+    "annotationB": "60S ribosomal protein L7; Binds to G-rich structures in 28S rRNA and in mRNAs. Plays a regulatory role in the translation apparatus; inhibits cell-free translation of mRNAs (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 225,
+            "end_residue_number": 225,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "91-91"
+    ],
+    "interfaceB": [
+        "225-225"
+    ]
+}

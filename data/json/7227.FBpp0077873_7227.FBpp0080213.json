@@ -1,0 +1,104 @@
+{
+    "pae": 3.5,
+    "iptm": 61.3,
+    "pdockq": 0.403,
+    "proA": "FBpp0077873",
+    "proB": "FBpp0080213",
+    "geneA": "mTerf3",
+    "geneB": "mTTF",
+    "annotationA": "Transcription termination factor 3, mitochondrial; Binds promoter DNA and regulates initiation of transcription (By similarity). Regulator of mitochondrial ribosome biogenesis and translation that is essential for development. Required for normal mitochondrial transcription and translation. Required for assembly of mitochondrial respiratory complexes and normal mitochondrial function. Maintains 16S rRNA levels and functions in mitochondrial ribosome assembly by regulating the biogenesis of the 39S ribosomal subunit",
+    "annotationB": "Transcription termination factor, mitochondrial; Transcription termination factor. Binds promoter DNA and regulates mitochondrial replication and transcription. Transcription termination activity may be polarized with highest termination activity occurring when its DNA-binding site is positioned in the reverse orientation with respect to the incoming RNA polymerase. Required for normal topology and maintenance of mitochondrial DNA (mtDNA) levels. Regulates mtDNA replication by promoting replication pausing, possibly by acting as a natural barrier to replication fork progression. Its fu [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 265,
+            "end_residue_number": 272,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 296,
+            "end_residue_number": 304,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 348,
+            "end_residue_number": 354,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 104,
+            "end_residue_number": 110,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 135,
+            "end_residue_number": 141,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 164,
+            "end_residue_number": 170,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "265-272",
+        "296-304",
+        "348-354"
+    ],
+    "interfaceB": [
+        "104-110",
+        "135-141",
+        "164-170"
+    ]
+}

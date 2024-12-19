@@ -1,0 +1,76 @@
+{
+    "pae": 13.1,
+    "iptm": 30.2,
+    "pdockq": 0.102,
+    "proA": "FBpp0072475",
+    "proB": "FBpp0079946",
+    "geneA": "CG32344",
+    "geneB": "CG6712",
+    "annotationA": "LD28101p; ATP binding; RNA binding; ATP-dependent RNA helicase activity; helicase activity. It is involved in the biological process described with: neurogenesis",
+    "annotationB": "Probable ribosome production factor 1; May be required for ribosome biogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 8,
+            "end_residue_number": 12,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 188,
+            "end_residue_number": 188,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 214,
+            "end_residue_number": 221,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 225,
+            "end_residue_number": 235,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "8-12"
+    ],
+    "interfaceB": [
+        "188-188",
+        "214-221",
+        "225-235"
+    ]
+}

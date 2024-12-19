@@ -1,0 +1,16 @@
+{
+    "pae": 21.3,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0111355",
+    "proB": "FBpp0288705",
+    "geneA": "Hsc20",
+    "geneB": "Las",
+    "annotationA": "Heat shock protein cognate 20 (Hsc20) is a mitochondrial chaperone that facilitates iron sulfur cluster assembly or transfer from IscU to other scaffold proteins. Hsc20 is required for larval growth and cellular iron sensing",
+    "annotationB": "Lipoyl synthase, mitochondrial; Catalyzes the radical-mediated insertion of two sulfur atoms into the C-6 and C-8 positions of the octanoyl moiety bound to the lipoyl domains of lipoate-dependent enzymes, thereby converting the octanoylated domains into lipoylated derivatives; Belongs to the radical SAM superfamily. Lipoyl synthase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

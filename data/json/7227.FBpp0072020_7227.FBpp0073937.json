@@ -1,0 +1,48 @@
+{
+    "pae": 14.0,
+    "iptm": 24.6,
+    "pdockq": 0.024,
+    "proA": "FBpp0072020",
+    "proB": "FBpp0073937",
+    "geneA": "Rrp4",
+    "geneB": "Rrp47",
+    "annotationA": "Rrp4, isoform A; 3'-5'-exoribonuclease activity; RNA binding. It is involved in the biological process described with: regulation of gene expression; mRNA processing",
+    "annotationB": "Ribosomal RNA processing 47, isoform A; It is involved in the biological process described with: regulation of gene expression",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 277,
+            "end_residue_number": 277,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 81,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "277-277"
+    ],
+    "interfaceB": [
+        "81-81"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.1,
+    "iptm": 17.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0297239",
+    "proB": "FBpp0304603",
+    "geneA": "Pp2A-29B",
+    "geneB": "Fgop2",
+    "annotationA": "Serine/threonine-protein phosphatase PP2A 65 kDa regulatory subunit; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit",
+    "annotationB": "FGFR1 oncogene partner 2 homolog; It is involved in the biological process described with: positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; Belongs to the SIKE family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

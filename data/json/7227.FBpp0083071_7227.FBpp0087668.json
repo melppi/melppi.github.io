@@ -1,0 +1,16 @@
+{
+    "pae": 20.7,
+    "iptm": 23.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0083071",
+    "proB": "FBpp0087668",
+    "geneA": "Vha100-2",
+    "geneB": "VhaAC45",
+    "annotationA": "V-type proton ATPase subunit a; Essential component of the vacuolar proton pump (V- ATPase), a multimeric enzyme that catalyzes the translocation of protons across the membranes. Required for assembly and activity of the V-ATPase",
+    "annotationB": "Vacuolar H[+] ATPase AC45 accessory subunit, isoform A; Proton-transporting ATP synthase activity, rotational mechanism; proton-transporting ATPase activity, rotational mechanism. It is involved in the biological process described with: ATP hydrolysis coupled proton transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

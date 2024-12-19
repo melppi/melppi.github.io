@@ -1,0 +1,16 @@
+{
+    "pae": 23.3,
+    "iptm": 18.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0085320",
+    "proB": "FBpp0305866",
+    "geneA": "Src42A",
+    "geneB": "shi",
+    "annotationA": "Tyrosine-protein kinase Src42A; Required directly or indirectly for the phosphorylation of drpr which is necessary for the interaction of drpr with shark and subsequent glial phagocytic activity. Together with drpr and shark, promotes the migration of macrophages to sites of wounding as part of a signaling cascade where Scr42a detects production of hydrogen peroxide at wound sites which triggers phosphorylation of drpr and subsequent recruitment and activation of shark. Essential for correct eye morphogenesis (ommatidial R7 neuron formation) which requires the Ras1/MAPK signal transduc [...] ",
+    "annotationB": "Dynamin; Microtubule-associated force-producing protein which is involved in the production of microtubule bundles and which is able to bind and hydrolyze GTP. Implicated in endocytic protein sorting; Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

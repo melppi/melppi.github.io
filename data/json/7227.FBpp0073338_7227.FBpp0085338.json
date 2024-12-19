@@ -1,0 +1,62 @@
+{
+    "pae": 19.5,
+    "iptm": 17.1,
+    "pdockq": 0.026,
+    "proA": "FBpp0073338",
+    "proB": "FBpp0085338",
+    "geneA": "Tim8",
+    "geneB": "tomboy40",
+    "annotationA": "Mitochondrial import inner membrane translocase subunit Tim8; Mitochondrial intermembrane chaperone that participates in the import and insertion of some multi-pass transmembrane proteins into the mitochondrial inner membrane. Also required for the transfer of beta-barrel precursors from the TOM complex to the sorting and assembly machinery (SAM complex) of the outer membrane. Acts as a chaperone-like protein that protects the hydrophobic precursors from aggregation and guide them through the mitochondrial intermembrane space. The Tim8-Tim13 complex mediates the import of some proteins [...] ",
+    "annotationB": "Mitochondrial import receptor subunit TOM40 homolog 2; Channel-forming protein essential for import of protein precursors into mitochondria; Belongs to the Tom40 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 47,
+            "end_residue_number": 49,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 60,
+            "end_residue_number": 60,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 67,
+            "end_residue_number": 68,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "47-49"
+    ],
+    "interfaceB": [
+        "60-60",
+        "67-68"
+    ]
+}

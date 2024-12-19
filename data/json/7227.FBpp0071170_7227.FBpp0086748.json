@@ -1,0 +1,16 @@
+{
+    "pae": 19.2,
+    "iptm": 17.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0071170",
+    "proB": "FBpp0086748",
+    "geneA": "Ppt1",
+    "geneB": "CG16935",
+    "annotationA": "Palmitoyl-protein thioesterase 1 is a lysosomal enzyme that removes palmitoyl groups from particular target proteins during protein degradation within the lysosomal compartment. Palmitoylation is critical for the cellular localization and modulation of many signaling proteins",
+    "annotationB": "Enoyl-[acyl-carrier-protein] reductase, mitochondrial; Catalyzes the NADPH-dependent reduction of trans-2-enoyl thioesters in mitochondrial fatty acid synthesis (fatty acid synthesis type II). Fatty acid chain elongation in mitochondria uses acyl carrier protein (ACP) as an acyl group carrier, but the enzyme accepts both ACP and CoA thioesters as substrates in vitro; Belongs to the zinc-containing alcohol dehydrogenase family. Quinone oxidoreductase subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.7,
+    "iptm": 20.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0082433",
+    "proB": "FBpp0084955",
+    "geneA": "Rad17",
+    "geneB": "spn-A",
+    "annotationA": "Rad17; It is involved in the biological process described with: DNA repair; cell cycle",
+    "annotationB": "DNA repair protein Rad51 homolog; Spindle A forms a filament on single-stranded DNA, does a homology search of double-stranded DNA, and catalyzes strand exchange, swapping the single-strand DNA in and displacing the partner of the complementary strand",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

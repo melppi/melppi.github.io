@@ -1,0 +1,90 @@
+{
+    "pae": 2.1,
+    "iptm": 68.8,
+    "pdockq": 0.467,
+    "proA": "FBpp0073016",
+    "proB": "FBpp0081491",
+    "geneA": "CG14977",
+    "geneB": "RagA-B",
+    "annotationA": "Ragulator complex protein LAMTOR4 homolog; Regulator of the TOR pathway, a signaling cascade that promotes cell growth in response to growth factors, energy levels, and amino acids. As part of the Ragulator complex, may activate the TOR signaling cascade in response to amino acids",
+    "annotationB": "Ras-related GTP binding A/B (RagA-B) is a Ras family GTPase that forms a heterodimer with RagC-D.  The heterodimer localizes on the lysosome surface and functions to relay amino acid signals to Tor activation by recruiting it to the lysosome",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 36,
+            "end_residue_number": 73,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 91,
+            "end_residue_number": 91,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 197,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 217,
+            "end_residue_number": 256,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 268,
+            "end_residue_number": 270,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "36-73",
+        "91-91"
+    ],
+    "interfaceB": [
+        "197-199",
+        "217-256",
+        "268-270"
+    ]
+}

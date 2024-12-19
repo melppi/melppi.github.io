@@ -1,0 +1,48 @@
+{
+    "pae": 16.2,
+    "iptm": 28.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072940",
+    "proB": "FBpp0084726",
+    "geneA": "YT521-B",
+    "geneB": "Cpsf100",
+    "annotationA": "YT521-B, isoform A; RNA binding. It is involved in the biological process described with: RNA metabolic process",
+    "annotationB": "Probable cleavage and polyadenylation specificity factor subunit 2; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Required for the cotranscriptional processing of 3'-ends of polyadenylated and histone pre-mRNA",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 578,
+            "end_residue_number": 578,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 275,
+            "end_residue_number": 275,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "578-578"
+    ],
+    "interfaceB": [
+        "275-275"
+    ]
+}

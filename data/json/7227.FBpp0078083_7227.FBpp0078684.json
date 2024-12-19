@@ -1,0 +1,16 @@
+{
+    "pae": 22.8,
+    "iptm": 15.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0078083",
+    "proB": "FBpp0078684",
+    "geneA": "CG11249",
+    "geneB": "CG8891",
+    "annotationA": "Uncharacterized protein; Potassium ion binding; magnesium ion binding; pyruvate kinase activity. It is involved in the biological process described with: glycolytic process",
+    "annotationB": "Inosine triphosphate pyrophosphatase; Pyrophosphatase that hydrolyzes non-canonical purine nucleotides such as inosine triphosphate (ITP), deoxyinosine triphosphate (dITP) or xanthosine 5'-triphosphate (XTP) to their respective monophosphate derivatives. The enzyme does not distinguish between the deoxy- and ribose forms. Probably excludes non-canonical purines from RNA and DNA precursor pools, thus preventing their incorporation into RNA and DNA and avoiding chromosomal lesions",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

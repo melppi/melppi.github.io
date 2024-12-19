@@ -1,0 +1,16 @@
+{
+    "pae": 18.5,
+    "iptm": 16.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0076200",
+    "proB": "FBpp0080490",
+    "geneA": "Uch-L5",
+    "geneB": "Prosbeta4",
+    "annotationA": "Ubiquitin carboxyl-terminal hydrolase; Ubiquitin-specific protease activity; omega peptidase activity; endopeptidase activity. It is involved in the biological process described with: protein deubiquitination; proteasome-mediated ubiquitin-dependent protein catabolic process; neurogenesis",
+    "annotationB": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; cellular process; multicellular organism reproduction; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

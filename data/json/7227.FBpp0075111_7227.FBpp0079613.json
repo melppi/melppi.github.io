@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0075111",
+    "proB": "FBpp0079613",
+    "geneA": "zetaCOP",
+    "geneB": "KdelR",
+    "annotationA": "Coat protein (Coatomer) zeta, isoform A; Structural molecule activity; transporter activity; oxidoreductase activity. It is involved in the biological process described with: phagocytosis; oxidation-reduction process; retrograde vesicle-mediated transport, Golgi to ER; regulation of lipid storage",
+    "annotationB": "ER lumen protein-retaining receptor; Required for the retention of luminal endoplasmic reticulum proteins. Determines the specificity of the luminal ER protein retention system. Also required for normal vesicular traffic through the Golgi (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

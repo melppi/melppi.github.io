@@ -1,0 +1,16 @@
+{
+    "pae": 27.7,
+    "iptm": 13.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0072468",
+    "proB": "FBpp0078146",
+    "geneA": "Cdc5",
+    "geneB": "Csp",
+    "annotationA": "Cell division cycle 5, isoform A; DNA binding; chromatin binding. It is involved in the biological process described with: mRNA splicing, via spliceosome; centrosome duplication",
+    "annotationB": "DnaJ homolog subfamily C member 5 homolog; Cysteine string protein (Csp) is a synaptic vesicle-associated co-chaperone of Hsc70 that is vital for presynaptic proteostasis and maintenance of synaptic function. Csp protein substrates include SNARE proteins and shi, which mediate synaptic vesicle exo- and endocytosis respectively",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

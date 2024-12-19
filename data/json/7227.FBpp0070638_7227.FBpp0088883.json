@@ -1,0 +1,76 @@
+{
+    "pae": 6.8,
+    "iptm": 39.7,
+    "pdockq": 0.041,
+    "proA": "FBpp0070638",
+    "proB": "FBpp0088883",
+    "geneA": "Xpac",
+    "geneB": "CG9272",
+    "annotationA": "DNA repair protein complementing XP-A cells homolog; Involved in DNA excision repair. Initiates repair by binding to damaged sites with various affinities, depending on the photoproduct and the transcriptional state of the region (By similarity); Belongs to the XPA family",
+    "annotationB": "Endonuclease III homolog; Bifunctional DNA N-glycosylase with associated apurinic/apyrimidinic (AP) lyase function that catalyzes the first step in base excision repair (BER), the primary repair pathway for the repair of oxidative DNA damage. The DNA N-glycosylase activity releases the damaged DNA base from DNA by cleaving the N- glycosidic bond, leaving an AP site. The AP lyase activity cleaves the phosphodiester bond 3' to the AP site by a beta-elimination. Primarily recognizes and repairs oxidative base damage of pyrimidines; Belongs to the Nth/MutY family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 187,
+            "end_residue_number": 187,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 195,
+            "end_residue_number": 198,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 324,
+            "end_residue_number": 324,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 375,
+            "end_residue_number": 381,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "187-187",
+        "195-198"
+    ],
+    "interfaceB": [
+        "324-324",
+        "375-381"
+    ]
+}

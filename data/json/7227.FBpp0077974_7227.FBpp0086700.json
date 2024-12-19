@@ -1,0 +1,16 @@
+{
+    "pae": 14.7,
+    "iptm": 29.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0077974",
+    "proB": "FBpp0086700",
+    "geneA": "park",
+    "geneB": "Opa1",
+    "annotationA": "E3 ubiquitin-protein ligase parkin; Functions within a multiprotein E3 ubiquitin ligase complex, catalyzing the covalent attachment of ubiquitin moieties onto substrate proteins; Belongs to the RBR family. Parkin subfamily",
+    "annotationB": "Optic atrophy 1 (Opa1) is a dynamin-related GTPase that mediates fusion of the inner membrane of mitochondria. Opa1  usually works with Marf to coordinately fuse both mitochondrial membranes. Opa1 activity is regulated by proteolytic processing; Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.7,
+    "iptm": 16.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0084714",
+    "proB": "FBpp0099977",
+    "geneA": "wat",
+    "geneB": "waw",
+    "annotationA": "Fatty acyl-CoA reductase wat; Catalyzes the reduction of saturated fatty acyl-CoA to fatty alcohols. The preferred substrates are C24:0 and C26:0. Necessary for the final stages of tracheal maturation, to facilitate the transition from water-filled to gas-filled tubes. May help to maintain the integrity of the outer hydrophobic envelope of the trachea",
+    "annotationB": "Translation factor waclaw, mitochondrial; Promotes mitochondrial protein synthesis. May act as a fidelity factor of the translation reaction, by catalyzing a one- codon backward translocation of tRNAs on improperly translocated ribosomes. Binds to mitochondrial ribosomes in a GTP-dependent manner",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

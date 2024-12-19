@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 18.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0081325",
+    "proB": "FBpp0112234",
+    "geneA": "Ctr1B",
+    "geneB": "MTF-1",
+    "annotationA": "Copper transporter 1B ensures copper uptake in the intestine. The transcription of the gene is upregulated under conditions of copper depletion via the metal-responsive transcription factor MTF-1",
+    "annotationB": "Metal response element-binding Transcription Factor-1  is a zinc finger protein that primarily controls the homeostasis of physiological trace metals, such as zinc and copper, and the detoxification of nonessential, toxic heavy metals, such as cadmium, mercury, and silver. It activates a number of genes in response to heavy metal load but also induces transcription of the copper importer Ctr1B upon copper depletion. Variations in the DNA binding site can affect its response to a specific metal",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 14.7,
+    "iptm": 25.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0078786",
+    "proB": "FBpp0292065",
+    "geneA": "Acp26Aa",
+    "geneB": "CG17575",
+    "annotationA": "Accessory gland protein 26Aa (Acp26Aa) is synthesized in male accessory glands. It is transferred during mating to females where it induces an increase in ovulation by relaxing the oviduct via activation of octopaminergic signaling",
+    "annotationB": "Uncharacterized protein, isoform B; CG17575 encodes a cysteine-rich secretory protein produced in the male accessory glands and transferred to females during mating. In mated females, it is required for the binding of SP to sperm and for the consequent maintenance of long-term post-mating responses",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 75,
+            "end_residue_number": 75,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 133,
+            "end_residue_number": 133,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "75-75"
+    ],
+    "interfaceB": [
+        "133-133"
+    ]
+}

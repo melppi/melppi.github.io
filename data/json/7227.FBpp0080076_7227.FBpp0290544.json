@@ -1,0 +1,62 @@
+{
+    "pae": 14.9,
+    "iptm": 20.0,
+    "pdockq": 0.027,
+    "proA": "FBpp0080076",
+    "proB": "FBpp0290544",
+    "geneA": "loqs",
+    "geneB": "r2d2",
+    "annotationA": "Loquacious, isoform B; Loquacious (Loqs) is a double-stranded RNA binding protein with multiple splicing isoforms. Loqs-PB and Loqs-PA associate with Dcr-1 to facilitate processing of precursor miRNA into mature miRNA, whereas Loqs-PD interacts with Dcr-2 to enhance processing of dsRNA into siRNA",
+    "annotationB": "R2d2, isoform A; R2d2 is a double-stranded RNA-binding protein. It interacts with Dcr-2 to form the core of RISC loading complex, which recruits duplex siRNA to the RISC",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 433,
+            "end_residue_number": 436,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 223,
+            "end_residue_number": 223,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 288,
+            "end_residue_number": 290,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "433-436"
+    ],
+    "interfaceB": [
+        "223-223",
+        "288-290"
+    ]
+}

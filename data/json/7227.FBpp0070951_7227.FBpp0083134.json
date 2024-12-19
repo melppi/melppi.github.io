@@ -1,0 +1,16 @@
+{
+    "pae": 15.0,
+    "iptm": 14.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0070951",
+    "proB": "FBpp0083134",
+    "geneA": "CG3198",
+    "geneB": "snRNP-U1-C",
+    "annotationA": "RH42690p; mRNA binding. It is involved in the biological process described with: positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; mRNA splicing, via spliceosome; mRNA splice site selection",
+    "annotationB": "U1 small nuclear ribonucleoprotein C; Component of the spliceosomal U1 snRNP, which is essential for recognition of the pre-mRNA 5' splice-site and the subsequent assembly of the spliceosome. U1-C is directly involved in initial 5' splice-site recognition for both constitutive and regulated alternative splicing. The interaction with the 5' splice-site seems to precede base-pairing between the pre-mRNA and the U1 snRNA. Stimulates commitment or early (E) complex formation by stabilizing the base pairing of the 5' end of the U1 snRNA and the 5' splice-site region (By similarity). Regulat [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

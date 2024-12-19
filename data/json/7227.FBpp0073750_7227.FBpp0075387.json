@@ -1,0 +1,16 @@
+{
+    "pae": 21.7,
+    "iptm": 17.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0073750",
+    "proB": "FBpp0075387",
+    "geneA": "nmdyn-D6",
+    "geneB": "CTPsyn",
+    "annotationA": "ATP binding; nucleoside diphosphate kinase activity. It is involved in the biological process described with: nucleoside diphosphate phosphorylation; CTP biosynthetic process; UTP biosynthetic process; GTP biosynthetic process",
+    "annotationB": "CTP synthase; Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen. Constitutes the rate-limiting enzyme in the synthesis of cytosine nucleotides (By similarity). Isoform 1 is required for cytoophidium assembly in female germline cells",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

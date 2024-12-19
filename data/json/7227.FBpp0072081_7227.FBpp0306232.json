@@ -1,0 +1,16 @@
+{
+    "pae": 21.4,
+    "iptm": 13.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0072081",
+    "proB": "FBpp0306232",
+    "geneA": "eIF-5A",
+    "geneB": "RpLP0",
+    "annotationA": "Eukaryotic translation initiation factor 5A; mRNA-binding protein involved in translation elongation. Has an important function at the level of mRNA turnover, probably acting downstream of decapping. Involved in actin dynamics and cell cycle progression, mRNA decay and probably in a pathway involved in stress response and maintenance of cell wall integrity. Functions as a regulator of apoptosis; Belongs to the eIF-5A family",
+    "annotationB": "60S acidic ribosomal protein P0; Ribosomal protein P0 is the functional equivalent of E.coli protein L10; Belongs to the universal ribosomal protein uL10 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

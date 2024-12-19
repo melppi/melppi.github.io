@@ -1,0 +1,48 @@
+{
+    "pae": 10.9,
+    "iptm": 16.9,
+    "pdockq": 0.031,
+    "proA": "FBpp0071462",
+    "proB": "FBpp0305426",
+    "geneA": "mRpL54",
+    "geneB": "mRpL21",
+    "annotationA": "Mitochondrial ribosomal protein L54; Structural constituent of ribosome. It is involved in the biological process described with: mitochondrial translation",
+    "annotationB": "Mitochondrial ribosomal protein L21, isoform A; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: mitochondrial translation; translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 132,
+            "end_residue_number": 132,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 162,
+            "end_residue_number": 166,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "132-132"
+    ],
+    "interfaceB": [
+        "162-166"
+    ]
+}

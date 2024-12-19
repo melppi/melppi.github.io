@@ -1,0 +1,16 @@
+{
+    "pae": 15.3,
+    "iptm": 29.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0088995",
+    "proB": "FBpp0290601",
+    "geneA": "CG32318",
+    "geneB": "mars",
+    "annotationA": "RT07324p; ATP binding; microtubule binding; microtubule motor activity. It is involved in the biological process described with: microtubule-based movement; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family",
+    "annotationB": "Guanylate kinase-associated protein mars; Cell cycle regulator; Belongs to the SAPAP family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

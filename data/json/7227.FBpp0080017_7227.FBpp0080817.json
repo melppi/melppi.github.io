@@ -1,0 +1,16 @@
+{
+    "pae": 22.6,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0080017",
+    "proB": "FBpp0080817",
+    "geneA": "CG5287",
+    "geneB": "CG10166",
+    "annotationA": "GH19029p; UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity; phospho-N-acetylmuramoyl-pentapeptide-transferase activity",
+    "annotationB": "Probable dolichol-phosphate mannosyltransferase; Transfers mannose from GDP-mannose to dolichol monophosphate to form dolichol phosphate mannose (Dol-P-Man) which is the mannosyl donor in pathways leading to N-glycosylation, glycosyl phosphatidylinositol membrane anchoring, and O- mannosylation of proteins; Belongs to the glycosyltransferase 2 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

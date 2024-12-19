@@ -1,0 +1,16 @@
+{
+    "pae": 18.9,
+    "iptm": 25.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0073826",
+    "proB": "FBpp0083290",
+    "geneA": "HDAC6",
+    "geneB": "Sirt2",
+    "annotationA": "Deacetylase activity; histone deacetylase activity; zinc ion binding. It is involved in the biological process described with: tricarboxylic acid cycle; respiratory electron transport chain; regulation of transcription, DNA-templated; histone deacetylation; neurotransmitter secretion",
+    "annotationB": "Sirtuin 2 is an NAD-dependent histone deacetylase in the class I of the Sirtuin family. It is involved in protein deacetylation, determination of adult lifespan, and neurodegeneration",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

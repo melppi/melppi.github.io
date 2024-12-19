@@ -1,0 +1,90 @@
+{
+    "pae": 13.2,
+    "iptm": 18.1,
+    "pdockq": 0.055,
+    "proA": "FBpp0078032",
+    "proB": "FBpp0083168",
+    "geneA": "CG7172",
+    "geneB": "mRpL55",
+    "annotationA": "CR6-interacting factor (CRIF) may play a role in regulating the RNAi pathway by stabilizing the RNAase III enzyme Dcr-2",
+    "annotationB": "Mitochondrial ribosomal protein L55 is involved in mitochondrial biogenesis and cell division; Belongs to the mitochondrion-specific ribosomal protein mL55 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 81,
+            "end_residue_number": 87,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 98,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 108,
+            "end_residue_number": 111,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 17,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 29,
+            "end_residue_number": 33,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "81-87",
+        "98-99",
+        "108-111"
+    ],
+    "interfaceB": [
+        "17-25",
+        "29-33"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 12.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0082645",
+    "proB": "FBpp0304269",
+    "geneA": "ND-23",
+    "geneB": "ND-B14",
+    "annotationA": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity; 4 iron, 4 sulfur cluster binding. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "annotationB": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone; Belongs to the complex I LYR family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 14.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0079772",
+    "proB": "FBpp0304965",
+    "geneA": "porin",
+    "geneB": "Tom20",
+    "annotationA": "Voltage-dependent anion-selective channel; Porin is a beta-barrel channel protein localized in the outer membrane of mitochondria that conducts translocation of various ions and metabolites between cytoplasm and mitochondria. It plays roles in mitochondria dynamics and mitophagy, and is ubiquitinated by park and Mul1 E3 ligases",
+    "annotationB": "Translocase of outer membrane 20, isoform A; P-P-bond-hydrolysis-driven protein transmembrane transporter activity. It is involved in the biological process described with: protein targeting to mitochondrion",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

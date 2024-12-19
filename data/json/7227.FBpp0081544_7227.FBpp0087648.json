@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 11.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081544",
+    "proB": "FBpp0087648",
+    "geneA": "RnpS1",
+    "geneB": "tsu",
+    "annotationA": "RNA-binding protein S1; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",
+    "annotationB": "RNA-binding protein 8A; Core component of the splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junctions on mRNAs. Involved in exon definition of genes containing long introns, including the rolled/MAPK gene. The mago-tsu heterodimer interacts with the EJC key regulator Pym leading to EJC disassembly in the cytoplasm. Has a role in oskar mRNA localization to the posterior pole of the developing oocyte; Belongs to the RBM8A family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 25.9,
+    "iptm": 15.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0075807",
+    "proB": "FBpp0081756",
+    "geneA": "CycA",
+    "geneB": "Mcm5",
+    "annotationA": "G2/mitotic-specific cyclin-A; Cyclin A (CycA) binds to Cdk1, thereby promoting Cdk1's protein kinase activity. The CycA-Cdk1 complex controls important aspects of progression through the cell cycle, including entry into mitosis. During the G2 phase, this complex is important for prevention of premature DNA re-replication. During mitosis and G1, CycA is rapidly degraded (involving APC/C and the proteasome), resulting in inactivation of Cdk1 protein kinase activity",
+    "annotationB": "DNA replication licensing factor Mcm5; Acts as component of the Mcm2-7 complex (Mcm complex) which is the putative replicative helicase essential for 'once per cell cycle' DNA replication initiation and elongation in eukaryotic cells. The active ATPase sites in the Mcm2-7 ring are formed through the interaction surfaces of two neighboring subunits such that a critical structure of a conserved arginine finger motif is provided in trans relative to the ATP-binding site of the Walker A box of the adjacent subunit. The six ATPase active sites, however, are likely to contribute differential [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

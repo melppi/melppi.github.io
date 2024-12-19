@@ -1,0 +1,16 @@
+{
+    "pae": 21.6,
+    "iptm": 15.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0070168",
+    "proB": "FBpp0084012",
+    "geneA": "CG3021",
+    "geneB": "CG18528",
+    "annotationA": "Mitochondrial tRNA-specific 2-thiouridylase 1; Catalyzes the 2-thiolation of uridine at the wobble position (U34) of mitochondrial tRNA(Lys), tRNA(Glu) and tRNA(Gln). Required for the formation of 5-taurinomethyl-2- thiouridine (tm5s2U) of mitochondrial tRNA(Lys), tRNA(Glu), and tRNA(Gln) at the wobble position. ATP is required to activate the C2 atom of the wobble base; Belongs to the MnmA/TRMU family",
+    "annotationB": "RE57978p; GTPase activity; GTP binding. It is involved in the biological process described with: tRNA modification; GTP catabolic process; Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin- like GTPase superfamily. TrmE GTPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

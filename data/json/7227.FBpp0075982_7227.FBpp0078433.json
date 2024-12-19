@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 23.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0075982",
+    "proB": "FBpp0078433",
+    "geneA": "hay",
+    "geneB": "RpII18",
+    "annotationA": "DNA excision repair protein haywire; Probably an ATP-dependent DNA helicase involved in excision repair of DNA. May have a DNA unwinding function",
+    "annotationB": "DNA-directed RNA polymerases I, II, and III subunit RPABC2; DNA-dependent RNA polymerases catalyze the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I, II and III which synthesize ribosomal RNA precursors, mRNA precursors and many functional non-coding RNAs, and small RNAs, such as 5S rRNA and tRNAs, respectively. Pol II is the central component of the basal RNA polymerase II transcription machinery. Pols are composed of mobile elements that move relative to each other. In Pol II, RPB6 is part of the clamp e [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

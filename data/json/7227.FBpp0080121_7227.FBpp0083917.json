@@ -1,0 +1,48 @@
+{
+    "pae": 10.3,
+    "iptm": 47.8,
+    "pdockq": 0.045,
+    "proA": "FBpp0080121",
+    "proB": "FBpp0083917",
+    "geneA": "RpII33",
+    "geneB": "Ime4",
+    "annotationA": "RNA polymerase II 33kD subunit; DNA binding; protein dimerization activity; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription from RNA polymerase II promoter; cellular response to heat",
+    "annotationB": "Probable N6-adenosine-methyltransferase MT-A70-like protein; Probable N6-methyltransferase that methylates adenosine residues of some mRNAs. N6-methyladenosine (m6A), which is present at internal sites in mRNA isolated, may play a role in the efficiency of mRNA splicing, transport or translation (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 58,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 493,
+            "end_residue_number": 494,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "58-63"
+    ],
+    "interfaceB": [
+        "493-494"
+    ]
+}

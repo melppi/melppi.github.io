@@ -1,0 +1,16 @@
+{
+    "pae": 19.0,
+    "iptm": 16.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0083879",
+    "proB": "FBpp0084778",
+    "geneA": "Ndc1",
+    "geneB": "Slbp",
+    "annotationA": "Nucleoporin Ndc1; Component of the nuclear pore complex (NPC), which plays a key role in de novo assembly and insertion of NPC in the nuclear envelope",
+    "annotationB": "Histone RNA hairpin-binding protein; Involved in histone pre-mRNA 3' processing and couples histone mRNA production with the cell cycle. Both maternal and zygotic proteins play an essential and vital function for development; Belongs to the SLBP family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

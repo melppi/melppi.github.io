@@ -1,0 +1,48 @@
+{
+    "pae": 15.7,
+    "iptm": 12.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0082994",
+    "proB": "FBpp0083371",
+    "geneA": "eIF-1A",
+    "geneB": "RpS20",
+    "annotationA": "Eukaryotic initiation factor 1A, isoform A; Seems to be required for maximal rate of protein biosynthesis. Enhances ribosome dissociation into subunits and stabilizes the binding of the initiator Met-tRNA(I) to 40 S ribosomal subunits",
+    "annotationB": "40S ribosomal protein S20; Structural constituent of ribosome; RNA binding. It is involved in the biological process described with: translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 132,
+            "end_residue_number": 132,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 82,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "132-132"
+    ],
+    "interfaceB": [
+        "82-82"
+    ]
+}

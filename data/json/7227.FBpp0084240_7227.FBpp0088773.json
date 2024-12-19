@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 25.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0084240",
+    "proB": "FBpp0088773",
+    "geneA": "Aats-gln",
+    "geneB": "CG33649",
+    "annotationA": "Probable glutamine--tRNA ligase; ATP binding; glutamine-tRNA ligase activity. It is involved in the biological process described with: glutaminyl-tRNA aminoacylation; dendrite morphogenesis",
+    "annotationB": "Glutamyl-tRNA(Gln) amidotransferase subunit C, mitochondrial; Allows the formation of correctly charged Gln-tRNA(Gln) through the transamidation of misacylated Glu-tRNA(Gln) in the mitochondria. The reaction takes place in the presence of glutamine and ATP through an activated gamma-phospho-Glu- tRNA(Gln)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

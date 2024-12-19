@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 18.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0086400",
+    "proB": "FBpp0088033",
+    "geneA": "Prosbeta1",
+    "geneB": "Orc1",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "annotationB": "Origin recognition complex subunit 1 (Orc1) is the largest subunit of the Origin Recognition Complex (ORC), which is essential for the initiation of DNA replication in eukaryotic cells. The ATPase activity of Orc1 is critical for the formation and function of the pre-replicative complex. The regulated degradation of Orc1 by ubiquitin-mediated proteolysis after initiation of DNA replication helps to prevent re-replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

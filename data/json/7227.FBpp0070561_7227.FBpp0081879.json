@@ -1,0 +1,62 @@
+{
+    "pae": 12.3,
+    "iptm": 28.4,
+    "pdockq": 0.124,
+    "proA": "FBpp0070561",
+    "proB": "FBpp0081879",
+    "geneA": "CG2875",
+    "geneB": "RpL24-like",
+    "annotationA": "CG2875, isoform A; It is involved in the biological process described with: ribosome biogenesis; neurogenesis",
+    "annotationB": "Probable ribosome biogenesis protein RLP24; Involved in the biogenesis of the 60S ribosomal subunit. Ensures the docking of NOG1 to pre-60S particles (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 272,
+            "end_residue_number": 278,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 301,
+            "end_residue_number": 306,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 74,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "272-278",
+        "301-306"
+    ],
+    "interfaceB": [
+        "74-81"
+    ]
+}

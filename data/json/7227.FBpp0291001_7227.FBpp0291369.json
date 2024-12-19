@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 20.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0291001",
+    "proB": "FBpp0291369",
+    "geneA": "skap",
+    "geneB": "Cul3",
+    "annotationA": "Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial; ATP-specific succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of ATP and thus represents the only step of substrate-level phosphorylation in the TCA. The beta subunit provides nucleotide specificity of the enzyme and binds the substrate succinate, while the binding sites for coenzyme A and phosphate are found in the alpha subunit",
+    "annotationB": "Cullin 3, isoform F; Ubiquitin-protein transferase activity; ubiquitin protein ligase binding; Belongs to the cullin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

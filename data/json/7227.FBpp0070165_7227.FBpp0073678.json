@@ -1,0 +1,16 @@
+{
+    "pae": 25.3,
+    "iptm": 17.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0070165",
+    "proB": "FBpp0073678",
+    "geneA": "mus81",
+    "geneB": "Lig4",
+    "annotationA": "EG:BACR7A4.16 protein; Mus81 is the catalytic subunit of the Mus81-mms4 structure-selective endonuclease that functions in DNA repair",
+    "annotationB": "FI02888p; ATP binding; DNA binding; protein binding; DNA ligase (ATP) activity. It is involved in the biological process described with: telomere maintenance; DNA recombination; DNA biosynthetic process; nucleotide-excision repair; response to ionizing radiation; DNA ligation; DNA ligation involved in DNA repair; lagging strand elongation; double-strand break repair via nonhomologous end joining",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

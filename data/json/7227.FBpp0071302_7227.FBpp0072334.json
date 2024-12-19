@@ -1,0 +1,16 @@
+{
+    "pae": 22.8,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0071302",
+    "proB": "FBpp0072334",
+    "geneA": "Aats-lys",
+    "geneB": "Aats-tyr-m",
+    "annotationA": "ATP binding; lysine-tRNA ligase activity; nucleic acid binding. It is involved in the biological process described with: lysyl-tRNA aminoacylation",
+    "annotationB": "Tyrosine--tRNA ligase, mitochondrial; Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction: tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr); Belongs to the class-I aminoacyl-tRNA synthetase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

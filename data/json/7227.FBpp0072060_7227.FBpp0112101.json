@@ -1,0 +1,48 @@
+{
+    "pae": 18.9,
+    "iptm": 21.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0072060",
+    "proB": "FBpp0112101",
+    "geneA": "Alas",
+    "geneB": "CG11241",
+    "annotationA": "Aminolevulinate synthase is a mitochondrial enzyme involved in cuticle barrier formation and thought to have a role in Heme biosynthesis; Belongs to the class-II pyridoxal-phosphate-dependent aminotransferase family",
+    "annotationB": "Uncharacterized protein, isoform B; Pyridoxal phosphate binding; alanine-glyoxylate transaminase activity; Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 539,
+            "end_residue_number": 539,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 467,
+            "end_residue_number": 467,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "539-539"
+    ],
+    "interfaceB": [
+        "467-467"
+    ]
+}

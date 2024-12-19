@@ -1,0 +1,16 @@
+{
+    "pae": 17.4,
+    "iptm": 18.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0078424",
+    "proB": "FBpp0078598",
+    "geneA": "Vps37B",
+    "geneB": "Vps24",
+    "annotationA": "Vacuolar protein sorting 37B, isoform A; It is involved in the biological process described with: endosome transport via multivesicular body sorting pathway",
+    "annotationB": "Vacuolar protein sorting 24 is an essential subunit of ESCRT-III, one of the endosomal sorting complexes required for transport (ESCRT). It is involved in membrane remodeling in diverse cellular processes, such as multi-vesicular body biogenesis, cytokinesis and virus budding; Belongs to the SNF7 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

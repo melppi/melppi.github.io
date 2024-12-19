@@ -1,0 +1,48 @@
+{
+    "pae": 16.3,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0083413",
+    "proB": "FBpp0303808",
+    "geneA": "Rab11",
+    "geneB": "Drip",
+    "annotationA": "Rab11, isoform A; Rab11 is a Rab type protein. Rab proteins are ubiquitously expressed family of small monomeric Ras-like GTPases that are key regulators of endomembrane traffiking, regulating exocytosis, endocytosis and membrane recycling processes essential for maintaining various cellular functions",
+    "annotationB": "Aquaporin; Drip belongs to the MIP/aquaporin family involved in the transport of water across the cell membrane. In addition to its cellular roles, Drip has been implicated in regulating aspects of reproduction and aging",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 67,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 131,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "67-67"
+    ],
+    "interfaceB": [
+        "131-131"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 18.7,
+    "iptm": 20.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0072112",
+    "proB": "FBpp0088497",
+    "geneA": "Phm",
+    "geneB": "Pal2",
+    "annotationA": "Peptidylglycine alpha-hydroxylating monooxygenase; Monooxygenase that catalyzes an essential reaction in C- terminal alpha-amidation of peptides. Produces an unstable peptidyl(2-hydroxyglycine) intermediate. C-terminal amidation of peptides is required for normal developmental transitions and for biosynthesis of secretory peptides throughout the life; Belongs to the copper type II ascorbate-dependent monooxygenase family",
+    "annotationB": "Peptidyl-alpha-hydroxyglycine alpha-amidating lyase 2; Probable lyase that catalyzes an essential reaction in C-terminal alpha-amidation of peptides. Mediates the dismutation of the unstable peptidyl(2-hydroxyglycine) intermediate to glyoxylate and the corresponding desglycine peptide amide. C- terminal amidation of peptides such as neuropeptides is essential for full biological activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

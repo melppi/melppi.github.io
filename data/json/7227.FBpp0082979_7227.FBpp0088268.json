@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 22.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0082979",
+    "proB": "FBpp0088268",
+    "geneA": "Arp5",
+    "geneB": "pho",
+    "annotationA": "Actin-related protein 5; Proposed core component of the chromatin remodeling Ino80 complex which is involved in transcriptional regulation, DNA replication and probably DNA repair",
+    "annotationB": "Polycomb protein PHO; Polycomb group (PcG) protein that binds to the 5'- CNGCCATNNNNG-3' sequence found in the regulatory regions of many genes. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility. Probably targets the Esc/E(z) complex to DNA. Necessary but no [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,118 @@
+{
+    "pae": 1.4,
+    "iptm": 56.9,
+    "pdockq": 0.653,
+    "proA": "FBpp0070302",
+    "proB": "FBpp0070805",
+    "geneA": "mip130",
+    "geneB": "lin-52",
+    "annotationA": "Myb-interacting protein 130; DNA binding. It is involved in the biological process described with: eggshell chorion gene amplification; spindle assembly involved in mitosis; centrosome organization; mitotic spindle organization; negative regulation of transcription from RNA polymerase II promoter",
+    "annotationB": "Myb-MuvB complex subunit Lin-52; It is involved in the biological process described with: compound eye development; cell cycle; negative regulation of transcription from RNA polymerase II promoter",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 566,
+            "end_residue_number": 615,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 627,
+            "end_residue_number": 666,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 671,
+            "end_residue_number": 686,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 707,
+            "end_residue_number": 707,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 737,
+            "end_residue_number": 737,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 741,
+            "end_residue_number": 745,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 63,
+            "end_residue_number": 152,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "566-615",
+        "627-666",
+        "671-686",
+        "707-707",
+        "737-737",
+        "741-745"
+    ],
+    "interfaceB": [
+        "63-152"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 19.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0073783",
+    "proB": "FBpp0271765",
+    "geneA": "CG9065",
+    "geneB": "ATP7",
+    "annotationA": "LP17418p; Copper chaperone activity. It is involved in the biological process described with: copper ion transport; respiratory chain complex IV assembly",
+    "annotationB": "ATP7, isoform B; Copper-exporting ATPase activity; copper ion transmembrane transporter activity; nucleotide binding; copper ion binding. It is involved in the biological process described with: copper ion transport; larval development; developmental pigmentation; adult chitin-containing cuticle pigmentation; metal ion homeostasis; cellular copper ion homeostasis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

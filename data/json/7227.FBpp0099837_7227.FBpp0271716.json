@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0099837",
+    "proB": "FBpp0271716",
+    "geneA": "Pink1",
+    "geneB": "Fis1",
+    "annotationA": "PTEN-induced putative kinase 1, isoform A; Protein kinase activity; ATP binding; protein binding; protein serine/threonine kinase activity",
+    "annotationB": "Mitochondrial fission 1 protein; Involved in the fragmentation of the mitochondrial network and its perinuclear clustering. Functions downstream of Pink1 and upstream of Drp1 to regulate mitochondrial fission",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

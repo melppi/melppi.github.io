@@ -1,0 +1,48 @@
+{
+    "pae": 6.3,
+    "iptm": 19.4,
+    "pdockq": 0.068,
+    "proA": "FBpp0076172",
+    "proB": "FBpp0077141",
+    "geneA": "CG4447",
+    "geneB": "mRpL27",
+    "annotationA": "FI06490p; It is involved in the biological process described with: translation",
+    "annotationB": "Mitochondrial ribosomal protein L27, isoform A; Structural constituent of ribosome. It is involved in the biological process described with: mitochondrial translation; translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 35,
+            "end_residue_number": 50,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 8,
+            "end_residue_number": 24,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "35-50"
+    ],
+    "interfaceB": [
+        "8-24"
+    ]
+}

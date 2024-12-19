@@ -1,0 +1,16 @@
+{
+    "pae": 21.1,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0080441",
+    "proB": "FBpp0080967",
+    "geneA": "grp",
+    "geneB": "RPA2",
+    "annotationA": "Serine/threonine-protein kinase grp; Serine/threonine-protein kinase which is required for checkpoint-mediated cell cycle arrest and activation of DNA repair in response to the presence of DNA damage or unreplicated DNA. May also negatively regulate cell cycle progression during unperturbed cell cycles. May phosphorylate the CDC25 phosphatase stg, which promotes its degradation. This results in increased inhibitory tyrosine phosphorylation of Cdk1-cyclin complexes and consequent inhibition of cell cycle progression",
+    "annotationB": "Replication protein A2, isoform A; DNA binding. It is involved in the biological process described with: DNA recombination; DNA repair; DNA-dependent DNA replication; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

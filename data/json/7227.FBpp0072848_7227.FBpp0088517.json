@@ -1,0 +1,48 @@
+{
+    "pae": 16.5,
+    "iptm": 25.3,
+    "pdockq": 0.024,
+    "proA": "FBpp0072848",
+    "proB": "FBpp0088517",
+    "geneA": "CG2107",
+    "geneB": "CG5009",
+    "annotationA": "Carnitine O-palmitoyltransferase activity; Belongs to the carnitine/choline acetyltransferase family",
+    "annotationB": "Probable peroxisomal acyl-coenzyme A oxidase 1; acyl-CoA dehydrogenase activity; flavin adenine dinucleotide binding; acyl-CoA oxidase activity. It is involved in the biological process described with: fatty acid oxidation; generation of precursor metabolites and energy; prostaglandin metabolic process; lipid metabolic process; fatty acid beta-oxidation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 199,
+            "end_residue_number": 199,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 125,
+            "end_residue_number": 125,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "199-199"
+    ],
+    "interfaceB": [
+        "125-125"
+    ]
+}

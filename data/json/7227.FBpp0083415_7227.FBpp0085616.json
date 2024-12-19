@@ -1,0 +1,48 @@
+{
+    "pae": 16.2,
+    "iptm": 23.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0083415",
+    "proB": "FBpp0085616",
+    "geneA": "ppan",
+    "geneB": "CG9143",
+    "annotationA": "Protein Peter pan; Required for initiation of larval growth and normal mitotic growth but is not absolutely required for general biosynthesis or DNA replication. Required for progression of normal oogenesis and maturation of some imaginal tissues into adult structures",
+    "annotationB": "LD11580p; mRNA binding; ATP binding; ATP-dependent RNA helicase activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 367,
+            "end_residue_number": 367,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 377,
+            "end_residue_number": 377,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "367-367"
+    ],
+    "interfaceB": [
+        "377-377"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 25.4,
+    "iptm": 15.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070409",
+    "proB": "FBpp0087637",
+    "geneA": "Nmd3",
+    "geneB": "Non1",
+    "annotationA": "60S ribosomal export protein NMD3; Acts as an adapter for the XPO1/CRM1-mediated export of the 60S ribosomal subunit",
+    "annotationB": "Nucleolar GTP-binding protein 1; Involved in the biogenesis of the 60S ribosomal subunit (By similarity). Required for normal assembly of the mitotic spindle. May be involved in both centrosome- dependent and centrosome-independent spindle assembly programs",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

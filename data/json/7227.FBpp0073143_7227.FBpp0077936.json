@@ -1,0 +1,48 @@
+{
+    "pae": 13.1,
+    "iptm": 30.5,
+    "pdockq": 0.024,
+    "proA": "FBpp0073143",
+    "proB": "FBpp0077936",
+    "geneA": "PMP34",
+    "geneB": "Pex16",
+    "annotationA": "Peroxisomal membrane protein 34, isoform A; Transporter activity; transmembrane transporter activity. It is involved in the biological process described with: transport; mitochondrial transport; Belongs to the mitochondrial carrier (TC 2.A.29) family",
+    "annotationB": "Peroxin 16; It is involved in the biological process described with: very long-chain fatty acid catabolic process; spermatogenesis; spermatocyte division; peroxisome organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 282,
+            "end_residue_number": 282,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 314,
+            "end_residue_number": 314,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "282-282"
+    ],
+    "interfaceB": [
+        "314-314"
+    ]
+}

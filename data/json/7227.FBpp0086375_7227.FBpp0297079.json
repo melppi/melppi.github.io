@@ -1,0 +1,16 @@
+{
+    "pae": 20.4,
+    "iptm": 15.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0086375",
+    "proB": "FBpp0297079",
+    "geneA": "Lis-1",
+    "geneB": "nudC",
+    "annotationA": "Lissencephaly-1 homolog; Positively regulates the activity of the minus-end directed microtubule motor protein dynein. May enhance dynein- mediated microtubule sliding by targeting dynein to the microtubule plus end. Required for several dynein- and microtubule-dependent processes such as nuclear migration during cell division, mitotic spindle formation and the removal of mitotic checkpoint proteins from kinetochores at the metaphase to anaphase transition. Required for several aspects of neurogenesis including neuroblast proliferation, neuronal cell differentiation, dendritic growth,  [...] ",
+    "annotationB": "Nuclear migration protein NudC; It is involved in the biological process described with: oogenesis; nuclear migration",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

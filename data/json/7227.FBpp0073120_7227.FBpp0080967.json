@@ -1,0 +1,48 @@
+{
+    "pae": 15.9,
+    "iptm": 19.7,
+    "pdockq": 0.024,
+    "proA": "FBpp0073120",
+    "proB": "FBpp0080967",
+    "geneA": "RfC4",
+    "geneB": "RPA2",
+    "annotationA": "Replication factor C subunit 2; The elongation of primed DNA templates by DNA polymerase delta and epsilon requires the action of the accessory proteins proliferating cell nuclear antigen (PCNA) and activator 1. Subunit 2 binds ATP",
+    "annotationB": "Replication protein A2, isoform A; DNA binding. It is involved in the biological process described with: DNA recombination; DNA repair; DNA-dependent DNA replication; neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 315,
+            "end_residue_number": 315,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 137,
+            "end_residue_number": 137,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "315-315"
+    ],
+    "interfaceB": [
+        "137-137"
+    ]
+}

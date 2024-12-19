@@ -1,0 +1,118 @@
+{
+    "pae": 9.1,
+    "iptm": 36.3,
+    "pdockq": 0.189,
+    "proA": "FBpp0071259",
+    "proB": "FBpp0073717",
+    "geneA": "c12.1",
+    "geneB": "l(1)G0007",
+    "annotationA": "Protein CWC15 homolog; Involved in pre-mRNA splicing",
+    "annotationB": "Lethal (1) G0007, isoform A; ATP binding; ATP-dependent helicase activity; ATP-dependent RNA helicase activity; nucleic acid binding. It is involved in the biological process described with: regulation of alternative mRNA splicing, via spliceosome; imaginal disc-derived wing morphogenesis; mRNA splicing, via spliceosome; inter-male aggressive behavior",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 179,
+            "end_residue_number": 195,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 410,
+            "end_residue_number": 412,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 416,
+            "end_residue_number": 417,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 833,
+            "end_residue_number": 839,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 920,
+            "end_residue_number": 927,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1096,
+            "end_residue_number": 1100,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1126,
+            "end_residue_number": 1130,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "179-195"
+    ],
+    "interfaceB": [
+        "410-412",
+        "416-417",
+        "833-839",
+        "920-927",
+        "1096-1100",
+        "1126-1130"
+    ]
+}

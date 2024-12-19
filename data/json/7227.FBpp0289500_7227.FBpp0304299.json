@@ -1,0 +1,118 @@
+{
+    "pae": 8.8,
+    "iptm": 42.5,
+    "pdockq": 0.215,
+    "proA": "FBpp0289500",
+    "proB": "FBpp0304299",
+    "geneA": "Pop2",
+    "geneB": "Not3",
+    "annotationA": "Pop2, isoform E; Protein binding; poly(A)-specific ribonuclease activity; nucleic acid binding. It is involved in the biological process described with: mRNA catabolic process; neuron development; muscle organ development; regulation of transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint; neurogenesis; nuclear-transcribed mRNA poly(A) tail shortening; negative regulation of translation",
+    "annotationB": "Not3, isoform A; Protein binding. It is involved in the biological process described with: mRNA catabolic process; transcription, DNA-templated; regulation of transcription, DNA-templated; neurogenesis; nuclear-transcribed mRNA poly(A) tail shortening; negative regulation of translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 58,
+            "end_residue_number": 73,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 299,
+            "end_residue_number": 307,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 135,
+            "end_residue_number": 152,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 793,
+            "end_residue_number": 793,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 800,
+            "end_residue_number": 800,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 816,
+            "end_residue_number": 816,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 825,
+            "end_residue_number": 832,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "58-73",
+        "299-307"
+    ],
+    "interfaceB": [
+        "135-152",
+        "793-793",
+        "800-800",
+        "816-816",
+        "825-832"
+    ]
+}

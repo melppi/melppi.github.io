@@ -1,0 +1,16 @@
+{
+    "pae": 20.0,
+    "iptm": 10.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0082994",
+    "proB": "FBpp0086701",
+    "geneA": "eIF-1A",
+    "geneB": "RpS23",
+    "annotationA": "Eukaryotic initiation factor 1A, isoform A; Seems to be required for maximal rate of protein biosynthesis. Enhances ribosome dissociation into subunits and stabilizes the binding of the initiator Met-tRNA(I) to 40 S ribosomal subunits",
+    "annotationB": "40S ribosomal protein S23; Structural constituent of ribosome. It is involved in the biological process described with: centrosome organization; translation; centrosome duplication",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

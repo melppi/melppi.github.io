@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 18.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0074122",
+    "proB": "FBpp0077507",
+    "geneA": "Nprl2",
+    "geneB": "mio",
+    "annotationA": "GATOR complex protein NPRL2; Nitrogen permease regulator-like 2 (Nprl2) is a component of the highly conserved GAP Activity Towards Rags 1 (GATOR1) complex, which inhibits Tor activity in response to amino acid starvation. Nprl2, as well as the other GATOR1 components Nprl3 and Iml1, regulates early meiotic progression; Belongs to the NPR2 family",
+    "annotationB": "GATOR complex protein MIOS; Involved in the differentiation of the oocyte nucleus. Influences meiotic progression prior to pachytene and possibly by interacting with pathways that control DNA metabolism. May act in the oocyte nucleus to facilitate the execution of the unique cell cycle and developmental programs that produce the mature haploid gamete. Required for the regulation of the TORC1 pathway by amino acids",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

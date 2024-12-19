@@ -1,0 +1,16 @@
+{
+    "pae": 20.5,
+    "iptm": 20.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0081356",
+    "proB": "FBpp0086732",
+    "geneA": "RpA-70",
+    "geneB": "Ctf4",
+    "annotationA": "Replication protein A 70 kDa DNA-binding subunit; As part of the heterotrimeric replication protein A complex (RPA/RP-A), binds and stabilizes single-stranded DNA intermediates, that form during DNA replication or upon DNA stress. It prevents their reannealing and in parallel, recruits and activates different proteins and complexes involved in DNA metabolism. Thereby, it plays an essential role both in DNA replication and the cellular response to DNA damage",
+    "annotationB": "LD47422p; DNA binding. It is involved in the biological process described with: DNA endoreduplication; preblastoderm mitotic cell cycle; mitotic cell cycle",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

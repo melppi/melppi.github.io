@@ -1,0 +1,16 @@
+{
+    "pae": 24.0,
+    "iptm": 17.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0085320",
+    "proB": "FBpp0088843",
+    "geneA": "Src42A",
+    "geneB": "Pten",
+    "annotationA": "Tyrosine-protein kinase Src42A; Required directly or indirectly for the phosphorylation of drpr which is necessary for the interaction of drpr with shark and subsequent glial phagocytic activity. Together with drpr and shark, promotes the migration of macrophages to sites of wounding as part of a signaling cascade where Scr42a detects production of hydrogen peroxide at wound sites which triggers phosphorylation of drpr and subsequent recruitment and activation of shark. Essential for correct eye morphogenesis (ommatidial R7 neuron formation) which requires the Ras1/MAPK signal transduc [...] ",
+    "annotationB": "Phosphatase and tensin homolog, isoform B; Pten",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

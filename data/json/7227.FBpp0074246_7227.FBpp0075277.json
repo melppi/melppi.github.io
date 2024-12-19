@@ -1,0 +1,16 @@
+{
+    "pae": 16.4,
+    "iptm": 24.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0074246",
+    "proB": "FBpp0075277",
+    "geneA": "CG8142",
+    "geneB": "POLD",
+    "annotationA": "LD35209p; ATP binding; DNA binding. It is involved in the biological process described with: lateral inhibition; DNA replication; cytoplasmic microtubule organization",
+    "annotationB": "DNA polymerase delta catalytic subunit; Possesses two enzymatic activities: DNA synthesis (polymerase) and an exonucleolytic activity that degrades single stranded DNA in the 3'- to 5'-direction. Required with its accessory proteins (proliferating cell nuclear antigen (PCNA) and replication factor C (RFC) or activator 1) for leading strand synthesis. Also involved in completing Okazaki fragments initiated by the DNA polymerase alpha/primase complex (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 15.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0072097",
+    "proB": "FBpp0077549",
+    "geneA": "tsr",
+    "geneB": "cpb",
+    "annotationA": "Cofilin/actin-depolymerizing factor homolog; Exhibits F-actin depolymerizing activity and regulates actin cytoskeleton dynamics. Required for cytokinesis in both mitotic and meiotic cells and for aster migration and separation. Promotes cell motility during ovary development and oogenesis. During larval development, required for the cell rearrangement needed for formation of terminal filaments which are stacks of somatic cells that are important for the initiation of ovarioles. Also required for border cell migration during oogenesis. During border cell migration, required for actin tu [...] ",
+    "annotationB": "F-actin-capping protein subunit beta; F-actin-capping proteins bind in a Ca(2+)-independent manner to the fast growing ends of actin filaments (barbed end) thereby blocking the exchange of subunits at these ends. Unlike other capping proteins (such as gelsolin and severin), these proteins do not sever actin filaments",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

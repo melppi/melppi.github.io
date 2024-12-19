@@ -1,0 +1,76 @@
+{
+    "pae": 4.6,
+    "iptm": 37.9,
+    "pdockq": 0.63,
+    "proA": "FBpp0080389",
+    "proB": "FBpp0087203",
+    "geneA": "Syx5",
+    "geneB": "Syx6",
+    "annotationA": "Syntaxin-5; Syntaxin 5 is a type II transmembrane protein in the Q-SNARE family that forms hetero tetramers required for membrane function in the early secretory pathway (ER and Golgi). It has been involved in cytokinesis during spermatogenesis",
+    "annotationB": "Syntaxin 6, isoform E; SNAP receptor activity. It is involved in the biological process described with: vesicle-mediated transport; synaptic vesicle docking involved in exocytosis; Golgi vesicle transport; neurotransmitter secretion",
+    "ppi": "high confidence",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 273,
+            "end_residue_number": 319,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 367,
+            "end_residue_number": 367,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 371,
+            "end_residue_number": 467,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 239,
+            "end_residue_number": 336,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "273-319",
+        "367-367",
+        "371-467"
+    ],
+    "interfaceB": [
+        "239-336"
+    ]
+}

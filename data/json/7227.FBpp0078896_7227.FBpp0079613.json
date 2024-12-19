@@ -1,0 +1,16 @@
+{
+    "pae": 14.9,
+    "iptm": 32.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0078896",
+    "proB": "FBpp0079613",
+    "geneA": "Sec61alpha",
+    "geneB": "KdelR",
+    "annotationA": "Sec61 alpha subunit is a subunit of the the translocon, a protein-conducting channel that mediates the co-translational transport of nascent polypeptides into the endoplasmic reticulum. Sec61 alpha is a subunit of the Sec61 heterotrimer that forms the core of translocon channel",
+    "annotationB": "ER lumen protein-retaining receptor; Required for the retention of luminal endoplasmic reticulum proteins. Determines the specificity of the luminal ER protein retention system. Also required for normal vesicular traffic through the Golgi (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

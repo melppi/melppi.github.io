@@ -1,0 +1,16 @@
+{
+    "pae": 23.4,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0071272",
+    "proB": "FBpp0292517",
+    "geneA": "Su(r)",
+    "geneB": "CG3788",
+    "annotationA": "Dihydropyrimidine dehydrogenase [NADP(+)]; Involved in pyrimidine base degradation. Catalyzes the reduction of uracil and thymine; Belongs to the dihydropyrimidine dehydrogenase family",
+    "annotationB": "Uridine phosphorylase; Catalyzes the reversible phosphorylytic cleavage of uridine and deoxyuridine to uracil and ribose- or deoxyribose-1- phosphate. The produced molecules are then utilized as carbon and energy sources or in the rescue of pyrimidine bases for nucleotide synthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

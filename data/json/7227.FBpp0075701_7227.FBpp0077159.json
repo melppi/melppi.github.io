@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 20.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0075701",
+    "proB": "FBpp0077159",
+    "geneA": "Gcn5",
+    "geneB": "RpL40",
+    "annotationA": "H3 histone acetyltransferase activity; H4 histone acetyltransferase activity; histone acetyltransferase activity; chromatin binding. It is involved in the biological process described with: muscle organ development; chromatin remodeling; histone H3 acetylation; histone acetylation; axon target recognition; histone H4 acetylation; regulation of transcription, DNA-templated; dendrite morphogenesis",
+    "annotationB": "Ubiquitin-60S ribosomal protein L40; Ubiquitin: exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-48-linked is involve [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

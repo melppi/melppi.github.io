@@ -1,0 +1,62 @@
+{
+    "pae": 16.4,
+    "iptm": 11.4,
+    "pdockq": 0.024,
+    "proA": "FBpp0084289",
+    "proB": "FBpp0086230",
+    "geneA": "Mst57Db",
+    "geneB": "Acp53C14a",
+    "annotationA": "Male-specific RNA 57Db is a peptide produced by the male accessory glands and transferred to females during mating",
+    "annotationB": "Accessory gland protein 53C14a, isoform A; It is involved in the biological process described with: multicellular organism reproduction",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 16,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 20,
+            "end_residue_number": 20,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 46,
+            "end_residue_number": 47,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "16-16",
+        "20-20"
+    ],
+    "interfaceB": [
+        "46-47"
+    ]
+}

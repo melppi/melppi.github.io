@@ -1,0 +1,16 @@
+{
+    "pae": 17.5,
+    "iptm": 17.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0070430",
+    "proB": "FBpp0076284",
+    "geneA": "CG8636",
+    "geneB": "pix",
+    "annotationA": "Eukaryotic translation initiation factor 3 subunit G-A; RNA-binding component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation. This subunit can bind 18S rRNA",
+    "annotationB": "Pixie, isoform A; Pixie encodes ABCE1, which is an ATPase that functions as a translation recycling factor. It is required  for the assembly of complexes involved in translation initiation, and plays a role in the regulation of cellular and organismal growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

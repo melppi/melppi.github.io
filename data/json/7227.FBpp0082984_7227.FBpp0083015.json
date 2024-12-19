@@ -1,0 +1,62 @@
+{
+    "pae": 8.8,
+    "iptm": 20.7,
+    "pdockq": 0.097,
+    "proA": "FBpp0082984",
+    "proB": "FBpp0083015",
+    "geneA": "Non3",
+    "geneB": "CG18600",
+    "annotationA": "Ribosome production factor 2 homolog; Required for normal assembly of the mitotic spindle. May be involved in both centrosome-dependent and centrosome- independent spindle assembly programs",
+    "annotationB": "LD14127p; DNA binding; DNA-directed RNA polymerase activity. It is involved in the biological process described with: transcription, DNA-templated",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 294,
+            "end_residue_number": 313,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 34,
+            "end_residue_number": 61,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 95,
+            "end_residue_number": 99,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "294-313"
+    ],
+    "interfaceB": [
+        "34-61",
+        "95-99"
+    ]
+}

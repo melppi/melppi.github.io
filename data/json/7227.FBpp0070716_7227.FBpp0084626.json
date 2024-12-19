@@ -1,0 +1,16 @@
+{
+    "pae": 17.1,
+    "iptm": 21.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0070716",
+    "proB": "FBpp0084626",
+    "geneA": "snf",
+    "geneB": "CG4849",
+    "annotationA": "U1 small nuclear ribonucleoprotein A; Binds stem loop II of U1 snRNA. It is the first snRNP to interact with pre-mRNA. This interaction is required for the subsequent binding of U2 snRNP and the U4/U6/U5 tri-snRNP (By similarity). Plays a role in regulating sex-lethal splicing; Belongs to the RRM U1 A/B'' family",
+    "annotationB": "LD28793p; GTPase activity; translation elongation factor activity; GTP binding. It is involved in the biological process described with: translational elongation; positive regulation of Ras protein signal transduction; positive regulation of ERK1 and ERK2 cascade; mRNA splicing, via spliceosome",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 20.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0071669",
+    "proB": "FBpp0303611",
+    "geneA": "GlcT-1",
+    "geneB": "bwa",
+    "annotationA": "Glucosylceramide synthase (GlcT-1) catalyzes the formation of glucosylceramide, the core component of glycosphingolipids. GlcT-1 regulates lipid energy metabolism in fat body and plays critical roles in embryo survival and development",
+    "annotationB": "Alkaline ceramidase; Hydrolyzes the sphingolipid ceramide into sphingosine and free fatty acid",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

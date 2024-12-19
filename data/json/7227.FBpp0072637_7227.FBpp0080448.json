@@ -1,0 +1,16 @@
+{
+    "pae": 25.9,
+    "iptm": 15.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0072637",
+    "proB": "FBpp0080448",
+    "geneA": "ABCB7",
+    "geneB": "CG17904",
+    "annotationA": "ATP binding cassette subfamily B member 7 (ABCB7) is a transporter that likely dimerizes to form a functional transporter. ABCB7 may act in the mitochondria to transport substrates necessary for the maturation of ICS proteins, which are involved in iron homeostasis",
+    "annotationB": "Cytosolic Fe-S cluster assembly factor NUBP1 homolog; Component of the cytosolic iron-sulfur (Fe/S) protein assembly (CIA) machinery. Required for maturation of extramitochondrial Fe-S proteins. The NUBP1-NUBP2 heterotetramer forms a Fe-S scaffold complex, mediating the de novo assembly of an Fe-S cluster and its transfer to target apoproteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

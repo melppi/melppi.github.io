@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 27.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0073313",
+    "proB": "FBpp0086249",
+    "geneA": "hop",
+    "geneB": "Cdk4",
+    "annotationA": "Tyrosine-protein kinase hopscotch; Tyrosine kinase of the non-receptor type, phosphorylates the marelle protein. Required maternally for the establishment of the normal array of embryonic segments: involved in the control of pair-rule gene transcription in a stripe-specific manner. Together with Hsp83 and piwi, mediates canalization, also known as developmental robustness, likely via epigenetic silencing of existing genetic variants and suppression of transposon-induced new genetic variation",
+    "annotationB": "ATP binding; cyclin-dependent protein serine/threonine kinase activity; protein serine/threonine kinase activity; cyclin binding. It is involved in the biological process described with: regulation of cell growth; protein phosphorylation; cell proliferation; mitochondrion organization; blastoderm segmentation; JAK-STAT cascade; regulation of cell cycle; mitotic cell cycle; cell growth; open tracheal system development",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

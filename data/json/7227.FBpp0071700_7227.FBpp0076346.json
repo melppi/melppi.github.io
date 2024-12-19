@@ -1,0 +1,90 @@
+{
+    "pae": 12.1,
+    "iptm": 37.4,
+    "pdockq": 0.027,
+    "proA": "FBpp0071700",
+    "proB": "FBpp0076346",
+    "geneA": "CG3045",
+    "geneB": "CG6745",
+    "annotationA": "Pseudouridine synthase activity; RNA binding; pseudouridylate synthase activity. It is involved in the biological process described with: pseudouridine synthesis",
+    "annotationB": "GH24787p; Pseudouridine synthase activity; RNA binding. It is involved in the biological process described with: pseudouridine synthesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 304,
+            "end_residue_number": 304,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 488,
+            "end_residue_number": 488,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 515,
+            "end_residue_number": 515,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 533,
+            "end_residue_number": 533,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 537,
+            "end_residue_number": 537,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "304-304",
+        "488-488"
+    ],
+    "interfaceB": [
+        "515-515",
+        "533-533",
+        "537-537"
+    ]
+}

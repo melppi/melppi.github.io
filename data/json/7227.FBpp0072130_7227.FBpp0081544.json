@@ -1,0 +1,90 @@
+{
+    "pae": 14.9,
+    "iptm": 16.0,
+    "pdockq": 0.103,
+    "proA": "FBpp0072130",
+    "proB": "FBpp0081544",
+    "geneA": "Upf3",
+    "geneB": "RnpS1",
+    "annotationA": "Upf3, isoform B; Nucleotide binding. It is involved in the biological process described with: nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",
+    "annotationB": "RNA-binding protein S1; mRNA binding; nucleotide binding; nucleic acid binding. It is involved in the biological process described with: nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 414,
+            "end_residue_number": 422,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 229,
+            "end_residue_number": 229,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 233,
+            "end_residue_number": 238,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 242,
+            "end_residue_number": 242,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 280,
+            "end_residue_number": 288,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "414-422"
+    ],
+    "interfaceB": [
+        "229-229",
+        "233-238",
+        "242-242",
+        "280-288"
+    ]
+}

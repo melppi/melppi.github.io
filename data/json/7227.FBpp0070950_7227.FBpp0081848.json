@@ -1,0 +1,16 @@
+{
+    "pae": 13.4,
+    "iptm": 16.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0070950",
+    "proB": "FBpp0081848",
+    "geneA": "ND-ASHI",
+    "geneB": "SdhC",
+    "annotationA": "NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial; Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone",
+    "annotationB": "Succinate dehydrogenase, subunit C, isoform A; Succinate dehydrogenase (ubiquinone) activity; succinate dehydrogenase activity; electron carrier activity. It is involved in the biological process described with: response to oxidative stress; succinate metabolic process; determination of adult lifespan; mitochondrial electron transport, succinate to ubiquinone; tricarboxylic acid cycle",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

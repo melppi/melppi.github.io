@@ -1,0 +1,16 @@
+{
+    "pae": 23.0,
+    "iptm": 18.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0078684",
+    "proB": "FBpp0081866",
+    "geneA": "CG8891",
+    "geneB": "CG5276",
+    "annotationA": "Inosine triphosphate pyrophosphatase; Pyrophosphatase that hydrolyzes non-canonical purine nucleotides such as inosine triphosphate (ITP), deoxyinosine triphosphate (dITP) or xanthosine 5'-triphosphate (XTP) to their respective monophosphate derivatives. The enzyme does not distinguish between the deoxy- and ribose forms. Probably excludes non-canonical purines from RNA and DNA precursor pools, thus preventing their incorporation into RNA and DNA and avoiding chromosomal lesions",
+    "annotationB": "CG5276, isoform A; Nucleoside-triphosphatase activity; nucleoside-diphosphatase activity; calcium ion binding",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

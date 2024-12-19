@@ -1,0 +1,16 @@
+{
+    "pae": 24.7,
+    "iptm": 16.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0080999",
+    "proB": "FBpp0110147",
+    "geneA": "CG9248",
+    "geneB": "CG32699",
+    "annotationA": "CG9248, isoform A; Catalytic activity. It is involved in the biological process described with: metabolic process",
+    "annotationB": "Lysophosphatidylcholine acyltransferase; Acetyltransferase which mediates the conversion of 1- acyl-sn-glycero-3-phosphocholine (LPC) into phosphatidylcholine (PC) (By similarity). Has a calcium-independent activity (By similarity). Displays a clear preference for saturated fatty acyl- CoAs, and 1-myristoyl or 1-palmitoyl LPC as acyl donors and acceptors, respectively (By similarity). Involved in the regulation of lipid droplet number and size",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

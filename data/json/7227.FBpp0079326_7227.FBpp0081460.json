@@ -1,0 +1,16 @@
+{
+    "pae": 22.5,
+    "iptm": 22.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0079326",
+    "proB": "FBpp0081460",
+    "geneA": "Aats-ala",
+    "geneB": "TrpRS",
+    "annotationA": "Alanine--tRNA ligase, cytoplasmic; Catalyzes the attachment of alanine to tRNA(Ala) in a two-step reaction: alanine is first activated by ATP to form Ala- AMP and then transferred to the acceptor end of tRNA(Ala). Also edits incorrectly charged tRNA(Ala) via its editing domain; Belongs to the class-II aminoacyl-tRNA synthetase family",
+    "annotationB": "Tryptophanyl-tRNA synthetase; Belongs to the class-I aminoacyl-tRNA synthetase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

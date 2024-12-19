@@ -1,0 +1,48 @@
+{
+    "pae": 2.2,
+    "iptm": 49.0,
+    "pdockq": 0.132,
+    "proA": "FBpp0072184",
+    "proB": "FBpp0300988",
+    "geneA": "mRpS17",
+    "geneB": "tko",
+    "annotationA": "Mitochondrial ribosomal protein S17; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "annotationB": "40S ribosomal protein S12, mitochondrial; Structural constituent of ribosome. It is involved in the biological process described with: sensory perception of sound; response to mechanical stimulus; mechanosensory behavior; translation; male courtship behavior; response to hypoxia; courtship behavior",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 29,
+            "end_residue_number": 39,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 46,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "29-39"
+    ],
+    "interfaceB": [
+        "46-55"
+    ]
+}

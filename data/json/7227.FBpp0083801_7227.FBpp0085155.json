@@ -1,0 +1,118 @@
+{
+    "pae": 7.0,
+    "iptm": 52.1,
+    "pdockq": 0.239,
+    "proA": "FBpp0083801",
+    "proB": "FBpp0085155",
+    "geneA": "Sec13",
+    "geneB": "gammaCOP",
+    "annotationA": "Protein SEC13 homolog; Functions as a component of the nuclear pore complex (NPC) and the COPII coat (By similarity). At the endoplasmic reticulum, SEC13 is involved in the biogenesis of COPII-coated vesicles (By similarity). Recruited to transcriptionally active chromatin at the time of transcription initiation by RNA polymerase II. Required for proper expression of ecdysone-responsive genes such as Eip74EF and Eip75B during larval development. Required for reactivation of transcription after heat shock. Required for nuclear import of phosphorylated Mad via importin msk. Has no role i [...] ",
+    "annotationB": "Coatomer subunit gamma; The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins. Required for limiting lipid storage in lipid droplets. Involved in the expansion of luminal extracellular matrices and apical membrane during tubulogenesis. Required [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 1,
+            "end_residue_number": 21,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 25,
+            "end_residue_number": 32,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 40,
+            "end_residue_number": 43,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 270,
+            "end_residue_number": 275,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 287,
+            "end_residue_number": 287,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 301,
+            "end_residue_number": 301,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 1,
+            "end_residue_number": 10,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "1-21",
+        "25-32",
+        "40-43",
+        "270-275",
+        "287-287",
+        "301-301"
+    ],
+    "interfaceB": [
+        "1-10"
+    ]
+}

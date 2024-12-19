@@ -1,0 +1,76 @@
+{
+    "pae": 14.8,
+    "iptm": 25.5,
+    "pdockq": 0.147,
+    "proA": "FBpp0071507",
+    "proB": "FBpp0110210",
+    "geneA": "Pu",
+    "geneB": "Dhfr",
+    "annotationA": "GTP cyclohydrolase 1; Isoform B is required for eye pigment production, Isoform C may be required for normal embryonic development and segment pattern formation",
+    "annotationB": "Dihydrofolate reductase; By interacting with vestigial (vg), may control genes involved in DNA replication",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 16,
+            "end_residue_number": 25,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 20,
+            "end_residue_number": 38,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 58,
+            "end_residue_number": 63,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 67,
+            "end_residue_number": 68,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "16-25"
+    ],
+    "interfaceB": [
+        "20-38",
+        "58-63",
+        "67-68"
+    ]
+}

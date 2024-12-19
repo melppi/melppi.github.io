@@ -1,0 +1,16 @@
+{
+    "pae": 22.9,
+    "iptm": 17.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0081556",
+    "proB": "FBpp0086072",
+    "geneA": "SpdS",
+    "geneB": "Mtap",
+    "annotationA": "Spermidine synthase activity. It is involved in the biological process described with: spermidine biosynthetic process; Belongs to the spermidine/spermine synthase family",
+    "annotationB": "S-methyl-5'-thioadenosine phosphorylase; Catalyzes the reversible phosphorylation of S-methyl-5'- thioadenosine (MTA) to adenine and 5-methylthioribose-1-phosphate. Involved in the breakdown of MTA, a major by-product of polyamine biosynthesis. Responsible for the first step in the methionine salvage pathway after MTA has been generated from S- adenosylmethionine. Has broad substrate specificity with 6- aminopurine nucleosides as preferred substrates; Belongs to the PNP/MTAP phosphorylase family. MTAP subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

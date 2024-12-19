@@ -1,0 +1,16 @@
+{
+    "pae": 19.2,
+    "iptm": 23.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0084726",
+    "proB": "FBpp0084842",
+    "geneA": "Cpsf100",
+    "geneB": "IntS11",
+    "annotationA": "Probable cleavage and polyadenylation specificity factor subunit 2; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Required for the cotranscriptional processing of 3'-ends of polyadenylated and histone pre-mRNA",
+    "annotationB": "Integrator complex subunit 11; Catalytic component of the Integrator complex, a complex involved in the transcription of small nuclear RNAs (snRNA) and their 3'-box-dependent processing (By similarity). Mediates the snRNAs 3' cleavage (By similarity). Involved in the 3'-end processing of the U7 snRNA, and also the spliceosomal snRNAs U1, U2, U4 and U5. May mediate recruitment of cytoplasmic dynein to the nuclear envelope, probably as component of the INT complex (By similarity); Belongs to the metallo-beta-lactamase superfamily. RNA-metabolizing metallo-beta-lactamase-like family. INTS [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

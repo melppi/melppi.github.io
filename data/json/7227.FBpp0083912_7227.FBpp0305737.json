@@ -1,0 +1,16 @@
+{
+    "pae": 15.4,
+    "iptm": 13.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0083912",
+    "proB": "FBpp0305737",
+    "geneA": "TfIIA-S",
+    "geneB": "MED10",
+    "annotationA": "Transcription initiation factor IIA subunit 2; TFIIA is a component of the transcription machinery of RNA polymerase II and plays an important role in transcriptional activation. TFIIA in a complex with TBP mediates transcriptional activity. Part of a rhi-dependent transcription machinery that enables the generation of piRNA precursors from heterochromatin while maintaining the suppression of transposon-encoded promoters and enhancers. Forms a complex with Moonshiner/CG12721 and Trf2 which recruit transcriptional machinery to heterochromatin to initiate the bidirectional transcription  [...] ",
+    "annotationB": "Mediator of RNA polymerase II transcription subunit 10; Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors (By similarity). Required  [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 25.8,
+    "iptm": 16.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0075700",
+    "proB": "FBpp0086013",
+    "geneA": "eIF-2beta",
+    "geneB": "eIF3-S8",
+    "annotationA": "Eukaryotic translation initiation factor 2 subunit 2; eIF-2 functions in the early steps of protein synthesis by forming a ternary complex with GTP and initiator tRNA. This preinitiation complex mediates ribosomal recognition of a start codon during the scanning process of the leader region",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit C; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

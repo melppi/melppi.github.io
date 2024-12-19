@@ -1,0 +1,16 @@
+{
+    "pae": 23.7,
+    "iptm": 20.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0290544",
+    "proB": "FBpp0294043",
+    "geneA": "r2d2",
+    "geneB": "AGO1",
+    "annotationA": "R2d2, isoform A; R2d2 is a double-stranded RNA-binding protein. It interacts with Dcr-2 to form the core of RISC loading complex, which recruits duplex siRNA to the RISC",
+    "annotationB": "Argonaute-1, isoform A; Argonaute-1 is an Argonaute/Piwi family protein, which interacts with microRNAs to form miRNA-induced silencing complexes (miRISCs). miRISCs are guided to target and repress mRNAs either by transcript destabilisation, translational inhibition, or both",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

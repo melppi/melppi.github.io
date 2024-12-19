@@ -1,0 +1,118 @@
+{
+    "pae": 4.3,
+    "iptm": 71.4,
+    "pdockq": 0.48,
+    "proA": "FBpp0073344",
+    "proB": "FBpp0075512",
+    "geneA": "Gs2",
+    "geneB": "CG6661",
+    "annotationA": "Glutamine synthetase 2 cytoplasmic; Glutamate-ammonia ligase activity. It is involved in the biological process described with: glutamate catabolic process; synapse assembly; neurotransmitter receptor metabolic process; glutamine biosynthetic process",
+    "annotationB": "GH20963p; 1-pyrroline-5-carboxylate dehydrogenase activity; oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor. It is involved in the biological process described with: oxidation-reduction process; proline metabolic process",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 269,
+            "end_residue_number": 273,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 277,
+            "end_residue_number": 280,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 320,
+            "end_residue_number": 322,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 329,
+            "end_residue_number": 339,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 95,
+            "end_residue_number": 100,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 117,
+            "end_residue_number": 122,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 286,
+            "end_residue_number": 289,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "269-273",
+        "277-280",
+        "320-322",
+        "329-339"
+    ],
+    "interfaceB": [
+        "95-100",
+        "117-122",
+        "286-289"
+    ]
+}

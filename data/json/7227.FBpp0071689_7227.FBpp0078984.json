@@ -1,0 +1,62 @@
+{
+    "pae": 5.4,
+    "iptm": 62.7,
+    "pdockq": 0.111,
+    "proA": "FBpp0071689",
+    "proB": "FBpp0078984",
+    "geneA": "dve",
+    "geneB": "smt3",
+    "annotationA": "Defective proventriculus (Dve) is a transcriptional repressor that binds to the K50 site. Dve roles include developmental patterning, cell-type specification, and functional differentiation",
+    "annotationB": "Small ubiquitin-related modifier; Smt3 is the only Drosophila SUMO family protein. It is required for embryonic patterning and mitosis. It may also have roles in wing patterning, Dpp signaling, and Ras/MAPK signaling. It localizes to the nucleus during interphase  and to the kinetochores and midbodies during mitosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 821,
+            "end_residue_number": 830,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 12,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 24,
+            "end_residue_number": 45,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "821-830"
+    ],
+    "interfaceB": [
+        "12-16",
+        "24-45"
+    ]
+}

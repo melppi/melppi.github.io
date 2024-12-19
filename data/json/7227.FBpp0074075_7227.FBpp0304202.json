@@ -1,0 +1,16 @@
+{
+    "pae": 25.3,
+    "iptm": 12.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0074075",
+    "proB": "FBpp0304202",
+    "geneA": "eIF-2alpha",
+    "geneB": "eRF1",
+    "annotationA": "Eukaryotic translation initiation factor 2 subunit 1; eIF-2 functions in the early steps of protein synthesis by forming a ternary complex with GTP and initiator tRNA. This preinitiation complex mediates ribosomal recognition of a start codon during the scanning process of the leader region",
+    "annotationB": "Eukaryotic peptide chain release factor subunit 1; Directs the termination of nascent peptide synthesis (translation) in response to the termination codons UAA, UAG and UGA",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

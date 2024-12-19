@@ -1,0 +1,62 @@
+{
+    "pae": 6.9,
+    "iptm": 64.6,
+    "pdockq": 0.17,
+    "proA": "FBpp0070672",
+    "proB": "FBpp0113078",
+    "geneA": "ctp",
+    "geneB": "egl",
+    "annotationA": "Dynein light chain 1, cytoplasmic; Cut up (Ctp) is the 8 kDa (LC8/DLC1) subunit of the cytoplasmic Dynein, as well as the Myosin V. It homodimerizes and binds to a variety of proteins. It is involved in both dynein-dependent and independent functions such as cell viability, axonal guidance, spermatid growth and individualization, and regulation of spermatogonial divisions; Belongs to the dynein light chain family",
+    "annotationB": "Egalitarian, isoform B; mRNA binding; 3'-5' exonuclease activity. It is involved in the biological process described with: nucleobase-containing compound metabolic process; oogenesis; oocyte nucleus migration involved in oocyte dorsal/ventral axis specification; germarium-derived oocyte fate determination; oocyte dorsal/ventral axis specification; intracellular mRNA localization; larval salivary gland morphogenesis; mRNA transport; oocyte microtubule cytoskeleton organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 9,
+            "end_residue_number": 12,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 59,
+            "end_residue_number": 84,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 964,
+            "end_residue_number": 983,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "9-12",
+        "59-84"
+    ],
+    "interfaceB": [
+        "964-983"
+    ]
+}

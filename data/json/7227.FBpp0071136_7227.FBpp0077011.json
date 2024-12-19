@@ -1,0 +1,16 @@
+{
+    "pae": 14.8,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0071136",
+    "proB": "FBpp0077011",
+    "geneA": "Traf6",
+    "geneB": "Tak1",
+    "annotationA": "Tumor necrosis factor receptor-associated factor 6 belongs to a family of adaptor proteins involved in transducing downstream signaling by interacting with cell surface receptors. It mediates the pro-inflammatory effects of Toll and related receptor signaling, and the egr-induced JNK activation that induces cell death",
+    "annotationB": "Mitogen-activated protein kinase kinase kinase 7; Component of a protein kinase signal transduction cascade. Mediator of TGF-beta signal transduction. Responsible for activation of the JNK MAPK pathway (basket, bsk and hemipterous, hep) in response to LPS. Component of the NF-kappa-B pathway; relish-mediated JNK inhibition involves proteasomal degradation of Tak1; certain targets of Relish that are induced during immune responses may facilitate destruction of Tak1 and switch off the JNK cascade. Participates in diverse roles such as control of cell shape and regulation of apoptosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

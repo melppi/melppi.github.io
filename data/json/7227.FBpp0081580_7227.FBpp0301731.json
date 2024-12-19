@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 26.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0081580",
+    "proB": "FBpp0301731",
+    "geneA": "Scm",
+    "geneB": "lwr",
+    "annotationA": "Polycomb protein Scm; Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development. PcG proteins are not required to initiate repression, but to maintain it during later stages of development. They probably act via the methylation of histones, rendering chromatin heritably changed in its expressibility; Belongs to the SCM family",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

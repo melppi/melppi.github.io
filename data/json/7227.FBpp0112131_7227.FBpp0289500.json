@@ -1,0 +1,16 @@
+{
+    "pae": 18.9,
+    "iptm": 23.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0112131",
+    "proB": "FBpp0289500",
+    "geneA": "cu",
+    "geneB": "Pop2",
+    "annotationA": "Curled, isoform D; It is involved in the biological process described with: locomotor rhythm; nuclear-transcribed mRNA poly(A) tail shortening; response to light stimulus",
+    "annotationB": "Pop2, isoform E; Protein binding; poly(A)-specific ribonuclease activity; nucleic acid binding. It is involved in the biological process described with: mRNA catabolic process; neuron development; muscle organ development; regulation of transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint; neurogenesis; nuclear-transcribed mRNA poly(A) tail shortening; negative regulation of translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

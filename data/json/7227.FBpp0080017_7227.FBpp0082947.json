@@ -1,0 +1,48 @@
+{
+    "pae": 17.3,
+    "iptm": 25.9,
+    "pdockq": 0.024,
+    "proA": "FBpp0080017",
+    "proB": "FBpp0082947",
+    "geneA": "CG5287",
+    "geneB": "CG18012",
+    "annotationA": "GH19029p; UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity; phospho-N-acetylmuramoyl-pentapeptide-transferase activity",
+    "annotationB": "LD22559p; Beta-1,4-mannosyltransferase activity. It is involved in the biological process described with: protein glycosylation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 391,
+            "end_residue_number": 391,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 83,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "391-391"
+    ],
+    "interfaceB": [
+        "83-83"
+    ]
+}

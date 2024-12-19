@@ -1,0 +1,16 @@
+{
+    "pae": 18.5,
+    "iptm": 12.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0081947",
+    "proB": "FBpp0086570",
+    "geneA": "COX5A",
+    "geneB": "ND-B15",
+    "annotationA": "Cytochrome c oxidase subunit 5A, mitochondrial; This is the heme A-containing chain of cytochrome c oxidase, the terminal oxidase in mitochondrial electron transport",
+    "annotationB": "NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity. It is involved in the biological process described with: mitochondrial electron transport, NADH to ubiquinone",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

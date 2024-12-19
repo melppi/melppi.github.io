@@ -1,0 +1,76 @@
+{
+    "pae": 13.8,
+    "iptm": 19.8,
+    "pdockq": 0.051,
+    "proA": "FBpp0300445",
+    "proB": "FBpp0304887",
+    "geneA": "Fmr1",
+    "geneB": "tral",
+    "annotationA": "Synaptic functional regulator FMR1; Polyribosome-associated RNA-binding protein that plays a role in neuronal development and synaptic plasticity through the regulation of protein synthesis of mRNAs. Plays a role as a negative translational regulator of specific mRNAs. Represses translation of the microtubule-associated protein futsch mRNA to regulate microtubule-dependent synaptic growth and function. May also be involved in microRNA (miRNA)-mediated translational suppression. Required for stability of the central pair of microtubules in the spermatid axoneme. Regulates photoreceptor  [...] ",
+    "annotationB": "Trailer hitch, isoform H; Protein binding. It is involved in the biological process described with: oocyte dorsal/ventral axis specification; ER to Golgi vesicle-mediated transport; actin cytoskeleton organization; microtubule cytoskeleton organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 348,
+            "end_residue_number": 348,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 352,
+            "end_residue_number": 361,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 365,
+            "end_residue_number": 369,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 495,
+            "end_residue_number": 506,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "348-348",
+        "352-361",
+        "365-369"
+    ],
+    "interfaceB": [
+        "495-506"
+    ]
+}

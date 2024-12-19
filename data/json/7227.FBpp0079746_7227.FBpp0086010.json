@@ -1,0 +1,16 @@
+{
+    "pae": 18.7,
+    "iptm": 15.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0079746",
+    "proB": "FBpp0086010",
+    "geneA": "dUTPase",
+    "geneB": "icln",
+    "annotationA": "Deoxyuridine triphosphatase, isoform A; dUTP diphosphatase activity. It is involved in the biological process described with: dUTP metabolic process",
+    "annotationB": "Methylosome subunit pICln; Chaperone that regulates the assembly of spliceosomal U1, U2, U4 and U5 small nuclear ribonucleoproteins (snRNPs), the building blocks of the spliceosome. Thereby, plays an important role in the splicing of cellular pre-mRNAs. Most spliceosomal snRNPs contain a common set of Sm proteins SNRPB, SNRPD1, SNRPD2, SNRPD3, SNRPE, SNRPF and SNRPG that assemble in a heptameric protein ring on the Sm site of the small nuclear RNA to form the core snRNP. In the cytosol, the Sm proteins SNRPD1, SNRPD2, SNRPE, SNRPF and SNRPG are trapped in an inactive 6S pICln-Sm comple [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

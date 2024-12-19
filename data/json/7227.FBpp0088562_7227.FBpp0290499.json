@@ -1,0 +1,16 @@
+{
+    "pae": 19.9,
+    "iptm": 17.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0088562",
+    "proB": "FBpp0290499",
+    "geneA": "tra2",
+    "geneB": "fru",
+    "annotationA": "Transformer-2 sex-determining protein; Required for female sex determination in somatic cells and for spermatogenesis in male germ cells. Positive regulator of female-specific splicing and/or polyadenylation of doublesex (dsx) pre-mRNA. Splicing requires an enhancer complex, dsxRE (dsx repeat element: which contains six copies of a 13-nucleotide repeat and a purine-rich enhancer (PRE)). DsxRE is formed through cooperative interactions between tra, tra2 and the sr proteins, and these interactions require both the repeat sequences and PRE. PRE is required for specific binding of tra2 to  [...] ",
+    "annotationB": "Sex determination protein fruitless; Probably acts as a transcriptional regulator. Part of the somatic sex determination hierarchy; sex determination genes transformer (tra) and transformer-2 (tra-2) switch fru splicing from the male-specific pattern to the female-specific pattern through activation of the female-specific fru 5'-splice site. Vital for the development of males and females. Controls the development of the male specific abdominal muscle of Lawrence. Plays a role in male courtship behavior and sexual orientation. Enhances male-specific expression of takeout in brain-associ [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

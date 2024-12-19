@@ -1,0 +1,48 @@
+{
+    "pae": 14.3,
+    "iptm": 23.0,
+    "pdockq": 0.038,
+    "proA": "FBpp0070511",
+    "proB": "FBpp0074025",
+    "geneA": "CG10793",
+    "geneB": "kat80",
+    "annotationA": "FI21292p1; ATP binding; ATPase activity",
+    "annotationB": "Katanin p80 WD40 repeat-containing subunit B1; Participates in a complex which severs microtubules in an ATP-dependent manner. May act to target the enzymatic subunit of this complex to sites of action such as the centrosome. Microtubule severing may promote rapid reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 77,
+            "end_residue_number": 85,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 101,
+            "end_residue_number": 103,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "77-85"
+    ],
+    "interfaceB": [
+        "101-103"
+    ]
+}

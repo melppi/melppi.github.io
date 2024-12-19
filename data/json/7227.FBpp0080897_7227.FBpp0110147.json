@@ -1,0 +1,118 @@
+{
+    "pae": 8.7,
+    "iptm": 32.8,
+    "pdockq": 0.185,
+    "proA": "FBpp0080897",
+    "proB": "FBpp0110147",
+    "geneA": "CG31683",
+    "geneB": "CG32699",
+    "annotationA": "Uncharacterized protein, isoform A; Phospholipase activity; O-acyltransferase activity. It is involved in the biological process described with: lipid metabolic process",
+    "annotationB": "Lysophosphatidylcholine acyltransferase; Acetyltransferase which mediates the conversion of 1- acyl-sn-glycero-3-phosphocholine (LPC) into phosphatidylcholine (PC) (By similarity). Has a calcium-independent activity (By similarity). Displays a clear preference for saturated fatty acyl- CoAs, and 1-myristoyl or 1-palmitoyl LPC as acyl donors and acceptors, respectively (By similarity). Involved in the regulation of lipid droplet number and size",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 16,
+            "end_residue_number": 26,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 89,
+            "end_residue_number": 89,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 93,
+            "end_residue_number": 93,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 120,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 135,
+            "end_residue_number": 140,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 165,
+            "end_residue_number": 169,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 292,
+            "end_residue_number": 293,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "16-26"
+    ],
+    "interfaceB": [
+        "89-89",
+        "93-93",
+        "120-131",
+        "135-140",
+        "165-169",
+        "292-293"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 24.4,
+    "iptm": 19.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0083105",
+    "proB": "FBpp0085954",
+    "geneA": "Cpsf73",
+    "geneB": "Nup75",
+    "annotationA": "Cleavage and polyadenylation specificity factor 73; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that plays a key role in pre- mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. Has endonuclease activity and functions as mRNA 3'-end-processing endonuclease. Required for the cotranscriptional processing of 3'-ends of polyadenylated and histone pre-mRNA; Belongs to the metallo-beta-lactamase superfamily. RNA-metabolizing metallo-beta-lactam [...] ",
+    "annotationB": "Nuclear pore complex protein Nup75; Component of the nuclear pore complex (NPC) that seems to be required for NPC assembly and maintenance (By similarity). Required for nuclear import of phosphorylated Mad via importin msk. Has no role in classical nuclear localization signal (cNLS)-dependent nuclear import via importin-beta. Facilitates the interaction between Nup93 and sec13 with msk",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

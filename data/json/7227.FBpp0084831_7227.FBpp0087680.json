@@ -1,0 +1,104 @@
+{
+    "pae": 14.5,
+    "iptm": 37.9,
+    "pdockq": 0.108,
+    "proA": "FBpp0084831",
+    "proB": "FBpp0087680",
+    "geneA": "Bub3",
+    "geneB": "Mad1",
+    "annotationA": "Bub3, isoform A; Bub3 functions in the \"spindle assembly checkpoint (SAC)\" pathway. This mitotic checkpoint pathway inhibits the APC/C complex and hence the transition from metaphase to anaphase, as long as there are free kinetochores that are not yet attached to the mitotic spindle in the cell. Bub3 is localized at the kinetochore during mitosis with maximal levels observed at free kinetochores. Together with other SAC proteins it forms mitotic checkpoint complexes that bind and inhibit the APC/C",
+    "annotationB": "TXBP181-like protein; Mad1 is a conserved, essential component of the spindle checkpoint. During mitosis, it is recruited to unattached kinetochores, where it binds mad2 and promotes the assembly of mad2 and fzy into the mitotic checkpoint complex. During interphase, Mad1 is intranuclear, bound to mad2, and associated primarily with the nuclear pore complex",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 205,
+            "end_residue_number": 205,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 219,
+            "end_residue_number": 222,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 249,
+            "end_residue_number": 249,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 261,
+            "end_residue_number": 262,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 266,
+            "end_residue_number": 268,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 725,
+            "end_residue_number": 730,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "205-205",
+        "219-222",
+        "249-249",
+        "261-262",
+        "266-268"
+    ],
+    "interfaceB": [
+        "725-730"
+    ]
+}

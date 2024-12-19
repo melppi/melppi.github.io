@@ -1,0 +1,16 @@
+{
+    "pae": 22.6,
+    "iptm": 25.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0075111",
+    "proB": "FBpp0080048",
+    "geneA": "zetaCOP",
+    "geneB": "beta'COP",
+    "annotationA": "Coat protein (Coatomer) zeta, isoform A; Structural molecule activity; transporter activity; oxidoreductase activity. It is involved in the biological process described with: phagocytosis; oxidation-reduction process; retrograde vesicle-mediated transport, Golgi to ER; regulation of lipid storage",
+    "annotationB": "Coatomer subunit beta; The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

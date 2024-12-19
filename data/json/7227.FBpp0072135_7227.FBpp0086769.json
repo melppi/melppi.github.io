@@ -1,0 +1,16 @@
+{
+    "pae": 22.8,
+    "iptm": 13.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0072135",
+    "proB": "FBpp0086769",
+    "geneA": "Thiolase",
+    "geneB": "CG6543",
+    "annotationA": "GH13256p; acetyl-CoA C-acyltransferase activity; long-chain-3-hydroxyacyl-CoA dehydrogenase activity. It is involved in the biological process described with: determination of adult lifespan; fatty acid beta-oxidation; Belongs to the thiolase family",
+    "annotationB": "CG6543, isoform A; enoyl-CoA hydratase activity. It is involved in the biological process described with: fatty acid beta-oxidation; Belongs to the enoyl-CoA hydratase/isomerase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

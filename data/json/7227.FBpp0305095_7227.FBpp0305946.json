@@ -1,0 +1,16 @@
+{
+    "pae": 25.2,
+    "iptm": 18.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0305095",
+    "proB": "FBpp0305946",
+    "geneA": "Hsp83",
+    "geneB": "Raf",
+    "annotationA": "Heat shock protein 83; Molecular chaperone that promotes the maturation, structural maintenance and proper regulation of specific target proteins involved for instance in cell cycle control and signal transduction. Undergoes a functional cycle that is linked to its ATPase activity. This cycle probably induces conformational changes in the client proteins, thereby causing their activation. Interacts dynamically with various co-chaperones that modulate its substrate recognition, ATPase cycle and chaperone function. Together with Hop and piwi, mediates canalization, also known as developm [...] ",
+    "annotationB": "Raf homolog serine/threonine-protein kinase phl; Serine/threonine kinase required in the early embryo for the formation of terminal structure. Also required during the proliferation of imaginal cells. May act downstream of Ras85D in the tor signal transduction pathway. During larval development, mediates Ptth/tor signaling leading to the production of ecdysone, an hormone required for the initiation of metamorphosis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

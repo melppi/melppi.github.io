@@ -1,0 +1,16 @@
+{
+    "pae": 21.7,
+    "iptm": 20.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0071168",
+    "proB": "FBpp0112608",
+    "geneA": "Ogg1",
+    "geneB": "Parp",
+    "annotationA": "N-glycosylase/DNA lyase; DNA repair enzyme that incises DNA at 8-oxoG residues. Excises 7,8-dihydro-8-oxoguanine and 2,6-diamino-4-hydroxy-5-N- methylformamidopyrimidine (FAPY) from damaged DNA. Has a beta- lyase activity that nicks DNA 3' to the lesion. Efficiently incises DNA duplexes containing 8-hydroxyguanine (8-OH-Gua), 8- hydroxyadenine (8-OH-Ade) and abasic (AP) sites placed opposite to a cytosine",
+    "annotationB": "Poly [ADP-ribose] polymerase; Poly[ADP-ribose] polymerase modifies various nuclear proteins by poly(ADP-ribosyl)ation. The modification is dependent on DNA and is involved in the regulation of various important cellular processes such as differentiation, proliferation, and tumor transformation and also in the regulation of the molecular events involved in the recovery of cell from DNA damage. Plays a fundamental role in organizing chromatin on a global scale; isoform e autoregulates Parp transcription by influencing the chromatin structure of its heterochromatic environment",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

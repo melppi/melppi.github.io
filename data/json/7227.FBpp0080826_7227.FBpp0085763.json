@@ -1,0 +1,16 @@
+{
+    "pae": 22.8,
+    "iptm": 23.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0080826",
+    "proB": "FBpp0085763",
+    "geneA": "Hs2st",
+    "geneB": "botv",
+    "annotationA": "Heparan sulfate 2-O-sulfotransferase activity. It is involved in the biological process described with: open tracheal system development; signal transduction",
+    "annotationB": "Exostosin-3; Glycosyltransferase required for the biosynthesis of heparan-sulfate and responsible for the alternating addition of beta-1-4-linked glucuronic acid (GlcA) and alpha-1-4-linked N- acetylglucosamine (GlcNAc) units to nascent heparan sulfate chains. Plays a central role in diffusion of morphogens hedgehog (hh), wingless (wg) and Decapentaplegic (dpp) via its role in heparan sulfate proteoglycans (HSPGs) biosynthesis, HSPGs being required for movement of Hh, Dpp and wg morphogens",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

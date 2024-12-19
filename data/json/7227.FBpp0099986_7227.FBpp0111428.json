@@ -1,0 +1,90 @@
+{
+    "pae": 9.5,
+    "iptm": 30.5,
+    "pdockq": 0.283,
+    "proA": "FBpp0099986",
+    "proB": "FBpp0111428",
+    "geneA": "Rpp20",
+    "geneB": "CG34317",
+    "annotationA": "Ribonuclease P protein subunit p20; Component of ribonuclease P, a protein complex that generates mature tRNA molecules by cleaving their 5'-ends. Also a component of RNase MRP complex, which cleaves pre-rRNA sequences (By similarity)",
+    "annotationB": "Uncharacterized protein; Ribonuclease activity. It is involved in the biological process described with: tRNA processing",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 72,
+            "end_residue_number": 82,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 99,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 124,
+            "end_residue_number": 131,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 34,
+            "end_residue_number": 42,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 66,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "72-82",
+        "99-102",
+        "124-131"
+    ],
+    "interfaceB": [
+        "34-42",
+        "66-77"
+    ]
+}

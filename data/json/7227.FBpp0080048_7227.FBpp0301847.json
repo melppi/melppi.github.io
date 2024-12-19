@@ -1,0 +1,16 @@
+{
+    "pae": 17.3,
+    "iptm": 26.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0080048",
+    "proB": "FBpp0301847",
+    "geneA": "beta'COP",
+    "geneB": "Sec22",
+    "annotationA": "Coatomer subunit beta; The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins (By similarity)",
+    "annotationB": "Secretory 22, isoform B; SNAP receptor activity. It is involved in the biological process described with: phagocytosis; retrograde vesicle-mediated transport, Golgi to ER; vesicle-mediated transport; ER to Golgi vesicle-mediated transport; vesicle fusion; Belongs to the synaptobrevin family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 26.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0082062",
+    "proB": "FBpp0084919",
+    "geneA": "Prosalpha2",
+    "geneB": "Axn",
+    "annotationA": "Proteasome subunit alpha type-2; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity",
+    "annotationB": "Axin (Axn) is the key scaffolding protein for the canonical Wnt signalling pathway. In the absence of signal, Axin targets arm for proteolysis inhibiting Wnt signalling. In the presence of signal, it forms a part of the membrane activation complex, disrupting arm degradation. This pathway play roles in cell proliferation (imaginal disc), differentiation (embryonic patterning), death and stemness",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 14.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0072004",
+    "proB": "FBpp0073008",
+    "geneA": "l(2)not",
+    "geneB": "CG12006",
+    "annotationA": "Lethal(2)neighbour of tid protein; Transferase activity, transferring hexosyl groups",
+    "annotationB": "GPI mannosyltransferase 3; Mannosyltransferase involved in glycosylphosphatidylinositol-anchor biosynthesis. Transfers the third alpha-1,2-mannose to Man2-GlcN-acyl-PI during GPI precursor assembly (By similarity); Belongs to the glycosyltransferase 22 family. PIGB subfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

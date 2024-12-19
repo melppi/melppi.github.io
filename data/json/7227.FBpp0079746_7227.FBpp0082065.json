@@ -1,0 +1,16 @@
+{
+    "pae": 26.2,
+    "iptm": 11.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0079746",
+    "proB": "FBpp0082065",
+    "geneA": "dUTPase",
+    "geneB": "Aos1",
+    "annotationA": "Deoxyuridine triphosphatase, isoform A; dUTP diphosphatase activity. It is involved in the biological process described with: dUTP metabolic process",
+    "annotationB": "Activator of SUMO 1 is one of two subunits (along with Uba2) of the heterodimeric SUMO activating enzyme",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

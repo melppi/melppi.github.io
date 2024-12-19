@@ -1,0 +1,16 @@
+{
+    "pae": 22.7,
+    "iptm": 17.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0070409",
+    "proB": "FBpp0071808",
+    "geneA": "Nmd3",
+    "geneB": "RpL23",
+    "annotationA": "60S ribosomal export protein NMD3; Acts as an adapter for the XPO1/CRM1-mediated export of the 60S ribosomal subunit",
+    "annotationB": "60S ribosomal protein L23; Structural constituent of ribosome; myosin binding. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization; neurogenesis; Belongs to the universal ribosomal protein uL14 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

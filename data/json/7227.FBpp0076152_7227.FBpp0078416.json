@@ -1,0 +1,48 @@
+{
+    "pae": 5.6,
+    "iptm": 39.0,
+    "pdockq": 0.058,
+    "proA": "FBpp0076152",
+    "proB": "FBpp0078416",
+    "geneA": "RpS9",
+    "geneB": "RpL35A",
+    "annotationA": "40S ribosomal protein S9; Structural constituent of ribosome; rRNA binding. It is involved in the biological process described with: mitotic spindle elongation; translation; mitotic spindle organization",
+    "annotationB": "Ribosomal protein L35A; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 16,
+            "end_residue_number": 21,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 63,
+            "end_residue_number": 65,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "16-21"
+    ],
+    "interfaceB": [
+        "63-65"
+    ]
+}

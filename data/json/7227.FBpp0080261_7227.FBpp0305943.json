@@ -1,0 +1,16 @@
+{
+    "pae": 22.2,
+    "iptm": 17.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0080261",
+    "proB": "FBpp0305943",
+    "geneA": "Su(H)",
+    "geneB": "Bx42",
+    "annotationA": "Suppressor of hairless protein; Transcriptional regulator that plays a central role in Notch signaling, a signaling pathway involved in cell-cell communication that regulates a broad spectrum of cell-fate determinations. Binds directly the 5'-GTGRGAR-3' DNA consensus sequence, which is present in the regulatory region of several genes. Required for neurogenesis in imaginal disks. Acts as a transcriptional repressor when it is not associated with Notch proteins. When associated with some Notch protein, it acts as a transcriptional activator that activates transcription of Notch target g [...] ",
+    "annotationB": "Puff-specific protein Bx42; May play a role in chromatin structure and function",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

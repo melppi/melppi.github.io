@@ -1,0 +1,16 @@
+{
+    "pae": 13.5,
+    "iptm": 37.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0078693",
+    "proB": "FBpp0304059",
+    "geneA": "jet",
+    "geneB": "Usp14",
+    "annotationA": "Jetlag, isoform A; Jetlag is an F-box protein that is a component of an SCF E3 ubiquitin ligase complex. It targets tim for degradation upon light exposure, and is essential for photic entrainment of the circadian clock",
+    "annotationB": "Ubiquitin specific protease 14 (Usp14) is a deubiquitinase that associates with the 19S component of the proteasome in a reversible manner. Usp14 functions include ubiquitin chain disassemblance for mono-ubiquitin recycling, control of protein degradation by the proteasome and regulation of proteasome subtrate interactions; Belongs to the peptidase C19 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

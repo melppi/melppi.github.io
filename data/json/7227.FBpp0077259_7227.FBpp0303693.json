@@ -1,0 +1,146 @@
+{
+    "pae": 2.0,
+    "iptm": 48.3,
+    "pdockq": 0.45,
+    "proA": "FBpp0077259",
+    "proB": "FBpp0303693",
+    "geneA": "msl-2",
+    "geneB": "Sxl",
+    "annotationA": "E3 ubiquitin-protein ligase msl-2; The Msl proteins are essential for elevating transcription of the single X chromosome in the male (X chromosome dosage compensation). Msl-2 is required for translation and/or stability of msl-1 in males. In complex with msl-1, acts as an E3 ubiquitin ligase that promotes ubiquitination of histone H2B; Belongs to the MSL2 family",
+    "annotationB": "Protein sex-lethal; Sex determination switch protein which controls sexual development by sex-specific splicing. Regulates dosage compensation in females by suppressing hyperactivation of X-linked genes. Expression of the embryo-specific isoform is under the control of primary sex-determining signal, which depends on the ratio of X chromosomes relative to autosomes (X:A ratio). Expression occurs in 2X:2A cells, but not in X:2A cells. The X:A ratio seems to be signaled by the relative concentration of the X- linked transcription factors SIS-A and SIS-B. As a result, the embryo-specific  [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 41,
+            "end_residue_number": 50,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 64,
+            "end_residue_number": 69,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 87,
+            "end_residue_number": 87,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 92,
+            "end_residue_number": 92,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 152,
+            "end_residue_number": 159,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 164,
+            "end_residue_number": 167,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 130,
+            "end_residue_number": 147,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 165,
+            "end_residue_number": 166,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 177,
+            "end_residue_number": 181,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "41-50",
+        "64-69",
+        "87-87",
+        "92-92",
+        "152-159",
+        "164-167"
+    ],
+    "interfaceB": [
+        "130-147",
+        "165-166",
+        "177-181"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 22.6,
+    "iptm": 13.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0080967",
+    "proB": "FBpp0087152",
+    "geneA": "RPA2",
+    "geneB": "RnrS",
+    "annotationA": "Replication protein A2, isoform A; DNA binding. It is involved in the biological process described with: DNA recombination; DNA repair; DNA-dependent DNA replication; neurogenesis",
+    "annotationB": "Ribonucleoside-diphosphate reductase subunit M2; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides; Belongs to the ribonucleoside diphosphate reductase small chain family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

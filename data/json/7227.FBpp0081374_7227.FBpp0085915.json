@@ -1,0 +1,16 @@
+{
+    "pae": 23.6,
+    "iptm": 17.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0081374",
+    "proB": "FBpp0085915",
+    "geneA": "bel",
+    "geneB": "pAbp",
+    "annotationA": "ATP-dependent RNA helicase bel; ATP-dependent RNA helicase that is essential and required for cellular function, larval growth, and for male and female fertility. Also required for RNA interference (RNAi), double-stranded RNA induces potent and specific gene silencing, by acting downstream of dsRNA internalization. RNAi is mediated by the RNA-induced silencing complex (RISC), a sequence-specific, multicomponent nuclease that destroys or silences messenger RNAs homologous to the silencing trigger; Belongs to the DEAD box helicase family. DDX3/DED1 subfamily",
+    "annotationB": "Polyadenylate-binding protein; Binds the poly(A) tail of mRNA; Belongs to the polyadenylate-binding protein type-1 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

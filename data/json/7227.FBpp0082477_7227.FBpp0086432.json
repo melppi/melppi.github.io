@@ -1,0 +1,104 @@
+{
+    "pae": 2.4,
+    "iptm": 83.0,
+    "pdockq": 0.482,
+    "proA": "FBpp0082477",
+    "proB": "FBpp0086432",
+    "geneA": "eff",
+    "geneB": "Diap2",
+    "annotationA": "Ubiquitin-conjugating enzyme E2-17 kDa; Catalyzes the covalent attachment of ubiquitin to other proteins. Mediates the selective degradation of short-lived and abnormal proteins. Required for proper telomere behavior during cell divisions and possibly for ubiquitination of proteins involved in postmeiotic stages of spermatogenesis. Deletion mutations are lethal in homozygotes",
+    "annotationB": "Death-associated inhibitor of apoptosis 2; Required for activation of NF-kappaB transcription factors in the immune deficiency (Imd) signaling cascade which is essential for innate immune responses upon infection by Gram- negative bacteria. Promotes cytoplasmic cleavage of Rel and its translocation to the nucleus where it drives expression of antimicrobial peptides. Binds, polyubiquitinates and activates Dredd which is required for Rel-mediated induction of antimicrobial peptides. Anti-apoptotic protein which binds, ubiquitinates and inactivates the effector caspase Drice. Suppresses r [...] ",
+    "ppi": "acceptable or medium",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 1,
+            "end_residue_number": 16,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 61,
+            "end_residue_number": 62,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 87,
+            "end_residue_number": 98,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 443,
+            "end_residue_number": 443,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 447,
+            "end_residue_number": 457,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 475,
+            "end_residue_number": 486,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "1-16",
+        "61-62",
+        "87-98"
+    ],
+    "interfaceB": [
+        "443-443",
+        "447-457",
+        "475-486"
+    ]
+}

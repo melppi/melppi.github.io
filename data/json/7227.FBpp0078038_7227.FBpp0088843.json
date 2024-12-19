@@ -1,0 +1,62 @@
+{
+    "pae": 14.0,
+    "iptm": 19.6,
+    "pdockq": 0.026,
+    "proA": "FBpp0078038",
+    "proB": "FBpp0088843",
+    "geneA": "Mkrn1",
+    "geneB": "Pten",
+    "annotationA": "Makorin 1, isoform A; Ubiquitin-protein transferase activity; zinc ion binding. It is involved in the biological process described with: protein polyubiquitination",
+    "annotationB": "Phosphatase and tensin homolog, isoform B; Pten",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 216,
+            "end_residue_number": 218,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 249,
+            "end_residue_number": 249,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 54,
+            "end_residue_number": 55,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "216-218",
+        "249-249"
+    ],
+    "interfaceB": [
+        "54-55"
+    ]
+}

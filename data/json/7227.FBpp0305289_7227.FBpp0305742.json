@@ -1,0 +1,16 @@
+{
+    "pae": 19.3,
+    "iptm": 18.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0305289",
+    "proB": "FBpp0305742",
+    "geneA": "NHP2",
+    "geneB": "l(3)72Dn",
+    "annotationA": "H/ACA ribonucleoprotein complex subunit 2-like protein; Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine (\"psi\") residues may serve to stabilize the conformation of rRNAs (By similarity)",
+    "annotationB": "Lethal (3) 72Dn, isoform B; It is involved in the biological process described with: neurogenesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

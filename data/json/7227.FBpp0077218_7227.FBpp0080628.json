@@ -1,0 +1,48 @@
+{
+    "pae": 12.4,
+    "iptm": 21.2,
+    "pdockq": 0.03,
+    "proA": "FBpp0077218",
+    "proB": "FBpp0080628",
+    "geneA": "Che-13",
+    "geneB": "CG15161",
+    "annotationA": "Intraflagellar transport protein 57 homolog; Required for the formation of cilia",
+    "annotationB": "FI02828p; It is involved in the biological process described with: cilium assembly; intraciliary transport",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 137,
+            "end_residue_number": 142,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 198,
+            "end_residue_number": 207,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "137-142"
+    ],
+    "interfaceB": [
+        "198-207"
+    ]
+}

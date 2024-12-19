@@ -1,0 +1,16 @@
+{
+    "pae": 16.1,
+    "iptm": 25.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0086400",
+    "proB": "FBpp0086603",
+    "geneA": "Prosbeta1",
+    "geneB": "Rpn6",
+    "annotationA": "Proteasome subunit beta type; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: cellular response to DNA damage stimulus; proteasome-mediated ubiquitin-dependent protein catabolic process; proteolysis involved in cellular protein catabolic process",
+    "annotationB": "26S proteasome non-ATPase regulatory subunit 11; Component of the lid subcomplex of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. In the complex, RPN6 is required for proteasome assembly (By similarity). May act as linker between 19S regulatory subunit and the 20S proteasome core",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

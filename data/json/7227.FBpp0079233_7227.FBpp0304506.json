@@ -1,0 +1,16 @@
+{
+    "pae": 18.8,
+    "iptm": 25.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0079233",
+    "proB": "FBpp0304506",
+    "geneA": "Ostgamma",
+    "geneB": "CG33303",
+    "annotationA": "Oligosaccharide transferase gamma subunit; It is involved in the biological process described with: encapsulation of foreign target",
+    "annotationB": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1; Essential subunit of the N-oligosaccharyl transferase (OST) complex which catalyzes the transfer of a high mannose oligosaccharide from a lipid-linked oligosaccharide donor to an asparagine residue within an Asn-X-Ser/Thr consensus motif in nascent polypeptide chains",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

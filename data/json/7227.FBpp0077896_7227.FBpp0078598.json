@@ -1,0 +1,16 @@
+{
+    "pae": 17.9,
+    "iptm": 16.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0077896",
+    "proB": "FBpp0078598",
+    "geneA": "CG5498",
+    "geneB": "Vps24",
+    "annotationA": "BcDNA.GH08385; Protein transporter activity. It is involved in the biological process described with: endosomal transport; vacuolar transport; Belongs to the SNF7 family",
+    "annotationB": "Vacuolar protein sorting 24 is an essential subunit of ESCRT-III, one of the endosomal sorting complexes required for transport (ESCRT). It is involved in membrane remodeling in diverse cellular processes, such as multi-vesicular body biogenesis, cytokinesis and virus budding; Belongs to the SNF7 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

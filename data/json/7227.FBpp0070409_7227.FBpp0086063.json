@@ -1,0 +1,16 @@
+{
+    "pae": 18.4,
+    "iptm": 21.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0070409",
+    "proB": "FBpp0086063",
+    "geneA": "Nmd3",
+    "geneB": "Ns2",
+    "annotationA": "60S ribosomal export protein NMD3; Acts as an adapter for the XPO1/CRM1-mediated export of the 60S ribosomal subunit",
+    "annotationB": "Nucleolar GTP-binding protein 2; GTPase that associates with pre-60S ribosomal subunits in the nucleolus and is required for their nuclear export and maturation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

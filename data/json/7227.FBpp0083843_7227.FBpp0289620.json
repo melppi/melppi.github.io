@@ -1,0 +1,16 @@
+{
+    "pae": 24.7,
+    "iptm": 13.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0083843",
+    "proB": "FBpp0289620",
+    "geneA": "Rpt5",
+    "geneB": "CycD",
+    "annotationA": "26S proteasome regulatory complex subunit p50; ATP binding; endopeptidase activity. It is involved in the biological process described with: proteolysis; cellular process; protein catabolic process; proteasome-mediated ubiquitin-dependent protein catabolic process; Belongs to the AAA ATPase family",
+    "annotationB": "Cyclin D, isoform D; Protein binding; protein kinase binding; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: cell proliferation; cellular process; mitochondrion organization; JAK-STAT cascade; regulation of cyclin-dependent protein serine/threonine kinase activity; cell growth; positive regulation of cell growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

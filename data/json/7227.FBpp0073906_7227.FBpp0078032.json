@@ -1,0 +1,48 @@
+{
+    "pae": 4.4,
+    "iptm": 38.0,
+    "pdockq": 0.077,
+    "proA": "FBpp0073906",
+    "proB": "FBpp0078032",
+    "geneA": "mRpL3",
+    "geneB": "CG7172",
+    "annotationA": "Mitochondrial ribosomal protein L3; Structural constituent of ribosome. It is involved in the biological process described with: translation",
+    "annotationB": "CR6-interacting factor (CRIF) may play a role in regulating the RNAi pathway by stabilizing the RNAase III enzyme Dcr-2",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 51,
+            "end_residue_number": 58,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 130,
+            "end_residue_number": 138,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "51-58"
+    ],
+    "interfaceB": [
+        "130-138"
+    ]
+}

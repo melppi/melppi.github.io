@@ -1,0 +1,90 @@
+{
+    "pae": 4.5,
+    "iptm": 25.4,
+    "pdockq": 0.163,
+    "proA": "FBpp0070165",
+    "proB": "FBpp0076879",
+    "geneA": "mus81",
+    "geneB": "Gen",
+    "annotationA": "EG:BACR7A4.16 protein; Mus81 is the catalytic subunit of the Mus81-mms4 structure-selective endonuclease that functions in DNA repair",
+    "annotationB": "Flap endonuclease GEN; Endonuclease which cleaves flap structures at the junction between single-stranded DNA and double-stranded DNA. Specific for 5'-overhanging flap structures in which the 5'- upstream of the flap is completely double-stranded. Prefers the blocked-flap structures similar to those occurring at replication forks, in which the 5' single-strand overhang of the flap is double-stranded. Also possesses weak 5'- to 3'-exonuclease activity on nicked but not gapped double-stranded DNA. Does not cleave bubble-like or Holliday junction substrates",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 2,
+            "end_residue_number": 9,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 19,
+            "end_residue_number": 38,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 48,
+            "end_residue_number": 74,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 549,
+            "end_residue_number": 587,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 592,
+            "end_residue_number": 597,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "2-9",
+        "19-38",
+        "48-74"
+    ],
+    "interfaceB": [
+        "549-587",
+        "592-597"
+    ]
+}

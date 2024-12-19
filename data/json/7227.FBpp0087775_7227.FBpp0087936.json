@@ -1,0 +1,16 @@
+{
+    "pae": 23.2,
+    "iptm": 21.0,
+    "pdockq": 0.023,
+    "proA": "FBpp0087775",
+    "proB": "FBpp0087936",
+    "geneA": "CG14749",
+    "geneB": "Nup44A",
+    "annotationA": "Nucleoporin GLE1; Required for the export of mRNAs containing poly(A) tails from the nucleus into the cytoplasm. May be involved in the terminal step of the mRNA transport through the nuclear pore complex (NPC) (By similarity)",
+    "annotationB": "Nucleoporin at 44A, isoform A; Structural constituent of nuclear pore. It is involved in the biological process described with: oogenesis; regulation of mitotic cell cycle; regulation of meiotic cell cycle; Belongs to the WD repeat SEC13 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

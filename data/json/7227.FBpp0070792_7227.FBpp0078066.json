@@ -1,0 +1,16 @@
+{
+    "pae": 16.4,
+    "iptm": 23.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0070792",
+    "proB": "FBpp0078066",
+    "geneA": "CG3011",
+    "geneB": "ppl",
+    "annotationA": "Serine hydroxymethyltransferase; Interconversion of serine and glycine; Belongs to the SHMT family",
+    "annotationB": "Glycine cleavage system H protein, mitochondrial; The glycine cleavage system catalyzes the degradation of glycine. The H protein shuttles the methylamine group of glycine from the P protein to the T protein (By similarity); Belongs to the GcvH family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,48 @@
+{
+    "pae": 7.1,
+    "iptm": 34.1,
+    "pdockq": 0.088,
+    "proA": "FBpp0083665",
+    "proB": "FBpp0086965",
+    "geneA": "mRpL45",
+    "geneB": "mRpL18",
+    "annotationA": "Probable 39S ribosomal protein L45, mitochondrial; Structural constituent of ribosome",
+    "annotationB": "Mitochondrial ribosomal protein L18; Structural constituent of ribosome. It is involved in the biological process described with: mitochondrial translation",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 201,
+            "end_residue_number": 210,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 162,
+            "end_residue_number": 173,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "201-210"
+    ],
+    "interfaceB": [
+        "162-173"
+    ]
+}

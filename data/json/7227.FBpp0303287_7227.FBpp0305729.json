@@ -1,0 +1,16 @@
+{
+    "pae": 18.6,
+    "iptm": 24.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0303287",
+    "proB": "FBpp0305729",
+    "geneA": "sky",
+    "geneB": "Rab35",
+    "annotationA": "Skywalker, isoform J; Skywalker (Sky) is a RabGAP that genetically interacts with and activates GTPase activity of Rab35 through an unconventional mechanism. It restricts the ability of synaptic vesicles to fuse into a synaptic endosomal compartment, thereby limiting synaptic vesicle associated protein sorting at synaptic endosomes. In line with this function, Sky also genetically interacts with components of the ESCRT and HOPS complexes",
+    "annotationB": "Rab35, isoform A; GTPase activity; GTP binding. It is involved in the biological process described with: phagocytosis; mitotic cytokinesis; vesicle-mediated transport; Rab protein signal transduction; protein transport; cytokinesis",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

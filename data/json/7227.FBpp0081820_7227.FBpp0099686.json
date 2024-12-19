@@ -1,0 +1,16 @@
+{
+    "pae": 21.0,
+    "iptm": 13.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0081820",
+    "proB": "FBpp0099686",
+    "geneA": "Tctp",
+    "geneB": "RpS8",
+    "annotationA": "Translationally controlled tumor protein (Tctp) belongs to the TCTP family. It interacts with the GTPase Rheb to regulate organ growth. Tctp is required for DNA damage response and genome stability",
+    "annotationB": "40S ribosomal protein S8; Structural constituent of ribosome. It is involved in the biological process described with: translational elongation; translation; neurogenesis; maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); Belongs to the eukaryotic ribosomal protein eS8 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

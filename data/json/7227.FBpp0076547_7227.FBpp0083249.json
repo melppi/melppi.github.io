@@ -1,0 +1,76 @@
+{
+    "pae": 13.5,
+    "iptm": 15.0,
+    "pdockq": 0.027,
+    "proA": "FBpp0076547",
+    "proB": "FBpp0083249",
+    "geneA": "mei-P22",
+    "geneB": "trem",
+    "annotationA": "Meiotic P22 is thought to form a dimer with the TopoVIA subunit mei-W68 and is required for meiotic double strand breakes in female meiosis",
+    "annotationB": "Trade embargo; Zinc ion binding; nucleic acid binding. It is involved in the biological process described with: meiotic DNA double-strand break formation involved in reciprocal meiotic recombination; reciprocal meiotic recombination; meiotic nuclear division",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 254,
+            "end_residue_number": 262,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 268,
+            "end_residue_number": 268,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 272,
+            "end_residue_number": 272,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 67,
+            "end_residue_number": 77,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "254-262",
+        "268-268",
+        "272-272"
+    ],
+    "interfaceB": [
+        "67-77"
+    ]
+}

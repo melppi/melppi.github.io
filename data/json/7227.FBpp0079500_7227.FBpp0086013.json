@@ -1,0 +1,16 @@
+{
+    "pae": 20.9,
+    "iptm": 20.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0079500",
+    "proB": "FBpp0086013",
+    "geneA": "RpS2",
+    "geneB": "eIF3-S8",
+    "annotationA": "40S ribosomal protein S2; Has a specific developmental role during oogenesis and a general role in protein synthesis as a component of the small ribosomal subunit",
+    "annotationB": "Eukaryotic translation initiation factor 3 subunit C; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

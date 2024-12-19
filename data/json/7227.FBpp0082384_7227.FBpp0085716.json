@@ -1,0 +1,16 @@
+{
+    "pae": 26.2,
+    "iptm": 16.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0082384",
+    "proB": "FBpp0085716",
+    "geneA": "RpII15",
+    "geneB": "Spt5",
+    "annotationA": "DNA-directed RNA polymerase II subunit RPB9; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Component of RNA polymerase II which synthesizes mRNA precursors and many functional non-coding RNAs. Pol II is the central component of the basal RNA polymerase II transcription machinery. It is composed of mobile elements that move relative to each other. RPB9 is part of the upper jaw surrounding the central large cleft and thought to grab the incoming DNA template (By similarity); Belongs to the archaeal RpoM [...] ",
+    "annotationB": "Transcription elongation factor SPT5; Component of the DRB sensitivity-inducing factor complex (DSIF complex), which regulates transcription elongation by RNA polymerase II. DSIF enhances transcriptional pausing at sites proximal to the promoter, which may facilitate the assembly of an elongation competent RNA polymerase II complex. DSIF may also promote transcriptional elongation within coding regions. DSIF is required for the transcriptional induction of heat shock response genes and regulation of genes which control anterior-posterior patterning during embryonic development; Belongs [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

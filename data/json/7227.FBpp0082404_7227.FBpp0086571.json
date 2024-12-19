@@ -1,0 +1,16 @@
+{
+    "pae": 17.0,
+    "iptm": 21.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0082404",
+    "proB": "FBpp0086571",
+    "geneA": "su(Hw)",
+    "geneB": "BEAF-32",
+    "annotationA": "Protein suppressor of hairy wing; Component of the gypsy chromatin insulator complex which is required for the function of the gypsy chromatin insulator and other endogenous chromatin insulators. Chromatin insulators are regulatory elements which establish independent domains of transcriptional activity within eukaryotic genomes. Insulators have two defining properties; they can block the communication between an enhancer and a promoter when placed between them and can also buffer transgenes from position effect variegation (PEV). Insulators are proposed to structure the chromatin fibe [...] ",
+    "annotationB": "Boundary element-associated factor of 32kD (BEAF-32) is a DNA-binding protein with binding sites near transcription start sites. BEAF-32 roles include chromatin domain insulator function, gene regulation and genome organization",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

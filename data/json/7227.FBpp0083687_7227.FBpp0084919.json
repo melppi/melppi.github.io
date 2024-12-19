@@ -1,0 +1,16 @@
+{
+    "pae": 23.4,
+    "iptm": 15.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0083687",
+    "proB": "FBpp0084919",
+    "geneA": "Rpn7",
+    "geneB": "Axn",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 6; Acts as a regulatory subunit of the 26S proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "annotationB": "Axin (Axn) is the key scaffolding protein for the canonical Wnt signalling pathway. In the absence of signal, Axin targets arm for proteolysis inhibiting Wnt signalling. In the presence of signal, it forms a part of the membrane activation complex, disrupting arm degradation. This pathway play roles in cell proliferation (imaginal disc), differentiation (embryonic patterning), death and stemness",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

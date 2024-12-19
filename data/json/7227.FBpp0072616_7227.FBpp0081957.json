@@ -1,0 +1,48 @@
+{
+    "pae": 16.6,
+    "iptm": 27.1,
+    "pdockq": 0.023,
+    "proA": "FBpp0072616",
+    "proB": "FBpp0081957",
+    "geneA": "Klp61F",
+    "geneB": "aurA",
+    "annotationA": "Kinesin-like protein Klp61F; Important role in mitotic dividing cells. Microtubule motor required for spindle body separation. Slow plus-end directed microtubule motor capable of cross-linking and sliding apart antiparallel microtubules, thereby pushing apart the associated spindle poles during spindle assembly and function. Forms cross-links between microtubules within interpolar microtubule bundles. Contributes to the length of the metaphase spindle, maintains the prometaphase spindle by antagonizing Ncd, drives anaphase B, and also contributes to normal chromosome congression, kinet [...] ",
+    "annotationB": "Aurora A; Protein serine/threonine kinase activity; protein kinase activity; ATP binding; Belongs to the protein kinase superfamily",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 409,
+            "end_residue_number": 409,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 177,
+            "end_residue_number": 177,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "409-409"
+    ],
+    "interfaceB": [
+        "177-177"
+    ]
+}

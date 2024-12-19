@@ -1,0 +1,16 @@
+{
+    "pae": 25.5,
+    "iptm": 13.2,
+    "pdockq": 0.023,
+    "proA": "FBpp0076520",
+    "proB": "FBpp0079472",
+    "geneA": "CG12262",
+    "geneB": "yip2",
+    "annotationA": "Probable medium-chain specific acyl-CoA dehydrogenase, mitochondrial; This enzyme is specific for acyl chain lengths of 4 to 16; Belongs to the acyl-CoA dehydrogenase family",
+    "annotationB": "Yippee interacting protein 2; acetyl-CoA C-acyltransferase activity. It is involved in the biological process described with: fatty acid beta-oxidation; Belongs to the thiolase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

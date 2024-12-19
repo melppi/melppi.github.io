@@ -1,0 +1,62 @@
+{
+    "pae": 13.8,
+    "iptm": 25.6,
+    "pdockq": 0.027,
+    "proA": "FBpp0078662",
+    "proB": "FBpp0078847",
+    "geneA": "ND-13A",
+    "geneB": "ND-51",
+    "annotationA": "NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial; Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone",
+    "annotationB": "NADH dehydrogenase (ubiquinone) 51 kDa subunit is a flavoprotein and iron-sulfur-containing oxidoreductase that catalyzes the oxidation of NADH to NAD. It is a component of the mitochondrial electron transport complex I, which is part of the oxidative phosphorylation pathway. It may have a role in regulating aggression behavior",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 41,
+            "end_residue_number": 42,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 176,
+            "end_residue_number": 176,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 216,
+            "end_residue_number": 216,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "41-42"
+    ],
+    "interfaceB": [
+        "176-176",
+        "216-216"
+    ]
+}

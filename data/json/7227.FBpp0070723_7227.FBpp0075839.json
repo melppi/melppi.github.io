@@ -1,0 +1,62 @@
+{
+    "pae": 12.7,
+    "iptm": 30.6,
+    "pdockq": 0.057,
+    "proA": "FBpp0070723",
+    "proB": "FBpp0075839",
+    "geneA": "Cdk7",
+    "geneB": "TfIIEalpha",
+    "annotationA": "Cyclin-dependent kinase 7 (Cdk) is a serine/threonine protein kinase whose activity depends on the regulatory CycH and Mat1 subunits. This trimeric Cdk complex activates other Cdks by phosphorylation in their T-loop and is called Cdk activating kinase (CAK). CAK can also be part of TFIIH, where Cdk7 phosphorylates different transcription substrates (e.g. CTD of Pol II)",
+    "annotationB": "Transcription factor IIEalpha (TfIIEalpha) is the large subunit of the RNA polymerase II general transcription factor TFIIE. TfIIEalpha, together with TfIIEbeta, is essential for transcription initiation in vitro and acts with RNA polymerase II and the other general transcription factors",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 60,
+            "end_residue_number": 67,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 79,
+            "end_residue_number": 87,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 319,
+            "end_residue_number": 324,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "60-67",
+        "79-87"
+    ],
+    "interfaceB": [
+        "319-324"
+    ]
+}

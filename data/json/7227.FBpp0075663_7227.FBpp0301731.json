@@ -1,0 +1,16 @@
+{
+    "pae": 22.4,
+    "iptm": 18.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0075663",
+    "proB": "FBpp0301731",
+    "geneA": "CG32110",
+    "geneB": "lwr",
+    "annotationA": "Uncharacterized protein; SUMO-specific protease activity; peptidase activity. It is involved in the biological process described with: proteolysis; protein desumoylation",
+    "annotationB": "Lesswright encodes Ubc9, a SUMO conjugating enzyme that accepts SUMO from the SUMO activating enzyme and hands it off to the SUMO conjugation target. It has documented biological functions in innate immunity, meiosis, and anterior patterning of the embryo",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

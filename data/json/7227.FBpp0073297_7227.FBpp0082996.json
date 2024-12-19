@@ -1,0 +1,62 @@
+{
+    "pae": 18.4,
+    "iptm": 26.1,
+    "pdockq": 0.038,
+    "proA": "FBpp0073297",
+    "proB": "FBpp0082996",
+    "geneA": "Dlic",
+    "geneB": "Dlc90F",
+    "annotationA": "Dynein light intermediate chain, isoform A; Microtubule motor activity; motor activity; ATPase activity, coupled. It is involved in the biological process described with: mitotic nuclear division; axonogenesis; oogenesis; regulation of dendrite morphogenesis; mRNA transport; mitotic spindle organization; axon cargo transport; microtubule cytoskeleton organization; dendrite morphogenesis; microtubule-based movement",
+    "annotationB": "Dynein light chain Tctex-type; Acts as one of several non-catalytic accessory components of the cytoplasmic dynein complex that are thought to be involved in linking dynein to cargos and to adapter proteins that regulate dynein function. Cytoplasmic dynein acts as a motor for the intracellular retrograde motility of vesicles and organelles along microtubules. Required for spermatid differentiation. Is not required for polarized transport in rhabdomere development and appears to be a non-essential component of the cytoplasmic dynein complex",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 79,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 102,
+            "end_residue_number": 102,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 79,
+            "end_residue_number": 81,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "79-83",
+        "102-102"
+    ],
+    "interfaceB": [
+        "79-81"
+    ]
+}

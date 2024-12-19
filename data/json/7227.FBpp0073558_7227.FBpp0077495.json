@@ -1,0 +1,16 @@
+{
+    "pae": 19.4,
+    "iptm": 27.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0073558",
+    "proB": "FBpp0077495",
+    "geneA": "CG12096",
+    "geneB": "Su(dx)",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 5; Acts as a chaperone during the assembly of the 26S proteasome",
+    "annotationB": "E3 ubiquitin-protein ligase Su(dx); E3 ubiquitin-protein ligase which accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates. Down-regulates Notch/N signaling pathway, probably by promoting Notch ubiquitination, endocytosis and degradation. Involved in wing growth and leg joint formation",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

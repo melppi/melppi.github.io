@@ -1,0 +1,16 @@
+{
+    "pae": 16.1,
+    "iptm": 20.6,
+    "pdockq": 0.023,
+    "proA": "FBpp0083939",
+    "proB": "FBpp0085482",
+    "geneA": "CHORD",
+    "geneB": "Trap1",
+    "annotationA": "Cysteine and histidine-rich domain-containing protein; CHORD is an evolutionarily conserved co-chaperone of Hsp83 that controls neuronal cell growth in the context of dendrite remodeling. Dendritic growth and branching are controlled by at least partly separate mechanisms. The Insulin/IGF signaling (IIS)/TORC1 pathways control both growth and branching to avert underdevelopment, whereas CHORD together with rictor realizes proportional scaling of the entire arbor",
+    "annotationB": "Trap1, isoform A; Trap1 is a mitochondrial chaperone protein of the heat shock protein (HSP90) family. It shows an ATPase activity and is involved in neurodegeneration associated with mitochondrial dysfunction",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

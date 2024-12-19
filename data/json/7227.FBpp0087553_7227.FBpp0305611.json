@@ -1,0 +1,16 @@
+{
+    "pae": 19.0,
+    "iptm": 17.3,
+    "pdockq": 0.023,
+    "proA": "FBpp0087553",
+    "proB": "FBpp0305611",
+    "geneA": "dap",
+    "geneB": "lmgA",
+    "annotationA": "RE12958p; Dacapo (Dap) is a Cyclin-dependent kinase inhibitor in the CIP/KIP family. It binds to CycE-Cdk2 complexes and thereby inhibits their protein kinase activity. Upregulation of Dap is required after the last mitosis for arresting cells in G1/G0 before terminal differentiation in many post-mitotic cell types",
+    "annotationB": "Putative APC11 anaphase-promoting complex subunit; Zinc ion binding; mitotic anaphase-promoting complex activity. It is involved in the biological process described with: positive regulation of mitotic metaphase/anaphase transition; protein ubiquitination; anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

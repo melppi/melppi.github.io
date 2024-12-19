@@ -1,0 +1,16 @@
+{
+    "pae": 17.6,
+    "iptm": 28.7,
+    "pdockq": 0.023,
+    "proA": "FBpp0082177",
+    "proB": "FBpp0084948",
+    "geneA": "pic",
+    "geneB": "Tpi",
+    "annotationA": "Piccolo encodes the Ddb1 protein, which functions to recruit substrate receptors to Cul4-based E3 ubiquitin ligase complexes, which catalyze the ubiquitylation and subsequent destruction of proteins that function in cell growth and proliferation as well as transcription, replication and repair of the genome",
+    "annotationB": "Triose phosphate isomerase is a soluble metabolic protein dimer that functions in glycolysis catalyzing the isomerization between dihydroxyacetone phosphate and glyceraldehyde 3-phosphate, which is essential for efficient ATP production",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

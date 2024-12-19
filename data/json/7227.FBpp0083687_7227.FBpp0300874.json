@@ -1,0 +1,16 @@
+{
+    "pae": 22.0,
+    "iptm": 14.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0083687",
+    "proB": "FBpp0300874",
+    "geneA": "Rpn7",
+    "geneB": "Roc1a",
+    "annotationA": "26S proteasome non-ATPase regulatory subunit 6; Acts as a regulatory subunit of the 26S proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins",
+    "annotationB": "Regulator of cullins 1a (Roc1a) is a C2H2 type zinc finger protein and component of several Cullin-Ring E3 ubiquitin ligase complexes. Roc1a binds directly to the Cullin subunit within the CRL complex and functions to recruit ubiquitin-charged E2 proteins",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

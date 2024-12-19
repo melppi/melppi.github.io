@@ -1,0 +1,62 @@
+{
+    "pae": 8.8,
+    "iptm": 18.3,
+    "pdockq": 0.069,
+    "proA": "FBpp0075826",
+    "proB": "FBpp0082902",
+    "geneA": "Sgs7",
+    "geneB": "Sgs5",
+    "annotationA": "Salivary glue protein Sgs-7; Salivary gland secretion 7 (Sgs7) is one of the 20-hydroxyecdysone-induced proteins secreted at the larval-to-prepupal transition. They form a glue that serves to attach the prepupa and pupa to a solid substrate",
+    "annotationB": "Salivary glue protein Sgs-5; Structural molecule activity. It is involved in the biological process described with: puparial adhesion",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 51,
+            "end_residue_number": 69,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 62,
+            "end_residue_number": 65,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 92,
+            "end_residue_number": 105,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "51-69"
+    ],
+    "interfaceB": [
+        "62-65",
+        "92-105"
+    ]
+}

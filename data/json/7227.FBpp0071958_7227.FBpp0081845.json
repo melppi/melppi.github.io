@@ -1,0 +1,48 @@
+{
+    "pae": 17.1,
+    "iptm": 19.4,
+    "pdockq": 0.024,
+    "proA": "FBpp0071958",
+    "proB": "FBpp0081845",
+    "geneA": "RpL22-like",
+    "geneB": "RpS25",
+    "annotationA": "Ribosomal protein L22-like is a eukaryotic-specific component of the large ribosomal subunit involved in protein synthesis",
+    "annotationB": "40S ribosomal protein S25; Structural constituent of ribosome. It is involved in the biological process described with: translation; Belongs to the eukaryotic ribosomal protein eS25 family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 272,
+            "end_residue_number": 272,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 83,
+            "end_residue_number": 83,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "272-272"
+    ],
+    "interfaceB": [
+        "83-83"
+    ]
+}

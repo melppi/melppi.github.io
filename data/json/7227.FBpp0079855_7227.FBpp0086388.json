@@ -1,0 +1,48 @@
+{
+    "pae": 11.3,
+    "iptm": 15.5,
+    "pdockq": 0.025,
+    "proA": "FBpp0079855",
+    "proB": "FBpp0086388",
+    "geneA": "Mst33A",
+    "geneB": "CG10734",
+    "annotationA": "Mst33A, isoform A; Mst33A",
+    "annotationB": "annotation not available",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 42,
+            "end_residue_number": 50,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 361,
+            "end_residue_number": 367,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "42-50"
+    ],
+    "interfaceB": [
+        "361-367"
+    ]
+}

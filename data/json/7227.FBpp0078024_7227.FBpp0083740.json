@@ -1,0 +1,16 @@
+{
+    "pae": 18.1,
+    "iptm": 19.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0078024",
+    "proB": "FBpp0083740",
+    "geneA": "Rpn10",
+    "geneB": "Ublcp1",
+    "annotationA": "Regulatory particle non-ATPase 10 (Rpn10) is one of the polyubiquitin receptor subunits of the 26S proteasome. Rpn10 recognizes and binds the polyubiquitin moiety of proteins intended for proteasomal degradation or the ubiquitin-like domain of extraproteasomal ubiquitin receptors",
+    "annotationB": "Ubiquitin-like domain-containing C-terminal domain phosphatase 1 is a nuclear HAD family phospho-Ser/Thr phosphatase that binds and dephosphorylates the nuclear 26S proteasome and inhibits proteasome activity",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

@@ -1,0 +1,16 @@
+{
+    "pae": 21.8,
+    "iptm": 15.4,
+    "pdockq": 0.023,
+    "proA": "FBpp0271782",
+    "proB": "FBpp0305521",
+    "geneA": "Syb",
+    "geneB": "comt",
+    "annotationA": "Synaptobrevin; Unknown, but synaptobrevins are presumed to be involved in targeting and fusion of synaptic vesicles with the presynaptic membrane as well as in neurotransmitter release",
+    "annotationB": "Vesicle-fusing ATPase 1; Required for vesicle-mediated transport. Catalyzes the fusion of transport vesicles within the Golgi cisternae. Is also required for transport from the endoplasmic reticulum to the Golgi stack. Seems to function as a fusion protein required for the delivery of cargo proteins to all compartments of the Golgi stack independent of vesicle origin; Belongs to the AAA ATPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

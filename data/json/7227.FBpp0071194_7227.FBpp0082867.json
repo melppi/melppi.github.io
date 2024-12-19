@@ -1,0 +1,62 @@
+{
+    "pae": 6.5,
+    "iptm": 34.7,
+    "pdockq": 0.107,
+    "proA": "FBpp0071194",
+    "proB": "FBpp0082867",
+    "geneA": "CG1789",
+    "geneB": "Ns1",
+    "annotationA": "Probable U3 small nucleolar RNA-associated protein 11; Involved in nucleolar processing of pre-18S ribosomal RNA",
+    "annotationB": "Guanine nucleotide-binding protein-like 3 homolog; May play a role in regulating cellular proliferation; Belongs to the TRAFAC class YlqF/YawG GTPase family",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 64,
+            "end_residue_number": 70,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 360,
+            "end_residue_number": 371,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        },
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 385,
+            "end_residue_number": 385,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "64-70"
+    ],
+    "interfaceB": [
+        "360-371",
+        "385-385"
+    ]
+}

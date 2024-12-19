@@ -1,0 +1,48 @@
+{
+    "pae": 14.2,
+    "iptm": 17.0,
+    "pdockq": 0.025,
+    "proA": "FBpp0078473",
+    "proB": "FBpp0289620",
+    "geneA": "CG12161",
+    "geneB": "CycD",
+    "annotationA": "Proteasome beta2 subunit-related 2; Threonine-type endopeptidase activity; endopeptidase activity. It is involved in the biological process described with: proteasome-mediated ubiquitin-dependent protein catabolic process",
+    "annotationB": "Cyclin D, isoform D; Protein binding; protein kinase binding; cyclin-dependent protein serine/threonine kinase regulator activity. It is involved in the biological process described with: cell proliferation; cellular process; mitochondrion organization; JAK-STAT cascade; regulation of cyclin-dependent protein serine/threonine kinase activity; cell growth; positive regulation of cell growth",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 25,
+            "end_residue_number": 27,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 138,
+            "end_residue_number": 141,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "25-27"
+    ],
+    "interfaceB": [
+        "138-141"
+    ]
+}

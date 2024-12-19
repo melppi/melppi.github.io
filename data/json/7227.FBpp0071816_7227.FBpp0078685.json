@@ -1,0 +1,16 @@
+{
+    "pae": 21.3,
+    "iptm": 13.5,
+    "pdockq": 0.023,
+    "proA": "FBpp0071816",
+    "proB": "FBpp0078685",
+    "geneA": "Gmer",
+    "geneB": "Gmd",
+    "annotationA": "Probable GDP-L-fucose synthase; Catalyzes the two-step NADP-dependent conversion of GDP- 4-dehydro-6-deoxy-D-mannose to GDP-fucose, involving an epimerase and a reductase reaction; Belongs to the NAD(P)-dependent epimerase/dehydratase family. Fucose synthase subfamily",
+    "annotationB": "GDP-mannose 4,6 dehydratase; Catalyzes the conversion of GDP-D-mannose to GDP-4- dehydro-6-deoxy-D-mannose",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

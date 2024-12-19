@@ -1,0 +1,16 @@
+{
+    "pae": 17.2,
+    "iptm": 15.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0076478",
+    "proB": "FBpp0099986",
+    "geneA": "CG8038",
+    "geneB": "Rpp20",
+    "annotationA": "CG8038; RNA binding; ribonuclease P activity. It is involved in the biological process described with: mRNA cleavage; tRNA processing; rRNA processing",
+    "annotationB": "Ribonuclease P protein subunit p20; Component of ribonuclease P, a protein complex that generates mature tRNA molecules by cleaving their 5'-ends. Also a component of RNase MRP complex, which cleaves pre-rRNA sequences (By similarity)",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

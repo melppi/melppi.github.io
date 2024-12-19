@@ -1,0 +1,16 @@
+{
+    "pae": 26.7,
+    "iptm": 15.9,
+    "pdockq": 0.023,
+    "proA": "FBpp0074608",
+    "proB": "FBpp0076312",
+    "geneA": "polo",
+    "geneB": "Mcm7",
+    "annotationA": "Serine/threonine-protein kinase polo; May play a role in regulating both nuclear and cytoplasmic aspects of the mitotic cycle. Regulates localization of the augmin complex during mitosis by ensuring its location on mitotic spindles. Also regulates augmin complex localization during male meiosis by promoting its placement at kinetochores while preventing its association with spindle microtubules",
+    "annotationB": "DNA replication licensing factor Mcm7; Acts as component of the Mcm2-7 complex (Mcm complex) which is the putative replicative helicase essential for 'once per cell cycle' DNA replication initiation and elongation in eukaryotic cells. The active ATPase sites in the Mcm2-7 ring are formed through the interaction surfaces of two neighboring subunits such that a critical structure of a conserved arginine finger motif is provided in trans relative to the ATP-binding site of the Walker A box of the adjacent subunit. The six ATPase active sites, however, are likely to contribute differential [...] ",
+    "ppi": "no or low",
+    "interfaceA_sel": [],
+    "interfaceB_sel": [],
+    "interfaceA": [],
+    "interfaceB": []
+}

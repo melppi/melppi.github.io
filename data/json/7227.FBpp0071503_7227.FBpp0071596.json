@@ -1,0 +1,48 @@
+{
+    "pae": 16.1,
+    "iptm": 20.8,
+    "pdockq": 0.023,
+    "proA": "FBpp0071503",
+    "proB": "FBpp0071596",
+    "geneA": "Xpd",
+    "geneB": "Tbp",
+    "annotationA": "Xeroderma pigmentosum D is a DNA helicase that is a subunit of the basal transcription and DNA repair factor TFIIH",
+    "annotationB": "TATA binding protein is a basal transcription factor required at most RNA Pol I and Pol II-transcribed genes in Drosophila. Traditionally thought to be recruited only to TATA box containing promoters, recent work shows that promoters with very weak TATA box consensus sequences also recruit TBP as a part of the multisubunit TFIID basal transcription factor or via the SAGA histone acetyltransferase complex",
+    "ppi": "no or low",
+    "interfaceA_sel": [
+        {
+            "struct_asym_id": "A",
+            "start_residue_number": 578,
+            "end_residue_number": 578,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceB_sel": [
+        {
+            "struct_asym_id": "B",
+            "start_residue_number": 13,
+            "end_residue_number": 13,
+            "representation": "ball-and-stick",
+            "sideChain": false,
+            "color": {
+                "r": 247,
+                "g": 171,
+                "b": 0
+            },
+            "focus": true
+        }
+    ],
+    "interfaceA": [
+        "578-578"
+    ],
+    "interfaceB": [
+        "13-13"
+    ]
+}
