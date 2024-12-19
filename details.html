@@ -150,7 +150,9 @@
          
             // Display the ID in the details page
             document.getElementById('entry-id').textContent = id;
-            document.getElementById('modelpath').href = `./data/pdb/${id}.pdb`;
+            //document.getElementById('modelpath').href = `./data/pdb/${id}.pdb`;
+            document.getElementById('modelpath').href = `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb`;
+            
          
             // Use the ROW_ID for other purposes (e.g., making a request, logging, etc.)
             function ViewStructure(rowId) {
@@ -173,7 +175,8 @@
                     moleculeId: `${id}`,
                     customData: {
                         //url: `http://localhost:6060/data/pdb/${id}.pdb`,
-                        url: `./data/pdb/${id}.pdb`,
+                        //url: `./data/pdb/${id}.pdb`,
+                        url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb`,
                         format: 'pdb',
                         binary: false,
                     },
@@ -252,7 +255,7 @@
             <div id="PAEcontainer"><img id="paefig" alt="Predicted Aligned Error" title="Predicted Aligned Error"></div>
             <script>
                 //const figurePath = `http://localhost:6060/data/PAE/${id}_pae.png`; // Adjust this path based on where your figures are stored
-                const figurePath = `./data/PAE/${id}_pae.jpg`; // Adjust this path based on where your figures are stored
+                const figurePath = `https://storage.googleapis.com/dmelppi_web/mPAE/${id}_pae.jpg`; // Adjust this path based on where your figures are stored
                 document.getElementById('paefig').src = figurePath;
             </script>
         </div>
