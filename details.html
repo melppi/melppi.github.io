@@ -186,40 +186,51 @@
                 viewerInstance.render(viewerContainer, options);
 
                 //fetch(`http://localhost:6060/data/json/${id}.json`)
-                fetch(`./data/json/${id}.json`)
-                .then(response => response.json())
-                .then(info => {
-
-                    // show prediction detail
-                    document.getElementById('iptm').textContent = info.iptm;
-                    document.getElementById('pae').textContent = info.pae+' Å';
-                    document.getElementById('pdockq').textContent = info.pdockq;
-                    document.getElementById('ppi').textContent = info.ppi;
-
-                    // show Annotation
-                    document.getElementById('proteinA').textContent = info.proA;
-                    document.getElementById('proteinB').textContent = info.proB;
-                    document.getElementById('geneA').textContent = info.geneA;
-                    document.getElementById('geneB').textContent = info.geneB;
-                    document.getElementById('annotationA').textContent = info.annotationA;
-                    document.getElementById('annotationB').textContent = info.annotationB;
-
-                    // show interface A
-                    document.getElementById('interfaceA').textContent = info.interfaceA;
-                    document.getElementById('selectChainA').addEventListener('click', function()    {
-                        viewerInstance.visual.select({
-                            data: info.interfaceA_sel,
+                fetch(`./data/json/${id}.json.gz`)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! status: ${response.status}`);
+                        }
+                        return response.arrayBuffer(); // Fetch the gzipped file as binary data
+                    })
+                    .then(buffer => {
+                        const decompressed = pako.inflate(new Uint8Array(buffer), { to: 'string' }); // Decompress the data
+                        const info = JSON.parse(decompressed); // Parse the decompressed JSON
+    
+                        // Show prediction detail
+                        document.getElementById('iptm').textContent = info.iptm;
+                        document.getElementById('pae').textContent = info.pae + ' Å';
+                        document.getElementById('pdockq').textContent = info.pdockq;
+                        document.getElementById('ppi').textContent = info.ppi;
+    
+                        // Show Annotation
+                        document.getElementById('proteinA').textContent = info.proA;
+                        document.getElementById('proteinB').textContent = info.proB;
+                        document.getElementById('geneA').textContent = info.geneA;
+                        document.getElementById('geneB').textContent = info.geneB;
+                        document.getElementById('annotationA').textContent = info.annotationA;
+                        document.getElementById('annotationB').textContent = info.annotationB;
+    
+                        // Show interface A
+                        document.getElementById('interfaceA').textContent = info.interfaceA;
+                        document.getElementById('selectChainA').addEventListener('click', function () {
+                            viewerInstance.visual.select({
+                                data: info.interfaceA_sel,
+                            });
                         });
+    
+                        // Show interface B
+                        document.getElementById('interfaceB').textContent = info.interfaceB;
+                        document.getElementById('selectChainB').addEventListener('click', function () {
+                            viewerInstance.visual.select({
+                                data: info.interfaceB_sel,
+                            });
+                        });
+                    })
+                    .catch(error => {
+                        console.error('Error fetching or processing the JSON file:', error);
                     });
 
-                    // show interface B
-                    document.getElementById('interfaceB').textContent = info.interfaceB;
-                    document.getElementById('selectChainB').addEventListener('click', function()    {
-                        viewerInstance.visual.select({
-                            data: info.interfaceB_sel,
-                        });
-                    });
-                });
 
 
                 // a "clear selection" button
@@ -240,7 +251,7 @@
             <div id="PAEcontainer"><img id="paefig" alt="Predicted Aligned Error" title="Predicted Aligned Error"></div>
             <script>
                 //const figurePath = `http://localhost:6060/data/PAE/${id}_pae.png`; // Adjust this path based on where your figures are stored
-                const figurePath = `./data/PAE/${id}_pae.png`; // Adjust this path based on where your figures are stored
+                const figurePath = `./data/PAE/${id}_pae.jpg`; // Adjust this path based on where your figures are stored
                 document.getElementById('paefig').src = figurePath;
             </script>
         </div>
