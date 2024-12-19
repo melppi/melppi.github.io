@@ -190,9 +190,6 @@
                 const viewerContainer = document.getElementById('PDBeviewer');
 
                 viewerInstance.render(viewerContainer, options);
-                viewerInstance.loadStructure(options.customData).catch(err => {
-                    console.error('Error loading structure:', err);
-                });
 
                 //fetch(`http://localhost:6060/data/json/${id}.json`)
                 fetch(`data/json/${id}.json.gz`)
