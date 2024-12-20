@@ -9,6 +9,7 @@
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.datatables.net/2.1.3/js/dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/2.1.3/js/dataTables.bootstrap5.min.js"></script>
+
     <style>
         /* Additional styling for the table */
         h2 {
@@ -86,6 +87,23 @@
 
     </style>
 </head>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    // Check if there is a hash in the URL (e.g., #main-table)
+    const hash = window.location.hash;
+
+    // Ensure the hash corresponds to an element on the page
+    if (hash) {
+        const target = document.querySelector(hash); // Find the element by its id
+        if (target) {
+            // Adjust scroll to bring the element to the top of the page
+            const offsetTop = target.getBoundingClientRect().top + window.pageYOffset;
+            window.scrollTo({ top: offsetTop, behavior: 'smooth' });
+        }
+    }
+});
+</script>
+
 <body>
     <img src="data/Figure_Website.jpg" alt="DmelPPI" style="width: calc(95vw - 16px);margin-top: 16px;margin-left:2px;margin-right:2px;position: relative; left: 50%; transform: translateX(-50%);">
     <h2>DmelPPI Project: Comprehensive understanding interaction details of protein-protein interactions in <i>Drosophila melanogaster</i><br></h2>
