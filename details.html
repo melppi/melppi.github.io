@@ -1,276 +1,387 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Detail View</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Detail View</title>
 
-    <!-- Molstar CSS & JS -->
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://cdn.jsdelivr.net/npm/pdbe-molstar@3.2.0/build/pdbe-molstar-light.css"         
-    /> 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js"></script>
-    <script
-      type="text/javascript"
-      src="https://cdn.jsdelivr.net/npm/pdbe-molstar@3.2.0/build/pdbe-molstar-plugin.js"
-    ></script>
+  <!-- External libraries -->
+  <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/pdbe-molstar@3.2.0/build/pdbe-molstar-plugin.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pdbe-molstar@3.2.0/build/pdbe-molstar-light.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js"></script>
+  <script src="https://string-db.org/javascript/combined_embedded_network_v2.0.4.js"></script>
 
-    <style>
-        h2 {
-            text-align: left;
-        }
-        body {
-            font-family: Helvetica, sans-serif;
-            width: 80%; /* Set the body width to 80% of the viewport width */
-            margin-left: auto; /* Center horizontally */
-            margin-right: auto; /* Center horizontally */
-        }
-        .container {
-            display: flex;
-            justify-content: space-between;
-            gap: 20px; /* Gap between columns */
-        }
+  <style>
+    body {
+      font-family: Helvetica, sans-serif;
+      width: 90%;
+      margin: auto;
+    }
+    .small-text {
+      font-size: 14px;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      /*justify-content: space-between;*/
+      justify-content: center;
+      gap: 66px;
+    }
+    .container-small {
+      display: flex;
+      flex-wrap: wrap;
+      /*justify-content: space-between;*/
+      gap: 6px;
+    }
 
-        .column {
-            flex: 1; /* Each column takes up equal space */
-            padding: 20px;
-            box-sizing: border-box;
-        }
+    .column {
+      flex: 1;
+      min-width: 0px;
+    }
 
-        body {
-            font-family: Helvetica, sans-serif;
-        }
+    .small-column {
+      flex: 5;
+      min-width: 0; /* helps with resizing */
+    }
 
-        #PDBeviewer {
-            width: 400px;
-            height: 300px;
-            position: relative;
-        }
-        #PAEcontainer {
-            width: 387.096775px;             /* Set width */
-            height: 300px;            /* Set height */
-            border: 1px solid #ccc;   /* Add a light border */
-            justify-content: center;  /* Center the figure horizontally */
-            align-items: center;      /* Center the figure vertically */
-        }
-        #paefig {
-            max-width: 100%;
-            max-height: 100%;
-            object-fit: contain; /* Maintain aspect ratio */
-            /*
-            */
-        }
+    .large-column {
+      flex: 8;
+      min-width: 0;
+    }
 
-        /* buttons */
-        .button-small {
-            width: 112px;
-            padding: 6px;
-            text-align: left;
-            margin: 5px 5px;
-        }
-        .button-medium {
-            width: 292px;
-            padding: 6px;
-            text-align: left;
-            margin: 5px 5px;
-        }
-        .button-large {
-            width: 392px;
-            padding: 6px;
-            text-align: left;
-            margin: 5px 5px;
-        }
-        .back-button {
-            display: inline-block;
-            margin-bottom: 5px;
-            padding: 5px 5px;
-            font-size: 16px;
-            color: #fff;
-            background-color: #007bff;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            text-decoration: none;
-        }
-        .back-button:hover {
-            background-color: #0056b3;
-        }
+    #PDBeviewer{
+      width: 656px;
+      height: 400px;
+      position: relative;
+      overflow: hidden;
+    }
+    #stringEmbedded {
+      width: 400px;
+      height: 300px;
+      position: relative;
+      overflow: hidden;
+    }
+    #stringAppContainer {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+    #PAEcontainer, #profileA, #profileB {
+        width: 387.096775px;             /* Set width */
+        height: 300px;            /* Set height */
+        border: 1px solid #ccc;   /* Add a light border */
+        justify-content: center;  /* Center the figure horizontally */
+        align-items: center;      /* Center the figure vertically */
+    }
+    #paefig {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain; /* Maintain aspect ratio */
+        /*
+        */
+    }
+    /* buttons */
+    .center-button {
+        display: flex;
+        justify-content: center;
+        padding:0px;
+        margin-top: 10px;
+    }
 
-        /* add a footer to declair copy right information */
-        footer {
-            /*background-color: #333;
-            color: white;*/
-            text-align: center;
-            padding: 10px 0;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-            font-size: 14px;
-        }
-        footer a {
-            color: #ffb74d;
-            text-decoration: none;
-        }
-        footer a:hover {
-            text-decoration: underline;
-        }
-
-    </style>
-
+    .button-small {
+        width: 80px;
+        padding: 6px;
+        text-align: left;
+        margin: 5px 5px;
+    }
+    .button-medium {
+        width: 280px;
+        padding: 5px;
+        text-align: left;
+        margin: 1px 1px;
+    }
+    .button-large {
+        width: 392px;
+        padding: 1px;
+        text-align: left;
+        margin: 5px 5px;
+    }
+    .back-button {
+        display: inline-block;
+        margin-bottom: 5px;
+        padding: 5px 5px;
+        font-size: 16px;
+        color: #fff;
+        background-color: #007bff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    .back-button:hover {
+        background-color: #0056b3;
+    }
+  </style>
 </head>
 <body>
-    <h2>Details for ID: <span id="entry-id"></span></h2>
-    <!--<p> <a href="index.html">Back to List</a> </p> -->
-    <h3>Protein Details</h3>
-    <p>Protein A: <span id="proteinA"></span>, <span id="geneA"></span>, <span id="annotationA"></span></p>
-    <p>Protein B: <span id="proteinB"></span>, <span id="geneB"></span>, <span id="annotationB"></span></p>
-    <h3>Prediction Detail</h3>
-    <p>iptm: <span id="iptm"></span>, PAE: <span id="pae"></span>, pDockQ: <span id="pdockq"></span>, confidence of interaction: <span id="ppi"></span></p>
-    <br>
-    <a href="index.html#main-table" class="back-button">Back to List</a>
+  <h2>Details for ID: <span id="entry-id"></span></h2>
+  <h3>Protein Details</h3>
+  <p>Protein A: <span id="proteinA"></span>, <span id="geneA"></span>, <span id="annotationA"></span></p>
+  <p>Protein B: <span id="proteinB"></span>, <span id="geneB"></span>, <span id="annotationB"></span></p>
+  <h3>Prediction Detail</h3>
+  <p>iptm: <span id="iptm"></span>, PAE: <span id="pae"></span>, pDockQ: <span id="pdockq"></span>, confidence of interaction: <span id="ppi"></span></p>
+  <br>
+  <div class="container">
 
-    <div class="container">
-        <div class="column"> 
-            <h3> AF2 model  </h3>
-            <div id="PDBeviewer"> </div>
-            <h3> Click below to show Interface </h3>
-            <button class="button-large" id="selectChainA">Show Interface in Chain A: <br><span id="interfaceA"></span></button>
-            <br>
-            <button class="button-large" id="selectChainB">Show Interface in Chain B: <br><span id="interfaceB"></span></button>
-            <br>
-            <button class="button-small" id="clearselection">Clear Selection</button>
-            <br><br><a id="modelpath" href="#" download>Click to Download the model</a>
-            <br><br>
-            <script>
-            // Extract the ID from the URL
-            const urlParams = new URLSearchParams(window.location.search);
-            const id = urlParams.get('id'); // Extract the ROW_ID from the URL
-         
-            // Display the ID in the details page
-            document.getElementById('entry-id').textContent = id;
-            //document.getElementById('modelpath').href = `./data/pdb/${id}.pdb`;
-            document.getElementById('modelpath').href = `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
-            
-         
-            // Use the ROW_ID for other purposes (e.g., making a request, logging, etc.)
-            function ViewStructure(rowId) {
-                console.log(`Using ROW_ID: ${rowId}`);
-                const viewerInstance = new PDBeMolstarPlugin();
-
-                const chaincolors  = {
-                    colorTheme: {
-                        name: "chain-id",
-                        params: {
-                            chainIdColorMap: {
-                                A: { r: 0, g: 255, b: 255 }, 
-                                B: { r: 255, g: 0, b: 0 },  
-                                C: { r: 0, g: 255, b: 255 }   
-                            }
-                        }
-                    }
-                };
-                const options = {
-                    moleculeId: `${id}`,
-                    customData: {
-                        //url: `http://localhost:6060/data/pdb/${id}.pdb`,
-                        //url: `./data/pdb/${id}.pdb`,
-                        url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`,
-                        //url: `https://storage.googleapis.com/dmelppi_web/mpdb/1cbs.pdb.gz`,
-                        //url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.cif`,
-                        //url : `./${id}.pdb`,
-                        //url: `https://files.rcsb.org/download/1cbs.pdb`,
-                        format: 'pdb',
-                        binary: false,
-                    },
-                    bgColor: { r: 255, g: 255, b: 255 },
-                    hideControls: true,
-                    pdbeLink: false,
-                    visual: chaincolors,
-                };
-                const viewerContainer = document.getElementById('PDBeviewer');
-
-                viewerInstance.render(viewerContainer, options);
-
-                //fetch(`http://localhost:6060/data/json/${id}.json`)
-                fetch(`data/json/${id}.json.gz`)
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error(`HTTP error! status: ${response.status}`);
-                        }
-                        return response.arrayBuffer(); // Fetch the gzipped file as binary data
-                    })
-                    .then(buffer => {
-                        const decompressed = pako.inflate(new Uint8Array(buffer), { to: 'string' }); // Decompress the data
-                        const info = JSON.parse(decompressed); // Parse the decompressed JSON
-    
-                        // Show prediction detail
-                        document.getElementById('iptm').textContent = info.iptm;
-                        document.getElementById('pae').textContent = info.pae + ' Å';
-                        document.getElementById('pdockq').textContent = info.pdockq;
-                        document.getElementById('ppi').textContent = info.ppi;
-    
-                        // Show Annotation
-                        document.getElementById('proteinA').textContent = info.proA;
-                        document.getElementById('proteinB').textContent = info.proB;
-                        document.getElementById('geneA').textContent = info.geneA;
-                        document.getElementById('geneB').textContent = info.geneB;
-                        document.getElementById('annotationA').textContent = info.annotationA;
-                        document.getElementById('annotationB').textContent = info.annotationB;
-    
-                        // Show interface A
-                        document.getElementById('interfaceA').textContent = info.interfaceA;
-                        document.getElementById('selectChainA').addEventListener('click', function () {
-                            viewerInstance.visual.select({
-                                data: info.interfaceA_sel,
-                            });
-                        });
-    
-                        // Show interface B
-                        document.getElementById('interfaceB').textContent = info.interfaceB;
-                        document.getElementById('selectChainB').addEventListener('click', function () {
-                            viewerInstance.visual.select({
-                                data: info.interfaceB_sel,
-                            });
-                        });
-                    })
-                    .catch(error => {
-                        console.error('Error fetching or processing the JSON file:', error);
-                    });
-
-
-
-                // a "clear selection" button
-                document.getElementById('clearselection').addEventListener('click', function()    {
-                    viewerInstance.visual.clearSelection();
-                });
-
-            }
-         
-            ViewStructure(id);
-
-            </script>
-
+    <!--Structure Column-->
+    <div class="large-column">
+      <h3>AF2 Model</h3>
+      <div id="PDBeviewer"></div>
+      <h3> Click below to show Interface </h3>
+      <div class="container-small">
+        <!--<div class="column">-->
+          <button class="button-medium" id="selectChainA">
+            Interface in Protein A (<span id="geneAbutton"></span>): <br><span id="interfaceA"></span>
+          </button>
+        <!--</div>-->
+        <!--
+        <div class="column">
+        -->
+          <button class="button-medium" id="selectChainB">
+            Interface in Protein B (<span id="geneBbutton"></span>): <br><span id="interfaceB"></span>
+          </button>
+        <!--
         </div>
-
-        <div class="column"> 
-            <h3> Predicted Aligned Error </h3>
-            <div id="PAEcontainer"><img id="paefig" alt="Predicted Aligned Error" title="Predicted Aligned Error"></div>
-            <script>
-                //const figurePath = `http://localhost:6060/data/PAE/${id}_pae.png`; // Adjust this path based on where your figures are stored
-                const figurePath = `https://storage.googleapis.com/dmelppi_web/mPAE/${id}_pae.jpg`; // Adjust this path based on where your figures are stored
-                document.getElementById('paefig').src = figurePath;
-            </script>
-        </div>
+        -->
+        <!--
+      </div>
+      <div class="center-button">
+        -->
+        <button class="button-small" id="clearselection">Clear Selection</button>
+        <!--
+      </div>
+        -->
+      </div>
+      <br><br><a id="modelpath" href="#" download>Download the model</a>
+      <br><br>
+      <h3>STRING Network</h3>
+      <p>click the logo to check details in the version 11.5 STRING database</p>
+      <div id="stringEmbedded"> <div id="stringAppContainer"></div> </div>
     </div>
-    <a href="index.html#data-table" class="back-button">Back to List</a>
+    <!--End of Structure Column-->
 
-    <!-- Footer -->
-    <footer>
-        &copy; <span id="currentYear"></span> Zhao Lab @ Rockefeller University | Designed by Junhui Peng and Zhao Lab
-    </footer>
+    <!--PAE session-->
+    <div class="small-column">
+      <h3>Predicted Aligned Error</h3>
+      <div id="PAEcontainer"><img id="paefig" style="width: 100%; height: 100%; object-fit: contain;"></div>
+      <h3>Protein A interface mode</h3>
+      <div id="profileA"></div>
+      <h3>Protein B interface mode</h3>
+      <div id="profileB"></div>
+      <p>IF(IDR): disordered interface<br>IF(CF): conditionally folded interface<br>IF(coil2order): coil-to-order interface<br>IF(order): ordered interface</p>
+    </div>
+    <!--End of PAE session-->
 
+  </div>
+
+  <a href="index.html" class="back-button">Back to List</a>
+
+  <script>
+    const id = new URLSearchParams(window.location.search).get("id");
+    document.getElementById("entry-id").textContent = id;
+    //document.getElementById("modelpath").href = `./data/pdb/${id}.pdb`;
+    document.getElementById('modelpath').href = `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
+    //document.getElementById("paefig").src = `./data/PAE/${id}_pae.png`;
+    document.getElementById("paefig").src = `https://storage.googleapis.com/dmelppi_web/mPAE/${id}_pae.jpg`;
+
+    const viewerInstance = new PDBeMolstarPlugin();
+    const viewerContainer = document.getElementById("PDBeviewer");
+
+    function ss_to_rgb_array(ss) {
+      return ss.map(code => {
+        if (code === 1) return 0.5; // helix
+        if (code === 2) return 1.0; // strand
+        return 0.0; // coil
+      });
+    }
+
+    // interface to array
+    function rangesToBinaryTrack(rangesStr, length) {
+      const binaryTrack = new Array(length).fill(0);
+      if (!rangesStr || typeof rangesStr !== "string" || rangesStr.trim() === "") return binaryTrack;
+
+      const ranges = rangesStr.split(";");
+
+      for (const range of ranges) {
+        const [start, end] = range.split("-").map(Number);
+        for (let i = start - 1; i < end; i++) {
+          if (i >= 0 && i < length) binaryTrack[i] = 1;
+        }
+      }
+      return binaryTrack;
+    }
+
+    function renderProfile(containerId, info, key) {
+      const x = Array.from({ length: info.monomer_plddt[key].length }, (_, i) => i);
+      const plddt = info.monomer_plddt[key].map(v => v / 100);
+      const isd = info.monomer_isd[key].map(v => v / 100);
+      const ss_mono = ss_to_rgb_array(info.monomer_ss[key]);
+      const ss_complex = ss_to_rgb_array(info.complex_ss[key]);
+      const idr = rangesToBinaryTrack(info.idr_if?.[key] ?? "", x.length);
+      const cf = rangesToBinaryTrack(info.CF_if?.[key] ?? "", x.length);
+      const c2o = rangesToBinaryTrack(info.coil2order_if?.[key] ?? "", x.length);
+      const ord = rangesToBinaryTrack(info.order_if?.[key] ?? "", x.length);
+
+      const data = [
+        { x, y: plddt, type: 'scatter', name: 'PLDDT', line: { color: 'blue' }, yaxis: 'y1' },
+        { x, y: isd, type: 'scatter', name: 'ISD', line: { color: 'black' }, yaxis: 'y1' },
+        { z: [ss_mono], type: 'heatmap', name: 'SS (monomer)', showscale: false, yaxis: 'y2', xaxis: 'x', colorscale: [[0, '#ADD8E6'], [0.5, '#8000D7'], [1.0, '#FF8C00']]},
+        { z: [ss_complex], type: 'heatmap', name: 'SS (complex)', showscale: false, yaxis: 'y3', xaxis: 'x', colorscale: [[0, '#ADD8E6'], [0.5, '#8000D7'], [1.0, '#FF8C00']]},
+        { z: [idr], type: 'heatmap', name: 'IF(IDR)', showscale: false, yaxis: 'y4', xaxis: 'x', colorscale: [[0, 'lightgray'], [1, '#8B0000']],zmin: 0,zmax: 1, },
+        { z: [cf], type: 'heatmap', name: 'IF(CF)', showscale: false, yaxis: 'y5', xaxis: 'x', colorscale: [[0, 'lightgray'], [1, '#8B0000']],zmin: 0,zmax: 1, },
+        { z: [c2o], type: 'heatmap', name: 'IF(coil2order)', showscale: false, yaxis: 'y6', xaxis: 'x', colorscale: [[0, 'lightgray'], [1, '#8B0000']],zmin: 0,zmax: 1,  },
+        { z: [ord], type: 'heatmap', name: 'IF(order)', showscale: false, yaxis: 'y7', xaxis: 'x', colorscale: [[0, 'lightgray'], [1, '#8B0000']],zmin: 0,zmax: 1,  }
+      ];
+
+      const yLabels = [
+        ['PLDDT/ISD', -0.3,0.96],
+        ['SS (monomer)',-0.35,0.54],
+        ['SS (complex)',-0.32,0.47],
+        ['IF(IDR)',-0.18,0.35],
+        ['IF(CF)',-0.16,0.22],
+        ['IF(coil2order)',-0.33,0.12],
+        ['IF(Ordered)',-0.29,0.02]
+      ];
+
+      const annotations = yLabels.map(([text, x,y]) => ({
+        text,
+        xref: 'paper',
+        yref: 'paper',
+        x,
+        y,
+        showarrow: false,
+        textangle: 0,
+        font: { size: 10 },
+        align: 'center'
+      }));
+
+      const layout = {
+        height: 300,  
+        margin: {t: 1, b: 1 },
+        xaxis:  {domain: [0, 1],showticklabels:true,side:'top',tickfont:{size:10},showline: true},
+        yaxis:  {domain: [0.62, 0.92],title:'', range: [0, 1], tickvals: [0.5, 0.7], ticktext: ['0.5','0.7'],tickfont:{size:10}},
+        yaxis2: {domain: [0.52, 0.57],title:'', showticklabels:false, ticks:''},
+        yaxis3: {domain: [0.42, 0.47],title:'', showticklabels:false, ticks:''},
+        yaxis4: {domain: [0.32, 0.37],title:'', showticklabels:false, ticks:''},
+        yaxis5: {domain: [0.22, 0.27],title:'', showticklabels:false, ticks:''},
+        yaxis6: {domain: [0.12, 0.17],title:'', showticklabels:false, ticks:''},
+        yaxis7: {domain: [0.02, 0.07],title:'', showticklabels:false, ticks:''},
+        legend: {
+          x: 0.99,
+          y: 0.90,
+          bgcolor: 'rgba(255,255,255,0.9)',
+          bordercolor: 'white',
+          borderwidth: 0,
+          font: {size: 10},
+          itemwidth: 15
+        },
+        shapes: [
+          { type: 'line', xref: 'paper', x0: 0, x1: 1, yref: 'y1', y0: 0.5, y1: 0.5, line: { color: 'black', width: 1, dash: 'dot' } },
+          { type: 'line', xref: 'paper', x0: 0, x1: 1, yref: 'y1', y0: 0.7, y1: 0.7, line: { color: 'blue', width: 1, dash: 'dot' } }
+        ],
+        annotations
+      };
+
+      Plotly.newPlot(containerId, data, layout);
+    }
+
+    function ViewStructure(id) {
+      viewerInstance.render(viewerContainer, {
+        moleculeId: id,
+        customData: {
+          //url: `./data/pdb/${id}.pdb`,
+          url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`,
+          format: 'pdb',
+          binary: false
+        },
+        bgColor: { r: 255, g: 255, b: 255 },
+        hideControls: true,
+        pdbeLink: false,
+        visual: {
+          colorTheme: {
+            name: "chain-id",
+            params: {
+              chainIdColorMap: {
+                A: { r: 0, g: 255, b: 255 },
+                B: { r: 255, g: 0, b: 0 }
+              }
+            }
+          }
+        }
+      });
+
+      fetch(`./data/json_meta/${id}.meta.json.gz`)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          return response.arrayBuffer(); // Gzipped binary
+        })
+
+        .then(buffer => {
+          const decompressed = pako.inflate(new Uint8Array(buffer), { to: 'string' }); // Decompress the data
+          const info = JSON.parse(decompressed); // Parse the decompressed JSON
+
+          // Show prediction detail
+          document.getElementById('iptm').textContent = info.iptm;
+          document.getElementById('pae').textContent = info.pae + ' Å';
+          document.getElementById('pdockq').textContent = info.pdockq;
+          document.getElementById('ppi').textContent = info.ppi;
+    
+          // Show Annotation
+          document.getElementById('proteinA').textContent = info.proA;
+          document.getElementById('proteinB').textContent = info.proB;
+          document.getElementById('geneA').textContent = info.geneA;
+          document.getElementById('geneB').textContent = info.geneB;
+          document.getElementById('geneAbutton').textContent = info.geneA;
+          document.getElementById('geneBbutton').textContent = info.geneB;
+          document.getElementById('annotationA').textContent = info.annotationA;
+          document.getElementById('annotationB').textContent = info.annotationB;
+
+          document.getElementById("interfaceA").textContent = info.interfaceA;
+          document.getElementById("interfaceB").textContent = info.interfaceB;
+
+          document.getElementById("selectChainA").onclick = () => {
+            viewerInstance.visual.select({ data: info.interfaceA_sel });
+          };
+          document.getElementById("selectChainB").onclick = () => {
+            viewerInstance.visual.select({ data: info.interfaceB_sel });
+          };
+          document.getElementById("clearselection").onclick = () => {
+            viewerInstance.visual.clearSelection();
+          };
+
+          // STRING network using version 11.5
+          document.getElementById("stringAppContainer").id = "stringEmbedded";
+          //getSTRING("https://string-db.org", {
+          getSTRING("https://version-11-5.string-db.org", {
+            species: 7227,
+            network_flavor: "evidence",          // or "confidence"
+            identifiers: [info.proA, info.proB],
+            caller_identity: "DmelPPI_web"
+          });
+
+          // Line+track plot for each protein
+          renderProfile("profileA", info, info.proA);
+          renderProfile("profileB", info, info.proB);
+        });
+    }
+
+    ViewStructure(id);
+  </script>
 </body>
 </html>
 
