@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pdbe-molstar@3.2.0/build/pdbe-molstar-light.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js"></script>
   <script src="https://string-db.org/javascript/combined_embedded_network_v2.0.4.js"></script>
+  <script src="https://unpkg.com/cytoscape@3.32.0/dist/cytoscape.min.js"></script>
 
   <style>
     body {
@@ -68,6 +69,21 @@
       position: absolute;
       top: 0;
       left: 0;
+    }
+    #network-container {
+      /* Size + spacing */
+      width: 656px;
+      height: 300px;
+      margin-bottom: 1rem;
+
+      /* Visuals */
+      border: 1px solid #d0d0d0;
+      border-radius: 6px;
+      background: #fafafa;
+
+      /* let it shrink on narrow screens */
+      min-width: 250px;
+      overflow: hidden;
     }
     #PAEcontainer, #profileA, #profileB {
         width: 387.096775px;             /* Set width */
@@ -165,11 +181,13 @@
       </div>
         -->
       </div>
-      <br><br><a id="modelpath" href="#" download>Download the model</a>
-      <br><br>
+      <!-- Interaction network (A—B + highconf partners) -->
+      <h3>Position in predicted high confidence PPI Network</h3>
+      <div id="network-container"></div>
       <h3>STRING Network</h3>
       <p>click the logo to check details in the version 11.5 STRING database</p>
       <div id="stringEmbedded"> <div id="stringAppContainer"></div> </div>
+      <br><br><a id="modelpath" href="#" download>Download the model</a>
     </div>
     <!--End of Structure Column-->
 
@@ -199,6 +217,148 @@
 
     const viewerInstance = new PDBeMolstarPlugin();
     const viewerContainer = document.getElementById("PDBeviewer");
+
+        // read gzip txt
+        async function fetchGzAsText(url) {
+      const resp = await fetch(url);
+      const buf  = await resp.arrayBuffer();        // raw gzip bytes
+      const uint = new Uint8Array(buf);
+      return new TextDecoder().decode(pako.inflate(uint));
+    }
+
+    // load partners, if file not exist, return empty partners
+    async function loadPartnerList(proteinId, basePath = './data/networks/') {
+        const url = `${basePath}${proteinId}.txt.gz`;
+
+        try {
+            const resp = await fetch(url);
+            if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+            const buf  = await resp.arrayBuffer();
+            const uint = new Uint8Array(buf);
+            const text = new TextDecoder().decode(pako.inflate(uint));
+            return text.split(/\s+/).filter(Boolean); // return partner IDs
+        } catch (err) {
+            return [];   // return empty partners 
+        }
+    }
+
+        /* ---------- main renderer --------------------------------------------- */
+        async function renderPartnerNetwork({
+        proteinAId,             // use Gene symbols here
+        proteinBId,             // 
+        geneAId,
+        geneBId,
+        ppi,
+        basePath = './data/networks/'  // folder containing *.txt.gz
+    } = {}) {
+
+        /* 1 ─ fetch partner lists */
+      const [partnersA, partnersB] = await Promise.all([
+        loadPartnerList(proteinAId, basePath),
+        loadPartnerList(proteinBId, basePath)
+      ]);
+  
+      /* 2 Build Cytoscape elements */
+      proteinAId = geneAId;
+      proteinBId = geneBId;
+      const unique = new Set([proteinAId, proteinBId]);
+      const nodes  = [
+        { data: { id: proteinAId, label: proteinAId, type: 'anchor' } },
+        { data: { id: proteinBId, label: proteinBId, type: 'anchor' } }
+      ];
+
+      function pushPartner(id) {
+        if (!unique.has(id)) {
+          unique.add(id);
+          nodes.push({ data: { id, label: id, type: 'partner' } });
+        }
+      }
+      partnersA.forEach(pushPartner);
+      partnersB.forEach(pushPartner);
+
+            // add edges 
+            const edges   = [];
+      const edgeKey = new Set();
+
+      function addEdge(a, b, ppiTag = 'partner') {     // default = partner
+        const key = a < b ? `${a}|${b}` : `${b}|${a}`; // canonical order
+        if (edgeKey.has(key)) return;
+        edgeKey.add(key);
+        edges.push({ data: { id: key, source: a, target: b, ppi: ppiTag } });
+      }
+
+      ///* A—B edge only if partner files exist AND ppi ≠ "no" */
+      ///*const showAB = (partnersA.length || partnersB.length) && (ppi !== 'no');*/
+      const showAB = (ppi !== 'no or low confidence interactions');
+      if (showAB) {
+        //console.log(`adding A–B edge with ppi = ${ppi}`);
+        addEdge(proteinAId, proteinBId, ppi);
+      }
+
+      /* A ↔ partnersA  (tagged as "partner") */
+      partnersA
+        .filter(p => p !== proteinBId)                   // avoid duplicate A-B
+        .forEach(p => addEdge(proteinAId, p));
+
+      /* B ↔ partnersB  (tagged as "partner") */
+      partnersB
+        .filter(p => p !== proteinAId)                   // avoid duplicate B-A
+        .forEach(p => addEdge(proteinBId, p));
+
+            /* 3 Initialise (or re-initialise) Cytoscape */
+            const container = document.getElementById('network-container');
+      container.innerHTML = '';          // clear previous graph if any
+     
+      cytoscape({
+        container,
+        elements: { nodes, edges },
+        layout:   { name: 'cose', fit: true, padding: 40 },
+     
+        style: [
+          /* anchors: A & B */
+          {
+            selector: 'node[type = "anchor"]',
+            style: {
+              'background-color': '#ff6600',
+              'width': 55, 'height': 55,
+              'label': 'data(label)',
+              'font-weight': 'bold',
+              'color': '#1a1a1a',
+              'text-valign': 'center',
+            }
+          },
+          /* partners */
+          {
+            selector: 'node[type = "partner"]',
+            style: {
+              'background-color': '#3182bd',
+              'width': 33, 'height': 33,
+              'label': 'data(label)',
+              'font-size': 12,
+              'color': '#1a1a1a',
+              'text-valign': 'center'
+            }
+          },
+          /* edges */
+          {
+            selector: 'edge[ppi = "high confidence interactions"]',
+            style: {'line-color':'#0000FF','width':5,'line-style':'solid' }
+          },
+          {
+            selector: 'edge[ppi = "acceptable interactions"]',
+            style: {'line-color':'#00bcd4','width':2,'line-style':'solid','opacity':0.9 }
+          },
+          {
+            selector: 'edge[ppi = "possible"]',
+            style: {'line-color':'#ff6600','width':2,'line-style':'dashed','opacity':0.7}
+          },
+          {
+            selector: 'edge[ppi = "partner"]',
+            style: {'line-color':'#000000','width':3,'line-style':'solid' }
+          },
+        ]
+      });
+    }
 
     function ss_to_rgb_array(ss) {
       return ss.map(code => {
@@ -377,6 +537,14 @@
           // Line+track plot for each protein
           renderProfile("profileA", info, info.proA);
           renderProfile("profileB", info, info.proB);
+
+          // show the network
+          const proteinAId = info.proA;   // from JSON or URL
+          const proteinBId = info.proB;
+          const geneAId = info.geneA;   // from JSON or URL
+          const geneBId = info.geneB;
+          const ppi = info.ppi;
+          renderPartnerNetwork({ proteinAId,proteinBId,geneAId,geneBId,ppi});
         });
     }
 
