@@ -200,6 +200,7 @@
       <h3>Protein B interface mode</h3>
       <div id="profileB"></div>
       <p>IF(IDR): disordered interface<br>IF(CF): conditionally folded interface<br>IF(coil2order): coil-to-order interface<br>IF(order): ordered interface</p>
+      <p id="profileNote" class="muted" style="display:none;"></p>
     </div>
     <!--End of PAE session-->
 
@@ -534,9 +535,20 @@
             caller_identity: "DmelPPI_web"
           });
 
-          // Line+track plot for each protein
-          renderProfile("profileA", info, info.proA);
-          renderProfile("profileB", info, info.proB);
+          // Interface plot
+          const pdockq = Number(info.pdockq);
+          const note   = document.getElementById('profileNote');
+          if (pdockq >= 0.23) {
+            // Line + track plot for each protein
+            renderProfile("profileA", info, info.proA);
+             renderProfile("profileB", info, info.proB);
+          } else {
+            document.getElementById("profileA").style.display = "none";
+            document.getElementById("profileB").style.display = "none";
+            note.textContent =
+              `Interface details not shwon because pDockQ < 0.23`;
+            note.style.display = 'block';
+          }
 
           // show the network
           const proteinAId = info.proA;   // from JSON or URL
