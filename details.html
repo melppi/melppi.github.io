@@ -196,9 +196,9 @@
     <div class="small-column">
       <h3>Predicted Aligned Error</h3>
       <div id="PAEcontainer"><img id="paefig" style="width: 100%; height: 100%; object-fit: contain;"></div>
-      <h3>Protein A interface mode</h3>
+      <h3>Protein A (<span id="geneA_IF"></span>) interface mode</h3>
       <div id="profileA"></div>
-      <h3>Protein B interface mode</h3>
+      <h3>Protein B (<span id="geneB_IF"></span>) interface mode</h3>
       <div id="profileB"></div>
       <p>IF(IDR): disordered interface<br>IF(CF): conditionally folded interface<br>IF(coil2order): coil-to-order interface<br>IF(order): ordered interface</p>
       <p id="profileNote" class="muted" style="display:none;"></p>
@@ -511,6 +511,8 @@
           document.getElementById('geneB').textContent = info.geneB;
           document.getElementById('geneAbutton').textContent = info.geneA;
           document.getElementById('geneBbutton').textContent = info.geneB;
+          document.getElementById('geneA_IF').textContent = info.geneA;
+          document.getElementById('geneB_IF').textContent = info.geneB;
           document.getElementById('annotationA').textContent = info.annotationA;
           document.getElementById('annotationB').textContent = info.annotationB;
 
