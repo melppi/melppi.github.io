@@ -401,8 +401,8 @@
       const data = [
         { x, y: plddt, type: 'scatter', name: 'PLDDT', line: { color: 'blue' }, yaxis: 'y1' },
         { x, y: isd, type: 'scatter', name: 'ISD', line: { color: 'black' }, yaxis: 'y1' },
-        { z: [ss_mono], type: 'heatmap', name: 'SS (monomer)', showscale: false, yaxis: 'y2', xaxis: 'x', colorscale: [[0, '#ADD8E6'], [0.5, '#8000D7'], [1.0, '#FF8C00']]},
-        { z: [ss_complex], type: 'heatmap', name: 'SS (complex)', showscale: false, yaxis: 'y3', xaxis: 'x', colorscale: [[0, '#ADD8E6'], [0.5, '#8000D7'], [1.0, '#FF8C00']]},
+        { z: [ss_mono], type: 'heatmap', name: 'SS (monomer)', showscale: false, yaxis: 'y2', xaxis: 'x', colorscale: [[0, '#ADD8E6'], [0.5, '#8000D7'], [1.0, '#FF8C00']],zmin:0,zmax:1},
+        { z: [ss_complex], type: 'heatmap', name: 'SS (complex)', showscale: false, yaxis: 'y3', xaxis: 'x', colorscale: [[0, '#ADD8E6'], [0.5, '#8000D7'], [1.0, '#FF8C00']],zmin:0,zmax:1},
         { z: [idr], type: 'heatmap', name: 'IF(IDR)', showscale: false, yaxis: 'y4', xaxis: 'x', colorscale: [[0, 'lightgray'], [1, '#8B0000']],zmin: 0,zmax: 1, },
         { z: [cf], type: 'heatmap', name: 'IF(CF)', showscale: false, yaxis: 'y5', xaxis: 'x', colorscale: [[0, 'lightgray'], [1, '#8B0000']],zmin: 0,zmax: 1, },
         { z: [c2o], type: 'heatmap', name: 'IF(coil2order)', showscale: false, yaxis: 'y6', xaxis: 'x', colorscale: [[0, 'lightgray'], [1, '#8B0000']],zmin: 0,zmax: 1,  },
