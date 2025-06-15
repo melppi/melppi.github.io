@@ -540,9 +540,11 @@
           });
 
           // Interface plot
-          const pdockq = Number(info.pdockq);
+          //const pdockq = Number(info.pdockq);
+          const ppiStatus = (info.ppi || '').trim().toLowerCase();
           const note   = document.getElementById('profileNote');
-          if (pdockq >= 0.23) {
+          //if (pdockq >= 0.23) {
+          if (ppiStatus !== 'no or low confidence interactions') {
             // Line + track plot for each protein
             renderProfile("profileA", info, info.proA);
              renderProfile("profileB", info, info.proB);
@@ -550,7 +552,7 @@
             document.getElementById("profileA").style.display = "none";
             document.getElementById("profileB").style.display = "none";
             note.textContent =
-              `Interface details not shown because pDockQ < 0.23`;
+              `Interface detail not shown because it's of no or low confidence`;
             note.style.display = 'block';
           }
 
