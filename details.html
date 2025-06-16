@@ -182,8 +182,11 @@
         -->
       </div>
       <!-- Interaction network (A—B + highconf partners) -->
+      <br>
       <h3>Position in predicted high confidence PPI Network</h3>
+      <p>Note it is <span id="ppiNet"></span></p>
       <div id="network-container"></div>
+      <br>
       <h3>STRING Network</h3>
       <p>click the logo to check details in the version 11.5 STRING database</p>
       <div id="stringEmbedded"> <div id="stringAppContainer"></div> </div>
@@ -196,11 +199,11 @@
     <div class="small-column">
       <h3>Predicted Aligned Error</h3>
       <div id="PAEcontainer"><img id="paefig" style="width: 100%; height: 100%; object-fit: contain;"></div>
-      <h3>Protein A (<span id="geneA_IF"></span>) interface mode</h3>
+      <h3>Protein A (<span id="geneA_IF"></span>) interface binding mode(s)</h3>
       <div id="profileA"></div>
-      <h3>Protein B (<span id="geneB_IF"></span>) interface mode</h3>
+      <h3>Protein B (<span id="geneB_IF"></span>) interface binding mode(s)</h3>
       <div id="profileB"></div>
-      <p>IF(IDR): disordered interface<br>IF(CF): conditionally folded interface<br>IF(coil2order): coil-to-order interface<br>IF(order): ordered interface</p>
+      <p>IF(IDR): disordered binding<br>IF(CF): conditionally folded binding<br>IF(coil2order): coil-to-order binding<br>IF(order): ordered interface</p>
       <p id="profileNote" class="muted" style="display:none;"></p>
     </div>
     <!--End of PAE session-->
@@ -503,6 +506,7 @@
           document.getElementById('pae').textContent = info.pae + ' Å';
           document.getElementById('pdockq').textContent = info.pdockq;
           document.getElementById('ppi').textContent = info.ppi;
+          document.getElementById('ppiNet').textContent = info.ppi;
     
           // Show Annotation
           document.getElementById('proteinA').textContent = info.proA;
