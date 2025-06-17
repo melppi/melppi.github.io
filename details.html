@@ -220,8 +220,8 @@
     //document.getElementById("paefig").src = `./data/PAE/${id}_pae.png`;
     document.getElementById("paefig").src = `https://storage.googleapis.com/dmelppi_web/mPAE/${id}_pae.jpg`;
 
-    const viewerInstance = new PDBeMolstarPlugin();
-    const viewerContainer = document.getElementById("PDBeviewer");
+    //const viewerInstance = new PDBeMolstarPlugin();
+    //const viewerContainer = document.getElementById("PDBeviewer");
 
         // read gzip txt
         async function fetchGzAsText(url) {
@@ -529,6 +529,8 @@
           const url = (info && info.ppi === 'high confidence interactions')
             ? `./data/highconfPDB/${id}.pdb.gz`
             : `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
+          const viewerInstance = new PDBeMolstarPlugin();
+          const viewerContainer = document.getElementById("PDBeviewer");
           viewerInstance.render(viewerContainer, {
             moleculeId: id,
             customData: {
@@ -536,7 +538,7 @@
               //url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`,
               url,
               format: 'pdb',
-              binary: true
+              binary: url.endsWith('.gz'),
             },
             bgColor: { r: 255, g: 255, b: 255 },
             hideControls: true,
