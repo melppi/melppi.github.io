@@ -550,6 +550,7 @@
           //  : `./data/link_not_activated.pdb`;
             //: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
           const url = resolvePDBUrl(id, info);
+          console.log(url);
           const viewerInstance = new PDBeMolstarPlugin();
           const viewerContainer = document.getElementById("PDBeviewer");
           viewerInstance.render(viewerContainer, {
