@@ -527,7 +527,7 @@
           document.getElementById('annotationB').textContent = info.annotationB;
 
           const url = (info && info.ppi === 'high confidence interactions')
-            ? `./data/highconfPDB/${id}.pdb.gz`
+            ? `./data/highconfPDB/${id}.pdb`
             : `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
           const viewerInstance = new PDBeMolstarPlugin();
           const viewerContainer = document.getElementById("PDBeviewer");
@@ -538,7 +538,7 @@
               //url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`,
               url,
               format: 'pdb',
-              binary: url.endsWith('.gz'),
+              binary: false,
             },
             bgColor: { r: 255, g: 255, b: 255 },
             hideControls: true,
