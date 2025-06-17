@@ -495,30 +495,6 @@
     }
 
     function ViewStructure(id) {
-      viewerInstance.render(viewerContainer, {
-        moleculeId: id,
-        customData: {
-          //url: `./data/pdb/${id}.pdb`,
-          url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`,
-          format: 'pdb',
-          binary: false
-        },
-        bgColor: { r: 255, g: 255, b: 255 },
-        hideControls: true,
-        pdbeLink: false,
-        visual: {
-          colorTheme: {
-            name: "chain-id",
-            params: {
-              chainIdColorMap: {
-                A: { r: 0, g: 255, b: 255 },
-                B: { r: 255, g: 0, b: 0 }
-              }
-            }
-          }
-        }
-      });
-
       fetch(`./data/json_meta/${id}.meta.json.gz`)
         .then(response => {
           if (!response.ok) {
@@ -549,6 +525,35 @@
           document.getElementById('geneB_IF').textContent = info.geneB;
           document.getElementById('annotationA').textContent = info.annotationA;
           document.getElementById('annotationB').textContent = info.annotationB;
+
+          const url = (info && info.ppi === 'high confidence interactions')
+            ? `./data/highconfPDB/${id}.pdb`
+            : `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
+          viewerInstance.render(viewerContainer, {
+            moleculeId: id,
+            customData: {
+              //url: `./data/pdb/${id}.pdb`,
+              //url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`,
+              url,
+              format: 'pdb',
+              binary: false
+            },
+            bgColor: { r: 255, g: 255, b: 255 },
+            hideControls: true,
+            pdbeLink: false,
+            visual: {
+              colorTheme: {
+                name: "chain-id",
+                params: {
+                  chainIdColorMap: {
+                    A: { r: 0, g: 255, b: 255 },
+                    B: { r: 255, g: 0, b: 0 }
+                  }
+                }
+              }
+            }
+          });
+
 
           document.getElementById("interfaceA").textContent = info.interfaceA;
           document.getElementById("interfaceB").textContent = info.interfaceB;
