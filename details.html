@@ -494,7 +494,26 @@
       Plotly.newPlot(containerId, data, layout);
     }
 
-    function ViewStructure(id) {
+    async function resolvePDBUrl(id, info) {
+  const highConf = info && info.ppi === 'high confidence interactions';
+  const pdbPath = `./data/highconfPDB/${id}.pdb`;
+  const fallbackPath = `./data/link_not_activated.pdb`;
+
+  if (!highConf) return fallbackPath;
+
+  try {
+    const response = await fetch(pdbPath, { method: 'HEAD' }); // use HEAD to check existence only
+    if (response.ok) {
+      return pdbPath;
+    } else {
+      return fallbackPath;
+    }
+  } catch (err) {
+    return fallbackPath;
+  }
+}
+
+    async function ViewStructure(id) {
       fetch(`./data/json_meta/${id}.meta.json.gz`)
         .then(response => {
           if (!response.ok) {
@@ -526,10 +545,11 @@
           document.getElementById('annotationA').textContent = info.annotationA;
           document.getElementById('annotationB').textContent = info.annotationB;
 
-          const url = (info && info.ppi === 'high confidence interactions')
-            ? `./data/highconfPDB/${id}.pdb`
-            : `./data/link_not_activated.pdb`;
+          //const url = (info && info.ppi === 'high confidence interactions')
+          //  ? `./data/highconfPDB/${id}.pdb`
+          //  : `./data/link_not_activated.pdb`;
             //: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
+          const url = await resolvePDBUrl(id, info);
           const viewerInstance = new PDBeMolstarPlugin();
           const viewerContainer = document.getElementById("PDBeviewer");
           viewerInstance.render(viewerContainer, {
