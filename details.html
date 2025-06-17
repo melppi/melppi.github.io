@@ -527,7 +527,7 @@
           document.getElementById('annotationB').textContent = info.annotationB;
 
           const url = (info && info.ppi === 'high confidence interactions')
-            ? `./data/highconfPDB/${id}.pdb`
+            ? `./data/highconfPDB/${id}.pdb.gz`
             : `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
           viewerInstance.render(viewerContainer, {
             moleculeId: id,
