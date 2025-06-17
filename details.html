@@ -549,7 +549,7 @@
           //  ? `./data/highconfPDB/${id}.pdb`
           //  : `./data/link_not_activated.pdb`;
             //: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
-          const url = await resolvePDBUrl(id, info);
+          const url = resolvePDBUrl(id, info);
           const viewerInstance = new PDBeMolstarPlugin();
           const viewerContainer = document.getElementById("PDBeviewer");
           viewerInstance.render(viewerContainer, {
