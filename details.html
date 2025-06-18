@@ -218,7 +218,7 @@
     //document.getElementById("modelpath").href = `./data/pdb/${id}.pdb`;
     document.getElementById('modelpath').href = `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
     //document.getElementById("paefig").src = `https://storage.googleapis.com/dmelppi_web/mPAE/${id}_pae.jpg`;
-    document.getElementById("paefig").src = `./data/link_not_activated.png`;
+    //document.getElementById("paefig").src = `./data/link_not_activated.png`;
 
     //const viewerInstance = new PDBeMolstarPlugin();
     //const viewerContainer = document.getElementById("PDBeviewer");
@@ -546,10 +546,14 @@
           document.getElementById('annotationB').textContent = info.annotationB;
 
           //const url = (info && info.ppi === 'high confidence interactions')
-          //  ? `./data/highconfPDB/${id}.pdb`
-          //  : `./data/link_not_activated.pdb`;
+          const url = (id === '7227.FBpp0080322_7227.FBpp0081861')
+            ? `./data/${id}.pdb`
+            : `./data/link_not_activated.pdb`;
             //: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
-          const url = await resolvePDBUrl(id, info);
+          const paeSrc = (id === '7227.FBpp0080322_7227.FBpp0081861')
+            ? `./data/${id}_pae.jpg`
+            : `./data/link_not_activated.png`;
+          document.getElementById("paefig").src = paeSrc;
           console.log(url);
           const viewerInstance = new PDBeMolstarPlugin();
           const viewerContainer = document.getElementById("PDBeviewer");
