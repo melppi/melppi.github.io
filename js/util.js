@@ -25,6 +25,12 @@ function getHumanTicks(ndim) {
     n5 = Math.floor(ndim / (i5 * l5));
   }
 
+  /* make sure that ticks are not too close to the end point */
+  const remainder = ndim - Math.floor(ndim / (i5 * l5)) * (i5 * l5);
+  if (remainder < 100) {
+    i5 = i5 >= 2 ? i5 + 2 : i5 + 1;    // same increment rule
+  }
+
   const step = i5 * l5;
   const ticks = Array.from({ length: Math.floor(ndim / step) + 1 }, (_, i) => i * step);
   const ticklabels = ticks.map(humanFormat);
