@@ -56,7 +56,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
       [1.0, '#ff0000']
     ],
     zmin: 2,
-    zmax: 26,
+    zmax: 31,
     colorbar: {
       title: {text: 'Predicted Aligned Error (Å)',side: 'right'},
       x: 1.0,
@@ -97,7 +97,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
         x1: m - 0.5,
         y0: 0,
         y1: totalLen - 1,
-        line: { color: 'black', width: 3.6, dash: 'dash' }
+        line: { color: 'black', width: 3.6, dash: 'dot' }
       },
       // Horizontal divider between chains
       {
@@ -106,7 +106,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
         x1: totalLen - 1,
         y0: m - 0.5,
         y1: m - 0.5,
-        line: { color: 'black', width: 3.6, dash: 'dash' }
+        line: { color: 'black', width: 3.6, dash: 'dot' }
       }
     ],
 
