@@ -128,6 +128,6 @@ async function ViewStructure(id) {
       const geneAId = info.geneA;   // from JSON or URL
       const geneBId = info.geneB;
       const ppi = info.ppi;
-      renderPartnerNetwork({ proteinAId,proteinBId,geneAId,geneBId,ppi});
+      renderPartnerNetwork({id,proteinAId,proteinBId,geneAId,geneBId,ppi});
     });
 }
