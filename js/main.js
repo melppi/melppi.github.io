@@ -100,8 +100,10 @@ async function ViewStructure(id) {
       const n = parseInt(info.prolen[info.proB]);
       if (id === "7227.FBpp0080322_7227.FBpp0081861") {
         renderPAEPlot(id, info.geneA, info.geneB, m, n);
+        console.log("plot example")
       } else {
         renderPAELinkNotActivated();
+        console.log("plot text")
       }
       //renderPAEPlot(id, info.geneA, info.geneB, m, n);
 
