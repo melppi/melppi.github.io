@@ -110,8 +110,10 @@
       overflow: hidden;
     }
     #PAEcontainer, #profileA, #profileB {
-        width: 387.096775px;             /* Set width */
-        height: 300px;            /* Set height */
+        /*width: 387.096775px;             /* Set width */
+        /*height: 300px;            /* Set height */
+        width: 418px;             /* Set width */
+        height: 320px;            /* Set height */
         border: 1px solid #ccc;   /* Add a light border */
         justify-content: center;  /* Center the figure horizontally */
         align-items: center;      /* Center the figure vertically */
@@ -222,7 +224,8 @@
     <!--PAE session-->
     <div class="small-column">
       <h3>Predicted Aligned Error</h3>
-      <div id="PAEcontainer"><img id="paefig" style="width: 100%; height: 100%; object-fit: contain;"></div>
+      <!--<div id="PAEcontainer"><img id="paefig" style="width: 100%; height: 100%; object-fit: contain;"></div>-->
+      <div id="PAEcontainer"><div id="paefig" style="width:100%; height:600px;"></div></div>
       <h3>Protein A (<span id="geneA_IF"></span>) interface binding mode(s)</h3>
       <div id="profileA"></div>
       <h3>Protein B (<span id="geneB_IF"></span>) interface binding mode(s)</h3>
