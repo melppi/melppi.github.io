@@ -1,91 +1,122 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DmelPPI Project</title>
-    <link href="https://cdn.datatables.net/2.1.3/css/dataTables.bootstrap5.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script src="https://cdn.datatables.net/2.1.3/js/dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/2.1.3/js/dataTables.bootstrap5.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DmelPPI Project</title>
+  <link href="https://cdn.datatables.net/2.1.3/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.datatables.net/2.1.3/js/dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/2.1.3/js/dataTables.bootstrap5.min.js"></script>
 
-    <style>
-        /* Additional styling for the table */
-        h2 {
-            padding: 6px; /* Add some padding inside cells */
-            text-align: center;
-        }
-        body {
-            font-family: Helvetica, sans-serif;
-            font-size:18px;
-            width: 80%; /* Set the body width to 80% of the viewport width */
-            margin-left: auto; /* Center horizontally */
-            margin-right: auto; /* Center horizontally */
-        }
-        .small-text {
-            font-size: 14px;
-        }
+  <style>
+    /* Additional styling for the table */
+    h2 {
+      padding: 6px; /* Add some padding inside cells */
+      text-align: center;
+    }
+    body {
+      font-family: Helvetica, sans-serif;
+      font-size:18px;
+      width: 80%; /* Set the body width to 80% of the viewport width */
+      margin-left: auto; /* Center horizontally */
+      margin-right: auto; /* Center horizontally */
+    }
+    .small-text {
+      font-size: 14px;
+    }
 
-        .indented-first-line {
-            /*/margin-left:32px;*/
-            text-indent: 32px;
-        }
+    .indented-first-line {
+      /*/margin-left:32px;*/
+      text-indent: 32px;
+    }
 
-        #data-table {
-            /*width: calc(100vw - 1px); /* Adjust for any padding/margin */
-            /*max-width: 100vw; /* Ensure it doesn't exceed the viewport */
-            /*max-width: 100%;*/
-            width: 100%;
-            table-layout: fixed;
-            border-collapse: separate;
-            border-spacing: 0px;
-            overflow-x: auto;
-        }
+    #data-table {
+      /*width: calc(100vw - 1px); /* Adjust for any padding/margin */
+      /*max-width: 100vw; /* Ensure it doesn't exceed the viewport */
+      /*max-width: 100%;*/
+      width: 100%;
+      table-layout: fixed;
+      border-collapse: separate;
+      border-spacing: 0px;
+      overflow-x: auto;
+    }
 
-        #data-table tbody td, #data-table tbody th {
-            /*width: 20%;  Adjust this value to set your desired row height */
-            width: 100%;
-            height: 30px; /* Adjust this value to set your desired row height */
-            font-size: 14px;
-            text-align: left;
-            vertical-align: middle;
-            white-space: nowrap;
-            overflow-x: hidden;
-            text-overflow: ellipsis;
-            word-break: break-all;
-            border: 1px solid #ddd; /* Add cell borders */
-            padding: 2px; /* Add some padding inside cells */
-        }
+    #data-table tbody td, #data-table tbody th {
+      /*width: 20%;  Adjust this value to set your desired row height */
+      width: 100%;
+      height: 30px; /* Adjust this value to set your desired row height */
+      font-size: 14px;
+      text-align: left;
+      vertical-align: middle;
+      white-space: nowrap;
+      overflow-x: hidden;
+      text-overflow: ellipsis;
+      word-break: break-all;
+      border: 1px solid #ddd; /* Add cell borders */
+      padding: 2px; /* Add some padding inside cells */
+    }
 
-        #data-table thead th {
-            background-color: #f8f9fa; /* Light gray background for header */
-            font-weight: bold;
-        }
+    #data-table thead th {
+      background-color: #f8f9fa; /* Light gray background for header */
+      font-weight: bold;
+    }
 
-        /* add a footer to declair copy right information */
-        footer {
-            /*background-color: #333;
-            color: white;*/
-            text-align: center;
-            padding: 10px 0;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-            font-size: 14px;
-        }
-        footer a {
-            color: #ffb74d;
-            text-decoration: none;
-        }
-        footer a:hover {
-            text-decoration: underline;
-        }
-        html {
-            scroll-behavior: smooth;
-        }
+    /* add a footer to declair copy right information */
+    footer {
+      /*background-color: #333;
+      color: white;*/
+      text-align: center;
+      padding: 10px 0;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+      font-size: 14px;
+    }
+    footer a {
+      color: #ffb74d;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    html {
+      scroll-behavior: smooth;
+    }
 
-    </style>
+    /* for small screen smart device */
+    @media (max-width: 767px) {
+
+    .container,
+    .container-small {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 20px;
+    }
+
+    .column,
+    .small-column,
+    .large-column {
+      flex: 1 1 100%;
+      min-width: 0;
+    }
+
+    h2 { font-size: 1.6rem; }
+    h3 { font-size: 1.3rem; }
+    }
+    h2, h3, a, p { word-break: break-word; }
+
+    @media (max-width: 767px) {
+    html {
+        /* shrink the whole page to ~70 % */
+        transform: scale(0.7);
+        transform-origin: top left;
+        width: 143%;              /* 1 / 0.7 → prevent horizontal scrollbar */
+        }
+    }
+
+  </style>
 </head>
 <script>
 document.addEventListener('DOMContentLoaded', () => {
@@ -105,90 +136,88 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 
 <body>
-    <img src="data/Figure_Website.jpg" alt="DmelPPI" style="width: calc(95vw - 16px);margin-top: 16px;margin-left:2px;margin-right:2px;position: relative; left: 50%; transform: translateX(-50%);">
-    <h2>DmelPPI Project: Comprehensive understanding interaction details of protein-protein interactions in <i>Drosophila melanogaster</i><br></h2>
-    <p class="indented-first-line">Welcome to the DmelPPI project! In this project, we studied the physical interactions between proteins at the genomic scale. We aim to obtain a comprehensive physical interaction network by combining <a href="https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2">AlphaFold2 multimer</a> predictions and the <a href="https://string-db.org/">STRING</a> PPI database. The reason we chose STRING database is that it not only contains physical PPIs curated or inferred from other databases, but also contains functional PPIs including co-expression. It was reported by several studies (<a href="https://doi.org/10.1093/nar/29.17.3513">Grigoriev 2001</a>, <a href="https://doi.org/10.1126/science.1087361">Jansen et al 2003</a>, <a href="https://doi.org/10.1038/msb.2008.19">Ramani et al 2008</a>) that co-expressed proteins have higher chances to physically interact with each other than random expectations. The DmelPPI database currently contains more than 3,800 high confident structure models out from 27,711 non-redundant high-quality physical and functional PPIs inferred from STRING database, with more to come in the future. These high confident structure models provide a comprehensive landscape to understand the interaction details within the <i>Drosophila</i> genome.</p>
-    <p class="indented-first-line">If you have any suggestions or feedback, we would be grateful if you could share them with us. Kindly direct your thoughts to: <a href="mailto:jpeng@rockefeller.edu">Junhui Peng</a> and <a href="mailto:lzhao@rockefeller.edu">Li Zhao</a>. If you are interested in our research, check <a href="https://zhaolab.rockefeller.edu/">Zhao Lab Homepage</a> at Rockefeller University for detail.</p>
-    <p id="main-table"><br><b> Main Table.</b> AlphaFold2 multimer predictions of 27,711 PPIs inferred from STRING database.
-    <br><span class="small-text">Please click "View Details" for detailed information about the predicted AF2 model. There is also a search box where you can search your favorite genes or proteins.
-        <br>search examples: "Ku80", "Ku80 Irbp".</span><br></p>
-    <table id="data-table" class="display">
-        <thead>
-            <tr>
-                <!-- Column headers -->
-                <th>ProteinA</th>
-                <th>GeneA</th>
-                <th>FBgnA</th>
-                <th>ProteinB</th>
-                <th>GeneB</th>
-                <th>FBgnB</th>
-                <th>iptm</th>
-                <th>pae</th>
-                <th>pdockq</th>
-                <!--<th>interfaceA</th>
-                <th>interfaceB</th>
-                <th>plddtA</th>
-                <th>plddtB</th> -->
-                <th>confidence</th>
-                <th>Details</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Data will be inserted here -->
-        </tbody>
-    </table>
+  <img src="data/Figure_Website.jpg" alt="DmelPPI" style="width: calc(95vw - 16px);margin-top: 16px;margin-left:2px;margin-right:2px;position: relative; left: 50%; transform: translateX(-50%);">
+  <h2>DmelPPI Project: Comprehensive understanding interaction details of protein-protein interactions in <i>Drosophila melanogaster</i><br></h2>
+  <p class="indented-first-line">Welcome to the DmelPPI project! In this project, we studied the physical interactions between proteins at the genomic scale. We aim to obtain a comprehensive physical interaction network by combining <a href="https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2">AlphaFold2 multimer</a> predictions and the <a href="https://string-db.org/">STRING</a> PPI database. The reason we chose STRING database is that it not only contains physical PPIs curated or inferred from other databases, but also contains functional PPIs including co-expression. It was reported by several studies (<a href="https://doi.org/10.1093/nar/29.17.3513">Grigoriev 2001</a>, <a href="https://doi.org/10.1126/science.1087361">Jansen et al 2003</a>, <a href="https://doi.org/10.1038/msb.2008.19">Ramani et al 2008</a>) that co-expressed proteins have higher chances to physically interact with each other than random expectations. The DmelPPI database currently contains more than 3,800 high confident structure models out from 27,711 non-redundant high-quality physical and functional PPIs inferred from STRING database, with more to come in the future. These high confident structure models provide a comprehensive landscape to understand the interaction details within the <i>Drosophila</i> genome.</p>
+  <p class="indented-first-line">If you have any suggestions or feedback, we would be grateful if you could share them with us. Kindly direct your thoughts to: <a href="mailto:jpeng@rockefeller.edu">Junhui Peng</a> and <a href="mailto:lzhao@rockefeller.edu">Li Zhao</a>. If you are interested in our research, check <a href="https://zhaolab.rockefeller.edu/">Zhao Lab Homepage</a> at Rockefeller University for detail.</p>
+  <p id="main-table"><br><b> Main Table.</b> AlphaFold2 multimer predictions of 27,711 PPIs inferred from STRING database.
+  <br><span class="small-text">Please click "View Details" for detailed information about the predicted AF2 model. There is also a search box where you can search your favorite genes or proteins.
+    <br>search examples: "Ku80", "Ku80 Irbp".</span><br></p>
+  <table id="data-table" class="display">
+    <thead>
+      <tr>
+        <!-- Column headers -->
+        <th>ProteinA</th>
+        <th>GeneA</th>
+        <th>FBgnA</th>
+        <th>ProteinB</th>
+        <th>GeneB</th>
+        <th>FBgnB</th>
+        <th>iptm</th>
+        <th>pae</th>
+        <th>pdockq</th>
+        <!--<th>interfaceA</th>
+        <th>interfaceB</th>
+        <th>plddtA</th>
+        <th>plddtB</th> -->
+        <th>confidence</th>
+        <th>Details</th>
+      </tr>
+    </thead>
+    <tbody>
+        <!-- Data will be inserted here -->
+    </tbody>
+  </table>
 
-    <!--JavaScript to read the table -->
-    <script>
-        $(document).ready(function () {
-            $('#data-table').DataTable({
-        //        ajax: 'data/pae_summary.json',
-                ajax: {
-                    url: 'data/pae_summary.json',
-                    dataSrc: '' // Adjust to 'results' if your JSON is nested
-                },
-                columns: [
-                    { data: 'Protein1', title: 'Protein1' },
-                    { data: 'Symbol1', title: 'Symbol1' },
-                    { data: 'FBgn1', title: 'FBgn1' },
-                    { data: 'Protein2', title: 'Protein2' },
-                    { data: 'Symbol2', title: 'Symbol2' },
-                    { data: 'FBgn2', title: 'FBgn2' },
-                    { data: 'iptm', title: 'IPTM' },
-                    { data: 'pae', title: 'PAE' },
-                    { data: 'pdockq', title: 'PdockQ' },
-                    { data: 'ppi', title: 'PPI' },
-                    {
-                        data: 'pair',
-                        title: 'Details',
-                        render: function (data, type, row) {
-                            return `<a href="details.html?id=${row.pair}">View Details</a>`;
-                        
-                        }
-                    }
-                ],
-                stateSave: false,  
-                pageLength: 25,
-                lengthMenu: [10, 25, 50, 100],
-                language: {
-                    paginate: {
-                        previous: "Previous",
-                        next: "Next"
-                    }
-                }
-            });
-        });
-    </script>
+  <!--JavaScript to read the table -->
+  <script>
+    $(document).ready(function () {
+      $('#data-table').DataTable({
+        //ajax: 'data/pae_summary.json',
+        ajax: {
+          url: 'data/pae_summary.json',
+          dataSrc: '' // Adjust to 'results' if your JSON is nested
+        },
+        columns: [
+          { data: 'Protein1', title: 'Protein1' },
+          { data: 'Symbol1', title: 'Symbol1' },
+          { data: 'FBgn1', title: 'FBgn1' },
+          { data: 'Protein2', title: 'Protein2' },
+          { data: 'Symbol2', title: 'Symbol2' },
+          { data: 'FBgn2', title: 'FBgn2' },
+          { data: 'iptm', title: 'IPTM' },
+          { data: 'pae', title: 'PAE' },
+          { data: 'pdockq', title: 'PdockQ' },
+          { data: 'ppi', title: 'PPI' },
+          {
+            data: 'pair',
+            title: 'Details',
+            render: function (data, type, row) {
+              return `<a href="details.html?id=${row.pair}">View Details</a>`;
+            }
+          }
+        ],
+        stateSave: false,  
+        pageLength: 25,
+        lengthMenu: [10, 25, 50, 100],
+        language: {
+          paginate: {
+            previous: "Previous",
+            next: "Next"
+          }
+        }
+      });
+    });
+  </script>
 
-    <!-- Footer -->
-    <footer>
-        &copy; <span id="currentYear"></span> Zhao Lab @ Rockefeller University | Designed by Junhui Peng and Zhao Lab
-    </footer>
+  <!-- Footer -->
+  <footer>
+    &copy; <span id="currentYear"></span> Zhao Lab @ Rockefeller University | Designed by Junhui Peng and Zhao Lab
+  </footer>
 
-    <script>
-        // Set the current year dynamically
-        document.getElementById("currentYear").textContent = new Date().getFullYear();
-    </script>
+  <script>
+    // Set the current year dynamically
+    document.getElementById("currentYear").textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>
-

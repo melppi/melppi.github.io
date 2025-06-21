@@ -166,6 +166,27 @@
     .back-button:hover {
         background-color: #0056b3;
     }
+    /* add a footer to declair copy right information */
+    footer {
+      /*background-color: #333;
+      color: white;*/
+      text-align: center;
+      padding: 10px 0;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+      font-size: 14px;
+    }
+    footer a {
+      color: #ffb74d;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    html {
+      scroll-behavior: smooth;
+    }
 
     /* for small screen smart device */
     @media (max-width: 767px) {
@@ -278,6 +299,15 @@
     //document.getElementById("paefig").src = `https://storage.googleapis.com/dmelppi_web/mPAE/${id}_pae.jpg`;
     //document.getElementById("paefig").src = `./data/link_not_activated.png`;
     ViewStructure(id);
+  </script>
+
+  <!-- Footer -->
+  <footer>
+    &copy; <span id="currentYear"></span> Zhao Lab @ Rockefeller University | Designed by Junhui Peng and Zhao Lab
+  </footer>
+  <script>
+    // Set the current year dynamically
+    document.getElementById("currentYear").textContent = new Date().getFullYear();
   </script>
 </body>
 </html>
