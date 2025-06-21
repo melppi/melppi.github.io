@@ -169,6 +169,27 @@
 
     /* for small screen smart device */
     @media (max-width: 767px) {
+
+      .container,
+      .container-small {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 20px;
+      }
+
+      .column,
+      .small-column,
+      .large-column {
+        flex: 1 1 100%;
+        min-width: 0;
+      }
+
+      h2 { font-size: 1.6rem; }
+      h3 { font-size: 1.3rem; }
+    }
+    h2, h3, a, p { word-break: break-word; }
+
+    @media (max-width: 767px) {
       html {
         /* shrink the whole page to ~70 % */
         transform: scale(0.7);
