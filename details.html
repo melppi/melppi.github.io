@@ -175,6 +175,16 @@
     .back-button:hover {
         background-color: #0056b3;
     }
+
+    /* for small screen smart device */
+    @media (max-width: 767px) {
+      html {
+        /* shrink the whole page to ~70 % */
+        transform: scale(0.7);
+        transform-origin: top left;
+        width: 143%;              /* 1 / 0.7 → prevent horizontal scrollbar */
+      }
+    }
   </style>
 </head>
 <body>
