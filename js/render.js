@@ -76,7 +76,7 @@ function renderProfile(containerId, info, key) {
     height: 300,  
     margin: {t: 1, b: 1 },
     xaxis:  {domain: [0, 1],showticklabels:true,side:'top',tickfont:{size:10},showline: true},
-    yaxis:  {domain: [0.62, 0.92],title:'', range: [0, 1], tickvals: [0.5, 0.7], ticktext: ['0.5','0.7'],tickfont:{size:10}},
+    yaxis:  {domain: [0.62, 0.92],title:'', range: [0, 1], tickvals: [0,0.5,0.7,0.9], ticktext: ['0.5','0.7','0.9'],tickfont:{size:10}},
     yaxis2: {domain: [0.52, 0.57],title:'', showticklabels:false, ticks:''},
     yaxis3: {domain: [0.42, 0.47],title:'', showticklabels:false, ticks:''},
     yaxis4: {domain: [0.32, 0.37],title:'', showticklabels:false, ticks:''},
@@ -94,7 +94,8 @@ function renderProfile(containerId, info, key) {
     },
     shapes: [
       { type: 'line', xref: 'paper', x0: 0, x1: 1, yref: 'y1', y0: 0.5, y1: 0.5, line: { color: 'black', width: 1, dash: 'dot' } },
-      { type: 'line', xref: 'paper', x0: 0, x1: 1, yref: 'y1', y0: 0.7, y1: 0.7, line: { color: 'blue', width: 1, dash: 'dot' } }
+      { type: 'line', xref: 'paper', x0: 0, x1: 1, yref: 'y1', y0: 0.7, y1: 0.7, line: { color: 'lightblue', width: 1, dash: 'dot' } },
+      { type: 'line', xref: 'paper', x0: 0, x1: 1, yref: 'y1', y0: 0.9, y1: 0.9, line: { color: 'blue', width: 1, dash: 'dot' } }
     ],
     coloraxis: {
         // repeat each colour at its start & end value → sharp steps
