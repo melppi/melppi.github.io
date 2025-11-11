@@ -37,8 +37,8 @@ async function ViewStructure(id) {
       //const url = (info && info.ppi === 'high confidence interactions')
       const url = (id === '7227.FBpp0080322_7227.FBpp0081861')
         ? `./data/${id}.pdb`
-        : `./data/link_not_activated.pdb`;
-        //: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
+        //: `./data/link_not_activated.pdb`;
+        : `https://storage.googleapis.com/dmelppi_zhaolab/mpdb/${id}.pdb.gz`;
       //const paeSrc = (id === '7227.FBpp0080322_7227.FBpp0081861')
       //  ? `./data/${id}_pae.jpg`
       //  : `./data/link_not_activated.png`;
