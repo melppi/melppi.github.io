@@ -35,10 +35,10 @@ async function ViewStructure(id) {
       document.getElementById('annotationB').textContent = info.annotationB;
 
       //const url = (info && info.ppi === 'high confidence interactions')
-      const url = (id === '7227.FBpp0080322_7227.FBpp0081861')
-        ? `./data/${id}.pdb`
-        //: `./data/link_not_activated.pdb`;
-        : `https://storage.googleapis.com/dmelppi_zhaolab/mpdb/${id}.pdb.gz`;
+      //const url = (id === '7227.FBpp0080322_7227.FBpp0081861')
+      //  ? `./data/${id}.pdb`
+      //  //: `./data/link_not_activated.pdb`;
+      //  : `https://storage.googleapis.com/dmelppi_zhaolab/mpdb/${id}.pdb.gz`;
       //const paeSrc = (id === '7227.FBpp0080322_7227.FBpp0081861')
       //  ? `./data/${id}_pae.jpg`
       //  : `./data/link_not_activated.png`;
@@ -49,9 +49,10 @@ async function ViewStructure(id) {
       viewerInstance.render(viewerContainer, {
         moleculeId: id,
         customData: {
+          //url,
           //url: `./data/pdb/${id}.pdb`,
           //url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`,
-          url,
+          url  : `https://storage.googleapis.com/dmelppi_zhaolab/mpdb/${id}.pdb.gz`;
           format: 'pdb',
           binary: false,
         },
