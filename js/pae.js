@@ -26,7 +26,9 @@ async function renderPAEPlot(id,proA,proB,m,n) {
   //const paeText = await fetchGzAsText(`./data/pae_raw/${id}.pae.txt.gz`);
   //const paeFlat = paeText.split(',').map(Number);
   //const paeFlat = await fetchZstAsText(`./data/pae_raw/${id}.pae.asc.zst`);
-  const paeFlat = await fetchXzAsciiInts(`./data/pae_asctxt/${id}.pae.asc.xz`);
+  //const paeFlat = await fetchXzAsciiInts(`./data/pae_asctxt/${id}.pae.asc.xz`);
+  const paeFlat = await fetchXzAsciiInts(`https://storage.googleapis.com/dmelppi_zhaolab/mPAE/${id}.pae.asc.xz`);
+
 
   const totalLen = m + n;
   if (paeFlat.length !== totalLen * totalLen) {

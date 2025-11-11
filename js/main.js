@@ -99,12 +99,12 @@ async function ViewStructure(id) {
       /* render PAE plot */
       const m = parseInt(info.prolen[info.proA]);
       const n = parseInt(info.prolen[info.proB]);
-      if (id === "7227.FBpp0080322_7227.FBpp0081861") {
-        renderPAEPlot(id, info.geneA, info.geneB, m, n);
-      } else {
-        renderPAELinkNotActivated();
-      }
-      //renderPAEPlot(id, info.geneA, info.geneB, m, n);
+      //if (id === "7227.FBpp0080322_7227.FBpp0081861") {
+      //  renderPAEPlot(id, info.geneA, info.geneB, m, n);
+      //} else {
+      //  renderPAELinkNotActivated();
+      //}
+      renderPAEPlot(id, info.geneA, info.geneB, m, n);
 
       // Interface plot
       //const pdockq = Number(info.pdockq);
