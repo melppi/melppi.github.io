@@ -52,7 +52,7 @@ async function ViewStructure(id) {
           //url,
           //url: `./data/pdb/${id}.pdb`,
           //url: `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`,
-          url  : `https://storage.googleapis.com/dmelppi_zhaolab/mpdb/${id}.pdb.gz`;
+          url  : `https://storage.googleapis.com/dmelppi_zhaolab/mpdb/${id}.pdb.gz`,
           format: 'pdb',
           binary: false,
         },
