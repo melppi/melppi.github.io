@@ -159,7 +159,6 @@ document.addEventListener('DOMContentLoaded', () => {
     Kindly direct your thoughts to: <a href="mailto:jpeng@rockefeller.edu">Junhui Peng</a> and <a href="mailto:lzhao@rockefeller.edu">Li Zhao</a>. 
     If you are interested in our research, check <a href="https://zhaolab.rockefeller.edu/">Zhao Lab Homepage</a> at Rockefeller University for detail.
   </p>
-  <p><b>Reference:</b> Peng, Junhui and Li Zhao. A predicted structural interactome reveals binding interference from intrinsically disordered regions. bioRxiv (2025): doi.org/10.1101/2025.08.15.670535.</p>
   <p id="main-table"><br><b> Main Table.</b> AlphaFold2 multimer predictions of 27,711 PPIs inferred from STRING database.
   <br><span class="small-text">Please click "View Details" for detailed information about the predicted AF2 model. There is also a search box where you can search your favorite genes or proteins.
     <br>search examples: "Ku80", "Ku80 Irbp".</span><br></p>
@@ -208,7 +207,7 @@ document.addEventListener('DOMContentLoaded', () => {
           { data: 'iptm', title: 'IPTM' },
           { data: 'pae', title: 'PAE' },
           { data: 'pdockq', title: 'PdockQ' },
-          { data: 'ppi', title: 'PPI' },
+          { data: 'ppi', title: 'PPI*' },
           {
             data: 'pair',
             title: 'Details',
@@ -230,12 +229,16 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   </script>
 
-  <p><b>Note:</b> <br>
+  <p><b>*Note:</b> <br>
     <span class="small-text">
     highconf: high-confidence interactions, pDockQ&gt;0.5<br>
     acceptable: intermediate-confidence interactions, pDockQ&gt;0.23<br>
     possible: possible interactions, pDockQ&lt;0.23, mPAE&lt;10Å, and ipTM&gt;50<br>
   </span>
+  </p>
+  <p><b>Reference:</b> Peng, Junhui and Li Zhao. 
+    A predicted structural interactome reveals binding interference from intrinsically disordered regions. 
+    bioRxiv (2025): doi.org/10.1101/2025.08.15.670535.
   </p>
   
   <!-- Footer -->
