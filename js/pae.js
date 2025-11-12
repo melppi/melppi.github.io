@@ -120,7 +120,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
         yref: 'paper',
         text: proA,
         showarrow: false,
-        font: { size: 14 },
+        font: { size: 12 },
         align: 'center'
       },
       {
@@ -130,7 +130,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
         yref: 'paper',
         text: proB,
         showarrow: false,
-        font: { size: 14 },
+        font: { size: 12 },
         align: 'center'
       },
       {
@@ -140,7 +140,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
         yref: 'y',
         text: proA,
         showarrow: false,
-        font: { size: 14 },
+        font: { size: 12 },
         align: 'center',
         textangle: -90
       },
@@ -151,7 +151,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
         yref: 'y',
         text: proB,
         showarrow: false,
-        font: { size: 14 },
+        font: { size: 12 },
         align: 'center',
         textangle: -90
       }
