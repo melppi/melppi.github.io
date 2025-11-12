@@ -175,6 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <th>FBgnB</th>
         <th>iptm</th>
         <th>pae</th>
+        <th>iLIS</th>
         <th>pdockq</th>
         <!--<th>interfaceA</th>
         <th>interfaceB</th>
@@ -207,8 +208,9 @@ document.addEventListener('DOMContentLoaded', () => {
           { data: 'FBgn2', title: 'FBgn2' },
           { data: 'iptm', title: 'IPTM' },
           { data: 'pae', title: 'PAE' },
-          { data: 'pdockq', title: 'PdockQ' },
-          { data: 'ppi', title: 'PPI*' },
+          { data: 'iLIS', title: 'iLIS*'},
+          { data: 'pdockq', title: 'pDockQ' },
+          { data: 'ppi', title: 'PPI#' },
           {
             data: 'pair',
             title: 'Details',
@@ -230,11 +232,14 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   </script>
 
-  <p><br><br><br><b>*Note:</b> <br>
+  <p><br><br><br><b>Note:</b> <br>
     <span class="small-text">
+    # The PPI column is determined by pDockQ, mPAE, and ipTM. In the PPI column, there are following four terms.<br>
     highconf: high-confidence interactions, pDockQ&gt;0.5<br>
     acceptable: intermediate-confidence interactions, pDockQ&gt;0.23<br>
     possible: possible interactions, pDockQ&lt;0.23, mPAE&lt;10Å, and ipTM&gt;50<br>
+    no: no- or low-confidence interactions
+    * iLIS is computed according to <a href="https://www.biorxiv.org/content/10.1101/2025.10.10.681672">Kim et al 2025</a>
   </span>
   </p>
   <p><b>Reference:</b> Peng, Junhui and Li Zhao. 
