@@ -115,7 +115,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
     annotations: [
       {
         x: midpointA,
-        y: -0.136,
+        y: -0.13,
         xref: 'x',
         yref: 'paper',
         text: proA,
@@ -125,7 +125,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
       },
       {
         x: midpointB,
-        y: -0.136,
+        y: -0.13,
         xref: 'x',
         yref: 'paper',
         text: proB,
