@@ -90,7 +90,7 @@ async function renderPAEPlot(id,proA,proB,m,n) {
       tickpadding: -0.5,
       showgrid: false
     },
-    margin: { l: 50, r: 0, b: 36, t: 3 },
+    margin: { l: 50, r: 0, b: 40, t: 3 },
     shapes: [
       // Vertical divider between chains
       {
