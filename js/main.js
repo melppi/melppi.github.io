@@ -100,7 +100,8 @@ async function ViewStructure(id) {
         `?identifiers=${info.proA}%0d${info.proB}` +
         "&species=7227" +
         "&required_score=900" +                 // high confidence ≥ 0.9
-        "&network_flavor=evidence";
+        "&network_flavor=evidence" + 
+        "&add_nodes=1";
 
       document.getElementById("stringNetworkImage").innerHTML =
         `<img src="${stringUrl}" alt="STRING network" />`;
