@@ -87,7 +87,7 @@ async function ViewStructure(id) {
       };
 
       // STRING network using version 11.5
-      document.getElementById("stringAppContainer").id = "stringNetworkImage";
+      // document.getElementById("stringAppContainer").id = "stringNetworkImage";
       ////getSTRING("https://string-db.org", {
       //getSTRING("https://version-11-5.string-db.org", {
       //  species: 7227,
