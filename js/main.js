@@ -103,7 +103,7 @@ async function ViewStructure(id) {
         "&network_flavor=evidence";
 
       document.getElementById("stringNetworkImage").innerHTML =
-        `<img src="${stringUrl}" style="max-width:100%; border:1px solid #ccc;">`;
+        `<img src="${stringUrl}"`;
 
       /* render PAE plot */
       const m = parseInt(info.prolen[info.proA]);
