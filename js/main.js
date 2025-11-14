@@ -96,7 +96,7 @@ async function ViewStructure(id) {
       //  caller_identity: "DmelPPI_web"
       //});
       const stringUrl =
-        "https://string-db.org/api/image/network" +
+        "https://version-11-5.string-db.org/api/image/network" +
         `?identifiers=${info.proA}%0d${info.proB}` +
         "&species=7227" +
         "&required_score=900" +                 // high confidence ≥ 0.9
