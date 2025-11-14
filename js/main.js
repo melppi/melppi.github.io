@@ -104,6 +104,7 @@ async function ViewStructure(id) {
 
       document.getElementById("stringNetworkImage").innerHTML =
         `<img src="${stringUrl}"`;
+      console.log("Checking element:", document.getElementById("stringNetworkImage"));
 
       /* render PAE plot */
       const m = parseInt(info.prolen[info.proA]);
