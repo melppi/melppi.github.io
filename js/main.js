@@ -103,7 +103,7 @@ async function ViewStructure(id) {
         "&network_flavor=evidence";
 
       document.getElementById("stringNetworkImage").innerHTML =
-        `<img src="${stringUrl}"`;
+        `<img src="${stringUrl}" alt="STRING network" />`;
       console.log("Checking element:", document.getElementById("stringNetworkImage"));
 
       /* render PAE plot */
