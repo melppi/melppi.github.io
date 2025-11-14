@@ -87,14 +87,23 @@ async function ViewStructure(id) {
       };
 
       // STRING network using version 11.5
-      document.getElementById("stringAppContainer").id = "stringEmbedded";
-      //getSTRING("https://string-db.org", {
-      getSTRING("https://version-11-5.string-db.org", {
-        species: 7227,
-        network_flavor: "evidence",          // or "confidence"
-        identifiers: [info.proA, info.proB],
-        caller_identity: "DmelPPI_web"
-      });
+      //document.getElementById("stringAppContainer").id = "stringEmbedded";
+      ////getSTRING("https://string-db.org", {
+      //getSTRING("https://version-11-5.string-db.org", {
+      //  species: 7227,
+      //  network_flavor: "evidence",          // or "confidence"
+      //  identifiers: [info.proA, info.proB],
+      //  caller_identity: "DmelPPI_web"
+      //});
+      const stringUrl =
+        "https://string-db.org/api/image/network" +
+        `?identifiers=${info.proA}%0d${info.proB}` +
+        "&species=7227" +
+        "&required_score=900" +                 // high confidence ≥ 0.9
+        "&network_flavor=evidence";
+
+      document.getElementById("stringNetworkImage").innerHTML =
+        `<img src="${stringUrl}" style="max-width:100%; border:1px solid #ccc;">`;
 
       /* render PAE plot */
       const m = parseInt(info.prolen[info.proA]);
