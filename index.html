@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 
 <body>
-  <img src="data/Figure_Website.jpg" alt="DmelPPI" style="width: calc(95vw - 16px);margin-top: 16px;margin-left:2px;margin-right:2px;position: relative; left: 50%; transform: translateX(-50%);">
+  <img src="data/Figure_Website.webp" alt="DmelPPI" style="width: calc(95vw - 16px);margin-top: 16px;margin-left:2px;margin-right:2px;position: relative; left: 50%; transform: translateX(-50%);">
   <h2>DmelPPI Project: Comprehensive understanding interaction details of protein-protein interactions in <i>Drosophila melanogaster</i><br></h2>
   <p class="indented-first-line">Welcome to the DmelPPI project! In this project, we studied the physical interactions between proteins at the genomic scale. 
     We aim to obtain a comprehensive physical interaction network by combining 
@@ -199,6 +199,7 @@ document.addEventListener('DOMContentLoaded', () => {
           url: 'data/pae_summary.json',
           dataSrc: '' // Adjust to 'results' if your JSON is nested
         },
+        deferRender: true,
         columns: [
           { data: 'Protein1', title: 'Protein1' },
           { data: 'Symbol1', title: 'Symbol1' },
