@@ -20,7 +20,8 @@ async function ViewStructure(id) {
       document.getElementById('pae').textContent = info.pae + ' Å';
       document.getElementById('pdockq').textContent = info.pdockq;
       document.getElementById('ppi').textContent = info.ppi;
-      document.getElementById('ppiNet').textContent = info.ppi;
+      //document.getElementById('ppiNet').textContent = info.ppi;
+      document.getElementById('ppiNet').textContent = info.ppi.split(" ").slice(0, -1).join(" ");
 
       // Show Annotation
       document.getElementById('proteinA').textContent = info.proA;
