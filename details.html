@@ -310,7 +310,7 @@
     const id = new URLSearchParams(window.location.search).get("id");
     document.getElementById("entry-id").textContent = id;
     //document.getElementById("modelpath").href = `./data/pdb/${id}.pdb`;
-    document.getElementById('modelpath').href = `https://storage.googleapis.com/dmelppi_web/mpdb/${id}.pdb.gz`;
+    document.getElementById('modelpath').href = `https://storage.googleapis.com/dmelppi_zhaolab/mpdb/${id}.pdb.gz`;
     //document.getElementById("paefig").src = `https://storage.googleapis.com/dmelppi_web/mPAE/${id}_pae.jpg`;
     //document.getElementById("paefig").src = `./data/link_not_activated.png`;
     ViewStructure(id);
